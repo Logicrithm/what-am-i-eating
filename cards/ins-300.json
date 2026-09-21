@@ -1,0 +1,129 @@
+{
+  "ins": "300",
+  "e_number": "E300",
+  "name": "Ascorbic acid",
+  "also_called": [],
+  "class": "antioxidant, sequestrant",
+  "what_it_is": "Vitamin C.",
+  "why_its_added": "Reacts with oxygen before the food does, so fats stay fresh and cut fruit does not brown.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Scientific Opinion on the re‐evaluation of ascorbic acid -E 300-, sodium ascorbate -E 301- and calcium ascorbate -E 302- as food additives",
+      "source": "https://efsa.onlinelibrary.wiley.com/doi/epdf/10.2903/j.efsa.2015.4087",
+      "opinion_date": "2015-05",
+      "opinion_age_years": 11,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "allowed",
+      "note": "Generally Recognised As Safe (GRAS) (21 CFR 182.3013)",
+      "source": "https://www.ecfr.gov/current/title-21/section-182.3013"
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": true,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": "https://efsa.onlinelibrary.wiley.com/doi/epdf/10.2903/j.efsa.2015.4087"
+  },
+  "india_limits": [
+    {
+      "food_category": "Vegetable oils, fats and bakery shortenings",
+      "max_level": "GMP",
+      "page": 108
+    },
+    {
+      "food_category": "Lard, tallow, fish oil, and other animal fats (edible fats)",
+      "max_level": "GMP",
+      "page": 110
+    },
+    {
+      "food_category": "Peeled or cut minimally processed fruits",
+      "max_level": "GMP",
+      "page": 127
+    },
+    {
+      "food_category": "roots and",
+      "max_level": "GMP",
+      "page": 149
+    },
+    {
+      "food_category": "Processed vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera) sea weeds, nuts and seeds",
+      "max_level": "GMP",
+      "page": 149
+    },
+    {
+      "food_category": "Frozen vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera) sea weeds, nuts and seeds",
+      "max_level": "GMP",
+      "page": 150
+    },
+    {
+      "food_category": "6.2.1 and 6.2.2 Flours and starches* Flours and",
+      "max_level": "300 mg/kg",
+      "page": 183
+    },
+    {
+      "food_category": "Trisodium",
+      "max_level": "200 mg/kg",
+      "page": 185
+    },
+    {
+      "food_category": "and like",
+      "max_level": "200 mg/kg",
+      "page": 187
+    },
+    {
+      "food_category": "Dried pastas and noodles and like products",
+      "max_level": "GMP",
+      "page": 189
+    },
+    {
+      "food_category": "Ascorbic acid",
+      "max_level": "GMP",
+      "page": 227
+    },
+    {
+      "food_category": "Frozen battered fish, fish fillets and fish products, including molluscs, crustaceans, and echinoderms Trisodium",
+      "max_level": "GMP",
+      "page": 231
+    }
+  ],
+  "found_in_india_products": 59,
+  "pct_of_india_products": 2.58,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

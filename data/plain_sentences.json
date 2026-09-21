@@ -1,0 +1,209 @@
+{
+  "_README": [
+    "Two plain sentences per additive: what it is, and what job it does in the food.",
+    "These describe the substance and its purpose. They contain no safety judgement -",
+    "safety is what the sourced regulator fields on each card are for.",
+    "Max 200 characters each. check_cards.py rejects fear words here."
+  ],
+
+  "330": {
+    "what_it_is": "A sour-tasting acid found naturally in lemons and limes. The kind used in food is made industrially by fermenting sugar with a mould.",
+    "why_its_added": "Gives a sour taste, keeps colour from fading, and makes it harder for microbes to grow."
+  },
+  "322": {
+    "what_it_is": "A fatty substance taken from soya beans, sunflower seeds or egg yolk.",
+    "why_its_added": "Stops oil and water separating, so chocolate, biscuits and mayonnaise stay smooth and even."
+  },
+  "322I": {
+    "what_it_is": "A fatty substance taken from soya beans, sunflower seeds or egg yolk.",
+    "why_its_added": "Stops oil and water separating, so chocolate, biscuits and mayonnaise stay smooth and even."
+  },
+  "500": {
+    "what_it_is": "A family of sodium salts. It includes baking soda and washing soda.",
+    "why_its_added": "Makes dough and batter rise, and controls how acidic the food is."
+  },
+  "500I": {
+    "what_it_is": "Sodium carbonate, also known as soda ash or washing soda.",
+    "why_its_added": "Controls acidity and helps baked things rise."
+  },
+  "500II": {
+    "what_it_is": "Baking soda, the white powder used in home kitchens.",
+    "why_its_added": "Releases gas when heated or mixed with acid, so cakes, biscuits and breads rise."
+  },
+  "471": {
+    "what_it_is": "Fats broken down into smaller pieces. They can be made from vegetable oil or from animal fat.",
+    "why_its_added": "Keeps oil and water mixed together, so bread stays soft and ice cream stays smooth."
+  },
+  "412": {
+    "what_it_is": "A powder ground from the seed of the guar bean, a crop grown widely in Rajasthan and Gujarat.",
+    "why_its_added": "Thickens food and stops the parts of it separating while it sits on a shelf."
+  },
+  "415": {
+    "what_it_is": "A thickener made by fermenting sugar with a bacterium, then drying the result into powder.",
+    "why_its_added": "Thickens sauces and drinks, and stops solid bits settling to the bottom."
+  },
+  "551": {
+    "what_it_is": "A very fine white powder. It is the same material as sand and quartz, ground extremely small.",
+    "why_its_added": "Keeps powders loose and free-flowing, so salt and spice mixes do not set into lumps."
+  },
+  "503": {
+    "what_it_is": "Ammonium salts, an older raising agent that bakers sometimes call baker's ammonia.",
+    "why_its_added": "Makes flat baked things such as biscuits and crackers rise and turn crisp."
+  },
+  "503II": {
+    "what_it_is": "Ammonium bicarbonate, an older raising agent also called baker's ammonia.",
+    "why_its_added": "Makes biscuits and crackers rise and turn crisp."
+  },
+  "627": {
+    "what_it_is": "A taste booster. It is usually made by fermenting sugar with yeast, but can come from fish or meat.",
+    "why_its_added": "Makes savoury food taste stronger. It is almost always used together with MSG."
+  },
+  "631": {
+    "what_it_is": "A taste booster made from meat or fish, or by fermentation.",
+    "why_its_added": "Makes savoury food taste stronger. It is normally used together with MSG."
+  },
+  "211": {
+    "what_it_is": "The sodium salt of benzoic acid, which occurs naturally in cranberries, prunes and cinnamon.",
+    "why_its_added": "Stops mould, yeast and bacteria growing, mainly in sour foods like soft drinks, pickles and sauces."
+  },
+  "300": {
+    "what_it_is": "Vitamin C.",
+    "why_its_added": "Reacts with oxygen before the food does, so fats stay fresh and cut fruit does not brown."
+  },
+  "260": {
+    "what_it_is": "The acid that makes vinegar sour.",
+    "why_its_added": "Adds a sharp taste and makes conditions difficult for bacteria."
+  },
+  "319": {
+    "what_it_is": "A man-made antioxidant used in fats and oils.",
+    "why_its_added": "Keeps cooking oil and fried snacks from going rancid and tasting stale."
+  },
+  "202": {
+    "what_it_is": "The potassium salt of sorbic acid, which was first found in rowan berries.",
+    "why_its_added": "Stops mould and yeast growing in cheese, baked goods, dried fruit and drinks."
+  },
+  "296": {
+    "what_it_is": "The acid that makes green apples taste sharp.",
+    "why_its_added": "Gives a sour taste, mostly in sweets, jellies and drinks."
+  },
+  "102": {
+    "what_it_is": "A bright lemon-yellow dye, made in a factory rather than taken from a plant.",
+    "why_its_added": "Colours food yellow. Mixed with a blue dye, it makes green."
+  },
+  "110": {
+    "what_it_is": "An orange-yellow dye, made in a factory rather than taken from a plant.",
+    "why_its_added": "Colours food and drinks orange."
+  },
+  "122": {
+    "what_it_is": "A red dye made in a factory. It is also called carmoisine.",
+    "why_its_added": "Colours food and drinks red."
+  },
+  "133": {
+    "what_it_is": "A bright blue dye made in a factory.",
+    "why_its_added": "Colours food and drinks blue, and is mixed with yellow to make green."
+  },
+  "150": {
+    "what_it_is": "A brown colour made by heating sugar until it darkens.",
+    "why_its_added": "Gives food and drinks a brown colour."
+  },
+  "150A": {
+    "what_it_is": "A brown colour made by heating sugar on its own, with nothing added.",
+    "why_its_added": "Gives food and drinks a brown colour."
+  },
+  "150D": {
+    "what_it_is": "A dark brown colour made by heating sugar together with sulphites and ammonia.",
+    "why_its_added": "Gives colas and other dark drinks their brown colour."
+  },
+  "160C": {
+    "what_it_is": "Colour taken from red peppers.",
+    "why_its_added": "Gives food a red-orange colour."
+  },
+  "101": {
+    "what_it_is": "Vitamin B2.",
+    "why_its_added": "Colours food yellow, and also puts back a vitamin lost during processing."
+  },
+  "375": {
+    "what_it_is": "Vitamin B3, also called niacin.",
+    "why_its_added": "Put back into flour and cereals to replace what is lost when grain is refined."
+  },
+  "407": {
+    "what_it_is": "A thickener extracted from red seaweed.",
+    "why_its_added": "Thickens milk drinks and ice cream, and stops the solid parts settling out."
+  },
+  "440A": {
+    "what_it_is": "A natural fibre taken from fruit peel, mostly citrus and apple.",
+    "why_its_added": "Sets jams and jellies, and thickens fruit drinks."
+  },
+  "414": {
+    "what_it_is": "The dried sap of the acacia tree.",
+    "why_its_added": "Stops ingredients separating and carries flavours and colours evenly through a food."
+  },
+  "410": {
+    "what_it_is": "A thickener ground from the seeds of the carob tree.",
+    "why_its_added": "Thickens food and stops ice crystals forming in ice cream."
+  },
+  "466": {
+    "what_it_is": "Plant cellulose treated so that it dissolves in water.",
+    "why_its_added": "Thickens food and keeps ice cream smooth by stopping large ice crystals."
+  },
+  "1442": {
+    "what_it_is": "Ordinary starch, changed slightly so that it holds up to heat, acid and freezing.",
+    "why_its_added": "Thickens sauces and fillings and keeps them stable after cooking or freezing."
+  },
+  "170": {
+    "what_it_is": "Chalk. The same mineral as limestone and marble.",
+    "why_its_added": "Firms food, reduces acidity, adds calcium and whitens."
+  },
+  "170I": {
+    "what_it_is": "Chalk. The same mineral as limestone and marble.",
+    "why_its_added": "Firms food, reduces acidity, adds calcium and whitens."
+  },
+  "422": {
+    "what_it_is": "A thick, sweet, syrupy liquid made from fats and oils, which may be from plants or animals.",
+    "why_its_added": "Holds moisture so food stays soft. In slush drinks it also stops the liquid freezing solid."
+  },
+  "450": {
+    "what_it_is": "A family of phosphorus salts.",
+    "why_its_added": "Helps baked goods rise, holds water in meat and fish, and stops discolouring."
+  },
+  "450I": {
+    "what_it_is": "A phosphorus salt, also called sodium acid pyrophosphate.",
+    "why_its_added": "Helps baked goods rise and stops potatoes going grey."
+  },
+  "341": {
+    "what_it_is": "A family of calcium and phosphorus salts.",
+    "why_its_added": "Helps baking powder work, keeps powders loose, and adds calcium."
+  },
+  "508": {
+    "what_it_is": "A salt much like ordinary table salt, but carrying potassium instead of sodium.",
+    "why_its_added": "Gives a salty taste while putting less sodium into the food."
+  },
+  "501": {
+    "what_it_is": "Potassium salts of carbonic acid.",
+    "why_its_added": "Reduces acidity. It is what makes cocoa powder darker and milder."
+  },
+  "331": {
+    "what_it_is": "The sodium salts of citric acid, the acid found in lemons.",
+    "why_its_added": "Controls acidity and keeps processed cheese smooth instead of oily."
+  },
+  "282": {
+    "what_it_is": "The calcium salt of propionic acid, which occurs naturally in some cheeses.",
+    "why_its_added": "Stops mould growing in bread and baked goods."
+  },
+  "223": {
+    "what_it_is": "A sulphite salt.",
+    "why_its_added": "Stops dried fruit browning and keeps microbes from growing in juices and some drinks."
+  },
+  "320": {
+    "what_it_is": "A man-made antioxidant used in fats and oils.",
+    "why_its_added": "Keeps fats, oils and fried snacks from going rancid."
+  },
+  "955": {
+    "what_it_is": "Made from ordinary sugar, changed so the body passes it through. It is around 600 times sweeter.",
+    "why_its_added": "Gives sweetness with almost no calories and without feeding the bacteria that cause tooth decay."
+  },
+  "420": {
+    "what_it_is": "A sweet substance found naturally in apples, pears and berries; made industrially from glucose.",
+    "why_its_added": "Sweetens food and holds moisture so it does not dry out."
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ins": "133",
+  "e_number": "E133",
+  "name": "Brilliant blue FCF",
+  "also_called": [],
+  "class": "colour",
+  "what_it_is": "A bright blue dye made in a factory.",
+  "why_its_added": "Colours food and drinks blue, and is mixed with yellow to make green.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Scientific Opinion on the re‐evaluation of Brilliant Blue FCF -E 133- as a food additive",
+      "source": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2010.1853",
+      "opinion_date": "2010-11",
+      "opinion_age_years": 16,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [
+      "no-group"
+    ],
+    "groups_over_limit_high_consumers": [
+      "children",
+      "toddlers"
+    ],
+    "source": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2010.1853"
+  },
+  "india_limits": [
+    {
+      "food_category": "Dairy-based drinks - flavoured milk and/or fermented",
+      "max_level": "100 mg/kg",
+      "page": 69
+    },
+    {
+      "food_category": "(not captured - see page 76 of the PDF)",
+      "max_level": "100 mg/kg",
+      "page": 76
+    },
+    {
+      "food_category": "ripened cheese",
+      "max_level": "100 mg/kg",
+      "page": 96
+    },
+    {
+      "food_category": "Cheese analogues",
+      "max_level": "100 mg/kg",
+      "page": 100
+    },
+    {
+      "food_category": "(not captured - see page 103 of the PDF)",
+      "max_level": "100 mg/kg",
+      "page": 103
+    },
+    {
+      "food_category": "Fat emulsions mainly of type oil-in- water, including mixed and/or flavoured products based on fat emulsions",
+      "max_level": "100 mg/kg",
+      "page": 116
+    },
+    {
+      "food_category": "(not captured - see page 119 of the PDF)",
+      "max_level": "100 mg/kg",
+      "page": 119
+    },
+    {
+      "food_category": "Edible ices, including sorbet (ice candy) Edible ices, including sorbet (ice candy)",
+      "max_level": "100 mg/kg",
+      "page": 122
+    },
+    {
+      "food_category": "Canned or bottled (pasteurized) fruit",
+      "max_level": "200 mg/kg",
+      "page": 130
+    },
+    {
+      "food_category": "Jams, jellies, marmalades Jams, jellies,",
+      "max_level": "200 mg/kg",
+      "page": 132
+    },
+    {
+      "food_category": "Fruit-based spreads (e.g. chutney) excluding products of food category 4.1.2.5",
+      "max_level": "100 mg/kg",
+      "page": 134
+    },
+    {
+      "food_category": "murrabba*",
+      "max_level": "200 mg/kg",
+      "page": 137
+    }
+  ],
+  "found_in_india_products": 19,
+  "pct_of_india_products": 0.83,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

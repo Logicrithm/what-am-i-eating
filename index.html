@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>India Additive Atlas</title>
+<style>
+  :root{
+    --bg:#fbfaf8; --panel:#fff; --ink:#1a1a1a; --muted:#5f5f5f; --line:#e3e0da;
+    --accent:#1f5f4f; --warn-bg:#fff6e6; --warn-line:#e0b464; --old-bg:#f3f1ec;
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --bg:#14150f; --panel:#1d1e18; --ink:#eceade; --muted:#9d9c90; --line:#33342c;
+      --accent:#7bbfa8; --warn-bg:#2e2617; --warn-line:#8a6a2e; --old-bg:#232419;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#14150f; --panel:#1d1e18; --ink:#eceade; --muted:#9d9c90; --line:#33342c;
+    --accent:#7bbfa8; --warn-bg:#2e2617; --warn-line:#8a6a2e; --old-bg:#232419;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+       font:16px/1.55 ui-sans-serif,system-ui,"Segoe UI",Roboto,sans-serif;}
+  .wrap{max-width:780px;margin:0 auto;padding:28px 16px 80px}
+  h1{font-size:1.5rem;margin:0 0 4px}
+  .sub{color:var(--muted);margin:0 0 22px;font-size:.94rem}
+  input[type=search]{width:100%;padding:13px 15px;font-size:1.05rem;color:var(--ink);
+    background:var(--panel);border:1px solid var(--line);border-radius:10px}
+  input:focus{outline:2px solid var(--accent);outline-offset:1px}
+  .hint{color:var(--muted);font-size:.85rem;margin:8px 2px 18px}
+  .row{display:block;width:100%;text-align:left;background:var(--panel);cursor:pointer;
+    border:1px solid var(--line);border-radius:10px;padding:11px 14px;margin-bottom:8px;
+    color:inherit;font:inherit}
+  .row:hover{border-color:var(--accent)}
+  .row b{font-weight:600}
+  .row span{color:var(--muted);font-size:.85rem}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:20px;margin-bottom:18px}
+  .card h2{margin:0 0 2px;font-size:1.3rem}
+  .ins{color:var(--muted);font-size:.9rem;margin-bottom:14px}
+  .lead{font-size:1.02rem;margin:0 0 10px}
+  .why{color:var(--muted);margin:0 0 18px}
+  h3{font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);
+     margin:22px 0 8px;border-top:1px solid var(--line);padding-top:14px}
+  table{width:100%;border-collapse:collapse;font-size:.93rem}
+  td{padding:7px 4px;vertical-align:top;border-bottom:1px solid var(--line)}
+  td:first-child{width:118px;color:var(--muted)}
+  a{color:var(--accent)}
+  .tag{display:inline-block;padding:1px 8px;border-radius:99px;font-size:.78rem;
+       border:1px solid var(--line);background:var(--bg)}
+  .note{background:var(--warn-bg);border:1px solid var(--warn-line);border-radius:9px;
+        padding:12px 14px;margin:12px 0;font-size:.92rem}
+  .old{background:var(--old-bg);border:1px solid var(--line);border-radius:9px;
+       padding:10px 13px;margin:12px 0;font-size:.88rem;color:var(--muted)}
+  .back{background:none;border:0;color:var(--accent);cursor:pointer;font:inherit;padding:0;margin-bottom:16px}
+  footer{color:var(--muted);font-size:.83rem;margin-top:34px;border-top:1px solid var(--line);padding-top:16px}
+  ul{margin:6px 0 0;padding-left:20px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>India Additive Atlas</h1>
+  <p class="sub">What is actually in Indian packaged food — with a source for every line.</p>
+
+  <div id="home">
+    <input type="search" id="q" placeholder="Type an additive, e.g. 211, benzoate, colour" autocomplete="off">
+    <p class="hint" id="hint">Loading…</p>
+    <div id="list"></div>
+  </div>
+
+  <div id="detail" hidden></div>
+
+  <footer>
+    Every figure here comes from a public document, linked on the card.
+    Nothing is a health rating. Where nobody has published an answer, this says so.
+  </footer>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+let INDEX = [];
+
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+const WORDS = {
+  allowed: "Allowed",
+  allowed_with_limits: "Allowed, with limits",
+  not_authorised: "Not authorised",
+  under_review: "Under review",
+  not_found: "No record found"
+};
+
+async function boot(){
+  try{
+    INDEX = await (await fetch("cards/_index.json")).json();
+    $("hint").textContent = INDEX.length + " additives, ranked by how often they appear in Indian products.";
+    render("");
+  }catch(e){
+    $("hint").textContent = "Could not load the data files.";
+  }
+}
+
+function render(term){
+  const t = term.trim().toLowerCase();
+  const hits = INDEX.filter(r =>
+    !t || r.ins.toLowerCase().includes(t) || (r.name||"").toLowerCase().includes(t)
+       || (r.class||"").toLowerCase().includes(t));
+  $("list").innerHTML = hits.slice(0, 60).map(r => `
+    <button class="row" onclick="open_card('${esc(r.ins)}')">
+      <b>${esc(r.name)}</b> &nbsp;<span>INS ${esc(r.ins)} · ${esc(r.class||"—")} ·
+      in ${r.products} products</span>
+    </button>`).join("") || `<p class="hint">Nothing matches that.</p>`;
+}
+
+function statusRow(label, s){
+  if(!s) return "";
+  const link = s.source ? ` — <a href="${esc(s.source)}" target="_blank" rel="noopener">source</a>` : "";
+  const note = s.note ? `<br><span style="color:var(--muted);font-size:.88rem">${esc(s.note)}</span>` : "";
+  return `<tr><td>${label}</td><td><span class="tag">${esc(WORDS[s.value]||s.value)}</span>${link}${note}</td></tr>`;
+}
+
+async function open_card(ins){
+  const c = await (await fetch("cards/ins-" + ins.toLowerCase() + ".json")).json();
+  const st = c.status || {};
+  const eu = st.eu || {};
+  let html = `<button class="back" onclick="go_home()">&larr; back</button>
+  <div class="card">
+    <h2>${esc(c.name)}</h2>
+    <div class="ins">INS ${esc(c.ins)} · ${esc(c.e_number)} · ${esc(c.class||"—")} ·
+      found in ${c.found_in_india_products} of the Indian products checked</div>
+    <p class="lead">${esc(c.what_it_is)}</p>
+    <p class="why">${esc(c.why_its_added)}</p>`;
+
+  const a = c.acute_limit || {};
+  if(a.value){
+    html += `<div class="note"><b>One serving can matter, not just a daily total.</b><br>
+      ${esc(a.value)} ${esc(a.unit)} — set by ${esc(a.set_by)}.
+      <ul>${(a.means||[]).map(m=>`<li>${esc(m)}</li>`).join("")}</ul>
+      <a href="${esc(a.source)}" target="_blank" rel="noopener">source</a></div>`;
+  }
+
+  const v = c.vegetarian_status || {};
+  if(v.means){
+    html += `<div class="note"><b>Vegetarian status cannot be told from the packet.</b><br>
+      ${esc(v.means)}</div>`;
+  }
+
+  html += `<h3>What each authority says</h3><table>
+    ${statusRow("India (FSSAI)", st.india)}
+    ${statusRow("EU (EFSA)", st.eu)}
+    ${statusRow("USA (FDA)", st.usa)}
+  </table>`;
+
+  if(eu.opinion_age_years >= 10){
+    html += `<div class="old">The European review this rests on is
+      <b>${eu.opinion_age_years} years old</b> (${esc(eu.opinion_date)}).
+      Nobody has published a newer one that we could find.</div>`;
+  }
+  if(eu.replaced_an_older_opinion){
+    html += `<div class="old">This replaced an earlier opinion from
+      ${esc(eu.replaced_an_older_opinion.date)}.</div>`;
+  }
+
+  const d = c.safe_daily_limit || {};
+  html += `<h3>Safe daily limit</h3>`;
+  html += d.value
+    ? `<p>${esc(d.value)} ${esc(d.unit)}, set by ${esc(d.set_by)}.
+       <a href="${esc(d.source)}" target="_blank" rel="noopener">source</a></p>`
+    : `<p class="why">${esc(d.no_number_means || "No published figure found.")}</p>`;
+
+  const x = c.eu_exposure_finding || {};
+  if((x.groups_over_limit_on_average||[]).length){
+    html += `<div class="note"><b>European regulators measured these groups already above
+      that limit, on average:</b><br>${esc(x.groups_over_limit_on_average.join(", "))}
+      <br><a href="${esc(x.source)}" target="_blank" rel="noopener">source</a></div>`;
+  }
+
+  if((c.india_limits||[]).length){
+    html += `<h3>What India permits, by food</h3><table>` +
+      c.india_limits.map(l => `<tr><td>${esc(l.max_level)}</td>
+        <td>${esc(l.food_category)} <span style="color:var(--muted)">(PDF p${l.page})</span></td></tr>`).join("") +
+      `</table>`;
+  }
+
+  html += `<h3>Checked</h3><p class="why">${esc(c.last_checked)}</p></div>`;
+  $("detail").innerHTML = html;
+  $("home").hidden = true; $("detail").hidden = false;
+  window.scrollTo(0,0);
+}
+
+function go_home(){ $("detail").hidden = true; $("home").hidden = false; }
+
+$("q").addEventListener("input", e => render(e.target.value));
+boot();
+</script>
+</body>
+</html>

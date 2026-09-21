@@ -1,0 +1,68 @@
+{
+  "ins": "503II",
+  "e_number": "E503II",
+  "name": "Ammonium hydrogen carbonate",
+  "also_called": [],
+  "class": "",
+  "what_it_is": "Ammonium bicarbonate, an older raising agent also called baker's ammonia.",
+  "why_its_added": "Makes biscuits and crackers rise and turn crisp.",
+  "status": {
+    "india": {
+      "value": "not_found",
+      "note": "Not located in Appendix A yet - needs a human check.",
+      "source": ""
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "",
+      "source": "",
+      "opinion_date": "",
+      "opinion_age_years": null,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "not_known",
+    "vegan": "not_known",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [],
+  "found_in_india_products": 49,
+  "pct_of_india_products": 2.14,
+  "india_match": "none",
+  "last_checked": "2026-09-21"
+}

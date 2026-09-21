@@ -1,0 +1,79 @@
+{
+  "ins": "322I",
+  "e_number": "E322I",
+  "name": "Lecithin",
+  "also_called": [],
+  "class": "antioxidant, emulsifier",
+  "what_it_is": "A fatty substance taken from soya beans, sunflower seeds or egg yolk.",
+  "why_its_added": "Stops oil and water separating, so chocolate, biscuits and mayonnaise stay smooth and even.",
+  "status": {
+    "india": {
+      "value": "allowed",
+      "note": "Permitted at GMP level - used as needed, no fixed numeric cap in the categories found.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "",
+      "source": "",
+      "opinion_date": "",
+      "opinion_age_years": null,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "allowed",
+      "note": "Generally Recognised As Safe (GRAS) for direct addition to food (21 CFR 184.1400)",
+      "source": "https://www.ecfr.gov/current/title-21/section-184.1400"
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "maybe",
+    "vegan": "maybe",
+    "means": "Can be made from either plant or animal sources. The label is not required to say which one was used."
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [
+    {
+      "food_category": "Hard candy",
+      "max_level": "GMP",
+      "page": 173
+    },
+    {
+      "food_category": "(not captured - see page 190 of the PDF)",
+      "max_level": "GMP",
+      "page": 190
+    }
+  ],
+  "found_in_india_products": 85,
+  "pct_of_india_products": 3.71,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

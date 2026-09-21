@@ -1,0 +1,129 @@
+{
+  "ins": "320",
+  "e_number": "E320",
+  "name": "Butylated hydroxyanisole (bha)",
+  "also_called": [],
+  "class": "antioxidant",
+  "what_it_is": "A man-made antioxidant used in fats and oils.",
+  "why_its_added": "Keeps fats, oils and fried snacks from going rancid.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Statement on the safety assessment of the exposure to butylated ydroxyanisole E 320 -BHA- by applying a new exposure assessment methodology",
+      "source": "http://dx.doi.org/10.2903/j.efsa.2012.2759",
+      "opinion_date": "2012-07",
+      "opinion_age_years": 14,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": "http://dx.doi.org/10.2903/j.efsa.2012.2759"
+  },
+  "india_limits": [
+    {
+      "food_category": "Milk powder and cream powder (plain)",
+      "max_level": "100 mg/kg",
+      "page": 87
+    },
+    {
+      "food_category": "Dairy based desserts",
+      "max_level": "200 mg/kg",
+      "page": 102
+    },
+    {
+      "food_category": "Butter oil, anhydrous milk fat and ghee (no additives in case of ghee)",
+      "max_level": "175 mg/kg",
+      "page": 108
+    },
+    {
+      "food_category": "(not captured - see page 109 of the PDF)",
+      "max_level": "200 mg/kg",
+      "page": 109
+    },
+    {
+      "food_category": "(not captured - see page 111 of the PDF)",
+      "max_level": "200 mg/kg",
+      "page": 111
+    },
+    {
+      "food_category": "Fat spreads, dairy fat spreads and blended spreads (margarine and fat spreads)",
+      "max_level": "200 mg/kg",
+      "page": 113
+    },
+    {
+      "food_category": "Fat emulsions mainly of type oil-in- water, including mixed and/or flavoured products based on fat emulsions",
+      "max_level": "200 mg/kg",
+      "page": 116
+    },
+    {
+      "food_category": "(not captured - see page 119 of the PDF)",
+      "max_level": "200 mg/kg",
+      "page": 119
+    },
+    {
+      "food_category": "Edible ices, including sorbet (ice candy) Edible ices, including sorbet (ice candy)",
+      "max_level": "200 mg/kg",
+      "page": 122
+    },
+    {
+      "food_category": "Dried vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera) sea weeds, nuts and seeds ASCORBYL ESTERS",
+      "max_level": "200 mg/kg",
+      "page": 151
+    },
+    {
+      "food_category": "Cocoa and chocolate products",
+      "max_level": "200 mg/kg",
+      "page": 164
+    },
+    {
+      "food_category": "Confectionery including hard and soft candy, nougats etc. other than food categories 5.1, 5.3, and 5.4",
+      "max_level": "200 mg/kg",
+      "page": 169
+    }
+  ],
+  "found_in_india_products": 27,
+  "pct_of_india_products": 1.18,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

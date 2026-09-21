@@ -1,0 +1,714 @@
+[
+  {
+    "ins": "101",
+    "name": "Riboflavin",
+    "verdict": "current",
+    "we_have": {
+      "date": "2013-10",
+      "title": "Scientific Opinion on the re-evaluation of riboflavin -E 101i- and riboflavin-5'-phosphate sodium -E 101-ii-- as food ad"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2013.3357",
+      "title": "Scientific Opinion on the re‐evaluation of riboflavin (E 101(i)) and riboflavin‐5′‐phosphate sodium (E 101(ii)) as food additives",
+      "date": "2013-10",
+      "url": "https://doi.org/10.2903/j.efsa.2013.3357"
+    },
+    "also_found": []
+  },
+  {
+    "ins": "102",
+    "name": "Tartrazine",
+    "verdict": "superseded",
+    "we_have": {
+      "date": "2009-11",
+      "title": "Scientific Opinion on the re-evaluation Tartrazine -E 102-"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2010.1778",
+      "title": "Scientific Opinion on the appropriateness of the food azo-colours Tartrazine (E 102), Sunset Yellow FCF (E 110), Carmoisine (E 122), Amaranth (E 123), Ponceau 4R (E 124), Allura Red AC (E 129), Brilliant Black BN (E 151), Brown FK (E 154), Brown HT (E 155",
+      "date": "2010-10",
+      "url": "https://doi.org/10.2903/j.efsa.2010.1778"
+    },
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2009.1331",
+        "title": "Scientific Opinion on the re-evaluation Tartrazine (E 102)",
+        "date": "2009-11",
+        "url": "https://doi.org/10.2903/j.efsa.2009.1331"
+      }
+    ]
+  },
+  {
+    "ins": "110",
+    "name": "Sunset yellow FCF",
+    "verdict": "current",
+    "we_have": {
+      "date": "2014-07",
+      "title": "Reconsideration of the temporary ADI and refined exposure assessment for Sunset Yellow FCF -E110-"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2014.3765",
+      "title": "Reconsideration of the temporary ADI and refined exposure assessment for Sunset Yellow FCF (E 110)",
+      "date": "2014-07",
+      "url": "https://doi.org/10.2903/j.efsa.2014.3765"
+    },
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2010.1778",
+        "title": "Scientific Opinion on the appropriateness of the food azo-colours Tartrazine (E 102), Sunset Yellow FCF (E 110), Carmoisine (E 122), Amaranth (E 123), Ponceau 4R (E 124), Allura Red AC (E 129), Brilliant Black BN (E 151), Brown FK (E 154), Brown HT (E 155",
+        "date": "2010-10",
+        "url": "https://doi.org/10.2903/j.efsa.2010.1778"
+      },
+      {
+        "doi": "10.2903/j.efsa.2009.1330",
+        "title": "Scientific Opinion on the re-evaluation of Sunset Yellow FCF (E 110) as a food additive",
+        "date": "2009-11",
+        "url": "https://doi.org/10.2903/j.efsa.2009.1330"
+      }
+    ]
+  },
+  {
+    "ins": "122",
+    "name": "Azorubine",
+    "verdict": "superseded",
+    "we_have": {
+      "date": "2009-11",
+      "title": "Scientific Opinion on the re-evaluationof Azorubine/Carmoisine -E 122- as a food additive"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2015.4072",
+      "title": "Refined exposure assessment for Azorubine/Carmoisine (E 122)",
+      "date": "2015-03",
+      "url": "https://doi.org/10.2903/j.efsa.2015.4072"
+    },
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2009.1332",
+        "title": "Scientific Opinion on the re-evaluation of Azorubine/Carmoisine (E 122) as a food additive",
+        "date": "2009-11",
+        "url": "https://doi.org/10.2903/j.efsa.2009.1332"
+      }
+    ]
+  },
+  {
+    "ins": "133",
+    "name": "Brilliant blue FCF",
+    "verdict": "current",
+    "we_have": {
+      "date": "2010-11",
+      "title": "Scientific Opinion on the re‐evaluation of Brilliant Blue FCF -E 133- as a food additive"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2010.1853",
+      "title": "Scientific Opinion on the re‐evaluation of Brilliant Blue FCF (E 133) as a food additive",
+      "date": "2010-11",
+      "url": "https://doi.org/10.2903/j.efsa.2010.1853"
+    },
+    "also_found": []
+  },
+  {
+    "ins": "1442",
+    "name": "Hydroxypropyl distarch phosphate",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "150",
+    "name": "Caramel",
+    "verdict": "current",
+    "we_have": {
+      "date": "2012-12",
+      "title": "Refined exposure assessment for caramel colours -E 150a, c, d-"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2012.3030",
+      "title": "Refined exposure assessment for caramel colours (E 150a, c, d)",
+      "date": "2012-12",
+      "url": "https://doi.org/10.2903/j.efsa.2012.3030"
+    },
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2011.2004",
+        "title": "Scientific Opinion on the re‐evaluation of caramel colours (E 150 a,b,c,d) as food additives",
+        "date": "2011-03",
+        "url": "https://doi.org/10.2903/j.efsa.2011.2004"
+      }
+    ]
+  },
+  {
+    "ins": "150A",
+    "name": "Plain caramel",
+    "verdict": "current",
+    "we_have": {
+      "date": "2012-12",
+      "title": "Refined exposure assessment for caramel colours -E 150a, c, d-"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2012.3030",
+      "title": "Refined exposure assessment for caramel colours (E 150a, c, d)",
+      "date": "2012-12",
+      "url": "https://doi.org/10.2903/j.efsa.2012.3030"
+    },
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2011.2004",
+        "title": "Scientific Opinion on the re‐evaluation of caramel colours (E 150 a,b,c,d) as food additives",
+        "date": "2011-03",
+        "url": "https://doi.org/10.2903/j.efsa.2011.2004"
+      }
+    ]
+  },
+  {
+    "ins": "150D",
+    "name": "Sulphite ammonia caramel",
+    "verdict": "current",
+    "we_have": {
+      "date": "2012-12",
+      "title": "Refined exposure assessment for caramel colours -E 150a, c, d-"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2012.3030",
+      "title": "Refined exposure assessment for caramel colours (E 150a, c, d)",
+      "date": "2012-12",
+      "url": "https://doi.org/10.2903/j.efsa.2012.3030"
+    },
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2011.2004",
+        "title": "Scientific Opinion on the re‐evaluation of caramel colours (E 150 a,b,c,d) as food additives",
+        "date": "2011-03",
+        "url": "https://doi.org/10.2903/j.efsa.2011.2004"
+      }
+    ]
+  },
+  {
+    "ins": "160C",
+    "name": "Paprika extract",
+    "verdict": "current",
+    "we_have": {
+      "date": "2015-12",
+      "title": "Scientific Opinion on the re-evaluation of paprika extract -E 160c- as a food additive"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2015.4320",
+      "title": "Scientific Opinion on the re‐evaluation of paprika extract (E 160c) as a food additive",
+      "date": "2015-12",
+      "url": "https://doi.org/10.2903/j.efsa.2015.4320"
+    },
+    "also_found": []
+  },
+  {
+    "ins": "170",
+    "name": "Calcium carbonates",
+    "verdict": "found_opinion_we_did_not_have",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2011.2318",
+      "title": "Scientific Opinion on re‐evaluation of calcium carbonate (E 170) as a food additive",
+      "date": "2011-07",
+      "url": "https://doi.org/10.2903/j.efsa.2011.2318"
+    },
+    "also_found": []
+  },
+  {
+    "ins": "170I",
+    "name": "Calcium carbonate",
+    "verdict": "current",
+    "we_have": {
+      "date": "2011-07",
+      "title": "Scientific Opinion on re‐evaluation of calcium carbonate -E 170- as a food additive"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2011.2318",
+      "title": "Scientific Opinion on re‐evaluation of calcium carbonate (E 170) as a food additive",
+      "date": "2011-07",
+      "url": "https://doi.org/10.2903/j.efsa.2011.2318"
+    },
+    "also_found": []
+  },
+  {
+    "ins": "202",
+    "name": "Potassium sorbate",
+    "verdict": "current",
+    "we_have": {
+      "date": "2015-06",
+      "title": "Scientific Opinion on the re‐evaluation of sorbic acid -E 200-, potassium sorbate -E 202- and calcium sorbate -E 203- as"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2015.4144",
+      "title": "Scientific Opinion on the re‐evaluation of sorbic acid (E 200), potassium sorbate (E 202) and calcium sorbate (E 203) as food additives",
+      "date": "2015-06",
+      "url": "https://doi.org/10.2903/j.efsa.2015.4144"
+    },
+    "also_found": []
+  },
+  {
+    "ins": "211",
+    "name": "Sodium benzoate",
+    "verdict": "current",
+    "we_have": {
+      "date": "2016-03",
+      "title": "Scientific Opinion on the re-evaluation of benzoic acid -E 210-, sodium benzoate -E 211-, potassium benzoate -E 212- and"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2016.4433",
+      "title": "Scientific Opinion on the re‐evaluation of benzoic acid (E 210), sodium benzoate (E 211), potassium benzoate (E 212) and calcium benzoate (E 213) as food additives",
+      "date": "2016-03",
+      "url": "https://doi.org/10.2903/j.efsa.2016.4433"
+    },
+    "also_found": []
+  },
+  {
+    "ins": "223",
+    "name": "Sodium metabisulphite",
+    "verdict": "current",
+    "we_have": {
+      "date": "2016-04",
+      "title": "Scientific Opinion on the re-evaluation of sulfur dioxide -E 220-, sodium sulfite -E 221-, sodium bisulfite -E 222-, sod"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2016.4438",
+      "title": "Scientific Opinion on the re‐evaluation of sulfur dioxide (E 220), sodium sulfite (E 221), sodium bisulfite (E 222), sodium metabisulfite (E 223), potassium metabisulfite (E 224), calcium sulfite (E 226), calcium bisulfite (E 227) and potassium bisulfite (E 228) as food additives",
+      "date": "2016-04",
+      "url": "https://doi.org/10.2903/j.efsa.2016.4438"
+    },
+    "also_found": []
+  },
+  {
+    "ins": "260",
+    "name": "Acetic acid",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "282",
+    "name": "calcium propionate",
+    "verdict": "current",
+    "we_have": {
+      "date": "2014-07",
+      "title": "Scientific Opinion on the re-evaluation of propionic acid -E 280-, sodium propionate -E 281-, calcium propionate -E 282-"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2014.3779",
+      "title": "Scientific Opinion on the re-evaluation of propionic acid (E 280), sodium propionate (E 281), calcium propionate (E 282) and potassium propionate (E 283) as food additives",
+      "date": "2014-07",
+      "url": "https://doi.org/10.2903/j.efsa.2014.3779"
+    },
+    "also_found": []
+  },
+  {
+    "ins": "296",
+    "name": "Malic acid",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "300",
+    "name": "Ascorbic acid",
+    "verdict": "current",
+    "we_have": {
+      "date": "2015-05",
+      "title": "Scientific Opinion on the re‐evaluation of ascorbic acid -E 300-, sodium ascorbate -E 301- and calcium ascorbate -E 302-"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2015.4087",
+      "title": "Scientific Opinion on the re‐evaluation of ascorbic acid (E 300), sodium ascorbate (E 301) and calcium ascorbate (E 302) as food additives",
+      "date": "2015-05",
+      "url": "https://doi.org/10.2903/j.efsa.2015.4087"
+    },
+    "also_found": []
+  },
+  {
+    "ins": "319",
+    "name": "Tertiary-butylhydroquinone (tbhq)",
+    "verdict": "current",
+    "we_have": {
+      "date": "2016-01",
+      "title": "Statement on the refined exposure assessment of tertiary-butyl hydroquinone -E 319-"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2016.4363",
+      "title": "Statement on the refined exposure assessment of tertiary‐butyl hydroquinone (E 319)",
+      "date": "2016-01",
+      "url": "https://doi.org/10.2903/j.efsa.2016.4363"
+    },
+    "also_found": []
+  },
+  {
+    "ins": "320",
+    "name": "Butylated hydroxyanisole (bha)",
+    "verdict": "current",
+    "we_have": {
+      "date": "2012-07",
+      "title": "Statement on the safety assessment of the exposure to butylated ydroxyanisole E 320 -BHA- by applying a new exposure ass"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2012.2759",
+      "title": "Statement on the safety assessment of the exposure to butylated hydroxyanisole E 320 (BHA) by applying a new exposure assessment methodology",
+      "date": "2012-07",
+      "url": "https://doi.org/10.2903/j.efsa.2012.2759"
+    },
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2011.2392",
+        "title": "Scientific Opinion on the re-evaluation of butylated hydroxyanisole - BHA (E 320) as a food additive",
+        "date": "2011-10",
+        "url": "https://doi.org/10.2903/j.efsa.2011.2392"
+      }
+    ]
+  },
+  {
+    "ins": "322",
+    "name": "Lecithins",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "322I",
+    "name": "Lecithin",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "330",
+    "name": "Citric acid",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "2013-04",
+      "title": "Scientific Opinion on the safety evaluation of the active substances citric acid -E330- and sodium hydrogen carbonate -E"
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "331",
+    "name": "Sodium citrates",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "341",
+    "name": "Calcium phosphates",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "2019-06",
+      "title": "Re‐evaluation of phosphoric acid–phosphates – di‐, tri‐ and polyphosphates -E 338–341, E 343, E 450–452- as food additiv"
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "375",
+    "name": "Nicotinic acid",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "407",
+    "name": "Carrageenan",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "2018-04",
+      "title": "Re‐evaluation of carrageenan -E 407- and processed Eucheuma seaweed -E 407a- as food additives"
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "410",
+    "name": "Locust bean gum",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "2017-01",
+      "title": "Re‐evaluation of locust bean gum -E 410- as a food additive"
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "412",
+    "name": "Guar gum",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "414",
+    "name": "Acacia gum",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "415",
+    "name": "Xanthan gum",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "2017-07",
+      "title": "Re‐evaluation of xanthan gum -E 415- as a food additive"
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "420",
+    "name": "Sorbitol",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "422",
+    "name": "Glycerol",
+    "verdict": "found_opinion_we_did_not_have",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2026.10057",
+      "title": "Safety of acute exposure to the food additive glycerol (E 422) from beverages",
+      "date": "2026-05",
+      "url": "https://doi.org/10.2903/j.efsa.2026.10057"
+    },
+    "also_found": []
+  },
+  {
+    "ins": "440A",
+    "name": "Pectin",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "450",
+    "name": "Diphosphates",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "2019-06",
+      "title": "Re‐evaluation of phosphoric acid–phosphates – di‐, tri‐ and polyphosphates -E 338–341, E 343, E 450–452- as food additiv"
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "450I",
+    "name": "Disodium diphosphate",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "466",
+    "name": "Sodium carboxy methyl cellulose",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "471",
+    "name": "Mono- and diglycerides of fatty acids",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "500",
+    "name": "Sodium carbonates",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "2013-04",
+      "title": "Scientific Opinion on the safety evaluation of the active substances citric acid -E330- and sodium hydrogen carbonate -E"
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "500I",
+    "name": "Sodium carbonate",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "2013-04",
+      "title": "Scientific Opinion on the safety evaluation of the active substances citric acid -E330- and sodium hydrogen carbonate -E"
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "500II",
+    "name": "Sodium hydrogen carbonate",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "2013-04",
+      "title": "Scientific Opinion on the safety evaluation of the active substances citric acid -E330- and sodium hydrogen carbonate -E"
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "501",
+    "name": "Potassium carbonates",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "503",
+    "name": "Ammonium carbonates",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "503II",
+    "name": "Ammonium hydrogen carbonate",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "508",
+    "name": "Potassium chloride",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "2019-07",
+      "title": "Re‐evaluation of hydrochloric acid -E 507-, potassium chloride -E 508-, calcium chloride -E 509- and magnesium chloride "
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "551",
+    "name": "Silicon dioxide",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "627",
+    "name": "Disodium guanylate",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "631",
+    "name": "Disodium inosinate",
+    "verdict": "no_efsa_opinion_found",
+    "we_have": {
+      "date": "",
+      "title": ""
+    },
+    "newest_found": null,
+    "also_found": []
+  },
+  {
+    "ins": "955",
+    "name": "Sucralose",
+    "verdict": "superseded",
+    "we_have": {
+      "date": "2016-01",
+      "title": "Safety of the proposed extension of use of sucralose -E 955- in foods for special medical purposes in young children"
+    },
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2017.4784",
+      "title": "Statement on the validity of the conclusions of a mouse carcinogenicity study on sucralose (E 955) performed by the Ramazzini Institute",
+      "date": "2017-05",
+      "url": "https://doi.org/10.2903/j.efsa.2017.4784"
+    },
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2016.4361",
+        "title": "Safety of the proposed extension of use of sucralose (E 955) in foods for special medical purposes in young children",
+        "date": "2016-01",
+        "url": "https://doi.org/10.2903/j.efsa.2016.4361"
+      }
+    ]
+  }
+]

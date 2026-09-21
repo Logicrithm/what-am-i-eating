@@ -1,0 +1,141 @@
+{
+  "ins": "202",
+  "e_number": "E202",
+  "name": "Potassium sorbate",
+  "also_called": [],
+  "class": "preservative",
+  "what_it_is": "The potassium salt of sorbic acid, which was first found in rowan berries.",
+  "why_its_added": "Stops mould and yeast growing in cheese, baked goods, dried fruit and drinks.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "FSSAI sets these limits for the SORBATES family as a whole, not for this one substance. Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Scientific Opinion on the re‐evaluation of sorbic acid -E 200-, potassium sorbate -E 202- and calcium sorbate -E 203- as food additives",
+      "source": "https://efsa.onlinelibrary.wiley.com/doi/epdf/10.2903/j.efsa.2015.4144",
+      "opinion_date": "2015-06",
+      "opinion_age_years": 11,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "allowed",
+      "note": "Generally Recognised As Safe (GRAS) (21 CFR 182.3640)",
+      "source": "https://www.ecfr.gov/current/title-21/section-182.3640"
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": true,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": 3.0,
+    "unit": "mg per kg of body weight per day",
+    "set_by": "EFSA (European Food Safety Authority)",
+    "source": "https://efsa.onlinelibrary.wiley.com/doi/epdf/10.2903/j.efsa.2015.4144",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [
+      "adults",
+      "elderly",
+      "adolescents",
+      "children",
+      "toddlers"
+    ],
+    "groups_over_limit_high_consumers": [
+      "adults",
+      "elderly",
+      "adolescents",
+      "children",
+      "toddlers"
+    ],
+    "source": "https://efsa.onlinelibrary.wiley.com/doi/epdf/10.2903/j.efsa.2015.4144"
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 70 of the PDF)",
+      "max_level": "1,000 mg/kg",
+      "page": 70
+    },
+    {
+      "food_category": "SORBATES",
+      "max_level": "1,000 mg/kg",
+      "page": 76
+    },
+    {
+      "food_category": "SORBATES",
+      "max_level": "2,000 mg/kg",
+      "page": 80
+    },
+    {
+      "food_category": "Non dairy based beverage whitener",
+      "max_level": "200 mg/kg",
+      "page": 81
+    },
+    {
+      "food_category": "(not captured - see page 91 of the PDF)",
+      "max_level": "2,000 mg/kg",
+      "page": 91
+    },
+    {
+      "food_category": "Ripened cheese, (Cheddar,Da nbo,Edam,Go uda,Havarti, Tilisiter,Cam embert, Brie,St Paulin, Samsoe,Emm entaler, Provolone,ext",
+      "max_level": "3,000 mg/kg",
+      "page": 93
+    },
+    {
+      "food_category": "RIBOFLAVINS",
+      "max_level": "3,000 mg/kg",
+      "page": 95
+    },
+    {
+      "food_category": "Ponceau 4R",
+      "max_level": "3,000 mg/kg",
+      "page": 96
+    },
+    {
+      "food_category": "Cheese powder",
+      "max_level": "3,000 mg/kg",
+      "page": 97
+    },
+    {
+      "food_category": "Whey cheese",
+      "max_level": "1,000 mg/kg",
+      "page": 97
+    },
+    {
+      "food_category": "PHOSPHATES",
+      "max_level": "3,000 mg/kg",
+      "page": 98
+    },
+    {
+      "food_category": "(not captured - see page 99 of the PDF)",
+      "max_level": "3,000 mg/kg",
+      "page": 99
+    }
+  ],
+  "found_in_india_products": 49,
+  "pct_of_india_products": 2.14,
+  "india_match": "group:SORBATES",
+  "last_checked": "2026-09-21"
+}

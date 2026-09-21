@@ -1,0 +1,4174 @@
+{
+  "generalprovisionsfordirectfoodadditives": {
+    "name": "General provisions for direct food additives",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.5",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.5"
+  },
+  "anoxomer": {
+    "name": "Anoxomer",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.105",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.105"
+  },
+  "bha": {
+    "name": "BHA",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.110",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.110"
+  },
+  "bht": {
+    "name": "BHT",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.115",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.115"
+  },
+  "calciumdisodiumedta": {
+    "name": "Calcium disodium EDTA",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.120",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.120"
+  },
+  "dehydroaceticacid": {
+    "name": "Dehydroacetic acid",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.130",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.130"
+  },
+  "dimethyldicarbonate": {
+    "name": "Dimethyl dicarbonate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.133",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.133"
+  },
+  "disodiumedta": {
+    "name": "Disodium EDTA",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.135",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.135"
+  },
+  "ethoxyquin": {
+    "name": "Ethoxyquin",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.140",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.140"
+  },
+  "heptylparaben": {
+    "name": "Heptylparaben",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.145",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.145"
+  },
+  "4hydroxymethyl26ditertbutylphenol": {
+    "name": "4-Hydroxymethyl-2,6-di-tert-butylphenol",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.150",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.150"
+  },
+  "natamycinpimaricin": {
+    "name": "Natamycin (pimaricin)",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.155",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.155"
+  },
+  "natamycin": {
+    "name": "Natamycin (pimaricin)",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.155",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.155"
+  },
+  "potassiumnitrate": {
+    "name": "Potassium nitrate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.160",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.160"
+  },
+  "quaternaryammoniumchloridecombination": {
+    "name": "Quaternary ammonium chloride combination",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.165",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.165"
+  },
+  "silvernitrateandhydrogenperoxidesolution": {
+    "name": "Silver nitrate and hydrogen peroxide solution",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.167",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.167"
+  },
+  "sodiumnitrate": {
+    "name": "Sodium nitrate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.170",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.170"
+  },
+  "sodiumnitrite": {
+    "name": "Sodium nitrite",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.175",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.175"
+  },
+  "sodiumnitriteusedinprocessingsmokedchub": {
+    "name": "Sodium nitrite used in processing smoked chub",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.177",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.177"
+  },
+  "stannouschloride": {
+    "name": "Stannous chloride",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.180",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.180"
+  },
+  "tbhq": {
+    "name": "TBHQ",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.185",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.185"
+  },
+  "thbp": {
+    "name": "THBP",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.190",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.190"
+  },
+  "coatingsonfreshcitrusfruit": {
+    "name": "Coatings on fresh citrus fruit",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.210",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.210"
+  },
+  "coumaroneindeneresin": {
+    "name": "Coumarone-indene resin",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.215",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.215"
+  },
+  "methylandethylestersoffattyacidsproducedfromediblefatsandoils": {
+    "name": "Methyl and ethyl esters of fatty acids produced from edible fats and oils",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.225",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.225"
+  },
+  "microcapsulesforflavoringsubstances": {
+    "name": "Microcapsules for flavoring substances",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.230",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.230"
+  },
+  "morpholine": {
+    "name": "Morpholine",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.235",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.235"
+  },
+  "petroleumnaphtha": {
+    "name": "Petroleum naphtha",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.250",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.250"
+  },
+  "polyacrylamide": {
+    "name": "Polyacrylamide",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.255",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.255"
+  },
+  "oxidizedpolyethylene": {
+    "name": "Oxidized polyethylene",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.260",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.260"
+  },
+  "sulfatedbutyloleate": {
+    "name": "Sulfated butyl oleate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.270",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.270"
+  },
+  "syntheticparaffinandsuccinicderivatives": {
+    "name": "Synthetic paraffin and succinic derivatives",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.275",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.275"
+  },
+  "terpeneresin": {
+    "name": "Terpene resin",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.280",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.280"
+  },
+  "aluminumnicotinate": {
+    "name": "Aluminum nicotinate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.310",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.310"
+  },
+  "nicotinamideascorbicacidcomplex": {
+    "name": "Nicotinamide-ascorbic acid complex",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.315",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.315"
+  },
+  "aminoacids": {
+    "name": "Amino acids",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.320",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.320"
+  },
+  "bakersyeastprotein": {
+    "name": "Bakers yeast protein",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.325",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.325"
+  },
+  "calciumpantothenatecalciumchloridedoublesalt": {
+    "name": "Calcium pantothenate, calcium chloride double salt",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.330",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.330"
+  },
+  "dpantothenamide": {
+    "name": "D-Pantothenamide",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.335",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.335"
+  },
+  "pantothenamide": {
+    "name": "D-Pantothenamide",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.335",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.335"
+  },
+  "fishproteinisolate": {
+    "name": "Fish protein isolate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.340",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.340"
+  },
+  "folicacid": {
+    "name": "Folic acid (folacin)",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.345",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.345"
+  },
+  "folicacidfolacin": {
+    "name": "Folic acid (folacin)",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.345",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.345"
+  },
+  "fumaricacidandsaltsoffumaricacid": {
+    "name": "Fumaric acid and salts of fumaric acid",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.350",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.350"
+  },
+  "kelp": {
+    "name": "Kelp",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.365",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.365"
+  },
+  "ironcholinecitratecomplex": {
+    "name": "Iron-choline citrate complex",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.370",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.370"
+  },
+  "nacetyllmethionine": {
+    "name": "N-Acetyl-L-methionine",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.372",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.372"
+  },
+  "acetyllmethionine": {
+    "name": "N-Acetyl-L-methionine",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.372",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.372"
+  },
+  "potassiumiodide": {
+    "name": "Potassium iodide",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.375",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.375"
+  },
+  "vitamind2": {
+    "name": "Vitamin D2",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.379",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.379"
+  },
+  "vitamind3": {
+    "name": "Vitamin D3",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.380",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.380"
+  },
+  "vitamind2bakersyeast": {
+    "name": "Vitamin D2 bakers yeast",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.381",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.381"
+  },
+  "vitamind2mushroompowder": {
+    "name": "Vitamin D2 mushroom powder",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.382",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.382"
+  },
+  "wholefishproteinconcentrate": {
+    "name": "Whole fish protein concentrate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.385",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.385"
+  },
+  "xylitol": {
+    "name": "Xylitol",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.395",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.395"
+  },
+  "zincmethioninesulfate": {
+    "name": "Zinc methionine sulfate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.399",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.399"
+  },
+  "calciumsilicate": {
+    "name": "Calcium silicate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.410",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.410"
+  },
+  "ironammoniumcitrate": {
+    "name": "Iron ammonium citrate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.430",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.430"
+  },
+  "silicondioxide": {
+    "name": "Silicon dioxide",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.480",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.480"
+  },
+  "yellowprussiateofsoda": {
+    "name": "Yellow prussiate of soda",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.490",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.490"
+  },
+  "naturalflavoringsubstancesandnaturalsubstancesusedinconjunctionwithflavors": {
+    "name": "Natural flavoring substances and natural substances used in conjunction with flavors",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.510",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.510"
+  },
+  "syntheticflavoringsubstancesandadjuvants": {
+    "name": "Synthetic flavoring substances and adjuvants",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.515",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.515"
+  },
+  "cocoawithdioctylsodiumsulfosuccinateformanufacturing": {
+    "name": "Cocoa with dioctyl sodium sulfosuccinate for manufacturing",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.520",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.520"
+  },
+  "disodiumguanylate": {
+    "name": "Disodium guanylate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.530",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.530"
+  },
+  "disodiuminosinate": {
+    "name": "Disodium inosinate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.535",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.535"
+  },
+  "dlalanine": {
+    "name": "DL-Alanine",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.540",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.540"
+  },
+  "alanine": {
+    "name": "DL-Alanine",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.540",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.540"
+  },
+  "modifiedhopextract": {
+    "name": "Modified hop extract",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.560",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.560"
+  },
+  "quinine": {
+    "name": "Quinine",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.575",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.575"
+  },
+  "safrolefreeextractofsassafras": {
+    "name": "Safrole-free extract of sassafras",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.580",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.580"
+  },
+  "sugarbeetextractflavorbase": {
+    "name": "Sugar beet extract flavor base",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.585",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.585"
+  },
+  "yeastmaltsproutextract": {
+    "name": "Yeast-malt sprout extract",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.590",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.590"
+  },
+  "arabinogalactan": {
+    "name": "Arabinogalactan",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.610",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.610"
+  },
+  "chewinggumbase": {
+    "name": "Chewing gum base",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.615",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.615"
+  },
+  "carrageenan": {
+    "name": "Carrageenan",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.620",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.620"
+  },
+  "carrageenanwithpolysorbate80": {
+    "name": "Carrageenan with polysorbate 80",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.623",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.623"
+  },
+  "saltsofcarrageenan": {
+    "name": "Salts of carrageenan",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.626",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.626"
+  },
+  "furcelleran": {
+    "name": "Furcelleran",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.655",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.655"
+  },
+  "saltsoffurcelleran": {
+    "name": "Salts of furcelleran",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.660",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.660"
+  },
+  "gellangum": {
+    "name": "Gellan gum",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.665",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.665"
+  },
+  "xanthangum": {
+    "name": "Xanthan gum",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.695",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.695"
+  },
+  "adjuvantsforpesticideusedilutions": {
+    "name": "Adjuvants for pesticide use dilutions",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.710",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.710"
+  },
+  "13butyleneglycol": {
+    "name": "1,3-Butylene glycol",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.712",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.712"
+  },
+  "calciumlignosulfonate": {
+    "name": "Calcium lignosulfonate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.715",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.715"
+  },
+  "calciumlactobionate": {
+    "name": "Calcium lactobionate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.720",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.720"
+  },
+  "epoxidizedsoybeanoil": {
+    "name": "Epoxidized soybean oil",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.723",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.723"
+  },
+  "gibberellicacidanditspotassiumsalt": {
+    "name": "Gibberellic acid and its potassium salt",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.725",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.725"
+  },
+  "potassiumbromate": {
+    "name": "Potassium bromate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.730",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.730"
+  },
+  "glycerolesterofrosin": {
+    "name": "Glycerol ester of rosin",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.735",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.735"
+  },
+  "glyceridesandpolyglycidesofhydrogenatedvegetableoils": {
+    "name": "Glycerides and polyglycides of hydrogenated vegetable oils",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.736",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.736"
+  },
+  "stearylmonoglyceridylcitrate": {
+    "name": "Stearyl monoglyceridyl citrate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.755",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.755"
+  },
+  "succistearin": {
+    "name": "Succistearin (stearoyl propylene glycol hydrogen succinate)",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.765",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.765"
+  },
+  "succistearinstearoylpropyleneglycolhydrogensuccinate": {
+    "name": "Succistearin (stearoyl propylene glycol hydrogen succinate)",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.765",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.765"
+  },
+  "ethyleneoxidepolymer": {
+    "name": "Ethylene oxide polymer",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.770",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.770"
+  },
+  "methacrylicaciddivinylbenzenecopolymer": {
+    "name": "Methacrylic acid-divinylbenzene copolymer",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.775",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.775"
+  },
+  "acacia": {
+    "name": "Acacia (gum arabic)",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.780",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.780"
+  },
+  "acaciagumarabic": {
+    "name": "Acacia (gum arabic)",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.780",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.780"
+  },
+  "listeriaspecificbacteriophagepreparation": {
+    "name": "Listeria-specific bacteriophage preparation",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.785",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.785"
+  },
+  "acesulfamepotassium": {
+    "name": "Acesulfame potassium",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.800",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.800"
+  },
+  "acetoneperoxides": {
+    "name": "Acetone peroxides",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.802",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.802"
+  },
+  "advantame": {
+    "name": "Advantame",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.803",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.803"
+  },
+  "aspartame": {
+    "name": "Aspartame",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.804",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.804"
+  },
+  "azodicarbonamide": {
+    "name": "Azodicarbonamide",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.806",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.806"
+  },
+  "copolymercondensatesofethyleneoxideandpropyleneoxide": {
+    "name": "Copolymer condensates of ethylene oxide and propylene oxide",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.808",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.808"
+  },
+  "curdlan": {
+    "name": "Curdlan",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.809",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.809"
+  },
+  "dioctylsodiumsulfosuccinate": {
+    "name": "Dioctyl sodium sulfosuccinate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.810",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.810"
+  },
+  "glyceryltristearate": {
+    "name": "Glyceryl tristearate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.811",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.811"
+  },
+  "glycine": {
+    "name": "Glycine",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.812",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.812"
+  },
+  "hydroxylatedlecithin": {
+    "name": "Hydroxylated lecithin",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.814",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.814"
+  },
+  "methylglucosidecoconutoilester": {
+    "name": "Methyl glucoside-coconut oil ester",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.816",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.816"
+  },
+  "oxystearin": {
+    "name": "Oxystearin",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.818",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.818"
+  },
+  "polyethyleneglycolmeanmolecularweight2009500": {
+    "name": "Polyethylene glycol (mean molecular weight 200-9,500)",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.820",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.820"
+  },
+  "polyethyleneglycol": {
+    "name": "Polyethylene glycol (mean molecular weight 200-9,500)",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.820",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.820"
+  },
+  "sodiumlaurylsulfate": {
+    "name": "Sodium lauryl sulfate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.822",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.822"
+  },
+  "sodiummonoanddimethylnaphthalenesulfonates": {
+    "name": "Sodium mono- and dimethyl naphthalene sulfonates",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.824",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.824"
+  },
+  "sodiumstearylfumarate": {
+    "name": "Sodium stearyl fumarate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.826",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.826"
+  },
+  "acetylatedmonoglycerides": {
+    "name": "Acetylated monoglycerides",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.828",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.828"
+  },
+  "neotame": {
+    "name": "Neotame",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.829",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.829"
+  },
+  "succinylatedmonoglycerides": {
+    "name": "Succinylated monoglycerides",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.830",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.830"
+  },
+  "sucralose": {
+    "name": "Sucralose",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.831",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.831"
+  },
+  "monoglyceridecitrate": {
+    "name": "Monoglyceride citrate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.832",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.832"
+  },
+  "sucroseacetateisobutyrate": {
+    "name": "Sucrose acetate isobutyrate (SAIB)",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.833",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.833"
+  },
+  "sucroseacetateisobutyratesaib": {
+    "name": "Sucrose acetate isobutyrate (SAIB)",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.833",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.833"
+  },
+  "ethoxylatedmonoanddiglycerides": {
+    "name": "Ethoxylated mono- and diglycerides",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.834",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.834"
+  },
+  "polysorbate60": {
+    "name": "Polysorbate 60",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.836",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.836"
+  },
+  "polysorbate65": {
+    "name": "Polysorbate 65",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.838",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.838"
+  },
+  "polysorbate80": {
+    "name": "Polysorbate 80",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.840",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.840"
+  },
+  "polydextrose": {
+    "name": "Polydextrose",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.841",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.841"
+  },
+  "sorbitanmonostearate": {
+    "name": "Sorbitan monostearate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.842",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.842"
+  },
+  "calciumstearoyl2lactylate": {
+    "name": "Calcium stearoyl-2-lactylate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.844",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.844"
+  },
+  "sodiumstearoyllactylate": {
+    "name": "Sodium stearoyl lactylate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.846",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.846"
+  },
+  "lactylicestersoffattyacids": {
+    "name": "Lactylic esters of fatty acids",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.848",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.848"
+  },
+  "lactylatedfattyacidestersofglycerolandpropyleneglycol": {
+    "name": "Lactylated fatty acid esters of glycerol and propylene glycol",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.850",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.850"
+  },
+  "glyceryllactoestersoffattyacids": {
+    "name": "Glyceryl-lacto esters of fatty acids",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.852",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.852"
+  },
+  "polyglycerolestersoffattyacids": {
+    "name": "Polyglycerol esters of fatty acids",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.854",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.854"
+  },
+  "propyleneglycolmonoanddiestersoffatsandfattyacids": {
+    "name": "Propylene glycol mono- and diesters of fats and fatty acids",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.856",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.856"
+  },
+  "propyleneglycolalginate": {
+    "name": "Propylene glycol alginate",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.858",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.858"
+  },
+  "sucrosefattyacidesters": {
+    "name": "Sucrose fatty acid esters",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.859",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.859"
+  },
+  "fattyacids": {
+    "name": "Fatty acids",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.860",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.860"
+  },
+  "cocoabuttersubstitutefromcoconutoilpalmkerneloilorbothoils": {
+    "name": "Cocoa butter substitute from coconut oil, palm kernel oil, or both oils",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.861",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.861"
+  },
+  "oleicacidderivedfromtalloilfattyacids": {
+    "name": "Oleic acid derived from tall oil fatty acids",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.862",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.862"
+  },
+  "saltsoffattyacids": {
+    "name": "Salts of fatty acids",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.863",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.863"
+  },
+  "syntheticfattyalcohols": {
+    "name": "Synthetic fatty alcohols",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.864",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.864"
+  },
+  "syntheticglycerinproducedbythehydrogenolysisofcarbohydrates": {
+    "name": "Synthetic glycerin produced by the hydrogenolysis of carbohydrates",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.866",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.866"
+  },
+  "olestra": {
+    "name": "Olestra",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.867",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.867"
+  },
+  "ethylcellulose": {
+    "name": "Ethyl cellulose",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.868",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.868"
+  },
+  "sucroseoligoesters": {
+    "name": "Sucrose oligoesters",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.869",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.869"
+  },
+  "hydroxypropylcellulose": {
+    "name": "Hydroxypropyl cellulose",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.870",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.870"
+  },
+  "methylethylcellulose": {
+    "name": "Methyl ethyl cellulose",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.872",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.872"
+  },
+  "hydroxypropylmethylcellulose": {
+    "name": "Hydroxypropyl methylcellulose",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.874",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.874"
+  },
+  "castoroil": {
+    "name": "Castor oil",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.876",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.876"
+  },
+  "whitemineraloil": {
+    "name": "White mineral oil",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.878",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.878"
+  },
+  "petrolatum": {
+    "name": "Petrolatum",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.880",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.880"
+  },
+  "syntheticisoparaffinicpetroleumhydrocarbons": {
+    "name": "Synthetic isoparaffinic petroleum hydrocarbons",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.882",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.882"
+  },
+  "odorlesslightpetroleumhydrocarbons": {
+    "name": "Odorless light petroleum hydrocarbons",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.884",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.884"
+  },
+  "petroleumwax": {
+    "name": "Petroleum wax",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.886",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.886"
+  },
+  "syntheticpetroleumwax": {
+    "name": "Synthetic petroleum wax",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.888",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.888"
+  },
+  "ricebranwax": {
+    "name": "Rice bran wax",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.890",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.890"
+  },
+  "foodstarchmodified": {
+    "name": "Food starch-modified",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.892",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.892"
+  },
+  "modifiedcottonseedproductsintendedforhumanconsumption": {
+    "name": "Modified cottonseed products intended for human consumption",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.894",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.894"
+  },
+  "driedyeasts": {
+    "name": "Dried yeasts",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.896",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.896"
+  },
+  "bakersyeastglycan": {
+    "name": "Bakers yeast glycan",
+    "status": "allowed_with_limits",
+    "note": "Permitted as a food additive, subject to the conditions in this section",
+    "citation": "21 CFR 172.898",
+    "source": "https://www.ecfr.gov/current/title-21/section-172.898"
+  },
+  "substancesthataregenerallyrecognizedassafe": {
+    "name": "Substances that are generally recognized as safe",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1"
+  },
+  "spicesandothernaturalseasoningsandflavorings": {
+    "name": "Spices and other natural seasonings and flavorings",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.10",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.10"
+  },
+  "essentialoilsoleoresinsandnaturalextractives": {
+    "name": "Essential oils, oleoresins (solvent-free), and natural extractives (including distillates)",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.20",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.20"
+  },
+  "essentialoilsoleoresinssolventfreeandnaturalextractivesincludingdistillates": {
+    "name": "Essential oils, oleoresins (solvent-free), and natural extractives (including distillates)",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.20",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.20"
+  },
+  "certainotherspicesseasoningsessentialoilsoleoresinsandnaturalextracts": {
+    "name": "Certain other spices, seasonings, essential oils, oleoresins, and natural extracts",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.50",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.50"
+  },
+  "substancesmigratingfromcottonandcottonfabricsusedindryfoodpackaging": {
+    "name": "Substances migrating from cotton and cotton fabrics used in dry food packaging",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.70",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.70"
+  },
+  "substancesmigratingtofoodfrompaperandpaperboardproducts": {
+    "name": "Substances migrating to food from paper and paperboard products",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.90",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.90"
+  },
+  "adjuvantsforpesticidechemicals": {
+    "name": "Adjuvants for pesticide chemicals",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.99",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.99"
+  },
+  "glutamicacid": {
+    "name": "Glutamic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1045",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1045"
+  },
+  "glutamicacidhydrochloride": {
+    "name": "Glutamic acid hydrochloride",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1047",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1047"
+  },
+  "hydrochloricacid": {
+    "name": "Hydrochloric acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1057",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1057"
+  },
+  "phosphoricacid": {
+    "name": "Phosphoric acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1073",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1073"
+  },
+  "sodiumacidpyrophosphate": {
+    "name": "Sodium acid pyrophosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1087",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1087"
+  },
+  "aluminumsulfate": {
+    "name": "Aluminum sulfate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1125",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1125"
+  },
+  "aluminumammoniumsulfate": {
+    "name": "Aluminum ammonium sulfate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1127",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1127"
+  },
+  "aluminumpotassiumsulfate": {
+    "name": "Aluminum potassium sulfate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1129",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1129"
+  },
+  "aluminumsodiumsulfate": {
+    "name": "Aluminum sodium sulfate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1131",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1131"
+  },
+  "caffeine": {
+    "name": "Caffeine",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1180",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1180"
+  },
+  "calciumphosphate": {
+    "name": "Calcium phosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1217",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1217"
+  },
+  "caramel": {
+    "name": "Caramel",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1235",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1235"
+  },
+  "glycerin": {
+    "name": "Glycerin",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1320",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1320"
+  },
+  "methylcellulose": {
+    "name": "Methylcellulose",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1480",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1480"
+  },
+  "monoammoniumglutamate": {
+    "name": "Monoammonium glutamate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1500",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1500"
+  },
+  "monopotassiumglutamate": {
+    "name": "Monopotassium glutamate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1516",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1516"
+  },
+  "silicaaerogel": {
+    "name": "Silica aerogel",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1711",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1711"
+  },
+  "sodiumcarboxymethylcellulose": {
+    "name": "Sodium carboxymethylcellulose",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1745",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1745"
+  },
+  "sodiumcaseinate": {
+    "name": "Sodium caseinate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1748",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1748"
+  },
+  "sodiumphosphate": {
+    "name": "Sodium phosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1778",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1778"
+  },
+  "sodiumaluminumphosphate": {
+    "name": "Sodium aluminum phosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1781",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1781"
+  },
+  "sodiumtripolyphosphate": {
+    "name": "Sodium tripolyphosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.1810",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.1810"
+  },
+  "aluminumcalciumsilicate": {
+    "name": "Aluminum calcium silicate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.2122",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.2122"
+  },
+  "magnesiumsilicate": {
+    "name": "Magnesium silicate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.2437",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.2437"
+  },
+  "sodiumaluminosilicate": {
+    "name": "Sodium aluminosilicate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.2727",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.2727"
+  },
+  "sodiumcalciumaluminosilicatehydrated": {
+    "name": "Sodium calcium aluminosilicate, hydrated",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.2729",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.2729"
+  },
+  "tricalciumsilicate": {
+    "name": "Tricalcium silicate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.2906",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.2906"
+  },
+  "ascorbicacid": {
+    "name": "Ascorbic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3013",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3013"
+  },
+  "erythorbicacid": {
+    "name": "Erythorbic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3041",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3041"
+  },
+  "sorbicacid": {
+    "name": "Sorbic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3089",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3089"
+  },
+  "thiodipropionicacid": {
+    "name": "Thiodipropionic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3109",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3109"
+  },
+  "ascorbylpalmitate": {
+    "name": "Ascorbyl palmitate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3149",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3149"
+  },
+  "butylatedhydroxyanisole": {
+    "name": "Butylated hydroxyanisole",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3169",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3169"
+  },
+  "butylatedhydroxytoluene": {
+    "name": "Butylated hydroxytoluene",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3173",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3173"
+  },
+  "calciumascorbate": {
+    "name": "Calcium ascorbate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3189",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3189"
+  },
+  "calciumsorbate": {
+    "name": "Calcium sorbate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3225",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3225"
+  },
+  "dilaurylthiodipropionate": {
+    "name": "Dilauryl thiodipropionate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3280",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3280"
+  },
+  "potassiumbisulfite": {
+    "name": "Potassium bisulfite",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3616",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3616"
+  },
+  "potassiummetabisulfite": {
+    "name": "Potassium metabisulfite",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3637",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3637"
+  },
+  "potassiumsorbate": {
+    "name": "Potassium sorbate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3640",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3640"
+  },
+  "sodiumascorbate": {
+    "name": "Sodium ascorbate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3731",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3731"
+  },
+  "sodiumbisulfite": {
+    "name": "Sodium bisulfite",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3739",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3739"
+  },
+  "sodiummetabisulfite": {
+    "name": "Sodium metabisulfite",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3766",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3766"
+  },
+  "sodiumsorbate": {
+    "name": "Sodium sorbate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3795",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3795"
+  },
+  "sodiumsulfite": {
+    "name": "Sodium sulfite",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3798",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3798"
+  },
+  "sulfurdioxide": {
+    "name": "Sulfur dioxide",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3862",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3862"
+  },
+  "tocopherols": {
+    "name": "Tocopherols",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.3890",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.3890"
+  },
+  "sodiumacidphosphate": {
+    "name": "Sodium acid phosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.6085",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.6085"
+  },
+  "calciumdiacetate": {
+    "name": "Calcium diacetate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.6197",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.6197"
+  },
+  "calciumhexametaphosphate": {
+    "name": "Calcium hexametaphosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.6203",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.6203"
+  },
+  "monobasiccalciumphosphate": {
+    "name": "Monobasic calcium phosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.6215",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.6215"
+  },
+  "dipotassiumphosphate": {
+    "name": "Dipotassium phosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.6285",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.6285"
+  },
+  "disodiumphosphate": {
+    "name": "Disodium phosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.6290",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.6290"
+  },
+  "sodiumgluconate": {
+    "name": "Sodium gluconate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.6757",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.6757"
+  },
+  "sodiumhexametaphosphate": {
+    "name": "Sodium hexametaphosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.6760",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.6760"
+  },
+  "sodiummetaphosphate": {
+    "name": "Sodium metaphosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.6769",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.6769"
+  },
+  "sodiumpyrophosphate": {
+    "name": "Sodium pyrophosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.6787",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.6787"
+  },
+  "tetrasodiumpyrophosphate": {
+    "name": "Tetra sodium pyrophosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.6789",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.6789"
+  },
+  "chondrusextract": {
+    "name": "Chondrus extract",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.7255",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.7255"
+  },
+  "biotin": {
+    "name": "Biotin",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.8159",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.8159"
+  },
+  "calciumpyrophosphate": {
+    "name": "Calcium pyrophosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.8223",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.8223"
+  },
+  "cholinebitartrate": {
+    "name": "Choline bitartrate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.8250",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.8250"
+  },
+  "cholinechloride": {
+    "name": "Choline chloride",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.8252",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.8252"
+  },
+  "tocopherolacetate": {
+    "name": "α-Tocopherol acetate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.8892",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.8892"
+  },
+  "zincchloride": {
+    "name": "Zinc chloride",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.8985",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.8985"
+  },
+  "zincgluconate": {
+    "name": "Zinc gluconate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.8988",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.8988"
+  },
+  "zincoxide": {
+    "name": "Zinc oxide",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.8991",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.8991"
+  },
+  "zincstearate": {
+    "name": "Zinc stearate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.8994",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.8994"
+  },
+  "zincsulfate": {
+    "name": "Zinc sulfate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS)",
+    "citation": "21 CFR 182.8997",
+    "source": "https://www.ecfr.gov/current/title-21/section-182.8997"
+  },
+  "substancesaddeddirectlytohumanfoodaffirmedasgenerallyrecognizedassafe": {
+    "name": "Substances added directly to human food affirmed as generally recognized as safe (GRAS)",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1"
+  },
+  "substancesaddeddirectlytohumanfoodaffirmedasgenerallyrecognizedassafegras": {
+    "name": "Substances added directly to human food affirmed as generally recognized as safe (GRAS)",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1"
+  },
+  "aceticacid": {
+    "name": "Acetic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1005",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1005"
+  },
+  "aconiticacid": {
+    "name": "Aconitic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1007",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1007"
+  },
+  "adipicacid": {
+    "name": "Adipic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1009",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1009"
+  },
+  "alginicacid": {
+    "name": "Alginic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1011",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1011"
+  },
+  "amylaseenzymepreparationfrombacillusstearothermophilus": {
+    "name": "α-Amylase enzyme preparation from Bacillus stearothermophilus",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1012",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1012"
+  },
+  "benzoicacid": {
+    "name": "Benzoic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1021",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1021"
+  },
+  "bromelain": {
+    "name": "Bromelain",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1024",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1024"
+  },
+  "caprylicacid": {
+    "name": "Caprylic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1025",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1025"
+  },
+  "mixedcarbohydraseandproteaseenzymeproduct": {
+    "name": "Mixed carbohydrase and protease enzyme product",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1027",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1027"
+  },
+  "citricacid": {
+    "name": "Citric acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1033",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1033"
+  },
+  "catalasebovineliver": {
+    "name": "Catalase (bovine liver)",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1034",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1034"
+  },
+  "catalase": {
+    "name": "Catalase (bovine liver)",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1034",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1034"
+  },
+  "lacticacid": {
+    "name": "Lactic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1061",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1061"
+  },
+  "enzymemodifiedlecithin": {
+    "name": "Enzyme-modified lecithin",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1063",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1063"
+  },
+  "linoleicacid": {
+    "name": "Linoleic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1065",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1065"
+  },
+  "malicacid": {
+    "name": "Malic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1069",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1069"
+  },
+  "potassiumacidtartrate": {
+    "name": "Potassium acid tartrate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1077",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1077"
+  },
+  "propionicacid": {
+    "name": "Propionic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1081",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1081"
+  },
+  "stearicacid": {
+    "name": "Stearic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1090",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1090"
+  },
+  "succinicacid": {
+    "name": "Succinic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1091",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1091"
+  },
+  "sulfuricacid": {
+    "name": "Sulfuric acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1095",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1095"
+  },
+  "tannicacid": {
+    "name": "Tannic acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1097",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1097"
+  },
+  "tartaricacid": {
+    "name": "Tartaric acid",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1099",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1099"
+  },
+  "diacetyltartaricacidestersofmonoanddiglycerides": {
+    "name": "Diacetyl tartaric acid esters of mono- and diglycerides",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1101",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1101"
+  },
+  "agaragar": {
+    "name": "Agar-agar",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1115",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1115"
+  },
+  "brownalgae": {
+    "name": "Brown algae",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1120",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1120"
+  },
+  "redalgae": {
+    "name": "Red algae",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1121",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1121"
+  },
+  "ammoniumalginate": {
+    "name": "Ammonium alginate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1133",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1133"
+  },
+  "ammoniumbicarbonate": {
+    "name": "Ammonium bicarbonate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1135",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1135"
+  },
+  "ammoniumcarbonate": {
+    "name": "Ammonium carbonate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1137",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1137"
+  },
+  "ammoniumchloride": {
+    "name": "Ammonium chloride",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1138",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1138"
+  },
+  "ammoniumhydroxide": {
+    "name": "Ammonium hydroxide",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1139",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1139"
+  },
+  "ammoniumcitratedibasic": {
+    "name": "Ammonium citrate, dibasic",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1140",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1140"
+  },
+  "ammoniumsulfate": {
+    "name": "Ammonium sulfate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1143",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1143"
+  },
+  "bacteriallyderivedcarbohydraseenzymepreparation": {
+    "name": "Bacterially-derived carbohydrase enzyme preparation",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1148",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1148"
+  },
+  "bacteriallyderivedproteaseenzymepreparation": {
+    "name": "Bacterially-derived protease enzyme preparation",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1150",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1150"
+  },
+  "bentonite": {
+    "name": "Bentonite",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1155",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1155"
+  },
+  "benzoylperoxide": {
+    "name": "Benzoyl peroxide",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1157",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1157"
+  },
+  "nbutaneandisobutane": {
+    "name": "n-Butane and iso-butane",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1165",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1165"
+  },
+  "butaneandisobutane": {
+    "name": "n-Butane and iso-butane",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1165",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1165"
+  },
+  "calciumacetate": {
+    "name": "Calcium acetate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1185",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1185"
+  },
+  "calciumalginate": {
+    "name": "Calcium alginate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1187",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1187"
+  },
+  "calciumcarbonate": {
+    "name": "Calcium carbonate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1191",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1191"
+  },
+  "calciumchloride": {
+    "name": "Calcium chloride",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1193",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1193"
+  },
+  "calciumcitrate": {
+    "name": "Calcium citrate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1195",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1195"
+  },
+  "calciumgluconate": {
+    "name": "Calcium gluconate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1199",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1199"
+  },
+  "calciumglycerophosphate": {
+    "name": "Calcium glycerophosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1201",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1201"
+  },
+  "calciumhydroxide": {
+    "name": "Calcium hydroxide",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1205",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1205"
+  },
+  "calciumiodate": {
+    "name": "Calcium iodate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1206",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1206"
+  },
+  "calciumlactate": {
+    "name": "Calcium lactate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1207",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1207"
+  },
+  "calciumoxide": {
+    "name": "Calcium oxide",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1210",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1210"
+  },
+  "calciumpantothenate": {
+    "name": "Calcium pantothenate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1212",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1212"
+  },
+  "calciumpropionate": {
+    "name": "Calcium propionate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1221",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1221"
+  },
+  "calciumstearate": {
+    "name": "Calcium stearate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1229",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1229"
+  },
+  "calciumsulfate": {
+    "name": "Calcium sulfate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1230",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1230"
+  },
+  "carbondioxide": {
+    "name": "Carbon dioxide",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1240",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1240"
+  },
+  "betacarotene": {
+    "name": "Beta-carotene",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1245",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1245"
+  },
+  "cellulaseenzymepreparationderivedfromtrichodermalongibrachiatum": {
+    "name": "Cellulase enzyme preparation derived from Trichoderma longibrachiatum",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1250",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1250"
+  },
+  "cloveanditsderivatives": {
+    "name": "Clove and its derivatives",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1257",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1257"
+  },
+  "cocoabuttersubstitute": {
+    "name": "Cocoa butter substitute",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1259",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1259"
+  },
+  "coppergluconate": {
+    "name": "Copper gluconate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1260",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1260"
+  },
+  "coppersulfate": {
+    "name": "Copper sulfate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1261",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1261"
+  },
+  "cornsilkandcornsilkextract": {
+    "name": "Corn silk and corn silk extract",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1262",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1262"
+  },
+  "cuprousiodide": {
+    "name": "Cuprous iodide",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1265",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1265"
+  },
+  "cysteine": {
+    "name": "L-Cysteine",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1271",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1271"
+  },
+  "lcysteine": {
+    "name": "L-Cysteine",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1271",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1271"
+  },
+  "cysteinemonohydrochloride": {
+    "name": "L-Cysteine monohydrochloride",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1272",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1272"
+  },
+  "lcysteinemonohydrochloride": {
+    "name": "L-Cysteine monohydrochloride",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1272",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1272"
+  },
+  "dextrin": {
+    "name": "Dextrin",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1277",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1277"
+  },
+  "diacetyl": {
+    "name": "Diacetyl",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1278",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1278"
+  },
+  "dillanditsderivatives": {
+    "name": "Dill and its derivatives",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1282",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1282"
+  },
+  "enzymemodifiedfats": {
+    "name": "Enzyme-modified fats",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1287",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1287"
+  },
+  "ethylalcohol": {
+    "name": "Ethyl alcohol",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1293",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1293"
+  },
+  "ethylformate": {
+    "name": "Ethyl formate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1295",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1295"
+  },
+  "ferricammoniumcitrate": {
+    "name": "Ferric ammonium citrate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1296",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1296"
+  },
+  "ferricchloride": {
+    "name": "Ferric chloride",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1297",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1297"
+  },
+  "ferriccitrate": {
+    "name": "Ferric citrate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1298",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1298"
+  },
+  "ferricphosphate": {
+    "name": "Ferric phosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1301",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1301"
+  },
+  "ferricpyrophosphate": {
+    "name": "Ferric pyrophosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1304",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1304"
+  },
+  "ferricsulfate": {
+    "name": "Ferric sulfate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1307",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1307"
+  },
+  "ferrousgluconate": {
+    "name": "Ferrous gluconate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1308",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1308"
+  },
+  "ferrouslactate": {
+    "name": "Ferrous lactate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1311",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1311"
+  },
+  "ferroussulfate": {
+    "name": "Ferrous sulfate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1315",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1315"
+  },
+  "ficin": {
+    "name": "Ficin",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1316",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1316"
+  },
+  "garlicanditsderivatives": {
+    "name": "Garlic and its derivatives",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1317",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1317"
+  },
+  "gluconodeltalactone": {
+    "name": "Glucono delta-lactone",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1318",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1318"
+  },
+  "corngluten": {
+    "name": "Corn gluten",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1321",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1321"
+  },
+  "wheatgluten": {
+    "name": "Wheat gluten",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1322",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1322"
+  },
+  "glycerylmonooleate": {
+    "name": "Glyceryl monooleate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1323",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1323"
+  },
+  "glycerylmonostearate": {
+    "name": "Glyceryl monostearate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1324",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1324"
+  },
+  "glycerylbehenate": {
+    "name": "Glyceryl behenate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1328",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1328"
+  },
+  "glycerylpalmitostearate": {
+    "name": "Glyceryl palmitostearate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1329",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1329"
+  },
+  "gumghatti": {
+    "name": "Gum ghatti",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1333",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1333"
+  },
+  "guargum": {
+    "name": "Guar gum",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1339",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1339"
+  },
+  "locustcarobbeangum": {
+    "name": "Locust (carob) bean gum",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1343",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1343"
+  },
+  "locustbeangum": {
+    "name": "Locust (carob) bean gum",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1343",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1343"
+  },
+  "karayagumsterculiagum": {
+    "name": "Karaya gum (sterculia gum)",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1349",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1349"
+  },
+  "karayagum": {
+    "name": "Karaya gum (sterculia gum)",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1349",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1349"
+  },
+  "gumtragacanth": {
+    "name": "Gum tragacanth",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1351",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1351"
+  },
+  "helium": {
+    "name": "Helium",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1355",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1355"
+  },
+  "hydrogenperoxide": {
+    "name": "Hydrogen peroxide",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1366",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1366"
+  },
+  "inositol": {
+    "name": "Inositol",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1370",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1370"
+  },
+  "insolubleglucoseisomeraseenzymepreparations": {
+    "name": "Insoluble glucose isomerase enzyme preparations",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1372",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1372"
+  },
+  "ironelemental": {
+    "name": "Iron, elemental",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1375",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1375"
+  },
+  "isopropylcitrate": {
+    "name": "Isopropyl citrate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1386",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1386"
+  },
+  "lactaseenzymepreparationfromcandidapseudotropicalis": {
+    "name": "Lactase enzyme preparation from Candida pseudotropicalis",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1387",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1387"
+  },
+  "lactaseenzymepreparationfromkluyveromyceslactis": {
+    "name": "Lactase enzyme preparation from Kluyveromyces lactis",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1388",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1388"
+  },
+  "lecithin": {
+    "name": "Lecithin",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1400",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1400"
+  },
+  "licoriceandlicoricederivatives": {
+    "name": "Licorice and licorice derivatives",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1408",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1408"
+  },
+  "groundlimestone": {
+    "name": "Ground limestone",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1409",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1409"
+  },
+  "animallipase": {
+    "name": "Animal lipase",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1415",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1415"
+  },
+  "lipaseenzymepreparationderivedfromrhizopusniveus": {
+    "name": "Lipase enzyme preparation derived from Rhizopus niveus",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1420",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1420"
+  },
+  "magnesiumcarbonate": {
+    "name": "Magnesium carbonate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1425",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1425"
+  },
+  "magnesiumchloride": {
+    "name": "Magnesium chloride",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1426",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1426"
+  },
+  "magnesiumhydroxide": {
+    "name": "Magnesium hydroxide",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1428",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1428"
+  },
+  "magnesiumoxide": {
+    "name": "Magnesium oxide",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1431",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1431"
+  },
+  "magnesiumphosphate": {
+    "name": "Magnesium phosphate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1434",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1434"
+  },
+  "magnesiumstearate": {
+    "name": "Magnesium stearate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1440",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1440"
+  },
+  "magnesiumsulfate": {
+    "name": "Magnesium sulfate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1443",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1443"
+  },
+  "maltodextrin": {
+    "name": "Maltodextrin",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1444",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1444"
+  },
+  "maltsyrup": {
+    "name": "Malt syrup (malt extract)",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1445",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1445"
+  },
+  "maltsyrupmaltextract": {
+    "name": "Malt syrup (malt extract)",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1445",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1445"
+  },
+  "manganesechloride": {
+    "name": "Manganese chloride",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1446",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1446"
+  },
+  "manganesecitrate": {
+    "name": "Manganese citrate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1449",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1449"
+  },
+  "manganesegluconate": {
+    "name": "Manganese gluconate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1452",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1452"
+  },
+  "manganesesulfate": {
+    "name": "Manganese sulfate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1461",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1461"
+  },
+  "menhadenoil": {
+    "name": "Menhaden oil",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1472",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1472"
+  },
+  "methylparaben": {
+    "name": "Methylparaben",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1490",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1490"
+  },
+  "microparticulatedproteinproduct": {
+    "name": "Microparticulated protein product",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1498",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1498"
+  },
+  "monoanddiglycerides": {
+    "name": "Mono- and diglycerides",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1505",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1505"
+  },
+  "monosodiumphosphatederivativesofmonoanddiglycerides": {
+    "name": "Monosodium phosphate derivatives of mono- and diglycerides",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1521",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1521"
+  },
+  "niacin": {
+    "name": "Niacin",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1530",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1530"
+  },
+  "niacinamide": {
+    "name": "Niacinamide",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1535",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1535"
+  },
+  "nickel": {
+    "name": "Nickel",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1537",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1537"
+  },
+  "nisinpreparation": {
+    "name": "Nisin preparation",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1538",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1538"
+  },
+  "nitrogen": {
+    "name": "Nitrogen",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1540",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1540"
+  },
+  "nitrousoxide": {
+    "name": "Nitrous oxide",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1545",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1545"
+  },
+  "peptones": {
+    "name": "Peptones",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1553",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1553"
+  },
+  "rapeseedoil": {
+    "name": "Rapeseed oil",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1555",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1555"
+  },
+  "oxbileextract": {
+    "name": "Ox bile extract",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1560",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1560"
+  },
+  "ozone": {
+    "name": "Ozone",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1563",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1563"
+  },
+  "pancreatin": {
+    "name": "Pancreatin",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1583",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1583"
+  },
+  "papain": {
+    "name": "Papain",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1585",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1585"
+  },
+  "pectins": {
+    "name": "Pectins",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1588",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1588"
+  },
+  "pepsin": {
+    "name": "Pepsin",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1595",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1595"
+  },
+  "potassiumalginate": {
+    "name": "Potassium alginate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1610",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1610"
+  },
+  "potassiumbicarbonate": {
+    "name": "Potassium bicarbonate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1613",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1613"
+  },
+  "potassiumcarbonate": {
+    "name": "Potassium carbonate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1619",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1619"
+  },
+  "potassiumchloride": {
+    "name": "Potassium chloride",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1622",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1622"
+  },
+  "potassiumcitrate": {
+    "name": "Potassium citrate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1625",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1625"
+  },
+  "potassiumhydroxide": {
+    "name": "Potassium hydroxide",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1631",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1631"
+  },
+  "potassiumiodate": {
+    "name": "Potassium iodate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1635",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1635"
+  },
+  "potassiumlactate": {
+    "name": "Potassium lactate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1639",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1639"
+  },
+  "potassiumsulfate": {
+    "name": "Potassium sulfate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1643",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1643"
+  },
+  "propane": {
+    "name": "Propane",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1655",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1655"
+  },
+  "propylgallate": {
+    "name": "Propyl gallate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1660",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1660"
+  },
+  "propyleneglycol": {
+    "name": "Propylene glycol",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1666",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1666"
+  },
+  "propylparaben": {
+    "name": "Propylparaben",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1670",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1670"
+  },
+  "pyridoxinehydrochloride": {
+    "name": "Pyridoxine hydrochloride",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1676",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1676"
+  },
+  "rennetandchymosinpreparation": {
+    "name": "Rennet (animal-derived) and chymosin preparation (fermentation-derived)",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1685",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1685"
+  },
+  "rennetanimalderivedandchymosinpreparationfermentationderived": {
+    "name": "Rennet (animal-derived) and chymosin preparation (fermentation-derived)",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1685",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1685"
+  },
+  "riboflavin": {
+    "name": "Riboflavin",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1695",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1695"
+  },
+  "riboflavin5phosphate": {
+    "name": "Riboflavin-5′-phosphate (sodium)",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1697",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1697"
+  },
+  "riboflavin5phosphatesodium": {
+    "name": "Riboflavin-5′-phosphate (sodium)",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1697",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1697"
+  },
+  "rue": {
+    "name": "Rue",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1698",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1698"
+  },
+  "oilofrue": {
+    "name": "Oil of rue",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1699",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1699"
+  },
+  "sheanutoil": {
+    "name": "Sheanut oil",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1702",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1702"
+  },
+  "sodiumacetate": {
+    "name": "Sodium acetate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1721",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1721"
+  },
+  "sodiumalginate": {
+    "name": "Sodium alginate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1724",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1724"
+  },
+  "sodiumbenzoate": {
+    "name": "Sodium benzoate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1733",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1733"
+  },
+  "sodiumbicarbonate": {
+    "name": "Sodium bicarbonate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1736",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1736"
+  },
+  "sodiumcarbonate": {
+    "name": "Sodium carbonate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1742",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1742"
+  },
+  "sodiumcitrate": {
+    "name": "Sodium citrate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1751",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1751"
+  },
+  "sodiumdiacetate": {
+    "name": "Sodium diacetate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1754",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1754"
+  },
+  "sodiumhydroxide": {
+    "name": "Sodium hydroxide",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1763",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1763"
+  },
+  "sodiumhypophosphite": {
+    "name": "Sodium hypophosphite",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1764",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1764"
+  },
+  "sodiumlactate": {
+    "name": "Sodium lactate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1768",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1768"
+  },
+  "sodiumpropionate": {
+    "name": "Sodium propionate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1784",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1784"
+  },
+  "sodiumsesquicarbonate": {
+    "name": "Sodium sesquicarbonate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1792",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1792"
+  },
+  "sodiumtartrate": {
+    "name": "Sodium tartrate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1801",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1801"
+  },
+  "sodiumpotassiumtartrate": {
+    "name": "Sodium potassium tartrate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1804",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1804"
+  },
+  "sodiumthiosulfate": {
+    "name": "Sodium thiosulfate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1807",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1807"
+  },
+  "sorbitol": {
+    "name": "Sorbitol",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1835",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1835"
+  },
+  "stannouschlorideanhydrousanddihydrated": {
+    "name": "Stannous chloride (anhydrous and dihydrated)",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1845",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1845"
+  },
+  "starterdistillate": {
+    "name": "Starter distillate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1848",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1848"
+  },
+  "stearylcitrate": {
+    "name": "Stearyl citrate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1851",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1851"
+  },
+  "sucrose": {
+    "name": "Sucrose",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1854",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1854"
+  },
+  "cornsugar": {
+    "name": "Corn sugar",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1857",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1857"
+  },
+  "invertsugar": {
+    "name": "Invert sugar",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1859",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1859"
+  },
+  "cornsyrup": {
+    "name": "Corn syrup",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1865",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1865"
+  },
+  "highfructosecornsyrup": {
+    "name": "High fructose corn syrup",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1866",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1866"
+  },
+  "thiaminehydrochloride": {
+    "name": "Thiamine hydrochloride",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1875",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1875"
+  },
+  "thiaminemononitrate": {
+    "name": "Thiamine mononitrate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1878",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1878"
+  },
+  "triacetin": {
+    "name": "Triacetin",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1901",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1901"
+  },
+  "tributyrin": {
+    "name": "Tributyrin",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1903",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1903"
+  },
+  "triethylcitrate": {
+    "name": "Triethyl citrate",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1911",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1911"
+  },
+  "trypsin": {
+    "name": "Trypsin",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1914",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1914"
+  },
+  "urea": {
+    "name": "Urea",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1923",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1923"
+  },
+  "ureaseenzymepreparationfromlactobacillusfermentum": {
+    "name": "Urease enzyme preparation from Lactobacillus fermentum",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1924",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1924"
+  },
+  "vitamina": {
+    "name": "Vitamin A",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1930",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1930"
+  },
+  "vitaminb12": {
+    "name": "Vitamin B12",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1945",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1945"
+  },
+  "vitamind": {
+    "name": "Vitamin D",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1950",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1950"
+  },
+  "beeswaxyellowandwhite": {
+    "name": "Beeswax (yellow and white)",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1973",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1973"
+  },
+  "beeswax": {
+    "name": "Beeswax (yellow and white)",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1973",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1973"
+  },
+  "candelillawax": {
+    "name": "Candelilla wax",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1976",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1976"
+  },
+  "carnaubawax": {
+    "name": "Carnauba wax",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1978",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1978"
+  },
+  "whey": {
+    "name": "Whey",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1979",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1979"
+  },
+  "bakersyeastextract": {
+    "name": "Bakers yeast extract",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1983",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1983"
+  },
+  "zein": {
+    "name": "Zein",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1984",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1984"
+  },
+  "aminopeptidaseenzymepreparationderivedfromlactococcuslactis": {
+    "name": "Aminopeptidase enzyme preparation derived from lactococcus lactis",
+    "status": "allowed",
+    "note": "Generally Recognised As Safe (GRAS) for direct addition to food",
+    "citation": "21 CFR 184.1985",
+    "source": "https://www.ecfr.gov/current/title-21/section-184.1985"
+  },
+  "diluentsincoloradditivemixturesforfooduseexemptfromcertification": {
+    "name": "Diluents in color additive mixtures for food use exempt from certification",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1"
+  },
+  "annattoextract": {
+    "name": "Annatto extract",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.30",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.30"
+  },
+  "antarctickrillmeal": {
+    "name": "Antarctic krill meal",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.32",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.32"
+  },
+  "astaxanthin": {
+    "name": "Astaxanthin",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.35",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.35"
+  },
+  "astaxanthindimethyldisuccinate": {
+    "name": "Astaxanthin dimethyldisuccinate",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.37",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.37"
+  },
+  "dehydratedbeetsbeetpowder": {
+    "name": "Dehydrated beets (beet powder)",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.40",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.40"
+  },
+  "dehydratedbeets": {
+    "name": "Dehydrated beets (beet powder)",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.40",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.40"
+  },
+  "ultramarineblue": {
+    "name": "Ultramarine blue",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.50",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.50"
+  },
+  "butterflypeaflowerextract": {
+    "name": "Butterfly pea flower extract",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.69",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.69"
+  },
+  "canthaxanthin": {
+    "name": "Canthaxanthin",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.75",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.75"
+  },
+  "apo8carotenal": {
+    "name": "β-Apo-8′-carotenal",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.90",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.90"
+  },
+  "carotene": {
+    "name": "β-Carotene",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.95",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.95"
+  },
+  "cochinealextractcarmine": {
+    "name": "Cochineal extract; carmine",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.100",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.100"
+  },
+  "sodiumcopperchlorophyllin": {
+    "name": "Sodium copper chlorophyllin",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.125",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.125"
+  },
+  "toastedpartiallydefattedcookedcottonseedflour": {
+    "name": "Toasted partially defatted cooked cottonseed flour",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.140",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.140"
+  },
+  "galdieriaextractblue": {
+    "name": "Galdieria extract blue",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.167",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.167"
+  },
+  "gardeniablue": {
+    "name": "Gardenia (genipin) blue",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.168",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.168"
+  },
+  "gardeniagenipinblue": {
+    "name": "Gardenia (genipin) blue",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.168",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.168"
+  },
+  "grapecolorextract": {
+    "name": "Grape color extract",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.169",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.169"
+  },
+  "grapeskinextract": {
+    "name": "Grape skin extract (enocianina)",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.170",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.170"
+  },
+  "grapeskinextractenocianina": {
+    "name": "Grape skin extract (enocianina)",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.170",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.170"
+  },
+  "haematococcusalgaemeal": {
+    "name": "Haematococcus algae meal",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.185",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.185"
+  },
+  "syntheticironoxide": {
+    "name": "Synthetic iron oxide",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.200",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.200"
+  },
+  "jaguagenipinglycineblue": {
+    "name": "Jagua (genipin-glycine) blue",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.225",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.225"
+  },
+  "jaguablue": {
+    "name": "Jagua (genipin-glycine) blue",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.225",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.225"
+  },
+  "fruitjuice": {
+    "name": "Fruit juice",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.250",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.250"
+  },
+  "vegetablejuice": {
+    "name": "Vegetable juice",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.260",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.260"
+  },
+  "driedalgaemeal": {
+    "name": "Dried algae meal",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.275",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.275"
+  },
+  "tagetesmealandextract": {
+    "name": "Tagetes (Aztec marigold) meal and extract",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.295",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.295"
+  },
+  "tagetesaztecmarigoldmealandextract": {
+    "name": "Tagetes (Aztec marigold) meal and extract",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.295",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.295"
+  },
+  "myoglobin": {
+    "name": "Myoglobin",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.297",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.297"
+  },
+  "carrotoil": {
+    "name": "Carrot oil",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.300",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.300"
+  },
+  "cornendospermoil": {
+    "name": "Corn endosperm oil",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.315",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.315"
+  },
+  "paprika": {
+    "name": "Paprika",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.340",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.340"
+  },
+  "paprikaoleoresin": {
+    "name": "Paprika oleoresin",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.345",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.345"
+  },
+  "micabasedpearlescentpigments": {
+    "name": "Mica-based pearlescent pigments",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.350",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.350"
+  },
+  "paracoccuspigment": {
+    "name": "Paracoccus pigment",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.352",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.352"
+  },
+  "phaffiayeast": {
+    "name": "Phaffia yeast",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.355",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.355"
+  },
+  "saffron": {
+    "name": "Saffron",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.500",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.500"
+  },
+  "soyleghemoglobin": {
+    "name": "Soy leghemoglobin",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.520",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.520"
+  },
+  "spirulinaextract": {
+    "name": "Spirulina extract",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.530",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.530"
+  },
+  "titaniumdioxide": {
+    "name": "Titanium dioxide",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.575",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.575"
+  },
+  "tomatolycopeneextracttomatolycopeneconcentrate": {
+    "name": "Tomato lycopene extract; tomato lycopene concentrate",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.585",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.585"
+  },
+  "turmeric": {
+    "name": "Turmeric",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.600",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.600"
+  },
+  "turmericoleoresin": {
+    "name": "Turmeric oleoresin",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.615",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.615"
+  },
+  "diluentsincoloradditivemixturesfordruguseexemptfromcertification": {
+    "name": "Diluents in color additive mixtures for drug use exempt from certification",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1001",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1001"
+  },
+  "aluminadriedaluminumhydroxide": {
+    "name": "Alumina (dried aluminum hydroxide)",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1010",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1010"
+  },
+  "alumina": {
+    "name": "Alumina (dried aluminum hydroxide)",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1010",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1010"
+  },
+  "chromiumcobaltaluminumoxide": {
+    "name": "Chromium-cobalt-aluminum oxide",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1015",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1015"
+  },
+  "potassiumsodiumcopperchloropyhllin": {
+    "name": "Potassium sodium copper chloropyhllin (chlorophyllin-copper complex)",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1125",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1125"
+  },
+  "potassiumsodiumcopperchloropyhllinchlorophyllincoppercomplex": {
+    "name": "Potassium sodium copper chloropyhllin (chlorophyllin-copper complex)",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1125",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1125"
+  },
+  "dihydroxyacetone": {
+    "name": "Dihydroxyacetone",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1150",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1150"
+  },
+  "bismuthoxychloride": {
+    "name": "Bismuth oxychloride",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1162",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1162"
+  },
+  "ferricammoniumferrocyanide": {
+    "name": "Ferric ammonium ferrocyanide",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1298",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1298"
+  },
+  "ferricferrocyanide": {
+    "name": "Ferric ferrocyanide",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1299",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1299"
+  },
+  "chromiumhydroxidegreen": {
+    "name": "Chromium hydroxide green",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1326",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1326"
+  },
+  "chromiumoxidegreens": {
+    "name": "Chromium oxide greens",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1327",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1327"
+  },
+  "guanine": {
+    "name": "Guanine",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1329",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1329"
+  },
+  "pyrogallol": {
+    "name": "Pyrogallol",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1375",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1375"
+  },
+  "pyrophyllite": {
+    "name": "Pyrophyllite",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1400",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1400"
+  },
+  "logwoodextract": {
+    "name": "Logwood extract",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1410",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1410"
+  },
+  "mica": {
+    "name": "Mica",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1496",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1496"
+  },
+  "talc": {
+    "name": "Talc",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1550",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1550"
+  },
+  "aluminumpowder": {
+    "name": "Aluminum powder",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1645",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1645"
+  },
+  "bronzepowder": {
+    "name": "Bronze powder",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1646",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1646"
+  },
+  "copperpowder": {
+    "name": "Copper powder",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.1647",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.1647"
+  },
+  "annatto": {
+    "name": "Annatto",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.2030",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.2030"
+  },
+  "carmine": {
+    "name": "Carmine",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.2087",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.2087"
+  },
+  "bismuthcitrate": {
+    "name": "Bismuth citrate",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.2110",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.2110"
+  },
+  "disodiumedtacopper": {
+    "name": "Disodium EDTA-copper",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.2120",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.2120"
+  },
+  "potassiumsodiumcopperchlorophyllin": {
+    "name": "Potassium sodium copper chlorophyllin (chlorophyllin-copper complex)",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.2125",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.2125"
+  },
+  "potassiumsodiumcopperchlorophyllinchlorophyllincoppercomplex": {
+    "name": "Potassium sodium copper chlorophyllin (chlorophyllin-copper complex)",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.2125",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.2125"
+  },
+  "guaiazulene": {
+    "name": "Guaiazulene",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.2180",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.2180"
+  },
+  "henna": {
+    "name": "Henna",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.2190",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.2190"
+  },
+  "ironoxides": {
+    "name": "Iron oxides",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.2250",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.2250"
+  },
+  "silver": {
+    "name": "Silver",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.2500",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.2500"
+  },
+  "silvernitrate": {
+    "name": "Silver nitrate",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.2550",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.2550"
+  },
+  "ultramarines": {
+    "name": "Ultramarines",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.2725",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.2725"
+  },
+  "manganeseviolet": {
+    "name": "Manganese violet",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.2775",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.2775"
+  },
+  "luminescentzincsulfide": {
+    "name": "Luminescent zinc sulfide",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.2995",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.2995"
+  },
+  "14bisamino910anthracenedione": {
+    "name": "1,4-Bis[(2-methylphenyl)amino]-9,10-anthracenedione",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3105",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3105"
+  },
+  "14bis2methylphenylamino910anthracenedione": {
+    "name": "1,4-Bis[(2-methylphenyl)amino]-9,10-anthracenedione",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3105",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3105"
+  },
+  "14bis42methacryloxyethylphenylaminoanthraquinonecopolymers": {
+    "name": "1,4-Bis[4-(2-methacryloxyethyl)phenylamino]anthraquinone copolymers",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3106",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3106"
+  },
+  "14bis4phenylaminoanthraquinonecopolymers": {
+    "name": "1,4-Bis[4-(2-methacryloxyethyl)phenylamino]anthraquinone copolymers",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3106",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3106"
+  },
+  "carbazoleviolet": {
+    "name": "Carbazole violet",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3107",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3107"
+  },
+  "chlorophyllincoppercomplexoilsoluble": {
+    "name": "Chlorophyllin-copper complex, oil soluble",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3110",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3110"
+  },
+  "civatorange1": {
+    "name": "C.I. Vat Orange 1",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3112",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3112"
+  },
+  "225diethoxy44methylphenylthiolphenylazo135benzenetriol": {
+    "name": "2-[[2,5-Diethoxy-4-[(4-methylphenyl)thiol]phenyl]azo]-1,3,5-benzenetriol",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3115",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3115"
+  },
+  "225diethoxy4thiolphenylazo135benzenetriol": {
+    "name": "2-[[2,5-Diethoxy-4-[(4-methylphenyl)thiol]phenyl]azo]-1,3,5-benzenetriol",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3115",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3115"
+  },
+  "nnbisbenzamide": {
+    "name": "N,N′-(9,10-Dihydro-9,10-dioxo-1,5-anthracenediyl) bisbenzamide",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3118",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3118"
+  },
+  "nn910dihydro910dioxo15anthracenediylbisbenzamide": {
+    "name": "N,N′-(9,10-Dihydro-9,10-dioxo-1,5-anthracenediyl) bisbenzamide",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3118",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3118"
+  },
+  "716dichloro615dihydro591418anthrazinetetrone": {
+    "name": "7,16-Dichloro-6,15-dihydro-5,9,14,18-anthrazinetetrone",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3119",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3119"
+  },
+  "1617dimethoxydinaphtho123cd321lmperylene510dione": {
+    "name": "16,17-Dimethoxydinaphtho [1,2,3-cd:3′,2′,1′-lm] perylene-5,10-dione",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3120",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3120"
+  },
+  "polydyecopolymers": {
+    "name": "Poly(hydroxyethyl methacrylate)-dye copolymers",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3121",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3121"
+  },
+  "polyhydroxyethylmethacrylatedyecopolymers": {
+    "name": "Poly(hydroxyethyl methacrylate)-dye copolymers",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3121",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3121"
+  },
+  "4azo24dihydro5methyl2phenyl3hpyrazol3one": {
+    "name": "4-[(2,4-dimethylphenyl)azo]-2,4-dihydro-5-methyl-2-phenyl-3H-pyrazol-3-one",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3122",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3122"
+  },
+  "424dimethylphenylazo24dihydro5methyl2phenyl3hpyrazol3one": {
+    "name": "4-[(2,4-dimethylphenyl)azo]-2,4-dihydro-5-methyl-2-phenyl-3H-pyrazol-3-one",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3122",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3122"
+  },
+  "6ethoxy26ethoxy3oxobenzobthien23hylidenebenzobthiophen32hone": {
+    "name": "6-Ethoxy-2-(6-ethoxy-3-oxobenzo[b]thien-2(3H)-ylidene) benzo[b]thiophen-3 (2H)-one",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3123",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3123"
+  },
+  "6ethoxy2ylidenebenzobthiophen3one": {
+    "name": "6-Ethoxy-2-(6-ethoxy-3-oxobenzo[b]thien-2(3H)-ylidene) benzo[b]thiophen-3 (2H)-one",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3123",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3123"
+  },
+  "phthalocyaninegreen": {
+    "name": "Phthalocyanine green",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3124",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3124"
+  },
+  "vinylalcoholmethylmethacrylatedyereactionproducts": {
+    "name": "Vinyl alcohol/methyl methacrylate-dye reaction products",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, exempt from batch certification",
+    "citation": "21 CFR 73.3127",
+    "source": "https://www.ecfr.gov/current/title-21/section-73.3127"
+  },
+  "fdcblueno1": {
+    "name": "FD&C Blue No. 1",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.101",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.101"
+  },
+  "fdcblueno2": {
+    "name": "FD&C Blue No. 2",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.102",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.102"
+  },
+  "fdcgreenno3": {
+    "name": "FD&C Green No. 3",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.203",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.203"
+  },
+  "orangeb": {
+    "name": "Orange B",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.250",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.250"
+  },
+  "citrusredno2": {
+    "name": "Citrus Red No. 2",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.302",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.302"
+  },
+  "fdcredno3": {
+    "name": "FD&C Red No. 3",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.303",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.303"
+  },
+  "fdcredno40": {
+    "name": "FD&C Red No. 40",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.340",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.340"
+  },
+  "fdcyellowno5": {
+    "name": "FD&C Yellow No. 5",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.705",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.705"
+  },
+  "fdcyellowno6": {
+    "name": "FD&C Yellow No. 6",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.706",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.706"
+  },
+  "dcblueno4": {
+    "name": "D&C Blue No. 4",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1104",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1104"
+  },
+  "dcblueno9": {
+    "name": "D&C Blue No. 9",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1109",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1109"
+  },
+  "dcgreenno5": {
+    "name": "D&C Green No. 5",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1205",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1205"
+  },
+  "dcgreenno6": {
+    "name": "D&C Green No. 6",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1206",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1206"
+  },
+  "dcgreenno8": {
+    "name": "D&C Green No. 8",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1208",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1208"
+  },
+  "dcorangeno4": {
+    "name": "D&C Orange No. 4",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1254",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1254"
+  },
+  "dcorangeno5": {
+    "name": "D&C Orange No. 5",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1255",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1255"
+  },
+  "dcorangeno10": {
+    "name": "D&C Orange No. 10",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1260",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1260"
+  },
+  "dcorangeno11": {
+    "name": "D&C Orange No. 11",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1261",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1261"
+  },
+  "fdcredno4": {
+    "name": "FD&C Red No. 4",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1304",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1304"
+  },
+  "dcredno6": {
+    "name": "D&C Red No. 6",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1306",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1306"
+  },
+  "dcredno7": {
+    "name": "D&C Red No. 7",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1307",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1307"
+  },
+  "dcredno17": {
+    "name": "D&C Red No. 17",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1317",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1317"
+  },
+  "dcredno21": {
+    "name": "D&C Red No. 21",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1321",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1321"
+  },
+  "dcredno22": {
+    "name": "D&C Red No. 22",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1322",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1322"
+  },
+  "dcredno27": {
+    "name": "D&C Red No. 27",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1327",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1327"
+  },
+  "dcredno28": {
+    "name": "D&C Red No. 28",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1328",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1328"
+  },
+  "dcredno30": {
+    "name": "D&C Red No. 30",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1330",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1330"
+  },
+  "dcredno31": {
+    "name": "D&C Red No. 31",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1331",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1331"
+  },
+  "dcredno33": {
+    "name": "D&C Red No. 33",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1333",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1333"
+  },
+  "dcredno34": {
+    "name": "D&C Red No. 34",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1334",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1334"
+  },
+  "dcredno36": {
+    "name": "D&C Red No. 36",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1336",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1336"
+  },
+  "dcredno39": {
+    "name": "D&C Red No. 39",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1339",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1339"
+  },
+  "dcvioletno2": {
+    "name": "D&C Violet No. 2",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1602",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1602"
+  },
+  "dcyellowno7": {
+    "name": "D&C Yellow No. 7",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1707",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1707"
+  },
+  "dcyellowno8": {
+    "name": "D&C Yellow No. 8",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1708",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1708"
+  },
+  "dcyellowno10": {
+    "name": "D&C Yellow No. 10",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1710",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1710"
+  },
+  "dcyellowno11": {
+    "name": "D&C Yellow No. 11",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.1711",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.1711"
+  },
+  "dcblackno2": {
+    "name": "D&C Black No. 2",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.2052",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.2052"
+  },
+  "dcblackno3": {
+    "name": "D&C Black No. 3",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.2053",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.2053"
+  },
+  "dcbrownno1": {
+    "name": "D&C Brown No. 1",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.2151",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.2151"
+  },
+  "phthalocyaninato2copper": {
+    "name": "[Phthalocyaninato(2-)] copper",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.3045",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.3045"
+  },
+  "phthalocyaninatocopper": {
+    "name": "[Phthalocyaninato(2-)] copper",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.3045",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.3045"
+  },
+  "dcblackno4": {
+    "name": "D&C Black No. 4",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.3054",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.3054"
+  },
+  "dcblueno6": {
+    "name": "D&C Blue No. 6",
+    "status": "allowed_with_limits",
+    "note": "Listed colour additive, subject to batch certification",
+    "citation": "21 CFR 74.3106",
+    "source": "https://www.ecfr.gov/current/title-21/section-74.3106"
+  }
+}

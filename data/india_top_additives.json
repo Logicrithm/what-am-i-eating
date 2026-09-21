@@ -1,0 +1,3062 @@
+[
+  {
+    "ins": "330",
+    "tag": "en:e330",
+    "name": "Citric acid",
+    "classes": "antioxidant, sequestrant",
+    "efsa_adi": "",
+    "india_products": 247,
+    "pct": 10.78,
+    "rank": 1
+  },
+  {
+    "ins": "322",
+    "tag": "en:e322",
+    "name": "Lecithins",
+    "classes": "antioxidant, emulsifier",
+    "efsa_adi": "",
+    "india_products": 156,
+    "pct": 6.81,
+    "rank": 2
+  },
+  {
+    "ins": "500",
+    "tag": "en:e500",
+    "name": "Sodium carbonates",
+    "classes": "stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 147,
+    "pct": 6.42,
+    "rank": 3
+  },
+  {
+    "ins": "471",
+    "tag": "en:e471",
+    "name": "Mono- and diglycerides of fatty acids",
+    "classes": "emulsifier, stabiliser",
+    "efsa_adi": "",
+    "india_products": 109,
+    "pct": 4.76,
+    "rank": 4
+  },
+  {
+    "ins": "500II",
+    "tag": "en:e500ii",
+    "name": "Sodium hydrogen carbonate",
+    "classes": "stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 99,
+    "pct": 4.32,
+    "rank": 5
+  },
+  {
+    "ins": "322I",
+    "tag": "en:e322i",
+    "name": "Lecithin",
+    "classes": "antioxidant, emulsifier",
+    "efsa_adi": "",
+    "india_products": 85,
+    "pct": 3.71,
+    "rank": 6
+  },
+  {
+    "ins": "412",
+    "tag": "en:e412",
+    "name": "Guar gum",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 81,
+    "pct": 3.54,
+    "rank": 7
+  },
+  {
+    "ins": "415",
+    "tag": "en:e415",
+    "name": "Xanthan gum",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 80,
+    "pct": 3.49,
+    "rank": 8
+  },
+  {
+    "ins": "551",
+    "tag": "en:e551",
+    "name": "Silicon dioxide",
+    "classes": "carrier",
+    "efsa_adi": "",
+    "india_products": 77,
+    "pct": 3.36,
+    "rank": 9
+  },
+  {
+    "ins": "627",
+    "tag": "en:e627",
+    "name": "Disodium guanylate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 64,
+    "pct": 2.79,
+    "rank": 10
+  },
+  {
+    "ins": "503",
+    "tag": "en:e503",
+    "name": "Ammonium carbonates",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 64,
+    "pct": 2.79,
+    "rank": 11
+  },
+  {
+    "ins": "211",
+    "tag": "en:e211",
+    "name": "Sodium benzoate",
+    "classes": "preservative",
+    "efsa_adi": "5",
+    "india_products": 63,
+    "pct": 2.75,
+    "rank": 12
+  },
+  {
+    "ins": "631",
+    "tag": "en:e631",
+    "name": "Disodium inosinate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 62,
+    "pct": 2.71,
+    "rank": 13
+  },
+  {
+    "ins": "300",
+    "tag": "en:e300",
+    "name": "Ascorbic acid",
+    "classes": "antioxidant, sequestrant",
+    "efsa_adi": "",
+    "india_products": 59,
+    "pct": 2.58,
+    "rank": 14
+  },
+  {
+    "ins": "260",
+    "tag": "en:e260",
+    "name": "Acetic acid",
+    "classes": "preservative",
+    "efsa_adi": "",
+    "india_products": 56,
+    "pct": 2.44,
+    "rank": 15
+  },
+  {
+    "ins": "319",
+    "tag": "en:e319",
+    "name": "Tertiary-butylhydroquinone (tbhq)",
+    "classes": "antioxidant",
+    "efsa_adi": "",
+    "india_products": 56,
+    "pct": 2.44,
+    "rank": 16
+  },
+  {
+    "ins": "202",
+    "tag": "en:e202",
+    "name": "Potassium sorbate",
+    "classes": "preservative",
+    "efsa_adi": "3",
+    "india_products": 49,
+    "pct": 2.14,
+    "rank": 17
+  },
+  {
+    "ins": "296",
+    "tag": "en:e296",
+    "name": "Malic acid",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 49,
+    "pct": 2.14,
+    "rank": 18
+  },
+  {
+    "ins": "503II",
+    "tag": "en:e503ii",
+    "name": "Ammonium hydrogen carbonate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 49,
+    "pct": 2.14,
+    "rank": 19
+  },
+  {
+    "ins": "150D",
+    "tag": "en:e150d",
+    "name": "Sulphite ammonia caramel",
+    "classes": "colour",
+    "efsa_adi": "300",
+    "india_products": 47,
+    "pct": 2.05,
+    "rank": 20
+  },
+  {
+    "ins": "102",
+    "tag": "en:e102",
+    "name": "Tartrazine",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 47,
+    "pct": 2.05,
+    "rank": 21
+  },
+  {
+    "ins": "407",
+    "tag": "en:e407",
+    "name": "Carrageenan",
+    "classes": "carrier, emulsifier, humectant, stabiliser, thickener",
+    "efsa_adi": "75",
+    "india_products": 46,
+    "pct": 2.01,
+    "rank": 22
+  },
+  {
+    "ins": "170",
+    "tag": "en:e170",
+    "name": "Calcium carbonates",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 45,
+    "pct": 1.96,
+    "rank": 23
+  },
+  {
+    "ins": "422",
+    "tag": "en:e422",
+    "name": "Glycerol",
+    "classes": "humectant, thickener",
+    "efsa_adi": "",
+    "india_products": 45,
+    "pct": 1.96,
+    "rank": 24
+  },
+  {
+    "ins": "450",
+    "tag": "en:e450",
+    "name": "Diphosphates",
+    "classes": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 39,
+    "pct": 1.7,
+    "rank": 25
+  },
+  {
+    "ins": "440A",
+    "tag": "en:e440a",
+    "name": "Pectin",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 38,
+    "pct": 1.66,
+    "rank": 26
+  },
+  {
+    "ins": "508",
+    "tag": "en:e508",
+    "name": "Potassium chloride",
+    "classes": "stabiliser, thickener, preservative",
+    "efsa_adi": "",
+    "india_products": 35,
+    "pct": 1.53,
+    "rank": 27
+  },
+  {
+    "ins": "110",
+    "tag": "en:e110",
+    "name": "Sunset yellow FCF",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 34,
+    "pct": 1.48,
+    "rank": 28
+  },
+  {
+    "ins": "160C",
+    "tag": "en:e160c",
+    "name": "Paprika extract",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 34,
+    "pct": 1.48,
+    "rank": 29
+  },
+  {
+    "ins": "170I",
+    "tag": "en:e170i",
+    "name": "Calcium carbonate",
+    "classes": "colour, stabiliser",
+    "efsa_adi": "",
+    "india_products": 33,
+    "pct": 1.44,
+    "rank": 30
+  },
+  {
+    "ins": "414",
+    "tag": "en:e414",
+    "name": "Acacia gum",
+    "classes": "carrier, emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 31,
+    "pct": 1.35,
+    "rank": 31
+  },
+  {
+    "ins": "501",
+    "tag": "en:e501",
+    "name": "Potassium carbonates",
+    "classes": "stabiliser",
+    "efsa_adi": "",
+    "india_products": 30,
+    "pct": 1.31,
+    "rank": 32
+  },
+  {
+    "ins": "466",
+    "tag": "en:e466",
+    "name": "Sodium carboxy methyl cellulose",
+    "classes": "emulsifier, humectant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 30,
+    "pct": 1.31,
+    "rank": 33
+  },
+  {
+    "ins": "282",
+    "tag": "en:e282",
+    "name": "calcium propionate",
+    "classes": "preservative",
+    "efsa_adi": "",
+    "india_products": 30,
+    "pct": 1.31,
+    "rank": 34
+  },
+  {
+    "ins": "150A",
+    "tag": "en:e150a",
+    "name": "Plain caramel",
+    "classes": "colour",
+    "efsa_adi": "300",
+    "india_products": 29,
+    "pct": 1.27,
+    "rank": 35
+  },
+  {
+    "ins": "101",
+    "tag": "en:e101",
+    "name": "Riboflavin",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 29,
+    "pct": 1.27,
+    "rank": 36
+  },
+  {
+    "ins": "150",
+    "tag": "en:e150",
+    "name": "Caramel",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 28,
+    "pct": 1.22,
+    "rank": 37
+  },
+  {
+    "ins": "500I",
+    "tag": "en:e500i",
+    "name": "Sodium carbonate",
+    "classes": "stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 28,
+    "pct": 1.22,
+    "rank": 38
+  },
+  {
+    "ins": "955",
+    "tag": "en:e955",
+    "name": "Sucralose",
+    "classes": "sweetener",
+    "efsa_adi": "",
+    "india_products": 28,
+    "pct": 1.22,
+    "rank": 39
+  },
+  {
+    "ins": "341",
+    "tag": "en:e341",
+    "name": "Calcium phosphates",
+    "classes": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 27,
+    "pct": 1.18,
+    "rank": 40
+  },
+  {
+    "ins": "320",
+    "tag": "en:e320",
+    "name": "Butylated hydroxyanisole (bha)",
+    "classes": "antioxidant",
+    "efsa_adi": "",
+    "india_products": 27,
+    "pct": 1.18,
+    "rank": 41
+  },
+  {
+    "ins": "375",
+    "tag": "en:e375",
+    "name": "Nicotinic acid",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 25,
+    "pct": 1.09,
+    "rank": 42
+  },
+  {
+    "ins": "450I",
+    "tag": "en:e450i",
+    "name": "Disodium diphosphate",
+    "classes": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 24,
+    "pct": 1.05,
+    "rank": 43
+  },
+  {
+    "ins": "223",
+    "tag": "en:e223",
+    "name": "Sodium metabisulphite",
+    "classes": "antioxidant, preservative",
+    "efsa_adi": "0.7",
+    "india_products": 23,
+    "pct": 1.0,
+    "rank": 44
+  },
+  {
+    "ins": "420",
+    "tag": "en:e420",
+    "name": "Sorbitol",
+    "classes": "humectant, sequestrant, stabiliser, sweetener, thickener",
+    "efsa_adi": "",
+    "india_products": 23,
+    "pct": 1.0,
+    "rank": 45
+  },
+  {
+    "ins": "1442",
+    "tag": "en:e1442",
+    "name": "Hydroxypropyl distarch phosphate",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 21,
+    "pct": 0.92,
+    "rank": 46
+  },
+  {
+    "ins": "410",
+    "tag": "en:e410",
+    "name": "Locust bean gum",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 21,
+    "pct": 0.92,
+    "rank": 47
+  },
+  {
+    "ins": "331",
+    "tag": "en:e331",
+    "name": "Sodium citrates",
+    "classes": "emulsifier, sequestrant, stabiliser",
+    "efsa_adi": "",
+    "india_products": 20,
+    "pct": 0.87,
+    "rank": 48
+  },
+  {
+    "ins": "133",
+    "tag": "en:e133",
+    "name": "Brilliant blue FCF",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 19,
+    "pct": 0.83,
+    "rank": 49
+  },
+  {
+    "ins": "122",
+    "tag": "en:e122",
+    "name": "Azorubine",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 19,
+    "pct": 0.83,
+    "rank": 50
+  },
+  {
+    "ins": "200",
+    "tag": "en:e200",
+    "name": "Sorbic acid",
+    "classes": "preservative",
+    "efsa_adi": "3",
+    "india_products": 19,
+    "pct": 0.83,
+    "rank": 51
+  },
+  {
+    "ins": "476",
+    "tag": "en:e476",
+    "name": "Polyglycerol polyricinoleate",
+    "classes": "emulsifier",
+    "efsa_adi": "",
+    "india_products": 19,
+    "pct": 0.83,
+    "rank": 52
+  },
+  {
+    "ins": "635",
+    "tag": "en:e635",
+    "name": "Disodium 5'-ribonucleotide",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 18,
+    "pct": 0.79,
+    "rank": 53
+  },
+  {
+    "ins": "451",
+    "tag": "en:e451",
+    "name": "Triphosphates",
+    "classes": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 18,
+    "pct": 0.79,
+    "rank": 54
+  },
+  {
+    "ins": "392",
+    "tag": "en:e392",
+    "name": "Extracts of rosemary",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 17,
+    "pct": 0.74,
+    "rank": 55
+  },
+  {
+    "ins": "452",
+    "tag": "en:e452",
+    "name": "Polyphosphates",
+    "classes": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 16,
+    "pct": 0.7,
+    "rank": 56
+  },
+  {
+    "ins": "340",
+    "tag": "en:e340",
+    "name": "Potassium phosphates",
+    "classes": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 16,
+    "pct": 0.7,
+    "rank": 57
+  },
+  {
+    "ins": "965",
+    "tag": "en:e965",
+    "name": "maltitol",
+    "classes": "emulsifier, humectant, stabiliser, sweetener, thickener",
+    "efsa_adi": "",
+    "india_products": 16,
+    "pct": 0.7,
+    "rank": 58
+  },
+  {
+    "ins": "1100",
+    "tag": "en:e1100",
+    "name": "Alpha-Amylase",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 15,
+    "pct": 0.65,
+    "rank": 59
+  },
+  {
+    "ins": "472",
+    "tag": "en:e472e",
+    "name": "Mono- and diacetyltartaric acid esters of mono- and diglycerides of fatty acids",
+    "classes": "emulsifier, sequestrant, stabiliser",
+    "efsa_adi": "",
+    "india_products": 14,
+    "pct": 0.61,
+    "rank": 60
+  },
+  {
+    "ins": "950",
+    "tag": "en:e950",
+    "name": "Acesulfame k",
+    "classes": "sweetener",
+    "efsa_adi": "",
+    "india_products": 14,
+    "pct": 0.61,
+    "rank": 61
+  },
+  {
+    "ins": "307B",
+    "tag": "en:e307b",
+    "name": "concentrated tocopherol",
+    "classes": "antioxidant",
+    "efsa_adi": "",
+    "india_products": 14,
+    "pct": 0.61,
+    "rank": 62
+  },
+  {
+    "ins": "100",
+    "tag": "en:e100",
+    "name": "Curcumin",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 13,
+    "pct": 0.57,
+    "rank": 63
+  },
+  {
+    "ins": "334",
+    "tag": "en:e334",
+    "name": "L(+)-tartaric acid",
+    "classes": "antioxidant, sequestrant",
+    "efsa_adi": "",
+    "india_products": 13,
+    "pct": 0.57,
+    "rank": 64
+  },
+  {
+    "ins": "501I",
+    "tag": "en:e501i",
+    "name": "Potassium carbonate",
+    "classes": "stabiliser",
+    "efsa_adi": "",
+    "india_products": 13,
+    "pct": 0.57,
+    "rank": 65
+  },
+  {
+    "ins": "224",
+    "tag": "en:e224",
+    "name": "Potassium metabisulphite",
+    "classes": "antioxidant, preservative",
+    "efsa_adi": "0.7",
+    "india_products": 13,
+    "pct": 0.57,
+    "rank": 66
+  },
+  {
+    "ins": "160A",
+    "tag": "en:e160a",
+    "name": "carotene",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 13,
+    "pct": 0.57,
+    "rank": 67
+  },
+  {
+    "ins": "1422",
+    "tag": "en:e1422",
+    "name": "Acetylated distarch adipate",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 13,
+    "pct": 0.57,
+    "rank": 68
+  },
+  {
+    "ins": "339II",
+    "tag": "en:e339ii",
+    "name": "Disodium phosphate",
+    "classes": "emulsifier, humectant, preservative, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 12,
+    "pct": 0.52,
+    "rank": 69
+  },
+  {
+    "ins": "477",
+    "tag": "en:e477",
+    "name": "Propane-1‚2-diol esters of fatty acids",
+    "classes": "emulsifier",
+    "efsa_adi": "",
+    "india_products": 12,
+    "pct": 0.52,
+    "rank": 70
+  },
+  {
+    "ins": "490",
+    "tag": "en:e490",
+    "name": "Propylene glycol",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 12,
+    "pct": 0.52,
+    "rank": 71
+  },
+  {
+    "ins": "451I",
+    "tag": "en:e451i",
+    "name": "Pentasodium triphosphate",
+    "classes": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 11,
+    "pct": 0.48,
+    "rank": 72
+  },
+  {
+    "ins": "164",
+    "tag": "en:e164",
+    "name": "saffron",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 11,
+    "pct": 0.48,
+    "rank": 73
+  },
+  {
+    "ins": "900",
+    "tag": "en:e900",
+    "name": "Dimethylpolysiloxane and Methylphenylpolysiloxane",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 11,
+    "pct": 0.48,
+    "rank": 74
+  },
+  {
+    "ins": "339",
+    "tag": "en:e339",
+    "name": "Sodium phosphates",
+    "classes": "emulsifier, humectant, preservative, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 11,
+    "pct": 0.48,
+    "rank": 75
+  },
+  {
+    "ins": "120",
+    "tag": "en:e120",
+    "name": "Cochineal",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 10,
+    "pct": 0.44,
+    "rank": 76
+  },
+  {
+    "ins": "960",
+    "tag": "en:e960",
+    "name": "Steviol glycosides",
+    "classes": "sweetener",
+    "efsa_adi": "4",
+    "india_products": 10,
+    "pct": 0.44,
+    "rank": 77
+  },
+  {
+    "ins": "331III",
+    "tag": "en:e331iii",
+    "name": "Trisodium citrate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 10,
+    "pct": 0.44,
+    "rank": 78
+  },
+  {
+    "ins": "621",
+    "tag": "en:e621",
+    "name": "Monosodium glutamate",
+    "classes": "flavour-enhancer",
+    "efsa_adi": "",
+    "india_products": 9,
+    "pct": 0.39,
+    "rank": 79
+  },
+  {
+    "ins": "900A",
+    "tag": "en:e900a",
+    "name": "Dimethyl polysiloxane",
+    "classes": "emulsifier",
+    "efsa_adi": "",
+    "india_products": 9,
+    "pct": 0.39,
+    "rank": 80
+  },
+  {
+    "ins": "160AI",
+    "tag": "en:e160ai",
+    "name": "Beta-carotene",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 9,
+    "pct": 0.39,
+    "rank": 81
+  },
+  {
+    "ins": "1450",
+    "tag": "en:e1450",
+    "name": "Starch sodium octenyl succinate",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 9,
+    "pct": 0.39,
+    "rank": 82
+  },
+  {
+    "ins": "290",
+    "tag": "en:e290",
+    "name": "Carbon dioxide",
+    "classes": "preservative, propellent-gas",
+    "efsa_adi": "",
+    "india_products": 9,
+    "pct": 0.39,
+    "rank": 83
+  },
+  {
+    "ins": "341III",
+    "tag": "en:e341iii",
+    "name": "Tricalcium phosphate",
+    "classes": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 9,
+    "pct": 0.39,
+    "rank": 84
+  },
+  {
+    "ins": "270",
+    "tag": "en:e270",
+    "name": "Lactic acid",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 9,
+    "pct": 0.39,
+    "rank": 85
+  },
+  {
+    "ins": "501II",
+    "tag": "en:e501ii",
+    "name": "Potassium hydrogen carbonate",
+    "classes": "stabiliser",
+    "efsa_adi": "",
+    "india_products": 8,
+    "pct": 0.35,
+    "rank": 86
+  },
+  {
+    "ins": "460",
+    "tag": "en:e460",
+    "name": "Cellulose",
+    "classes": "carrier, emulsifier, humectant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 8,
+    "pct": 0.35,
+    "rank": 87
+  },
+  {
+    "ins": "322-FROM-SOY",
+    "tag": "en:e322-from-soy",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 8,
+    "pct": 0.35,
+    "rank": 88
+  },
+  {
+    "ins": "141",
+    "tag": "en:e141",
+    "name": "Copper complexes of chlorophylls and chlorophyllins",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 7,
+    "pct": 0.31,
+    "rank": 89
+  },
+  {
+    "ins": "171",
+    "tag": "en:e171",
+    "name": "Titanium dioxide",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 7,
+    "pct": 0.31,
+    "rank": 90
+  },
+  {
+    "ins": "162",
+    "tag": "en:e162",
+    "name": "Beetroot red",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 7,
+    "pct": 0.31,
+    "rank": 91
+  },
+  {
+    "ins": "160CI",
+    "tag": "en:e160ci",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 7,
+    "pct": 0.31,
+    "rank": 92
+  },
+  {
+    "ins": "1400",
+    "tag": "en:e1400",
+    "name": "Dextrin",
+    "classes": "carrier, emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 7,
+    "pct": 0.31,
+    "rank": 93
+  },
+  {
+    "ins": "306",
+    "tag": "en:e306",
+    "name": "Tocopherol-rich extract",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 7,
+    "pct": 0.31,
+    "rank": 94
+  },
+  {
+    "ins": "1101",
+    "tag": "en:e1101",
+    "name": "Protease",
+    "classes": "stabiliser",
+    "efsa_adi": "",
+    "india_products": 7,
+    "pct": 0.31,
+    "rank": 95
+  },
+  {
+    "ins": "951",
+    "tag": "en:e951",
+    "name": "Aspartame",
+    "classes": "sweetener",
+    "efsa_adi": "40",
+    "india_products": 7,
+    "pct": 0.31,
+    "rank": 96
+  },
+  {
+    "ins": "341II",
+    "tag": "en:e341ii",
+    "name": "Dicalcium phosphate",
+    "classes": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 7,
+    "pct": 0.31,
+    "rank": 97
+  },
+  {
+    "ins": "385",
+    "tag": "en:e385",
+    "name": "Calcium disodium ethylenediaminetetraacetate",
+    "classes": "antioxidant, preservative, sequestrant",
+    "efsa_adi": "",
+    "india_products": 7,
+    "pct": 0.31,
+    "rank": 98
+  },
+  {
+    "ins": "452I",
+    "tag": "en:e452i",
+    "name": "Sodium polyphosphate",
+    "classes": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 7,
+    "pct": 0.31,
+    "rank": 99
+  },
+  {
+    "ins": "160B",
+    "tag": "en:e160b",
+    "name": "Annatto",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 7,
+    "pct": 0.31,
+    "rank": 100
+  },
+  {
+    "ins": "129",
+    "tag": "en:e129",
+    "name": "Allura red",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 7,
+    "pct": 0.31,
+    "rank": 101
+  },
+  {
+    "ins": "418",
+    "tag": "en:e418",
+    "name": "Gellan gum",
+    "classes": "stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 7,
+    "pct": 0.31,
+    "rank": 102
+  },
+  {
+    "ins": "903",
+    "tag": "en:e903",
+    "name": "Carnauba wax",
+    "classes": "carrier",
+    "efsa_adi": "",
+    "india_products": 6,
+    "pct": 0.26,
+    "rank": 103
+  },
+  {
+    "ins": "954",
+    "tag": "en:e954",
+    "name": "saccharin and its salts",
+    "classes": "sweetener",
+    "efsa_adi": "",
+    "india_products": 6,
+    "pct": 0.26,
+    "rank": 104
+  },
+  {
+    "ins": "450III",
+    "tag": "en:e450iii",
+    "name": "Tetrasodium diphosphate",
+    "classes": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 6,
+    "pct": 0.26,
+    "rank": 105
+  },
+  {
+    "ins": "262",
+    "tag": "en:e262",
+    "name": "Sodium acetates",
+    "classes": "preservative, sequestrant",
+    "efsa_adi": "",
+    "india_products": 6,
+    "pct": 0.26,
+    "rank": 106
+  },
+  {
+    "ins": "518",
+    "tag": "en:e518",
+    "name": "Magnesium sulphate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 6,
+    "pct": 0.26,
+    "rank": 107
+  },
+  {
+    "ins": "509",
+    "tag": "en:e509",
+    "name": "Calcium chloride",
+    "classes": "stabiliser, thickener, coagulant",
+    "efsa_adi": "",
+    "india_products": 6,
+    "pct": 0.26,
+    "rank": 108
+  },
+  {
+    "ins": "127",
+    "tag": "en:e127",
+    "name": "Erythrosine",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 6,
+    "pct": 0.26,
+    "rank": 109
+  },
+  {
+    "ins": "304",
+    "tag": "en:e304",
+    "name": "Fatty acid esters of ascorbic acid",
+    "classes": "antioxidant",
+    "efsa_adi": "",
+    "india_products": 6,
+    "pct": 0.26,
+    "rank": 110
+  },
+  {
+    "ins": "234",
+    "tag": "en:e234",
+    "name": "Nisin",
+    "classes": "preservative",
+    "efsa_adi": "",
+    "india_products": 5,
+    "pct": 0.22,
+    "rank": 111
+  },
+  {
+    "ins": "917",
+    "tag": "en:e917",
+    "name": "potassium iodate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 5,
+    "pct": 0.22,
+    "rank": 112
+  },
+  {
+    "ins": "525",
+    "tag": "en:e525",
+    "name": "Potassium hydroxide",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 5,
+    "pct": 0.22,
+    "rank": 113
+  },
+  {
+    "ins": "481",
+    "tag": "en:e481",
+    "name": "Sodium stearoyl-2-lactylate",
+    "classes": "emulsifier, stabiliser",
+    "efsa_adi": "22",
+    "india_products": 5,
+    "pct": 0.22,
+    "rank": 114
+  },
+  {
+    "ins": "435",
+    "tag": "en:e435",
+    "name": "Polyoxyethylene sorbitan monostearate",
+    "classes": "emulsifier, stabiliser",
+    "efsa_adi": "25",
+    "india_products": 5,
+    "pct": 0.22,
+    "rank": 115
+  },
+  {
+    "ins": "339III",
+    "tag": "en:e339iii",
+    "name": "Trisodium phosphate",
+    "classes": "emulsifier, humectant, preservative, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 5,
+    "pct": 0.22,
+    "rank": 116
+  },
+  {
+    "ins": "250",
+    "tag": "en:e250",
+    "name": "Sodium nitrite",
+    "classes": "preservative",
+    "efsa_adi": "",
+    "india_products": 5,
+    "pct": 0.22,
+    "rank": 117
+  },
+  {
+    "ins": "460I",
+    "tag": "en:e460i",
+    "name": "Microcrystalline cellulose",
+    "classes": "carrier, emulsifier, humectant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 5,
+    "pct": 0.22,
+    "rank": 118
+  },
+  {
+    "ins": "428",
+    "tag": "en:e428",
+    "name": "Gelatine",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 4,
+    "pct": 0.17,
+    "rank": 119
+  },
+  {
+    "ins": "464",
+    "tag": "en:e464",
+    "name": "Hydroxypropyl methyl cellulose",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 4,
+    "pct": 0.17,
+    "rank": 120
+  },
+  {
+    "ins": "530",
+    "tag": "en:e530",
+    "name": "Magnesium oxide",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 4,
+    "pct": 0.17,
+    "rank": 121
+  },
+  {
+    "ins": "570",
+    "tag": "en:e570",
+    "name": "Fatty acids",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 4,
+    "pct": 0.17,
+    "rank": 122
+  },
+  {
+    "ins": "510",
+    "tag": "en:e510",
+    "name": "ammonium chloride",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 4,
+    "pct": 0.17,
+    "rank": 123
+  },
+  {
+    "ins": "301",
+    "tag": "en:e301",
+    "name": "Sodium ascorbate",
+    "classes": "antioxidant",
+    "efsa_adi": "",
+    "india_products": 4,
+    "pct": 0.17,
+    "rank": 124
+  },
+  {
+    "ins": "321",
+    "tag": "en:e321",
+    "name": "Butylated hydroxytoluene",
+    "classes": "antioxidant",
+    "efsa_adi": "",
+    "india_products": 4,
+    "pct": 0.17,
+    "rank": 125
+  },
+  {
+    "ins": "3220",
+    "tag": "en:e3220",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 4,
+    "pct": 0.17,
+    "rank": 126
+  },
+  {
+    "ins": "3221",
+    "tag": "en:e3221",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 4,
+    "pct": 0.17,
+    "rank": 127
+  },
+  {
+    "ins": "327",
+    "tag": "en:e327",
+    "name": "calcium lactate",
+    "classes": "thickener",
+    "efsa_adi": "",
+    "india_products": 4,
+    "pct": 0.17,
+    "rank": 128
+  },
+  {
+    "ins": "442",
+    "tag": "en:e442",
+    "name": "Ammonium phosphatides",
+    "classes": "emulsifier",
+    "efsa_adi": "",
+    "india_products": 4,
+    "pct": 0.17,
+    "rank": 129
+  },
+  {
+    "ins": "931",
+    "tag": "en:e931",
+    "name": "Nitrogen",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 4,
+    "pct": 0.17,
+    "rank": 130
+  },
+  {
+    "ins": "553B",
+    "tag": "en:e553b",
+    "name": "Talc",
+    "classes": "thickener",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 131
+  },
+  {
+    "ins": "553",
+    "tag": "en:e553",
+    "name": "Magnesium silicates",
+    "classes": "thickener",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 132
+  },
+  {
+    "ins": "343II",
+    "tag": "en:e343ii",
+    "name": "Dimagnesium phosphate",
+    "classes": "stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 133
+  },
+  {
+    "ins": "343",
+    "tag": "en:e343",
+    "name": "Magnesium phosphates",
+    "classes": "stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 134
+  },
+  {
+    "ins": "161B",
+    "tag": "en:e161b",
+    "name": "Lutein",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 135
+  },
+  {
+    "ins": "262I",
+    "tag": "en:e262i",
+    "name": "Sodium acetate",
+    "classes": "preservative, sequestrant",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 136
+  },
+  {
+    "ins": "417",
+    "tag": "en:e417",
+    "name": "Tara gum",
+    "classes": "stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 137
+  },
+  {
+    "ins": "386",
+    "tag": "en:e386",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 138
+  },
+  {
+    "ins": "143",
+    "tag": "en:e143",
+    "name": "Fast Green FCF",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 139
+  },
+  {
+    "ins": "307A",
+    "tag": "en:e307a",
+    "name": "D-Alpha-tocopherol",
+    "classes": "antioxidant",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 140
+  },
+  {
+    "ins": "1104",
+    "tag": "en:e1104",
+    "name": "lipase",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 141
+  },
+  {
+    "ins": "1519",
+    "tag": "en:e1519",
+    "name": "Benzyl alcohol",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 142
+  },
+  {
+    "ins": "519",
+    "tag": "en:e519",
+    "name": "Copper sulphate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 143
+  },
+  {
+    "ins": "281",
+    "tag": "en:e281",
+    "name": "Sodium propionate",
+    "classes": "preservative",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 144
+  },
+  {
+    "ins": "210",
+    "tag": "en:e210",
+    "name": "Benzoic acid",
+    "classes": "preservative",
+    "efsa_adi": "5",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 145
+  },
+  {
+    "ins": "1420",
+    "tag": "en:e1420",
+    "name": "Acetylated starch",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 146
+  },
+  {
+    "ins": "572",
+    "tag": "en:e572",
+    "name": "Magnesium stearate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 147
+  },
+  {
+    "ins": "316",
+    "tag": "en:e316",
+    "name": "sodium erythorbate",
+    "classes": "antioxidant",
+    "efsa_adi": "6",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 148
+  },
+  {
+    "ins": "967",
+    "tag": "en:e967",
+    "name": "Xylitol",
+    "classes": "emulsifier, humectant, stabiliser, sweetener, thickener",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 149
+  },
+  {
+    "ins": "420I",
+    "tag": "en:e420i",
+    "name": "D-sorbitol",
+    "classes": "humectant, sequestrant, stabiliser, sweetener, thickener",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 150
+  },
+  {
+    "ins": "620",
+    "tag": "en:e620",
+    "name": "Glutamic acid",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 151
+  },
+  {
+    "ins": "436",
+    "tag": "en:e436",
+    "name": "Polyoxyethylene sorbitan tristearate",
+    "classes": "emulsifier, stabiliser",
+    "efsa_adi": "25",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 152
+  },
+  {
+    "ins": "304II",
+    "tag": "en:e304ii",
+    "name": "Ascorbyl stearate",
+    "classes": "antioxidant",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 153
+  },
+  {
+    "ins": "470I",
+    "tag": "en:e470i",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 154
+  },
+  {
+    "ins": "340II",
+    "tag": "en:e340ii",
+    "name": "Dipotassium phosphate",
+    "classes": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 155
+  },
+  {
+    "ins": "433",
+    "tag": "en:e433",
+    "name": "Polyoxyethylene sorbitan monooleate",
+    "classes": "emulsifier, stabiliser",
+    "efsa_adi": "25",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 156
+  },
+  {
+    "ins": "140",
+    "tag": "en:e140",
+    "name": "Chlorophylls and Chlorophyllins",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 157
+  },
+  {
+    "ins": "536",
+    "tag": "en:e536",
+    "name": "Potassium ferrocyanide",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 158
+  },
+  {
+    "ins": "163",
+    "tag": "en:e163",
+    "name": "Anthocyanins",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 159
+  },
+  {
+    "ins": "338",
+    "tag": "en:e338",
+    "name": "Phosphoric acid",
+    "classes": "antioxidant, sequestrant",
+    "efsa_adi": "",
+    "india_products": 3,
+    "pct": 0.13,
+    "rank": 160
+  },
+  {
+    "ins": "901",
+    "tag": "en:e901",
+    "name": "white and yellow beeswax",
+    "classes": "carrier, emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 161
+  },
+  {
+    "ins": "405",
+    "tag": "en:e405",
+    "name": "Propane-1‚2-diol alginate",
+    "classes": "carrier, emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 162
+  },
+  {
+    "ins": "219",
+    "tag": "en:e219",
+    "name": "Sodium methyl p-hydroxybenzoate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 163
+  },
+  {
+    "ins": "461",
+    "tag": "en:e461",
+    "name": "methyl cellulose",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 164
+  },
+  {
+    "ins": "1503",
+    "tag": "en:e1503",
+    "name": "Castor oil",
+    "classes": "carrier, emulsifier",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 165
+  },
+  {
+    "ins": "161H",
+    "tag": "en:e161h",
+    "name": "Zeaxanthin",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 166
+  },
+  {
+    "ins": "550",
+    "tag": "en:e550",
+    "name": "Sodium silicate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 167
+  },
+  {
+    "ins": "521",
+    "tag": "en:e521",
+    "name": "Aluminium sodium sulphate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 168
+  },
+  {
+    "ins": "1101II",
+    "tag": "en:e1101ii",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 169
+  },
+  {
+    "ins": "575",
+    "tag": "en:e575",
+    "name": "Glucono-delta-lactone",
+    "classes": "sequestrant",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 170
+  },
+  {
+    "ins": "341I",
+    "tag": "en:e341i",
+    "name": "Monocalcium phosphate",
+    "classes": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 171
+  },
+  {
+    "ins": "503I",
+    "tag": "en:e503i",
+    "name": "Ammonium carbonate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 172
+  },
+  {
+    "ins": "401",
+    "tag": "en:e401",
+    "name": "sodium alginate",
+    "classes": "carrier, emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 173
+  },
+  {
+    "ins": "471-481",
+    "tag": "en:e471-481",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 174
+  },
+  {
+    "ins": "1200",
+    "tag": "en:e1200",
+    "name": "Polydextrose",
+    "classes": "humectant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 175
+  },
+  {
+    "ins": "1101III",
+    "tag": "en:e1101iii",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 176
+  },
+  {
+    "ins": "142",
+    "tag": "en:e142",
+    "name": "Green s",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 177
+  },
+  {
+    "ins": "124",
+    "tag": "en:e124",
+    "name": "Ponceau 4r",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 178
+  },
+  {
+    "ins": "475",
+    "tag": "en:e475",
+    "name": "Polyglycerol esters of fatty acids",
+    "classes": "emulsifier, stabiliser",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 179
+  },
+  {
+    "ins": "100I",
+    "tag": "en:e100i",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 180
+  },
+  {
+    "ins": "553III",
+    "tag": "en:e553iii",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 181
+  },
+  {
+    "ins": "1100I",
+    "tag": "en:e1100i",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 182
+  },
+  {
+    "ins": "160AIII",
+    "tag": "en:e160aiii",
+    "name": "Beta-carotene from blakeslea trispora",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 183
+  },
+  {
+    "ins": "968",
+    "tag": "en:e968",
+    "name": "Erythritol",
+    "classes": "humectant, sweetener",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 184
+  },
+  {
+    "ins": "541",
+    "tag": "en:e541",
+    "name": "Sodium aluminium phosphate",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 185
+  },
+  {
+    "ins": "123",
+    "tag": "en:e123",
+    "name": "Amaranth",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 186
+  },
+  {
+    "ins": "310",
+    "tag": "en:e310",
+    "name": "Propyl gallate",
+    "classes": "antioxidant",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 187
+  },
+  {
+    "ins": "579",
+    "tag": "en:e579",
+    "name": "iron gluconate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 188
+  },
+  {
+    "ins": "132",
+    "tag": "en:e132",
+    "name": "Indigotine",
+    "classes": "colour",
+    "efsa_adi": "5",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 189
+  },
+  {
+    "ins": "472",
+    "tag": "en:e472",
+    "name": "acid esters of mono- and diglycerides of fatty acids",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 190
+  },
+  {
+    "ins": "904",
+    "tag": "en:e904",
+    "name": "Shellac",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 191
+  },
+  {
+    "ins": "322-307B",
+    "tag": "en:e322-e307b",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 2,
+    "pct": 0.09,
+    "rank": 192
+  },
+  {
+    "ins": "160",
+    "tag": "en:e160e",
+    "name": "Beta-apo-8′-carotenal (c30)",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 193
+  },
+  {
+    "ins": "440-415",
+    "tag": "en:e440-e415",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 194
+  },
+  {
+    "ins": "172",
+    "tag": "en:e172",
+    "name": "Iron oxides and iron hydroxides",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 195
+  },
+  {
+    "ins": "172II",
+    "tag": "en:e172ii",
+    "name": "Red iron oxide",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 196
+  },
+  {
+    "ins": "141II",
+    "tag": "en:e141ii",
+    "name": "Copper complexes of chlorophyllins",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 197
+  },
+  {
+    "ins": "471-VGTABL-SOURC",
+    "tag": "en:e471-vegetable-source",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 198
+  },
+  {
+    "ins": "471",
+    "tag": "en:e471e",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 199
+  },
+  {
+    "ins": "552",
+    "tag": "en:e552",
+    "name": "Calcium silicate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 200
+  },
+  {
+    "ins": "217",
+    "tag": "en:e217",
+    "name": "Sodium propyl para-hydroxybenzoate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 201
+  },
+  {
+    "ins": "1204",
+    "tag": "en:e1204",
+    "name": "Pullulan",
+    "classes": "thickener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 202
+  },
+  {
+    "ins": "958",
+    "tag": "en:e958",
+    "name": "Glycyrrhizin",
+    "classes": "sweetener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 203
+  },
+  {
+    "ins": "415-NATUR-IDNTICAL-AND-NATURAL-FLAVOUR",
+    "tag": "en:e415-nature-identical-and-natural-flavour",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 204
+  },
+  {
+    "ins": "458",
+    "tag": "en:e458",
+    "name": "Gamma-Cyclodextrine",
+    "classes": "stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 205
+  },
+  {
+    "ins": "330-NATUR-IDNTICAL-FLAVOURING-SUBSTANCS",
+    "tag": "en:e330-nature-identical-flavouring-substances",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 206
+  },
+  {
+    "ins": "487",
+    "tag": "en:e487",
+    "name": "sodium dodecyl sulfate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 207
+  },
+  {
+    "ins": "559",
+    "tag": "en:e559",
+    "name": "Aluminium silicate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 208
+  },
+  {
+    "ins": "280",
+    "tag": "en:e280",
+    "name": "Propionic acid",
+    "classes": "preservative",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 209
+  },
+  {
+    "ins": "923",
+    "tag": "en:e923",
+    "name": "ammonium persulfate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 210
+  },
+  {
+    "ins": "630",
+    "tag": "en:e630",
+    "name": "Inosinic acid",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 211
+  },
+  {
+    "ins": "629",
+    "tag": "en:e629",
+    "name": "Calcium guanylate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 212
+  },
+  {
+    "ins": "440-ACID",
+    "tag": "en:e440-acid",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 213
+  },
+  {
+    "ins": "316-4-DXTROS",
+    "tag": "en:e316-4-dextrose",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 214
+  },
+  {
+    "ins": "122-NUMBR-OF-SRVS-PR-PACK",
+    "tag": "en:e122-number-of-serves-per-pack",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 215
+  },
+  {
+    "ins": "221",
+    "tag": "en:e221",
+    "name": "Sodium sulphite",
+    "classes": "antioxidant, preservative",
+    "efsa_adi": "0.7",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 216
+  },
+  {
+    "ins": "118",
+    "tag": "en:e118",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 217
+  },
+  {
+    "ins": "223-T-AMYLAS",
+    "tag": "en:e223-et-amylase",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 218
+  },
+  {
+    "ins": "5000",
+    "tag": "en:e5000",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 219
+  },
+  {
+    "ins": "470III",
+    "tag": "en:e470iii",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 220
+  },
+  {
+    "ins": "905B",
+    "tag": "en:e905b",
+    "name": "petroleum jelly",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 221
+  },
+  {
+    "ins": "905",
+    "tag": "en:e905",
+    "name": "Synthetic wax",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 222
+  },
+  {
+    "ins": "641",
+    "tag": "en:e641",
+    "name": "Leucine",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 223
+  },
+  {
+    "ins": "337",
+    "tag": "en:e337",
+    "name": "Potassium sodium tartrate",
+    "classes": "sequestrant, stabiliser",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 224
+  },
+  {
+    "ins": "3307",
+    "tag": "en:e3307",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 225
+  },
+  {
+    "ins": "511",
+    "tag": "en:e511",
+    "name": "Magnesium chloride",
+    "classes": "stabiliser, coagulant",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 226
+  },
+  {
+    "ins": "160D",
+    "tag": "en:e160d",
+    "name": "Lycopene",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 227
+  },
+  {
+    "ins": "162II",
+    "tag": "en:e162ii",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 228
+  },
+  {
+    "ins": "640",
+    "tag": "en:e640",
+    "name": "Glycine and its sodium salt",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 229
+  },
+  {
+    "ins": "1440",
+    "tag": "en:e1440",
+    "name": "Hydroxypropyl starch",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 230
+  },
+  {
+    "ins": "470A",
+    "tag": "en:e470a",
+    "name": "Sodium/potassium and calcium salts of fatty acids",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 231
+  },
+  {
+    "ins": "450VII",
+    "tag": "en:e450vii",
+    "name": "Calcium dihydrogen diphosphate",
+    "classes": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 232
+  },
+  {
+    "ins": "516",
+    "tag": "en:e516",
+    "name": "Calcium sulphate",
+    "classes": "sequestrant, stabiliser",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 233
+  },
+  {
+    "ins": "1202",
+    "tag": "en:e1202",
+    "name": "Polyvinylpolypyrrolidone",
+    "classes": "stabiliser",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 234
+  },
+  {
+    "ins": "1521",
+    "tag": "en:e1521",
+    "name": "Polyethylene glycol",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 235
+  },
+  {
+    "ins": "262II",
+    "tag": "en:e262ii",
+    "name": "Sodium diacetate",
+    "classes": "preservative, sequestrant",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 236
+  },
+  {
+    "ins": "1701",
+    "tag": "en:e1701",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 237
+  },
+  {
+    "ins": "421",
+    "tag": "en:e421",
+    "name": "Mannitol",
+    "classes": "humectant, stabiliser, sweetener, thickener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 238
+  },
+  {
+    "ins": "1401",
+    "tag": "en:e1401",
+    "name": "Acid-treated modified starch",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 239
+  },
+  {
+    "ins": "220",
+    "tag": "en:e220",
+    "name": "Sulphur dioxide",
+    "classes": "antioxidant, preservative",
+    "efsa_adi": "0.7",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 240
+  },
+  {
+    "ins": "222",
+    "tag": "en:e222",
+    "name": "Sodium bisulphite",
+    "classes": "antioxidant, preservative",
+    "efsa_adi": "0.7",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 241
+  },
+  {
+    "ins": "322-SOYA",
+    "tag": "en:e322-soya",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 242
+  },
+  {
+    "ins": "381",
+    "tag": "en:e381",
+    "name": "ferric ammonium citrate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 243
+  },
+  {
+    "ins": "150-ACIDITY-RGULATORS",
+    "tag": "en:e150-acidity-regulators",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 244
+  },
+  {
+    "ins": "303II",
+    "tag": "en:e303ii",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 245
+  },
+  {
+    "ins": "261-DIBL-284",
+    "tag": "en:e261-edible-e284",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 246
+  },
+  {
+    "ins": "142-DXTROS",
+    "tag": "en:e142-dextrose",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 247
+  },
+  {
+    "ins": "250-RA-AGNT-500II",
+    "tag": "en:e250-ra-agent-e500ii",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 248
+  },
+  {
+    "ins": "452I-DIBL-COMMON-SALT",
+    "tag": "en:e452i-edible-common-salt",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 249
+  },
+  {
+    "ins": "150C-INS",
+    "tag": "en:e150c-ins",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 250
+  },
+  {
+    "ins": "4806",
+    "tag": "en:e4806",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 251
+  },
+  {
+    "ins": "965I",
+    "tag": "en:e965i",
+    "name": "D-Maltitol",
+    "classes": "emulsifier, humectant, stabiliser, sweetener, thickener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 252
+  },
+  {
+    "ins": "965II",
+    "tag": "en:e965ii",
+    "name": "Maltitol syrup",
+    "classes": "emulsifier, humectant, stabiliser, sweetener, thickener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 253
+  },
+  {
+    "ins": "491",
+    "tag": "en:e491",
+    "name": "Sorbitan monostearate",
+    "classes": "emulsifier",
+    "efsa_adi": "26",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 254
+  },
+  {
+    "ins": "465",
+    "tag": "en:e465",
+    "name": "Ethyl methyl cellulose",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 255
+  },
+  {
+    "ins": "2021",
+    "tag": "en:e2021",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 256
+  },
+  {
+    "ins": "103",
+    "tag": "en:e103",
+    "name": "Alkannin",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 257
+  },
+  {
+    "ins": "472-ND-FLOUR-TRATMNT-AGNTS",
+    "tag": "en:e472e-nd-flour-treatment-agents",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 258
+  },
+  {
+    "ins": "415-440",
+    "tag": "en:e415-e440",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 259
+  },
+  {
+    "ins": "472C",
+    "tag": "en:e472c",
+    "name": "Citric acid esters of mono- and diglycerides of fatty acids",
+    "classes": "antioxidant, emulsifier, sequestrant, stabiliser",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 260
+  },
+  {
+    "ins": "504I",
+    "tag": "en:e504i",
+    "name": "Magnesium carbonate",
+    "classes": "carrier",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 261
+  },
+  {
+    "ins": "504",
+    "tag": "en:e504",
+    "name": "Magnesium carbonates",
+    "classes": "carrier",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 262
+  },
+  {
+    "ins": "420II",
+    "tag": "en:e420ii",
+    "name": "Sorbitol syrup",
+    "classes": "humectant, sequestrant, stabiliser, sweetener, thickener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 263
+  },
+  {
+    "ins": "492",
+    "tag": "en:e492",
+    "name": "Sorbitan tristearate",
+    "classes": "emulsifier, stabiliser",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 264
+  },
+  {
+    "ins": "329",
+    "tag": "en:e329",
+    "name": "Magnesium lactate",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 265
+  },
+  {
+    "ins": "331-PRSRVATIV",
+    "tag": "en:e331-preservative",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 266
+  },
+  {
+    "ins": "300-ULSIFIRS",
+    "tag": "en:e300-eulsifiers",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 267
+  },
+  {
+    "ins": "102-S-133",
+    "tag": "en:e102-s-133",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 268
+  },
+  {
+    "ins": "406",
+    "tag": "en:e406",
+    "name": "Agar",
+    "classes": "carrier, emulsifier, humectant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 269
+  },
+  {
+    "ins": "1700",
+    "tag": "en:e1700",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 270
+  },
+  {
+    "ins": "450II",
+    "tag": "en:e450ii",
+    "name": "Trisodium diphosphate",
+    "classes": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 271
+  },
+  {
+    "ins": "319-CONTAINS-PRMITTD-CLASS-II-PRSRVATIV",
+    "tag": "en:e319-contains-permitted-class-ii-preservative",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 272
+  },
+  {
+    "ins": "541I",
+    "tag": "en:e541i",
+    "name": "Acid sodium aluminium phosphate",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 273
+  },
+  {
+    "ins": "150C-ACIDITY-RGULATORS",
+    "tag": "en:e150c-acidity-regulators",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 274
+  },
+  {
+    "ins": "174",
+    "tag": "en:e174",
+    "name": "Silver",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 275
+  },
+  {
+    "ins": "1103",
+    "tag": "en:e1103",
+    "name": "Invertase",
+    "classes": "stabiliser",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 276
+  },
+  {
+    "ins": "232",
+    "tag": "en:e232",
+    "name": "Sodium orthophenyl phenol",
+    "classes": "preservative",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 277
+  },
+  {
+    "ins": "45100",
+    "tag": "en:e45100",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 278
+  },
+  {
+    "ins": "626",
+    "tag": "en:e626",
+    "name": "Guanylic acid",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 279
+  },
+  {
+    "ins": "211-NUTRITIONAL-INO-SRVING-SRV",
+    "tag": "en:e211-nutritional-ineo-serving-serve",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 280
+  },
+  {
+    "ins": "524",
+    "tag": "en:e524",
+    "name": "Sodium hydroxide",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 281
+  },
+  {
+    "ins": "481I",
+    "tag": "en:e481i",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 282
+  },
+  {
+    "ins": "500II-WHAT-GLUTN",
+    "tag": "en:e500ii-wheat-gluten",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 283
+  },
+  {
+    "ins": "1510",
+    "tag": "en:e1510",
+    "name": "Ethanol",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 284
+  },
+  {
+    "ins": "252",
+    "tag": "en:e252",
+    "name": "Potassium nitrate",
+    "classes": "preservative",
+    "efsa_adi": "3.7",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 285
+  },
+  {
+    "ins": "322-VANILLIN",
+    "tag": "en:e322-vanillin",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 286
+  },
+  {
+    "ins": "201",
+    "tag": "en:e201",
+    "name": "Sodium sorbate",
+    "classes": "preservative",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 287
+  },
+  {
+    "ins": "100II",
+    "tag": "en:e100ii",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 288
+  },
+  {
+    "ins": "330-STABILIZRS",
+    "tag": "en:e330-stabilizers",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 289
+  },
+  {
+    "ins": "953",
+    "tag": "en:e953",
+    "name": "isomalt",
+    "classes": "stabiliser, sweetener, thickener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 290
+  },
+  {
+    "ins": "200A",
+    "tag": "en:e200a",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 291
+  },
+  {
+    "ins": "5011",
+    "tag": "en:e5011",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 292
+  },
+  {
+    "ins": "304I",
+    "tag": "en:e304i",
+    "name": "Ascorbyl palmitate",
+    "classes": "antioxidant",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 293
+  },
+  {
+    "ins": "561",
+    "tag": "en:e561",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 294
+  },
+  {
+    "ins": "500-IL",
+    "tag": "en:e500-il",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 295
+  },
+  {
+    "ins": "45200",
+    "tag": "en:e45200",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 296
+  },
+  {
+    "ins": "140I",
+    "tag": "en:e140i",
+    "name": "Chlorophylls",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 297
+  },
+  {
+    "ins": "212",
+    "tag": "en:e212",
+    "name": "Potassium benzoate",
+    "classes": "preservative",
+    "efsa_adi": "5",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 298
+  },
+  {
+    "ins": "331I",
+    "tag": "en:e331i",
+    "name": "Monosodium citrate",
+    "classes": "emulsifier, sequestrant, stabiliser",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 299
+  },
+  {
+    "ins": "163C",
+    "tag": "en:e163c",
+    "name": "Malvidin",
+    "classes": "colour",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 300
+  },
+  {
+    "ins": "300-CONTAINS-NATURALLY-OCCURING-SUGARS",
+    "tag": "en:e300-contains-naturally-occuring-sugars",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 301
+  },
+  {
+    "ins": "627-631",
+    "tag": "en:e627-e631",
+    "name": "",
+    "classes": "",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 302
+  },
+  {
+    "ins": "407A",
+    "tag": "en:e407a",
+    "name": "Processed eucheuma seaweed",
+    "classes": "carrier, emulsifier, humectant, stabiliser, thickener",
+    "efsa_adi": "75",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 303
+  },
+  {
+    "ins": "473",
+    "tag": "en:e473",
+    "name": "Sucrose esters of fatty acids",
+    "classes": "emulsifier, stabiliser",
+    "efsa_adi": "40",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 304
+  },
+  {
+    "ins": "1412",
+    "tag": "en:e1412",
+    "name": "Distarch phosphate",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 305
+  },
+  {
+    "ins": "1405",
+    "tag": "en:e1405",
+    "name": "Enzyme treated starch",
+    "classes": "emulsifier, stabiliser, thickener",
+    "efsa_adi": "",
+    "india_products": 1,
+    "pct": 0.04,
+    "rank": 306
+  }
+]

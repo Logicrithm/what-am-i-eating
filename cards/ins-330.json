@@ -1,0 +1,129 @@
+{
+  "ins": "330",
+  "e_number": "E330",
+  "name": "Citric acid",
+  "also_called": [],
+  "class": "antioxidant, sequestrant",
+  "what_it_is": "A sour-tasting acid found naturally in lemons and limes. The kind used in food is made industrially by fermenting sugar with a mould.",
+  "why_its_added": "Gives a sour taste, keeps colour from fading, and makes it harder for microbes to grow.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Scientific Opinion on the safety evaluation of the active substances citric acid -E330- and sodium hydrogen carbonate -E500ii-, used as carbon dioxide generators, together with liquid absorbers cellulose and polyacrylic acid sodium salt crosslinked, in active food contact materials.",
+      "source": "http://dx.doi.org/10.2903/j.efsa.2013.3152",
+      "opinion_date": "2013-04",
+      "opinion_age_years": 13,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "allowed",
+      "note": "Generally Recognised As Safe (GRAS) for direct addition to food (21 CFR 184.1033)",
+      "source": "https://www.ecfr.gov/current/title-21/section-184.1033"
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": true,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": "http://dx.doi.org/10.2903/j.efsa.2013.3152"
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 74 of the PDF)",
+      "max_level": "GMP",
+      "page": 74
+    },
+    {
+      "food_category": "(not captured - see page 83 of the PDF)",
+      "max_level": "GMP",
+      "page": 83
+    },
+    {
+      "food_category": "(not captured - see page 102 of the PDF)",
+      "max_level": "GMP",
+      "page": 102
+    },
+    {
+      "food_category": "Butter oil, anhydrous milk fat and ghee (no additives in case of ghee)",
+      "max_level": "GMP",
+      "page": 108
+    },
+    {
+      "food_category": "(not captured - see page 111 of the PDF)",
+      "max_level": "GMP",
+      "page": 111
+    },
+    {
+      "food_category": "Peeled or cut minimally processed fruits",
+      "max_level": "GMP",
+      "page": 127
+    },
+    {
+      "food_category": "roots and",
+      "max_level": "GMP",
+      "page": 149
+    },
+    {
+      "food_category": "Citric acid",
+      "max_level": "GMP",
+      "page": 149
+    },
+    {
+      "food_category": "Citric acid",
+      "max_level": "GMP",
+      "page": 150
+    },
+    {
+      "food_category": "(not captured - see page 159 of the PDF)",
+      "max_level": "GMP",
+      "page": 159
+    },
+    {
+      "food_category": "and like",
+      "max_level": "GMP",
+      "page": 187
+    },
+    {
+      "food_category": "(not captured - see page 190 of the PDF)",
+      "max_level": "GMP",
+      "page": 190
+    }
+  ],
+  "found_in_india_products": 247,
+  "pct_of_india_products": 10.78,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

@@ -1,0 +1,133 @@
+{
+  "ins": "150D",
+  "e_number": "E150D",
+  "name": "Sulphite ammonia caramel",
+  "also_called": [],
+  "class": "colour",
+  "what_it_is": "A dark brown colour made by heating sugar together with sulphites and ammonia.",
+  "why_its_added": "Gives colas and other dark drinks their brown colour.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Refined exposure assessment for caramel colours -E 150a, c, d-",
+      "source": "http://dx.doi.org/10.2903/j.efsa.2012.3030",
+      "opinion_date": "2012-12",
+      "opinion_age_years": 14,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": 300.0,
+    "unit": "mg per kg of body weight per day",
+    "set_by": "EFSA (European Food Safety Authority)",
+    "source": "http://dx.doi.org/10.2903/j.efsa.2012.3030",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [
+      "no-group"
+    ],
+    "groups_over_limit_high_consumers": [
+      "no-group"
+    ],
+    "source": "http://dx.doi.org/10.2903/j.efsa.2012.3030"
+  },
+  "india_limits": [
+    {
+      "food_category": "Dairy-based drinks - flavoured milk and/or fermented",
+      "max_level": "2,000 mg/kg",
+      "page": 69
+    },
+    {
+      "food_category": "Fermented milks (plain)*",
+      "max_level": "150 mg/kg",
+      "page": 71
+    },
+    {
+      "food_category": "Renneted milk (plain)",
+      "max_level": "GMP",
+      "page": 76
+    },
+    {
+      "food_category": "Non dairy based beverage whitener",
+      "max_level": "1,000 mg/kg",
+      "page": 81
+    },
+    {
+      "food_category": "Cream analogues",
+      "max_level": "5,000 mg/kg",
+      "page": 86
+    },
+    {
+      "food_category": "Caramel IV -",
+      "max_level": "5,000 mg/kg",
+      "page": 88
+    },
+    {
+      "food_category": "(not captured - see page 90 of the PDF)",
+      "max_level": "50,000 mg/kg",
+      "page": 90
+    },
+    {
+      "food_category": "Ripened cheese includes rind",
+      "max_level": "50,000 mg/kg",
+      "page": 95
+    },
+    {
+      "food_category": "ripened cheese",
+      "max_level": "50,000 mg/kg",
+      "page": 96
+    },
+    {
+      "food_category": "(not captured - see page 99 of the PDF)",
+      "max_level": "50,000 mg/kg",
+      "page": 99
+    },
+    {
+      "food_category": "Cheese analogues",
+      "max_level": "50,000 mg/kg",
+      "page": 100
+    },
+    {
+      "food_category": "(not captured - see page 103 of the PDF)",
+      "max_level": "3,000 mg/kg",
+      "page": 103
+    }
+  ],
+  "found_in_india_products": 47,
+  "pct_of_india_products": 2.05,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

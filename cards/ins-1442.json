@@ -1,0 +1,99 @@
+{
+  "ins": "1442",
+  "e_number": "E1442",
+  "name": "Hydroxypropyl distarch phosphate",
+  "also_called": [],
+  "class": "emulsifier, stabiliser, thickener",
+  "what_it_is": "Ordinary starch, changed slightly so that it holds up to heat, acid and freezing.",
+  "why_its_added": "Thickens sauces and fillings and keeps them stable after cooking or freezing.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "",
+      "source": "",
+      "opinion_date": "",
+      "opinion_age_years": null,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 78 of the PDF)",
+      "max_level": "GMP",
+      "page": 78
+    },
+    {
+      "food_category": "(not captured - see page 84 of the PDF)",
+      "max_level": "GMP",
+      "page": 84
+    },
+    {
+      "food_category": "Dried whey and whey products, excluding whey cheeses",
+      "max_level": "10,000 mg/kg",
+      "page": 106
+    },
+    {
+      "food_category": "(not captured - see page 235 of the PDF)",
+      "max_level": "GMP",
+      "page": 235
+    },
+    {
+      "food_category": "(not captured - see page 261 of the PDF)",
+      "max_level": "GMP",
+      "page": 261
+    },
+    {
+      "food_category": "(not captured - see page 301 of the PDF)",
+      "max_level": "GMP",
+      "page": 301
+    }
+  ],
+  "found_in_india_products": 21,
+  "pct_of_india_products": 0.92,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

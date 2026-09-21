@@ -1,0 +1,129 @@
+{
+  "ins": "170I",
+  "e_number": "E170I",
+  "name": "Calcium carbonate",
+  "also_called": [],
+  "class": "colour, stabiliser",
+  "what_it_is": "Chalk. The same mineral as limestone and marble.",
+  "why_its_added": "Firms food, reduces acidity, adds calcium and whitens.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Scientific Opinion on re‐evaluation of calcium carbonate -E 170- as a food additive",
+      "source": "http://www.efsa.europa.eu/fr/efsajournal/doc/2318.pdf",
+      "opinion_date": "2011-07",
+      "opinion_age_years": 15,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "allowed",
+      "note": "Generally Recognised As Safe (GRAS) for direct addition to food (21 CFR 184.1191)",
+      "source": "https://www.ecfr.gov/current/title-21/section-184.1191"
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": true,
+  "vegetarian_status": {
+    "vegetarian": "maybe",
+    "vegan": "maybe",
+    "means": "Can be made from either plant or animal sources. The label is not required to say which one was used."
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": "http://www.efsa.europa.eu/fr/efsajournal/doc/2318.pdf"
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 74 of the PDF)",
+      "max_level": "GMP",
+      "page": 74
+    },
+    {
+      "food_category": "SORBATES",
+      "max_level": "GMP",
+      "page": 76
+    },
+    {
+      "food_category": "(not captured - see page 83 of the PDF)",
+      "max_level": "GMP",
+      "page": 83
+    },
+    {
+      "food_category": "excluding",
+      "max_level": "GMP",
+      "page": 158
+    },
+    {
+      "food_category": "Ammonium persulfate",
+      "max_level": "5,000 mg/kg",
+      "page": 184
+    },
+    {
+      "food_category": "and like",
+      "max_level": "GMP",
+      "page": 187
+    },
+    {
+      "food_category": "Dried pastas and noodles and like products",
+      "max_level": "GMP",
+      "page": 189
+    },
+    {
+      "food_category": "Ascorbic acid",
+      "max_level": "GMP",
+      "page": 227
+    },
+    {
+      "food_category": "Cooked and/or fried fish and fish products, including molluscs, crustaceans, and echinoderms",
+      "max_level": "GMP",
+      "page": 236
+    },
+    {
+      "food_category": "(not captured - see page 238 of the PDF)",
+      "max_level": "GMP",
+      "page": 238
+    },
+    {
+      "food_category": "Smoked, dried, fermented, and/or salted fish and fish products, including molluscs, crustaceans, and echinoderms (Dried shark fins, Salted fish/ dried salted fish)",
+      "max_level": "GMP",
+      "page": 241
+    },
+    {
+      "food_category": "dextrose (icing",
+      "max_level": "15,000 mg/kg",
+      "page": 257
+    }
+  ],
+  "found_in_india_products": 33,
+  "pct_of_india_products": 1.44,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

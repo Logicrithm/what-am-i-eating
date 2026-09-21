@@ -1,0 +1,74 @@
+{
+  "ins": "282",
+  "e_number": "E282",
+  "name": "calcium propionate",
+  "also_called": [],
+  "class": "preservative",
+  "what_it_is": "The calcium salt of propionic acid, which occurs naturally in some cheeses.",
+  "why_its_added": "Stops mould growing in bread and baked goods.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Scientific Opinion on the re-evaluation of propionic acid -E 280-, sodium propionate -E 281-, calcium propionate -E 282- and potassium propionate -E 283- as food additives",
+      "source": "http://dx.doi.org/10.2903/j.efsa.2014.3779",
+      "opinion_date": "2014-07",
+      "opinion_age_years": 12,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "allowed",
+      "note": "Generally Recognised As Safe (GRAS) for direct addition to food (21 CFR 184.1221)",
+      "source": "https://www.ecfr.gov/current/title-21/section-184.1221"
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": true,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": "http://dx.doi.org/10.2903/j.efsa.2014.3779"
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 102 of the PDF)",
+      "max_level": "3,000 mg/kg",
+      "page": 102
+    }
+  ],
+  "found_in_india_products": 30,
+  "pct_of_india_products": 1.31,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

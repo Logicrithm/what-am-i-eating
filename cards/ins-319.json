@@ -1,0 +1,129 @@
+{
+  "ins": "319",
+  "e_number": "E319",
+  "name": "Tertiary-butylhydroquinone (tbhq)",
+  "also_called": [],
+  "class": "antioxidant",
+  "what_it_is": "A man-made antioxidant used in fats and oils.",
+  "why_its_added": "Keeps cooking oil and fried snacks from going rancid and tasting stale.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Statement on the refined exposure assessment of tertiary-butyl hydroquinone -E 319-",
+      "source": "http://dx.doi.org/10.2903/j.efsa.2016.4363",
+      "opinion_date": "2016-01",
+      "opinion_age_years": 10,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": "http://dx.doi.org/10.2903/j.efsa.2016.4363"
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 82 of the PDF)",
+      "max_level": "100 mg/kg",
+      "page": 82
+    },
+    {
+      "food_category": "(not captured - see page 109 of the PDF)",
+      "max_level": "200 mg/kg",
+      "page": 109
+    },
+    {
+      "food_category": "(not captured - see page 111 of the PDF)",
+      "max_level": "200 mg/kg",
+      "page": 111
+    },
+    {
+      "food_category": "Fat spreads, dairy fat spreads and blended spreads (margarine and fat spreads)",
+      "max_level": "200 mg/kg",
+      "page": 113
+    },
+    {
+      "food_category": "(not captured - see page 118 of the PDF)",
+      "max_level": "200 mg/kg",
+      "page": 118
+    },
+    {
+      "food_category": "(not captured - see page 121 of the PDF)",
+      "max_level": "200 mg/kg",
+      "page": 121
+    },
+    {
+      "food_category": "Ponceau 4R",
+      "max_level": "200 mg/kg",
+      "page": 124
+    },
+    {
+      "food_category": "(not captured - see page 136 of the PDF)",
+      "max_level": "200 mg/kg",
+      "page": 136
+    },
+    {
+      "food_category": "Cocoa and chocolate products",
+      "max_level": "200 mg/kg",
+      "page": 164
+    },
+    {
+      "food_category": "(not captured - see page 172 of the PDF)",
+      "max_level": "200 mg/kg",
+      "page": 172
+    },
+    {
+      "food_category": "(not captured - see page 178 of the PDF)",
+      "max_level": "400 mg/kg",
+      "page": 178
+    },
+    {
+      "food_category": "(not captured - see page 180 of the PDF)",
+      "max_level": "200 mg/kg",
+      "page": 180
+    }
+  ],
+  "found_in_india_products": 56,
+  "pct_of_india_products": 2.44,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

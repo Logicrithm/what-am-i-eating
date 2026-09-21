@@ -1,0 +1,132 @@
+{
+  "ins": "955",
+  "e_number": "E955",
+  "name": "Sucralose",
+  "also_called": [],
+  "class": "sweetener",
+  "what_it_is": "Made from ordinary sugar, changed so the body passes it through. It is around 600 times sweeter.",
+  "why_its_added": "Gives sweetness with almost no calories and without feeding the bacteria that cause tooth decay.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Statement on the validity of the conclusions of a mouse carcinogenicity study on sucralose (E 955) performed by the Ramazzini Institute",
+      "source": "https://doi.org/10.2903/j.efsa.2017.4784",
+      "opinion_date": "2017-05",
+      "opinion_age_years": 9,
+      "replaced_an_older_opinion": {
+        "date": "2016-01",
+        "title": "Safety of the proposed extension of use of sucralose -E 955- in foods for special medical purposes in young children"
+      }
+    },
+    "usa": {
+      "value": "allowed_with_limits",
+      "note": "Permitted as a food additive, subject to the conditions in this section (21 CFR 172.831)",
+      "source": "https://www.ecfr.gov/current/title-21/section-172.831"
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": "http://dx.doi.org/10.2903/j.efsa.2016.4361"
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 70 of the PDF)",
+      "max_level": "300 mg/kg",
+      "page": 70
+    },
+    {
+      "food_category": "(not captured - see page 82 of the PDF)",
+      "max_level": "580 mg/kg",
+      "page": 82
+    },
+    {
+      "food_category": "(not captured - see page 87 of the PDF)",
+      "max_level": "580 mg/kg",
+      "page": 87
+    },
+    {
+      "food_category": "PHOSPHATES",
+      "max_level": "500 mg/kg",
+      "page": 101
+    },
+    {
+      "food_category": "(not captured - see page 104 of the PDF)",
+      "max_level": "400 mg/kg",
+      "page": 104
+    },
+    {
+      "food_category": "Fat-based desserts excluding dairy-based dessert products of food category 1.7 (frozen desserts/froze n confections)",
+      "max_level": "400 mg/kg",
+      "page": 118
+    },
+    {
+      "food_category": "(not captured - see page 122 of the PDF)",
+      "max_level": "400 mg/kg",
+      "page": 122
+    },
+    {
+      "food_category": "Ponceau 4R",
+      "max_level": "320 mg/kg",
+      "page": 124
+    },
+    {
+      "food_category": "(not captured - see page 130 of the PDF)",
+      "max_level": "180 mg/kg",
+      "page": 130
+    },
+    {
+      "food_category": "(not captured - see page 132 of the PDF)",
+      "max_level": "400 mg/kg",
+      "page": 132
+    },
+    {
+      "food_category": "(not captured - see page 134 of the PDF)",
+      "max_level": "400 mg/kg",
+      "page": 134
+    },
+    {
+      "food_category": "(not captured - see page 136 of the PDF)",
+      "max_level": "400 mg/kg",
+      "page": 136
+    }
+  ],
+  "found_in_india_products": 28,
+  "pct_of_india_products": 1.22,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

@@ -1,0 +1,129 @@
+{
+  "ins": "466",
+  "e_number": "E466",
+  "name": "Sodium carboxy methyl cellulose",
+  "also_called": [],
+  "class": "emulsifier, humectant, stabiliser, thickener",
+  "what_it_is": "Plant cellulose treated so that it dissolves in water.",
+  "why_its_added": "Thickens food and keeps ice cream smooth by stopping large ice crystals.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "",
+      "source": "",
+      "opinion_date": "",
+      "opinion_age_years": null,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "allowed",
+      "note": "Generally Recognised As Safe (GRAS) (21 CFR 182.1745)",
+      "source": "https://www.ecfr.gov/current/title-21/section-182.1745"
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": true,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 75 of the PDF)",
+      "max_level": "GMP",
+      "page": 75
+    },
+    {
+      "food_category": "(not captured - see page 79 of the PDF)",
+      "max_level": "GMP",
+      "page": 79
+    },
+    {
+      "food_category": "(not captured - see page 85 of the PDF)",
+      "max_level": "GMP",
+      "page": 85
+    },
+    {
+      "food_category": "(not captured - see page 188 of the PDF)",
+      "max_level": "GMP",
+      "page": 188
+    },
+    {
+      "food_category": "(not captured - see page 192 of the PDF)",
+      "max_level": "GMP",
+      "page": 192
+    },
+    {
+      "food_category": "(not captured - see page 230 of the PDF)",
+      "max_level": "GMP",
+      "page": 230
+    },
+    {
+      "food_category": "(not captured - see page 234 of the PDF)",
+      "max_level": "GMP",
+      "page": 234
+    },
+    {
+      "food_category": "(not captured - see page 244 of the PDF)",
+      "max_level": "GMP",
+      "page": 244
+    },
+    {
+      "food_category": "Carboxy",
+      "max_level": "GMP",
+      "page": 249
+    },
+    {
+      "food_category": "Sodium alginate",
+      "max_level": "GMP",
+      "page": 252
+    },
+    {
+      "food_category": "Sodium alginate",
+      "max_level": "GMP",
+      "page": 254
+    },
+    {
+      "food_category": "(not captured - see page 264 of the PDF)",
+      "max_level": "GMP",
+      "page": 264
+    }
+  ],
+  "found_in_india_products": 30,
+  "pct_of_india_products": 1.31,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

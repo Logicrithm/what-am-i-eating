@@ -1,0 +1,74 @@
+{
+  "ins": "170",
+  "e_number": "E170",
+  "name": "Calcium carbonates",
+  "also_called": [],
+  "class": "",
+  "what_it_is": "Chalk. The same mineral as limestone and marble.",
+  "why_its_added": "Firms food, reduces acidity, adds calcium and whitens.",
+  "status": {
+    "india": {
+      "value": "allowed",
+      "note": "Permitted at GMP level - used as needed, no fixed numeric cap in the categories found.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Scientific Opinion on re‐evaluation of calcium carbonate (E 170) as a food additive",
+      "source": "https://doi.org/10.2903/j.efsa.2011.2318",
+      "opinion_date": "2011-07",
+      "opinion_age_years": 15,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": true,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [
+    {
+      "food_category": "categories",
+      "max_level": "GMP",
+      "page": 158
+    }
+  ],
+  "found_in_india_products": 45,
+  "pct_of_india_products": 1.96,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

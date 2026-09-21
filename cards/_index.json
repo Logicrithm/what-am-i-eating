@@ -1,0 +1,402 @@
+[
+  {
+    "ins": "330",
+    "name": "Citric acid",
+    "class": "antioxidant, sequestrant",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 247
+  },
+  {
+    "ins": "322",
+    "name": "Lecithins",
+    "class": "antioxidant, emulsifier",
+    "india": "allowed",
+    "disagree": false,
+    "products": 156
+  },
+  {
+    "ins": "500",
+    "name": "Sodium carbonates",
+    "class": "stabiliser, thickener",
+    "india": "not_found",
+    "disagree": false,
+    "products": 147
+  },
+  {
+    "ins": "471",
+    "name": "Mono- and diglycerides of fatty acids",
+    "class": "emulsifier, stabiliser",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 109
+  },
+  {
+    "ins": "500II",
+    "name": "Sodium hydrogen carbonate",
+    "class": "stabiliser, thickener",
+    "india": "allowed",
+    "disagree": false,
+    "products": 99
+  },
+  {
+    "ins": "322I",
+    "name": "Lecithin",
+    "class": "antioxidant, emulsifier",
+    "india": "allowed",
+    "disagree": false,
+    "products": 85
+  },
+  {
+    "ins": "412",
+    "name": "Guar gum",
+    "class": "emulsifier, stabiliser, thickener",
+    "india": "allowed",
+    "disagree": false,
+    "products": 81
+  },
+  {
+    "ins": "415",
+    "name": "Xanthan gum",
+    "class": "emulsifier, stabiliser, thickener",
+    "india": "allowed",
+    "disagree": false,
+    "products": 80
+  },
+  {
+    "ins": "551",
+    "name": "Silicon dioxide",
+    "class": "carrier",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 77
+  },
+  {
+    "ins": "627",
+    "name": "Disodium guanylate",
+    "class": "",
+    "india": "allowed",
+    "disagree": false,
+    "products": 64
+  },
+  {
+    "ins": "503",
+    "name": "Ammonium carbonates",
+    "class": "",
+    "india": "not_found",
+    "disagree": false,
+    "products": 64
+  },
+  {
+    "ins": "211",
+    "name": "Sodium benzoate",
+    "class": "preservative",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 63
+  },
+  {
+    "ins": "631",
+    "name": "Disodium inosinate",
+    "class": "",
+    "india": "allowed",
+    "disagree": false,
+    "products": 62
+  },
+  {
+    "ins": "300",
+    "name": "Ascorbic acid",
+    "class": "antioxidant, sequestrant",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 59
+  },
+  {
+    "ins": "260",
+    "name": "Acetic acid",
+    "class": "preservative",
+    "india": "allowed",
+    "disagree": false,
+    "products": 56
+  },
+  {
+    "ins": "319",
+    "name": "Tertiary-butylhydroquinone (tbhq)",
+    "class": "antioxidant",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 56
+  },
+  {
+    "ins": "202",
+    "name": "Potassium sorbate",
+    "class": "preservative",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 49
+  },
+  {
+    "ins": "296",
+    "name": "Malic acid",
+    "class": "",
+    "india": "allowed",
+    "disagree": false,
+    "products": 49
+  },
+  {
+    "ins": "503II",
+    "name": "Ammonium hydrogen carbonate",
+    "class": "",
+    "india": "not_found",
+    "disagree": false,
+    "products": 49
+  },
+  {
+    "ins": "150D",
+    "name": "Sulphite ammonia caramel",
+    "class": "colour",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 47
+  },
+  {
+    "ins": "102",
+    "name": "Tartrazine",
+    "class": "colour",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 47
+  },
+  {
+    "ins": "407",
+    "name": "Carrageenan",
+    "class": "carrier, emulsifier, humectant, stabiliser, thickener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 46
+  },
+  {
+    "ins": "170",
+    "name": "Calcium carbonates",
+    "class": "",
+    "india": "allowed",
+    "disagree": false,
+    "products": 45
+  },
+  {
+    "ins": "422",
+    "name": "Glycerol",
+    "class": "humectant, thickener",
+    "india": "allowed",
+    "disagree": false,
+    "products": 45
+  },
+  {
+    "ins": "450",
+    "name": "Diphosphates",
+    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 39
+  },
+  {
+    "ins": "440A",
+    "name": "Pectin",
+    "class": "emulsifier, stabiliser, thickener",
+    "india": "allowed",
+    "disagree": false,
+    "products": 38
+  },
+  {
+    "ins": "508",
+    "name": "Potassium chloride",
+    "class": "stabiliser, thickener, preservative",
+    "india": "allowed",
+    "disagree": false,
+    "products": 35
+  },
+  {
+    "ins": "110",
+    "name": "Sunset yellow FCF",
+    "class": "colour",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 34
+  },
+  {
+    "ins": "160C",
+    "name": "Paprika extract",
+    "class": "colour",
+    "india": "allowed",
+    "disagree": false,
+    "products": 34
+  },
+  {
+    "ins": "170I",
+    "name": "Calcium carbonate",
+    "class": "colour, stabiliser",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 33
+  },
+  {
+    "ins": "414",
+    "name": "Acacia gum",
+    "class": "carrier, emulsifier, stabiliser, thickener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 31
+  },
+  {
+    "ins": "501",
+    "name": "Potassium carbonates",
+    "class": "stabiliser",
+    "india": "allowed",
+    "disagree": false,
+    "products": 30
+  },
+  {
+    "ins": "466",
+    "name": "Sodium carboxy methyl cellulose",
+    "class": "emulsifier, humectant, stabiliser, thickener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 30
+  },
+  {
+    "ins": "282",
+    "name": "calcium propionate",
+    "class": "preservative",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 30
+  },
+  {
+    "ins": "150A",
+    "name": "Plain caramel",
+    "class": "colour",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 29
+  },
+  {
+    "ins": "101",
+    "name": "Riboflavin",
+    "class": "colour",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 29
+  },
+  {
+    "ins": "150",
+    "name": "Caramel",
+    "class": "",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 28
+  },
+  {
+    "ins": "500I",
+    "name": "Sodium carbonate",
+    "class": "stabiliser, thickener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 28
+  },
+  {
+    "ins": "955",
+    "name": "Sucralose",
+    "class": "sweetener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 28
+  },
+  {
+    "ins": "341",
+    "name": "Calcium phosphates",
+    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 27
+  },
+  {
+    "ins": "320",
+    "name": "Butylated hydroxyanisole (bha)",
+    "class": "antioxidant",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 27
+  },
+  {
+    "ins": "375",
+    "name": "Nicotinic acid",
+    "class": "",
+    "india": "not_found",
+    "disagree": false,
+    "products": 25
+  },
+  {
+    "ins": "450I",
+    "name": "Disodium diphosphate",
+    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 24
+  },
+  {
+    "ins": "223",
+    "name": "Sodium metabisulphite",
+    "class": "antioxidant, preservative",
+    "india": "allowed",
+    "disagree": false,
+    "products": 23
+  },
+  {
+    "ins": "420",
+    "name": "Sorbitol",
+    "class": "humectant, sequestrant, stabiliser, sweetener, thickener",
+    "india": "allowed",
+    "disagree": false,
+    "products": 23
+  },
+  {
+    "ins": "1442",
+    "name": "Hydroxypropyl distarch phosphate",
+    "class": "emulsifier, stabiliser, thickener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 21
+  },
+  {
+    "ins": "410",
+    "name": "Locust bean gum",
+    "class": "emulsifier, stabiliser, thickener",
+    "india": "allowed",
+    "disagree": false,
+    "products": 21
+  },
+  {
+    "ins": "331",
+    "name": "Sodium citrates",
+    "class": "emulsifier, sequestrant, stabiliser",
+    "india": "not_found",
+    "disagree": false,
+    "products": 20
+  },
+  {
+    "ins": "133",
+    "name": "Brilliant blue FCF",
+    "class": "colour",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 19
+  },
+  {
+    "ins": "122",
+    "name": "Azorubine",
+    "class": "colour",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 19
+  }
+]

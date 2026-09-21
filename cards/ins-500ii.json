@@ -1,0 +1,109 @@
+{
+  "ins": "500II",
+  "e_number": "E500II",
+  "name": "Sodium hydrogen carbonate",
+  "also_called": [],
+  "class": "stabiliser, thickener",
+  "what_it_is": "Baking soda, the white powder used in home kitchens.",
+  "why_its_added": "Releases gas when heated or mixed with acid, so cakes, biscuits and breads rise.",
+  "status": {
+    "india": {
+      "value": "allowed",
+      "note": "Permitted at GMP level - used as needed, no fixed numeric cap in the categories found.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Scientific Opinion on the safety evaluation of the active substances citric acid -E330- and sodium hydrogen carbonate -E500ii-, used as carbon dioxide generators, together with liquid absorbers cellulose and polyacrylic acid sodium salt crosslinked, in active food contact materials.",
+      "source": "http://dx.doi.org/10.2903/j.efsa.2013.3152",
+      "opinion_date": "2013-04",
+      "opinion_age_years": 13,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": true,
+  "vegetarian_status": {
+    "vegetarian": "not_known",
+    "vegan": "not_known",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": "http://dx.doi.org/10.2903/j.efsa.2013.3152"
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 75 of the PDF)",
+      "max_level": "GMP",
+      "page": 75
+    },
+    {
+      "food_category": "(not captured - see page 85 of the PDF)",
+      "max_level": "GMP",
+      "page": 85
+    },
+    {
+      "food_category": "(not captured - see page 107 of the PDF)",
+      "max_level": "GMP",
+      "page": 107
+    },
+    {
+      "food_category": "(not captured - see page 113 of the PDF)",
+      "max_level": "GMP",
+      "page": 113
+    },
+    {
+      "food_category": "Sodium",
+      "max_level": "GMP",
+      "page": 188
+    },
+    {
+      "food_category": "(not captured - see page 192 of the PDF)",
+      "max_level": "GMP",
+      "page": 192
+    },
+    {
+      "food_category": "(not captured - see page 232 of the PDF)",
+      "max_level": "GMP",
+      "page": 232
+    },
+    {
+      "food_category": "(not captured - see page 303 of the PDF)",
+      "max_level": "GMP",
+      "page": 303
+    }
+  ],
+  "found_in_india_products": 99,
+  "pct_of_india_products": 4.32,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

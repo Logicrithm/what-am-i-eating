@@ -1,0 +1,129 @@
+{
+  "ins": "410",
+  "e_number": "E410",
+  "name": "Locust bean gum",
+  "also_called": [],
+  "class": "emulsifier, stabiliser, thickener",
+  "what_it_is": "A thickener ground from the seeds of the carob tree.",
+  "why_its_added": "Thickens food and stops ice crystals forming in ice cream.",
+  "status": {
+    "india": {
+      "value": "allowed",
+      "note": "Permitted at GMP level - used as needed, no fixed numeric cap in the categories found.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Re‐evaluation of locust bean gum -E 410- as a food additive",
+      "source": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4646",
+      "opinion_date": "2017-01",
+      "opinion_age_years": 9,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "allowed",
+      "note": "Generally Recognised As Safe (GRAS) for direct addition to food (21 CFR 184.1343)",
+      "source": "https://www.ecfr.gov/current/title-21/section-184.1343"
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": true,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4646"
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 74 of the PDF)",
+      "max_level": "GMP",
+      "page": 74
+    },
+    {
+      "food_category": "Lecithins",
+      "max_level": "GMP",
+      "page": 76
+    },
+    {
+      "food_category": "(not captured - see page 83 of the PDF)",
+      "max_level": "GMP",
+      "page": 83
+    },
+    {
+      "food_category": "and like",
+      "max_level": "GMP",
+      "page": 187
+    },
+    {
+      "food_category": "(not captured - see page 190 of the PDF)",
+      "max_level": "GMP",
+      "page": 190
+    },
+    {
+      "food_category": "(not captured - see page 228 of the PDF)",
+      "max_level": "GMP",
+      "page": 228
+    },
+    {
+      "food_category": "(not captured - see page 232 of the PDF)",
+      "max_level": "GMP",
+      "page": 232
+    },
+    {
+      "food_category": "(not captured - see page 236 of the PDF)",
+      "max_level": "GMP",
+      "page": 236
+    },
+    {
+      "food_category": "Cooked fish and fish products",
+      "max_level": "GMP",
+      "page": 237
+    },
+    {
+      "food_category": "Fried fish and fish products, including molluscs, crustaceans, and echinoderms",
+      "max_level": "GMP",
+      "page": 240
+    },
+    {
+      "food_category": "Trisodium citrate",
+      "max_level": "GMP",
+      "page": 251
+    },
+    {
+      "food_category": "Trisodium citrate",
+      "max_level": "GMP",
+      "page": 253
+    }
+  ],
+  "found_in_india_products": 21,
+  "pct_of_india_products": 0.92,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

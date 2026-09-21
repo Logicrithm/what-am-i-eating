@@ -1,0 +1,79 @@
+{
+  "ins": "160C",
+  "e_number": "E160C",
+  "name": "Paprika extract",
+  "also_called": [],
+  "class": "colour",
+  "what_it_is": "Colour taken from red peppers.",
+  "why_its_added": "Gives food a red-orange colour.",
+  "status": {
+    "india": {
+      "value": "allowed",
+      "note": "Permitted at GMP level - used as needed, no fixed numeric cap in the categories found.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Scientific Opinion on the re-evaluation of paprika extract -E 160c- as a food additive",
+      "source": "http://dx.doi.org/10.2903/j.efsa.2015.4320",
+      "opinion_date": "2015-12",
+      "opinion_age_years": 11,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": true,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": "http://dx.doi.org/10.2903/j.efsa.2015.4320"
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 93 of the PDF)",
+      "max_level": "GMP",
+      "page": 93
+    },
+    {
+      "food_category": "Annatto extracts, bixin-based",
+      "max_level": "GMP",
+      "page": 94
+    }
+  ],
+  "found_in_india_products": 34,
+  "pct_of_india_products": 1.48,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

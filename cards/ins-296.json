@@ -1,0 +1,129 @@
+{
+  "ins": "296",
+  "e_number": "E296",
+  "name": "Malic acid",
+  "also_called": [],
+  "class": "",
+  "what_it_is": "The acid that makes green apples taste sharp.",
+  "why_its_added": "Gives a sour taste, mostly in sweets, jellies and drinks.",
+  "status": {
+    "india": {
+      "value": "allowed",
+      "note": "Permitted at GMP level - used as needed, no fixed numeric cap in the categories found.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "",
+      "source": "",
+      "opinion_date": "",
+      "opinion_age_years": null,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "allowed",
+      "note": "Generally Recognised As Safe (GRAS) for direct addition to food (21 CFR 184.1069)",
+      "source": "https://www.ecfr.gov/current/title-21/section-184.1069"
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 73 of the PDF)",
+      "max_level": "GMP",
+      "page": 73
+    },
+    {
+      "food_category": "(not captured - see page 102 of the PDF)",
+      "max_level": "GMP",
+      "page": 102
+    },
+    {
+      "food_category": "(not captured - see page 150 of the PDF)",
+      "max_level": "GMP",
+      "page": 150
+    },
+    {
+      "food_category": "Malic acid, dl-",
+      "max_level": "GMP",
+      "page": 150
+    },
+    {
+      "food_category": "(not captured - see page 160 of the PDF)",
+      "max_level": "GMP",
+      "page": 160
+    },
+    {
+      "food_category": "(not captured - see page 190 of the PDF)",
+      "max_level": "GMP",
+      "page": 190
+    },
+    {
+      "food_category": "Frozen battered fish, fish fillets and fish products, including molluscs, crustaceans, and echinoderms Trisodium",
+      "max_level": "GMP",
+      "page": 231
+    },
+    {
+      "food_category": "(not captured - see page 237 of the PDF)",
+      "max_level": "GMP",
+      "page": 237
+    },
+    {
+      "food_category": "(not captured - see page 242 of the PDF)",
+      "max_level": "GMP",
+      "page": 242
+    },
+    {
+      "food_category": "Salt substitutes",
+      "max_level": "GMP",
+      "page": 267
+    },
+    {
+      "food_category": "juices)",
+      "max_level": "GMP",
+      "page": 284
+    },
+    {
+      "food_category": "Vegetable juices(vegetable juices for industrial use, thermally processed vegetable juices, thermally processed tomato juice)",
+      "max_level": "GMP",
+      "page": 285
+    }
+  ],
+  "found_in_india_products": 49,
+  "pct_of_india_products": 2.14,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

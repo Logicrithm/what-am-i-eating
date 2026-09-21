@@ -1,0 +1,129 @@
+{
+  "ins": "440A",
+  "e_number": "E440A",
+  "name": "Pectin",
+  "also_called": [],
+  "class": "emulsifier, stabiliser, thickener",
+  "what_it_is": "A natural fibre taken from fruit peel, mostly citrus and apple.",
+  "why_its_added": "Sets jams and jellies, and thickens fruit drinks.",
+  "status": {
+    "india": {
+      "value": "allowed",
+      "note": "Permitted at GMP level - used as needed, no fixed numeric cap in the categories found.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "",
+      "source": "",
+      "opinion_date": "",
+      "opinion_age_years": null,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 73 of the PDF)",
+      "max_level": "GMP",
+      "page": 73
+    },
+    {
+      "food_category": "(not captured - see page 78 of the PDF)",
+      "max_level": "GMP",
+      "page": 78
+    },
+    {
+      "food_category": "(not captured - see page 85 of the PDF)",
+      "max_level": "GMP",
+      "page": 85
+    },
+    {
+      "food_category": "(not captured - see page 188 of the PDF)",
+      "max_level": "GMP",
+      "page": 188
+    },
+    {
+      "food_category": "(not captured - see page 191 of the PDF)",
+      "max_level": "GMP",
+      "page": 191
+    },
+    {
+      "food_category": "Lecithins",
+      "max_level": "GMP",
+      "page": 229
+    },
+    {
+      "food_category": "(not captured - see page 234 of the PDF)",
+      "max_level": "GMP",
+      "page": 234
+    },
+    {
+      "food_category": "(not captured - see page 244 of the PDF)",
+      "max_level": "GMP",
+      "page": 244
+    },
+    {
+      "food_category": "Pectins",
+      "max_level": "GMP",
+      "page": 252
+    },
+    {
+      "food_category": "(not captured - see page 254 of the PDF)",
+      "max_level": "GMP",
+      "page": 254
+    },
+    {
+      "food_category": "(not captured - see page 263 of the PDF)",
+      "max_level": "GMP",
+      "page": 263
+    },
+    {
+      "food_category": "juices)",
+      "max_level": "GMP",
+      "page": 284
+    }
+  ],
+  "found_in_india_products": 38,
+  "pct_of_india_products": 1.66,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

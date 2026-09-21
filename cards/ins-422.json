@@ -1,0 +1,91 @@
+{
+  "ins": "422",
+  "e_number": "E422",
+  "name": "Glycerol",
+  "also_called": [],
+  "class": "humectant, thickener",
+  "what_it_is": "A thick, sweet, syrupy liquid made from fats and oils, which may be from plants or animals.",
+  "why_its_added": "Holds moisture so food stays soft. In slush drinks it also stops the liquid freezing solid.",
+  "status": {
+    "india": {
+      "value": "allowed",
+      "note": "Permitted at GMP level - used as needed, no fixed numeric cap in the categories found.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Safety of acute exposure to the food additive glycerol (E 422) from beverages",
+      "source": "https://doi.org/10.2903/j.efsa.2026.10057",
+      "opinion_date": "2026-05",
+      "opinion_age_years": 0,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": true,
+  "vegetarian_status": {
+    "vegetarian": "maybe",
+    "vegan": "maybe",
+    "means": "Can be made from either plant or animal sources. The label is not required to say which one was used."
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": 125,
+    "unit": "mg per kg of body weight, per single drink",
+    "set_by": "EFSA (European Food Safety Authority)",
+    "source": "https://doi.org/10.2903/j.efsa.2026.10057",
+    "checked": "2026-09-21",
+    "means": [
+      "This is not a daily average. It is a limit for ONE serving.",
+      "EFSA found that a single slush ice drink of 250 ml (children) or 500 ml (others)",
+      "would exceed this limit for every age group.",
+      "Reported effects in young children after high intake include nausea, vomiting,",
+      "headache, low blood sugar and loss of consciousness.",
+      "As of this check there is still no legally binding maximum for glycerol in EU",
+      "slush drinks. The UK advises that children under 7 should not drink them."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 77 of the PDF)",
+      "max_level": "GMP",
+      "page": 77
+    },
+    {
+      "food_category": "and like",
+      "max_level": "GMP",
+      "page": 187
+    },
+    {
+      "food_category": "(not captured - see page 300 of the PDF)",
+      "max_level": "GMP",
+      "page": 300
+    }
+  ],
+  "found_in_india_products": 45,
+  "pct_of_india_products": 1.96,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

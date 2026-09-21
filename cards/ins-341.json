@@ -1,0 +1,88 @@
+{
+  "ins": "341",
+  "e_number": "E341",
+  "name": "Calcium phosphates",
+  "also_called": [],
+  "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+  "what_it_is": "A family of calcium and phosphorus salts.",
+  "why_its_added": "Helps baking powder work, keeps powders loose, and adds calcium.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Re‐evaluation of phosphoric acid–phosphates – di‐, tri‐ and polyphosphates -E 338–341, E 343, E 450–452- as food additives and the safety of proposed extension of use",
+      "source": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674",
+      "opinion_date": "2019-06",
+      "opinion_age_years": 7,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [
+      "children",
+      "toddlers",
+      "infants"
+    ],
+    "groups_over_limit_high_consumers": [
+      "adolescents",
+      "children",
+      "toddlers",
+      "infants"
+    ],
+    "source": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674"
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 202 of the PDF)",
+      "max_level": "10,000 mg/kg",
+      "page": 202
+    },
+    {
+      "food_category": "(not captured - see page 202 of the PDF)",
+      "max_level": "10,000 mg/kg",
+      "page": 202
+    }
+  ],
+  "found_in_india_products": 27,
+  "pct_of_india_products": 1.18,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

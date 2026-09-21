@@ -1,0 +1,68 @@
+{
+  "ins": "500",
+  "e_number": "E500",
+  "name": "Sodium carbonates",
+  "also_called": [],
+  "class": "stabiliser, thickener",
+  "what_it_is": "A family of sodium salts. It includes baking soda and washing soda.",
+  "why_its_added": "Makes dough and batter rise, and controls how acidic the food is.",
+  "status": {
+    "india": {
+      "value": "not_found",
+      "note": "Not located in Appendix A yet - needs a human check.",
+      "source": ""
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Scientific Opinion on the safety evaluation of the active substances citric acid -E330- and sodium hydrogen carbonate -E500ii-, used as carbon dioxide generators, together with liquid absorbers cellulose and polyacrylic acid sodium salt crosslinked, in active food contact materials.",
+      "source": "http://dx.doi.org/10.2903/j.efsa.2013.3152",
+      "opinion_date": "2013-04",
+      "opinion_age_years": 13,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": "http://dx.doi.org/10.2903/j.efsa.2013.3152"
+  },
+  "india_limits": [],
+  "found_in_india_products": 147,
+  "pct_of_india_products": 6.42,
+  "india_match": "none",
+  "last_checked": "2026-09-21"
+}

@@ -1,0 +1,88 @@
+{
+  "ins": "223",
+  "e_number": "E223",
+  "name": "Sodium metabisulphite",
+  "also_called": [],
+  "class": "antioxidant, preservative",
+  "what_it_is": "A sulphite salt.",
+  "why_its_added": "Stops dried fruit browning and keeps microbes from growing in juices and some drinks.",
+  "status": {
+    "india": {
+      "value": "allowed",
+      "note": "Permitted at GMP level - used as needed, no fixed numeric cap in the categories found.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Scientific Opinion on the re-evaluation of sulfur dioxide -E 220-, sodium sulfite -E 221-, sodium bisulfite -E 222-, sodium metabisulfite -E 223-, potassium metabisulfite -E 224-, calcium sulfite -E 226-, calcium bisulfite -E 227- and potassium bisulfite -E 228- as food additives",
+      "source": "http://dx.doi.org/10.2903/j.efsa.2016.4438",
+      "opinion_date": "2016-04",
+      "opinion_age_years": 10,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": true,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": 0.7,
+    "unit": "mg per kg of body weight per day",
+    "set_by": "EFSA (European Food Safety Authority)",
+    "source": "http://dx.doi.org/10.2903/j.efsa.2016.4438",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [
+      "adults",
+      "elderly",
+      "adolescents",
+      "children",
+      "toddlers",
+      "infants"
+    ],
+    "groups_over_limit_high_consumers": [
+      "adults",
+      "elderly",
+      "adolescents",
+      "children",
+      "toddlers",
+      "infants"
+    ],
+    "source": "http://dx.doi.org/10.2903/j.efsa.2016.4438"
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 185 of the PDF)",
+      "max_level": "GMP",
+      "page": 185
+    }
+  ],
+  "found_in_india_products": 23,
+  "pct_of_india_products": 1.0,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

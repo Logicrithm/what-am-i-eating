@@ -1,0 +1,129 @@
+{
+  "ins": "412",
+  "e_number": "E412",
+  "name": "Guar gum",
+  "also_called": [],
+  "class": "emulsifier, stabiliser, thickener",
+  "what_it_is": "A powder ground from the seed of the guar bean, a crop grown widely in Rajasthan and Gujarat.",
+  "why_its_added": "Thickens food and stops the parts of it separating while it sits on a shelf.",
+  "status": {
+    "india": {
+      "value": "allowed",
+      "note": "Permitted at GMP level - used as needed, no fixed numeric cap in the categories found.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "",
+      "source": "",
+      "opinion_date": "",
+      "opinion_age_years": null,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "allowed",
+      "note": "Generally Recognised As Safe (GRAS) for direct addition to food (21 CFR 184.1339)",
+      "source": "https://www.ecfr.gov/current/title-21/section-184.1339"
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [
+    {
+      "food_category": "Fermented milks (plain) heat treated after fermentation",
+      "max_level": "GMP",
+      "page": 72
+    },
+    {
+      "food_category": "Lecithins",
+      "max_level": "GMP",
+      "page": 76
+    },
+    {
+      "food_category": "(not captured - see page 83 of the PDF)",
+      "max_level": "GMP",
+      "page": 83
+    },
+    {
+      "food_category": "and like",
+      "max_level": "GMP",
+      "page": 187
+    },
+    {
+      "food_category": "(not captured - see page 190 of the PDF)",
+      "max_level": "GMP",
+      "page": 190
+    },
+    {
+      "food_category": "(not captured - see page 228 of the PDF)",
+      "max_level": "GMP",
+      "page": 228
+    },
+    {
+      "food_category": "(not captured - see page 233 of the PDF)",
+      "max_level": "GMP",
+      "page": 233
+    },
+    {
+      "food_category": "(not captured - see page 236 of the PDF)",
+      "max_level": "GMP",
+      "page": 236
+    },
+    {
+      "food_category": "(not captured - see page 243 of the PDF)",
+      "max_level": "GMP",
+      "page": 243
+    },
+    {
+      "food_category": "Trisodium citrate",
+      "max_level": "GMP",
+      "page": 251
+    },
+    {
+      "food_category": "Trisodium citrate",
+      "max_level": "GMP",
+      "page": 253
+    },
+    {
+      "food_category": "(not captured - see page 261 of the PDF)",
+      "max_level": "GMP",
+      "page": 261
+    }
+  ],
+  "found_in_india_products": 81,
+  "pct_of_india_products": 3.54,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

@@ -1,0 +1,89 @@
+{
+  "ins": "101",
+  "e_number": "E101",
+  "name": "Riboflavin",
+  "also_called": [],
+  "class": "colour",
+  "what_it_is": "Vitamin B2.",
+  "why_its_added": "Colours food yellow, and also puts back a vitamin lost during processing.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Scientific Opinion on the re-evaluation of riboflavin -E 101i- and riboflavin-5'-phosphate sodium -E 101-ii-- as food additives.",
+      "source": "http://dx.doi.org/10.2903/j.efsa.2013.3357",
+      "opinion_date": "2013-10",
+      "opinion_age_years": 13,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "allowed",
+      "note": "Generally Recognised As Safe (GRAS) for direct addition to food (21 CFR 184.1695)",
+      "source": "https://www.ecfr.gov/current/title-21/section-184.1695"
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": true,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "maybe",
+    "means": "Can be made from either plant or animal sources. The label is not required to say which one was used."
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": "http://dx.doi.org/10.2903/j.efsa.2013.3357"
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 289 of the PDF)",
+      "max_level": "100 mg/kg",
+      "page": 289
+    },
+    {
+      "food_category": "Vegetable nectar",
+      "max_level": "100 mg/kg",
+      "page": 290
+    },
+    {
+      "food_category": "(not captured - see page 294 of the PDF)",
+      "max_level": "100 mg/kg",
+      "page": 294
+    },
+    {
+      "food_category": "drinks",
+      "max_level": "50 mg/kg",
+      "page": 295
+    }
+  ],
+  "found_in_india_products": 29,
+  "pct_of_india_products": 1.27,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

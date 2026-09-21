@@ -1,0 +1,129 @@
+{
+  "ins": "415",
+  "e_number": "E415",
+  "name": "Xanthan gum",
+  "also_called": [],
+  "class": "emulsifier, stabiliser, thickener",
+  "what_it_is": "A thickener made by fermenting sugar with a bacterium, then drying the result into powder.",
+  "why_its_added": "Thickens sauces and drinks, and stops solid bits settling to the bottom.",
+  "status": {
+    "india": {
+      "value": "allowed",
+      "note": "Permitted at GMP level - used as needed, no fixed numeric cap in the categories found.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Re‐evaluation of xanthan gum -E 415- as a food additive",
+      "source": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4909",
+      "opinion_date": "2017-07",
+      "opinion_age_years": 9,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "allowed_with_limits",
+      "note": "Permitted as a food additive, subject to the conditions in this section (21 CFR 172.695)",
+      "source": "https://www.ecfr.gov/current/title-21/section-172.695"
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": true,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4909"
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 75 of the PDF)",
+      "max_level": "GMP",
+      "page": 75
+    },
+    {
+      "food_category": "Sodium",
+      "max_level": "GMP",
+      "page": 86
+    },
+    {
+      "food_category": "(not captured - see page 189 of the PDF)",
+      "max_level": "GMP",
+      "page": 189
+    },
+    {
+      "food_category": "(not captured - see page 192 of the PDF)",
+      "max_level": "GMP",
+      "page": 192
+    },
+    {
+      "food_category": "(not captured - see page 231 of the PDF)",
+      "max_level": "GMP",
+      "page": 231
+    },
+    {
+      "food_category": "(not captured - see page 234 of the PDF)",
+      "max_level": "GMP",
+      "page": 234
+    },
+    {
+      "food_category": "(not captured - see page 236 of the PDF)",
+      "max_level": "GMP",
+      "page": 236
+    },
+    {
+      "food_category": "(not captured - see page 239 of the PDF)",
+      "max_level": "GMP",
+      "page": 239
+    },
+    {
+      "food_category": "(not captured - see page 241 of the PDF)",
+      "max_level": "GMP",
+      "page": 241
+    },
+    {
+      "food_category": "(not captured - see page 244 of the PDF)",
+      "max_level": "GMP",
+      "page": 244
+    },
+    {
+      "food_category": "Sodium alginate",
+      "max_level": "GMP",
+      "page": 252
+    },
+    {
+      "food_category": "Sodium alginate",
+      "max_level": "GMP",
+      "page": 254
+    }
+  ],
+  "found_in_india_products": 80,
+  "pct_of_india_products": 3.49,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

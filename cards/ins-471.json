@@ -1,0 +1,129 @@
+{
+  "ins": "471",
+  "e_number": "E471",
+  "name": "Mono- and diglycerides of fatty acids",
+  "also_called": [],
+  "class": "emulsifier, stabiliser",
+  "what_it_is": "Fats broken down into smaller pieces. They can be made from vegetable oil or from animal fat.",
+  "why_its_added": "Keeps oil and water mixed together, so bread stays soft and ice cream stays smooth.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "",
+      "source": "",
+      "opinion_date": "",
+      "opinion_age_years": null,
+      "replaced_an_older_opinion": null
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "maybe",
+    "vegan": "maybe",
+    "means": "Can be made from either plant or animal sources. The label is not required to say which one was used."
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 73 of the PDF)",
+      "max_level": "GMP",
+      "page": 73
+    },
+    {
+      "food_category": "Lecithins",
+      "max_level": "GMP",
+      "page": 84
+    },
+    {
+      "food_category": "(not captured - see page 110 of the PDF)",
+      "max_level": "GMP",
+      "page": 110
+    },
+    {
+      "food_category": "(not captured - see page 165 of the PDF)",
+      "max_level": "GMP",
+      "page": 165
+    },
+    {
+      "food_category": "Hard candy",
+      "max_level": "GMP",
+      "page": 173
+    },
+    {
+      "food_category": "(not captured - see page 188 of the PDF)",
+      "max_level": "GMP",
+      "page": 188
+    },
+    {
+      "food_category": "(not captured - see page 191 of the PDF)",
+      "max_level": "GMP",
+      "page": 191
+    },
+    {
+      "food_category": "Lecithins",
+      "max_level": "GMP",
+      "page": 253
+    },
+    {
+      "food_category": "Lecithins",
+      "max_level": "GMP",
+      "page": 262
+    },
+    {
+      "food_category": "TARTRATES",
+      "max_level": "10 mg/kg",
+      "page": 287
+    },
+    {
+      "food_category": "Concentrates of vegetable juices (concentrated vegetable Juices for industrial use)",
+      "max_level": "10 mg/kg",
+      "page": 287
+    },
+    {
+      "food_category": "(not captured - see page 302 of the PDF)",
+      "max_level": "GMP",
+      "page": 302
+    }
+  ],
+  "found_in_india_products": 109,
+  "pct_of_india_products": 4.76,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

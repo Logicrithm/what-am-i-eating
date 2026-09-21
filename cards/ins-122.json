@@ -1,0 +1,132 @@
+{
+  "ins": "122",
+  "e_number": "E122",
+  "name": "Azorubine",
+  "also_called": [],
+  "class": "colour",
+  "what_it_is": "A red dye made in a factory. It is also called carmoisine.",
+  "why_its_added": "Colours food and drinks red.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "allowed_with_limits",
+      "note": "Refined exposure assessment for Azorubine/Carmoisine (E 122)",
+      "source": "https://doi.org/10.2903/j.efsa.2015.4072",
+      "opinion_date": "2015-03",
+      "opinion_age_years": 11,
+      "replaced_an_older_opinion": {
+        "date": "2009-11",
+        "title": "Scientific Opinion on the re-evaluationof Azorubine/Carmoisine -E 122- as a food additive"
+      }
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "regulators_disagree": false,
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": "http://dx.doi.org/10.2903/j.efsa.2009.1332"
+  },
+  "india_limits": [
+    {
+      "food_category": "(not captured - see page 70 of the PDF)",
+      "max_level": "100 mg/kg",
+      "page": 70
+    },
+    {
+      "food_category": "(not captured - see page 76 of the PDF)",
+      "max_level": "100 mg/kg",
+      "page": 76
+    },
+    {
+      "food_category": "Annatto",
+      "max_level": "100 mg/kg",
+      "page": 105
+    },
+    {
+      "food_category": "(not captured - see page 125 of the PDF)",
+      "max_level": "100 mg/kg",
+      "page": 125
+    },
+    {
+      "food_category": "Canned or bottled (pasteurized) fruit",
+      "max_level": "200 mg/kg",
+      "page": 130
+    },
+    {
+      "food_category": "(not captured - see page 133 of the PDF)",
+      "max_level": "200 mg/kg",
+      "page": 133
+    },
+    {
+      "food_category": "(not captured - see page 165 of the PDF)",
+      "max_level": "100 mg/kg",
+      "page": 165
+    },
+    {
+      "food_category": "(not captured - see page 166 of the PDF)",
+      "max_level": "100 mg/kg",
+      "page": 166
+    },
+    {
+      "food_category": "(not captured - see page 171 of the PDF)",
+      "max_level": "100 mg/kg",
+      "page": 171
+    },
+    {
+      "food_category": "Chewing gum",
+      "max_level": "100 mg/kg",
+      "page": 175
+    },
+    {
+      "food_category": "(not captured - see page 197 of the PDF)",
+      "max_level": "100 mg/kg",
+      "page": 197
+    },
+    {
+      "food_category": "(not captured - see page 211 of the PDF)",
+      "max_level": "100 mg/kg",
+      "page": 211
+    }
+  ],
+  "found_in_india_products": 19,
+  "pct_of_india_products": 0.83,
+  "india_match": "exact",
+  "last_checked": "2026-09-21"
+}

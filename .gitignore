@@ -1,0 +1,6 @@
+# The official source documents are re-downloaded by the scripts.
+# They are large and they belong to the authorities that publish them.
+sources/raw/
+__pycache__/
+*.pyc
+.DS_Store
