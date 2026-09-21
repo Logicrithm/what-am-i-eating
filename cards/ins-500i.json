@@ -81,11 +81,6 @@
       "page": 75
     },
     {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 85
-    },
-    {
       "food_category": "Dried whey and whey products, excluding whey cheeses",
       "max_level": "GMP",
       "page": 107
@@ -114,15 +109,10 @@
       "food_category": "Salt substitutes",
       "max_level": "GMP",
       "page": 268
-    },
-    {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 303
     }
   ],
   "found_in_india_products": 28,
   "pct_of_india_products": 1.22,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

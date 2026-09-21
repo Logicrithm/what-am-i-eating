@@ -77,19 +77,9 @@
       "page": 149
     },
     {
-      "food_category": "Triethyl citrate",
-      "max_level": "GMP",
-      "page": 251
-    },
-    {
       "food_category": "Frozen egg products",
       "max_level": "GMP",
       "page": 252
-    },
-    {
-      "food_category": "Glycerol ester",
-      "max_level": "GMP",
-      "page": 285
     },
     {
       "food_category": "Vegetable juices(vegetable juices for industrial use, thermally processed vegetable juices, thermally processed tomato juice)",
@@ -107,11 +97,6 @@
       "page": 287
     },
     {
-      "food_category": "Nitrogen",
-      "max_level": "GMP",
-      "page": 288
-    },
-    {
       "food_category": "Coffee, coffee /coffee substitutes, tea, herbal infusions, and other hot cereal and grain beverages, excluding cocoa",
       "max_level": "GMP",
       "page": 299
@@ -120,5 +105,5 @@
   "found_in_india_products": 56,
   "pct_of_india_products": 2.44,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

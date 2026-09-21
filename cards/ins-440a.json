@@ -72,16 +72,6 @@
       "page": 73
     },
     {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 78
-    },
-    {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 85
-    },
-    {
       "food_category": "and like",
       "max_level": "GMP",
       "page": 188
@@ -90,11 +80,6 @@
       "food_category": "Dried pastas and noodles and like products",
       "max_level": "GMP",
       "page": 191
-    },
-    {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 229
     },
     {
       "food_category": "Frozen battered fish, fish fillets and fish products, including molluscs, crustaceans, and echinoderms Trisodium",
@@ -107,28 +92,38 @@
       "page": 244
     },
     {
-      "food_category": "Pectins",
+      "food_category": "juices)",
       "max_level": "GMP",
-      "page": 252
-    },
-    {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 254
-    },
-    {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 263
+      "page": 284
     },
     {
       "food_category": "juices)",
       "max_level": "GMP",
-      "page": 284
+      "page": 285
+    },
+    {
+      "food_category": "Concentrates of fruitjuices (concentrated fruit juices for industrial use)",
+      "max_level": "GMP",
+      "page": 286
+    },
+    {
+      "food_category": "Fruit nectar Fruit nectar",
+      "max_level": "GMP",
+      "page": 289
+    },
+    {
+      "food_category": "Vegetable nectar",
+      "max_level": "GMP",
+      "page": 290
+    },
+    {
+      "food_category": "Concentrates of vegetable nectar",
+      "max_level": "GMP",
+      "page": 292
     }
   ],
   "found_in_india_products": 38,
   "pct_of_india_products": 1.66,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

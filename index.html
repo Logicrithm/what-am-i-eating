@@ -67,6 +67,12 @@
   .ex{color:var(--muted);font-size:.85rem;margin-top:10px}
   .ex button{background:none;border:0;color:var(--accent);cursor:pointer;font:inherit;
              text-decoration:underline;padding:0}
+  .calc{display:flex;gap:14px;align-items:flex-end;flex-wrap:wrap;margin:6px 0 4px}
+  .calc label{display:flex;flex-direction:column;gap:4px;font-size:.85rem;color:var(--muted)}
+  .calc input,.calc select{padding:8px 10px;font-size:1rem;color:var(--ink);
+    background:var(--panel);border:1px solid var(--line);border-radius:8px;font-family:inherit}
+  .calc input{width:92px}
+  .calc .btn{margin-top:0}
 </style>
 </head>
 <body>
@@ -339,6 +345,7 @@ function statusRow(label, s){
 
 async function open_card(ins){
   const c = await (await fetch("cards/ins-" + ins.toLowerCase() + ".json")).json();
+  CURRENT = c;
   const st = c.status || {};
   const eu = st.eu || {};
   let html = `<button class="back" onclick="go_back()">&larr; back</button>
@@ -409,6 +416,29 @@ async function open_card(ins){
   }
 
   if((c.india_limits||[]).length){
+    const numeric = c.india_limits.filter(l => mgPerKg(l.max_level) !== null);
+    if(numeric.length){
+      html += `<h3>What that means for one packet</h3>
+        <div class="calc">
+          <label>Packet size
+            <input type="number" id="portion" value="70" min="1" max="2000"> g</label>
+          <label>Who is eating
+            <select id="bw">
+              <option value="12">toddler, about 12 kg</option>
+              <option value="20">young child, about 20 kg</option>
+              <option value="35">older child, about 35 kg</option>
+              <option value="60" selected>adult, about 60 kg</option>
+            </select></label>
+          <button class="btn" onclick="calc('${esc(c.ins)}')">Work it out</button>
+        </div>
+        <div id="calcout"></div>`;
+    }else{
+      html += `<h3>What that means for one packet</h3>
+        <p class="why">India sets no numeric maximum for this one in the food categories
+        we found — it is permitted at GMP, meaning as much as is needed to do the job.
+        So there is no ceiling to calculate against.</p>`;
+    }
+
     html += `<h3>What India permits, by food</h3><table>` +
       c.india_limits.map(l => `<tr><td>${esc(l.max_level)}</td>
         <td>${esc(l.food_category)} <span style="color:var(--muted)">(PDF p${l.page})</span></td></tr>`).join("") +
@@ -420,6 +450,78 @@ async function open_card(ins){
   $("pane-paste").hidden = true; $("pane-search").hidden = true;
   $("detail").hidden = false;
   window.scrollTo(0,0);
+}
+
+/* ---------- turning a limit into one packet ---------- */
+
+// "1,000 mg/kg" -> 1000 ; "10 g/kg" -> 10000 ; "GMP" -> null
+function mgPerKg(level){
+  const m = String(level||"").replace(/,/g,"").match(/^([\d.]+)\s*(mg|g)\/kg$/i);
+  if(!m) return null;
+  const v = parseFloat(m[1]);
+  return m[2].toLowerCase() === "g" ? v*1000 : v;
+}
+
+let CURRENT = null;
+
+function calc(ins){
+  const c = CURRENT;
+  if(!c || c.ins !== ins) return;
+  const grams = Math.max(1, parseFloat($("portion").value) || 70);
+  const kg = parseFloat($("bw").value) || 60;
+
+  const rows = c.india_limits
+    .map(l => ({l, mgkg: mgPerKg(l.max_level)}))
+    .filter(x => x.mgkg !== null)
+    .sort((a,b) => b.mgkg - a.mgkg);
+
+  const adi = (c.safe_daily_limit||{}).value;     // mg per kg body weight per day
+  const dailyAllowance = adi ? adi * kg : null;   // mg per day for this person
+
+  let out = `<div class="note"><b>Read this carefully — it is a ceiling, not a measurement.</b><br>
+    This is the most the law allows in that food. It is <b>not</b> what is in your packet.
+    Manufacturers normally use far less, and the label does not say how much was used.</div>`;
+
+  out += `<table><tr><td style="width:auto"><b>If a ${grams} g packet sat right at the legal maximum</b></td></tr></table><table>`;
+  rows.slice(0,6).forEach(({l, mgkg}) => {
+    const mg = mgkg * grams / 1000;
+    let pct = "";
+    if(dailyAllowance){
+      const p = 100 * mg / dailyAllowance;
+      pct = ` — that is <b>${p < 1 ? "under 1" : p.toFixed(0)}%</b> of the daily limit for someone ${kg} kg`;
+    }
+    out += `<tr><td>${mg < 1 ? mg.toFixed(2) : mg.toFixed(0)} mg</td>
+      <td>${esc(l.food_category)} <span style="color:var(--muted)">(limit ${esc(l.max_level)})</span>${pct}</td></tr>`;
+  });
+  out += `</table>`;
+
+  if(dailyAllowance){
+    out += `<p class="why">The daily limit is ${adi} mg per kg of body weight, so
+      <b>${dailyAllowance.toFixed(0)} mg a day</b> for someone ${kg} kg. A lighter person
+      gets the same packet but has a smaller allowance — which is why children reach a
+      limit sooner than adults on identical food.</p>`;
+
+    // The ceiling above is hypothetical. What follows is measurement, and it is
+    // the difference between a scary number and an honest one.
+    const x = c.eu_exposure_finding || {};
+    const over = x.groups_over_limit_on_average || [];
+    if(over.length){
+      out += `<div class="note"><b>And this one is not only hypothetical.</b><br>
+        When European regulators measured what people actually eat, these groups were
+        already above the daily limit on average: <b>${esc(over.join(", "))}</b>.
+        <a href="${esc(x.source)}" target="_blank" rel="noopener">source</a></div>`;
+    }else if(c.status.eu.source){
+      out += `<div class="old"><b>Worth keeping in proportion.</b> The figures above assume
+        the legal maximum. When European regulators measured what people actually eat,
+        no group was found above the daily limit for this substance — real intake is
+        normally well under the ceiling.</div>`;
+    }
+  }else{
+    out += `<p class="why">No daily limit has been published for this one, so there is
+      nothing to compare the packet against. The milligrams above stand on their own.</p>`;
+  }
+
+  $("calcout").innerHTML = out;
 }
 
 function go_back(){

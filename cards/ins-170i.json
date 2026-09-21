@@ -96,11 +96,6 @@
       "page": 158
     },
     {
-      "food_category": "Ammonium persulfate",
-      "max_level": "5,000 mg/kg",
-      "page": 184
-    },
-    {
       "food_category": "and like",
       "max_level": "GMP",
       "page": 187
@@ -109,11 +104,6 @@
       "food_category": "Dried pastas and noodles and like products",
       "max_level": "GMP",
       "page": 189
-    },
-    {
-      "food_category": "Ascorbic acid",
-      "max_level": "GMP",
-      "page": 227
     },
     {
       "food_category": "Cooked and/or fried fish and fish products, including molluscs, crustaceans, and echinoderms",
@@ -134,10 +124,20 @@
       "food_category": "dextrose (icing",
       "max_level": "15,000 mg/kg",
       "page": 257
+    },
+    {
+      "food_category": "Salt (including edible common salt, iron fortified salt, iodized salt)*",
+      "max_level": "20 g/kg",
+      "page": 266
+    },
+    {
+      "food_category": "Coffee, coffee /coffee substitutes, tea, herbal infusions, and other hot cereal and grain beverages, excluding cocoa",
+      "max_level": "GMP",
+      "page": 299
     }
   ],
   "found_in_india_products": 33,
   "pct_of_india_products": 1.44,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

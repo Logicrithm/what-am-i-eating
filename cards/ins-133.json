@@ -77,11 +77,6 @@
       "page": 69
     },
     {
-      "food_category": "Annatto",
-      "max_level": "100 mg/kg",
-      "page": 76
-    },
-    {
       "food_category": "ripened cheese",
       "max_level": "100 mg/kg",
       "page": 96
@@ -130,10 +125,15 @@
       "food_category": "murrabba*",
       "max_level": "200 mg/kg",
       "page": 137
+    },
+    {
+      "food_category": "including fruit pulp, purees, fruit toppings and coconut milk including fruit",
+      "max_level": "100 mg/kg",
+      "page": 139
     }
   ],
   "found_in_india_products": 19,
   "pct_of_india_products": 0.83,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

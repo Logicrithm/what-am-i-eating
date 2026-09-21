@@ -67,11 +67,6 @@
   },
   "india_limits": [
     {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 78
-    },
-    {
       "food_category": "Sterilized and UHT creams, whipping and whipped creams, and reduced fat creams (plain)",
       "max_level": "GMP",
       "page": 84
@@ -87,11 +82,6 @@
       "page": 235
     },
     {
-      "food_category": "Ponceau 4R",
-      "max_level": "GMP",
-      "page": 261
-    },
-    {
       "food_category": "Coffee, coffee /coffee substitutes, tea, herbal infusions, and other hot cereal and grain beverages, excluding cocoa",
       "max_level": "GMP",
       "page": 301
@@ -100,5 +90,5 @@
   "found_in_india_products": 21,
   "pct_of_india_products": 0.92,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

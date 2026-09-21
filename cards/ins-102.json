@@ -75,21 +75,6 @@
       "page": 70
     },
     {
-      "food_category": "Annatto",
-      "max_level": "100 mg/kg",
-      "page": 76
-    },
-    {
-      "food_category": "Annatto",
-      "max_level": "100 mg/kg",
-      "page": 105
-    },
-    {
-      "food_category": "Ponceau 4R",
-      "max_level": "100 mg/kg",
-      "page": 125
-    },
-    {
       "food_category": "Canned or bottled (pasteurized) fruit",
       "max_level": "200 mg/kg",
       "page": 131
@@ -128,10 +113,20 @@
       "food_category": "Cakes, cookies, biscuit, cracker and pies",
       "max_level": "100 mg/kg",
       "page": 211
+    },
+    {
+      "food_category": "Dimethyl dicarbonate",
+      "max_level": "100 mg/kg",
+      "page": 295
+    },
+    {
+      "food_category": "Glycerol esters Of wood Resin",
+      "max_level": "100 mg/kg",
+      "page": 313
     }
   ],
   "found_in_india_products": 47,
   "pct_of_india_products": 2.05,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

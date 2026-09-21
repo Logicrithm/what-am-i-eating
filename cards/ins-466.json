@@ -73,16 +73,6 @@
       "page": 75
     },
     {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 79
-    },
-    {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 85
-    },
-    {
       "food_category": "and like",
       "max_level": "GMP",
       "page": 188
@@ -93,11 +83,6 @@
       "page": 192
     },
     {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 230
-    },
-    {
       "food_category": "Frozen battered fish, fish fillets and fish products, including molluscs, crustaceans, and echinoderms Trisodium",
       "max_level": "GMP",
       "page": 234
@@ -106,30 +91,10 @@
       "food_category": "Smoked, dried, fermented, and/or salted fish and fish products, including molluscs, crustaceans, and echinoderms (Dried shark fins, Salted fish/ dried salted fish)",
       "max_level": "GMP",
       "page": 244
-    },
-    {
-      "food_category": "Carboxy",
-      "max_level": "GMP",
-      "page": 249
-    },
-    {
-      "food_category": "Sodium alginate",
-      "max_level": "GMP",
-      "page": 252
-    },
-    {
-      "food_category": "Sodium alginate",
-      "max_level": "GMP",
-      "page": 254
-    },
-    {
-      "food_category": "Ponceau 4R",
-      "max_level": "GMP",
-      "page": 264
     }
   ],
   "found_in_india_products": 30,
   "pct_of_india_products": 1.31,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

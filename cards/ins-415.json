@@ -76,24 +76,9 @@
       "page": 75
     },
     {
-      "food_category": "Sodium",
-      "max_level": "GMP",
-      "page": 86
-    },
-    {
-      "food_category": "Sodium",
-      "max_level": "GMP",
-      "page": 189
-    },
-    {
       "food_category": "Dried pastas and noodles and like products",
       "max_level": "GMP",
       "page": 192
-    },
-    {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 231
     },
     {
       "food_category": "Frozen battered fish, fish fillets and fish products, including molluscs, crustaceans, and echinoderms Trisodium",
@@ -121,18 +106,18 @@
       "page": 244
     },
     {
-      "food_category": "Sodium alginate",
+      "food_category": "Trisodium citrate Trisodium citrate",
       "max_level": "GMP",
-      "page": 252
+      "page": 264
     },
     {
-      "food_category": "Sodium alginate",
+      "food_category": "Trisodium citrate Trisodium citrate",
       "max_level": "GMP",
-      "page": 254
+      "page": 304
     }
   ],
   "found_in_india_products": 80,
   "pct_of_india_products": 3.49,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

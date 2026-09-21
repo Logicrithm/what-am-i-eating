@@ -82,15 +82,9 @@
     ],
     "source": "http://dx.doi.org/10.2903/j.efsa.2016.4438"
   },
-  "india_limits": [
-    {
-      "food_category": "Ammonium persulfate",
-      "max_level": "GMP",
-      "page": 185
-    }
-  ],
+  "india_limits": [],
   "found_in_india_products": 23,
   "pct_of_india_products": 1.0,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

@@ -121,11 +121,6 @@
       "page": 88
     },
     {
-      "food_category": "Grape skin extract",
-      "max_level": "4,400 mg/kg",
-      "page": 89
-    },
-    {
       "food_category": "Unripened cheese",
       "max_level": "4,400 mg/kg",
       "page": 90
@@ -139,10 +134,15 @@
       "food_category": "Flavoured processed cheese, including containing fruit, vegetables, meat etc.",
       "max_level": "9,000 mg/kg",
       "page": 99
+    },
+    {
+      "food_category": "Liquid whey and whey products excluding whey cheeses",
+      "max_level": "880 mg/kg",
+      "page": 105
     }
   ],
   "found_in_india_products": 39,
   "pct_of_india_products": 1.7,
   "india_match": "group:PHOSPHATES",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

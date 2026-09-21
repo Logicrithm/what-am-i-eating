@@ -93,19 +93,9 @@
       "page": 76
     },
     {
-      "food_category": "Lecithins",
-      "max_level": "2,000 mg/kg",
-      "page": 80
-    },
-    {
       "food_category": "Non dairy based beverage whitener",
       "max_level": "200 mg/kg",
       "page": 81
-    },
-    {
-      "food_category": "Ponceau 4R",
-      "max_level": "2,000 mg/kg",
-      "page": 91
     },
     {
       "food_category": "Ripened cheese, (Cheddar,Da nbo,Edam,Go uda,Havarti, Tilisiter,Cam embert, Brie,St Paulin, Samsoe,Emm entaler, Provolone,ext",
@@ -116,11 +106,6 @@
       "food_category": "Ripened cheese includes rind",
       "max_level": "3,000 mg/kg",
       "page": 95
-    },
-    {
-      "food_category": "Ponceau 4R",
-      "max_level": "3,000 mg/kg",
-      "page": 96
     },
     {
       "food_category": "Cheese powder",
@@ -141,10 +126,25 @@
       "food_category": "Flavoured processed cheese, including containing fruit, vegetables, meat etc.",
       "max_level": "3,000 mg/kg",
       "page": 99
+    },
+    {
+      "food_category": "Whey protein cheese",
+      "max_level": "3,000 mg/kg",
+      "page": 102
+    },
+    {
+      "food_category": "Fat spreads, dairy fat spreads and blended spreads (margarine and fat spreads)",
+      "max_level": "1,000 mg/kg",
+      "page": 114
+    },
+    {
+      "food_category": "Fat emulsions mainly of type oil-in- water, including mixed and/or flavoured products based on fat emulsions",
+      "max_level": "1,000 mg/kg",
+      "page": 117
     }
   ],
   "found_in_india_products": 49,
   "pct_of_india_products": 2.14,
   "india_match": "group:SORBATES",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

@@ -86,16 +86,6 @@
       "page": 87
     },
     {
-      "food_category": "Lauric arginate",
-      "max_level": "500 mg/kg",
-      "page": 101
-    },
-    {
-      "food_category": "Lauric arginate",
-      "max_level": "400 mg/kg",
-      "page": 104
-    },
-    {
       "food_category": "Fat-based desserts excluding dairy-based dessert products of food category 1.7 (frozen desserts/froze n confections)",
       "max_level": "400 mg/kg",
       "page": 118
@@ -104,11 +94,6 @@
       "food_category": "Cocoa based spreads including fillings",
       "max_level": "400 mg/kg",
       "page": 122
-    },
-    {
-      "food_category": "Ponceau 4R",
-      "max_level": "320 mg/kg",
-      "page": 124
     },
     {
       "food_category": "brine brine",
@@ -129,10 +114,25 @@
       "food_category": "Fruit-based spreads (e.g. chutney) excluding products of food category 4.1.2.5",
       "max_level": "400 mg/kg",
       "page": 136
+    },
+    {
+      "food_category": "murrabba*",
+      "max_level": "800 mg/kg",
+      "page": 138
+    },
+    {
+      "food_category": "including fruit pulp, purees, fruit toppings and coconut milk including fruit",
+      "max_level": "400 mg/kg",
+      "page": 141
+    },
+    {
+      "food_category": "Fruit-based desserts including fruit- flavoured water-based desserts",
+      "max_level": "400 mg/kg",
+      "page": 143
     }
   ],
   "found_in_india_products": 28,
   "pct_of_india_products": 1.22,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

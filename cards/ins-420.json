@@ -65,15 +65,9 @@
     "groups_over_limit_high_consumers": [],
     "source": ""
   },
-  "india_limits": [
-    {
-      "food_category": "Sorbitol",
-      "max_level": "GMP",
-      "page": 304
-    }
-  ],
+  "india_limits": [],
   "found_in_india_products": 23,
   "pct_of_india_products": 1.0,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

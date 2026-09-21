@@ -98,15 +98,10 @@
       "food_category": "Vegetable nectar",
       "max_level": "100 mg/kg",
       "page": 290
-    },
-    {
-      "food_category": "Caramel (plain)",
-      "max_level": "GMP",
-      "page": 306
     }
   ],
   "found_in_india_products": 29,
   "pct_of_india_products": 1.27,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

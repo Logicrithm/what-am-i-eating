@@ -102,16 +102,6 @@
       "page": 149
     },
     {
-      "food_category": "Citric acid",
-      "max_level": "GMP",
-      "page": 149
-    },
-    {
-      "food_category": "Citric acid",
-      "max_level": "GMP",
-      "page": 150
-    },
-    {
       "food_category": "categories",
       "max_level": "GMP",
       "page": 159
@@ -125,10 +115,20 @@
       "food_category": "Dried pastas and noodles and like products",
       "max_level": "GMP",
       "page": 190
+    },
+    {
+      "food_category": "Frozen battered fish, fish fillets and fish products, including molluscs, crustaceans, and echinoderms Trisodium",
+      "max_level": "GMP",
+      "page": 231
+    },
+    {
+      "food_category": "Frozen egg products",
+      "max_level": "GMP",
+      "page": 253
     }
   ],
   "found_in_india_products": 247,
   "pct_of_india_products": 10.78,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

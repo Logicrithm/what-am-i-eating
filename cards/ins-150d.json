@@ -105,11 +105,6 @@
       "page": 86
     },
     {
-      "food_category": "Caramel IV -",
-      "max_level": "5,000 mg/kg",
-      "page": 88
-    },
-    {
       "food_category": "Unripened cheese",
       "max_level": "50,000 mg/kg",
       "page": 90
@@ -138,10 +133,15 @@
       "food_category": "Dairy based desserts",
       "max_level": "3,000 mg/kg",
       "page": 103
+    },
+    {
+      "food_category": "Fat spreads, dairy fat spreads and blended spreads (margarine and fat spreads)",
+      "max_level": "500 mg/kg",
+      "page": 115
     }
   ],
   "found_in_india_products": 47,
   "pct_of_india_products": 2.05,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

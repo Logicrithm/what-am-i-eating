@@ -74,11 +74,6 @@
   },
   "india_limits": [
     {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 77
-    },
-    {
       "food_category": "and like",
       "max_level": "GMP",
       "page": 187
@@ -92,5 +87,5 @@
   "found_in_india_products": 45,
   "pct_of_india_products": 1.96,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

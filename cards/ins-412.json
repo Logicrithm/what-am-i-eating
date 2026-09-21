@@ -73,11 +73,6 @@
       "page": 72
     },
     {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 76
-    },
-    {
       "food_category": "Sterilized and UHT creams, whipping and whipped creams, and reduced fat creams (plain)",
       "max_level": "GMP",
       "page": 83
@@ -91,11 +86,6 @@
       "food_category": "Dried pastas and noodles and like products",
       "max_level": "GMP",
       "page": 190
-    },
-    {
-      "food_category": "Citric acid",
-      "max_level": "GMP",
-      "page": 228
     },
     {
       "food_category": "Frozen battered fish, fish fillets and fish products, including molluscs, crustaceans, and echinoderms Trisodium",
@@ -113,23 +103,13 @@
       "page": 243
     },
     {
-      "food_category": "Trisodium citrate",
+      "food_category": "Coffee, coffee /coffee substitutes, tea, herbal infusions, and other hot cereal and grain beverages, excluding cocoa",
       "max_level": "GMP",
-      "page": 251
-    },
-    {
-      "food_category": "Trisodium citrate",
-      "max_level": "GMP",
-      "page": 253
-    },
-    {
-      "food_category": "Ponceau 4R",
-      "max_level": "GMP",
-      "page": 261
+      "page": 301
     }
   ],
   "found_in_india_products": 81,
   "pct_of_india_products": 3.54,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

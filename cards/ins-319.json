@@ -97,11 +97,6 @@
       "page": 121
     },
     {
-      "food_category": "Ponceau 4R",
-      "max_level": "200 mg/kg",
-      "page": 124
-    },
-    {
       "food_category": "Fruit-based spreads (e.g. chutney) excluding products of food category 4.1.2.5",
       "max_level": "200 mg/kg",
       "page": 136
@@ -112,11 +107,6 @@
       "page": 164
     },
     {
-      "food_category": "Neotame",
-      "max_level": "200 mg/kg",
-      "page": 172
-    },
-    {
       "food_category": "Chewing gum",
       "max_level": "400 mg/kg",
       "page": 178
@@ -125,10 +115,20 @@
       "food_category": "sweet sauces",
       "max_level": "200 mg/kg",
       "page": 180
+    },
+    {
+      "food_category": "Pre-cooked pastas and noodles and like products",
+      "max_level": "200 mg/kg",
+      "page": 194
+    },
+    {
+      "food_category": "Cereals/pulses and starch based desserts",
+      "max_level": "200 mg/kg",
+      "page": 196
     }
   ],
   "found_in_india_products": 56,
   "pct_of_india_products": 2.44,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

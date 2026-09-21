@@ -103,11 +103,6 @@
       "page": 183
     },
     {
-      "food_category": "Trisodium",
-      "max_level": "200 mg/kg",
-      "page": 185
-    },
-    {
       "food_category": "and like",
       "max_level": "200 mg/kg",
       "page": 187
@@ -118,18 +113,23 @@
       "page": 189
     },
     {
-      "food_category": "Ascorbic acid",
-      "max_level": "GMP",
-      "page": 227
-    },
-    {
       "food_category": "Frozen battered fish, fish fillets and fish products, including molluscs, crustaceans, and echinoderms Trisodium",
       "max_level": "GMP",
       "page": 231
+    },
+    {
+      "food_category": "Cooked and/or fried fish and fish products, including molluscs, crustaceans, and echinoderms",
+      "max_level": "GMP",
+      "page": 236
+    },
+    {
+      "food_category": "Fruit juices (fruit juices for industrial use, thermally processed fruits juices) Fruit juices",
+      "max_level": "GMP",
+      "page": 284
     }
   ],
   "found_in_india_products": 59,
   "pct_of_india_products": 2.58,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

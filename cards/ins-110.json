@@ -72,21 +72,6 @@
       "page": 70
     },
     {
-      "food_category": "Annatto",
-      "max_level": "100 mg/kg",
-      "page": 76
-    },
-    {
-      "food_category": "Ponceau 4R",
-      "max_level": "100 mg/kg",
-      "page": 92
-    },
-    {
-      "food_category": "Ponceau 4R",
-      "max_level": "100 mg/kg",
-      "page": 96
-    },
-    {
       "food_category": "Plain processed cheese/ processed cheese, processed cheese spreads",
       "max_level": "100 mg/kg",
       "page": 98
@@ -95,16 +80,6 @@
       "food_category": "Flavoured processed cheese, including containing fruit, vegetables, meat etc.",
       "max_level": "100 mg/kg",
       "page": 99
-    },
-    {
-      "food_category": "Lauric arginate",
-      "max_level": "100 mg/kg",
-      "page": 101
-    },
-    {
-      "food_category": "Lauric arginate",
-      "max_level": "100 mg/kg",
-      "page": 104
     },
     {
       "food_category": "Lard, tallow, fish oil, and other animal fats (edible fats)",
@@ -117,18 +92,43 @@
       "page": 121
     },
     {
-      "food_category": "Ponceau 4R",
-      "max_level": "100 mg/kg",
-      "page": 124
-    },
-    {
       "food_category": "Canned or bottled (pasteurized) fruit",
       "max_level": "200 mg/kg",
       "page": 132
+    },
+    {
+      "food_category": "Fruit-based spreads (e.g. chutney) excluding products of food category 4.1.2.5",
+      "max_level": "100 mg/kg",
+      "page": 136
+    },
+    {
+      "food_category": "murrabba*",
+      "max_level": "200 mg/kg",
+      "page": 138
+    },
+    {
+      "food_category": "including fruit pulp, purees, fruit toppings and coconut milk including fruit",
+      "max_level": "100 mg/kg",
+      "page": 141
+    },
+    {
+      "food_category": "Fruit-based desserts including fruit- flavoured water-based desserts",
+      "max_level": "50 mg/kg",
+      "page": 143
+    },
+    {
+      "food_category": "Fruit fillings for pastries",
+      "max_level": "100 mg/kg",
+      "page": 147
+    },
+    {
+      "food_category": "Vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera) sea weeds, nuts and seeds- pulps and preparations (e.g vegetable desserts and sauces, candied vegetables) other than food category 4.2.2.5",
+      "max_level": "50 mg/kg",
+      "page": 158
     }
   ],
   "found_in_india_products": 34,
   "pct_of_india_products": 1.48,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

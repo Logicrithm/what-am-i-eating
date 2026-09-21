@@ -72,16 +72,6 @@
   },
   "india_limits": [
     {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 76
-    },
-    {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 84
-    },
-    {
       "food_category": "Vegetable oils, fats and bakery shortenings",
       "max_level": "GMP",
       "page": 108
@@ -107,11 +97,6 @@
       "page": 176
     },
     {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 184
-    },
-    {
       "food_category": "and like",
       "max_level": "GMP",
       "page": 188
@@ -120,20 +105,10 @@
       "food_category": "Dried pastas and noodles and like products",
       "max_level": "GMP",
       "page": 190
-    },
-    {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 229
-    },
-    {
-      "food_category": "Lecithins",
-      "max_level": "GMP",
-      "page": 235
     }
   ],
   "found_in_india_products": 156,
   "pct_of_india_products": 6.81,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

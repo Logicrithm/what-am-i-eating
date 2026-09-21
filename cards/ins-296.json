@@ -77,16 +77,6 @@
       "page": 102
     },
     {
-      "food_category": "Citric acid",
-      "max_level": "GMP",
-      "page": 150
-    },
-    {
-      "food_category": "Malic acid, dl-",
-      "max_level": "GMP",
-      "page": 150
-    },
-    {
       "food_category": "categories",
       "max_level": "GMP",
       "page": 160
@@ -125,10 +115,20 @@
       "food_category": "Vegetable juices(vegetable juices for industrial use, thermally processed vegetable juices, thermally processed tomato juice)",
       "max_level": "GMP",
       "page": 285
+    },
+    {
+      "food_category": "Concentrates of fruitjuices (concentrated fruit juices for industrial use)",
+      "max_level": "GMP",
+      "page": 286
+    },
+    {
+      "food_category": "Fruit nectar Fruit nectar",
+      "max_level": "GMP",
+      "page": 289
     }
   ],
   "found_in_india_products": 49,
   "pct_of_india_products": 2.14,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }

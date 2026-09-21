@@ -51,6 +51,12 @@ for r in limits:
     by_name_raw[re.sub(r"\s+", " ", r["additive_name"])].append(r)
 
 
+# Every additive name that appears anywhere in Appendix A. Used to spot a "food
+# category" that is really another additive that leaked across from a neighbouring
+# cell.
+ADDITIVE_NAMES = {key(r["additive_name"]) for r in limits if r["additive_name"].strip()}
+
+
 def india_rows(ins, name):
     """FSSAI often regulates a FAMILY ("BENZOATES"), not one chemical. A group
     entry is accepted only when the name ENDS with that family word - a loose
@@ -251,15 +257,19 @@ for t in top[:50]:
             "groups_over_limit_high_consumers": e.get("groups_over_adi_high_consumers", []),
             "source": e.get("efsa_opinion_url", ""),
         },
+        # Drop rows where the "food category" is really another additive's name
+        # (Annatto, Riboflavins...). Those leak in when a table row carries two
+        # wordy cells, and showing "Annatto" as if it were a food is nonsense.
         "india_limits": [
             {
-                "food_category": (re.sub(r"\s+", " ", r["food_category"]).strip()
-                                  or "(not captured - see page " + r["page"] + " of the PDF)"),
+                "food_category": re.sub(r"\s+", " ", r["food_category"]).strip(),
                 "max_level": r["max_level"],
                 "page": int(r["page"]),
             }
-            for r in rows[:12]
-        ],
+            for r in rows
+            if re.sub(r"\s+", " ", r["food_category"]).strip()
+            and key(r["food_category"]) not in ADDITIVE_NAMES
+        ][:12],
         "found_in_india_products": t["india_products"],
         "pct_of_india_products": t["pct"],
         "india_match": match_kind,

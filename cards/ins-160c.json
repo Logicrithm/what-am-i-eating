@@ -67,11 +67,6 @@
   },
   "india_limits": [
     {
-      "food_category": "Calcium chloride",
-      "max_level": "GMP",
-      "page": 93
-    },
-    {
       "food_category": "Annatto extracts, bixin-based",
       "max_level": "GMP",
       "page": 94
@@ -80,5 +75,5 @@
   "found_in_india_products": 34,
   "pct_of_india_products": 1.48,
   "india_match": "exact",
-  "last_checked": "2026-09-21"
+  "last_checked": "2026-09-22"
 }
