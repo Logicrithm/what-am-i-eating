@@ -1,15 +1,17 @@
-term,product_count,pct_of_products
-en:flavouring,607,26.49
-en:acidity-regulator,461,20.12
-en:vegetable-oil,456,19.9
-en:condiment,437,19.07
-en:spice,428,18.68
-en:emulsifier,391,17.07
-en:stabiliser,241,10.52
-en:nature-identical-flavouring,228,9.95
-en:colour,221,9.65
-en:natural-flavouring,214,9.34
-en:antioxidant,212,9.25
-en:raising-agent,195,8.51
-en:preservative,187,8.16
-en:artificial-flavouring,101,4.41
+term,rule,left_generic,named_specifically,total_mentions,pct_of_products_left_generic,pct_of_mentions_left_generic,top_specific_names,rule_says
+nature identical flavouring,class_title_allowed,228,0,228,9.95,100.0,,Declared by class rather than by the individual substance.
+natural flavouring,class_title_allowed,204,10,214,8.9,95.3,natural-and-artificial-flavouring; natural-mango-flavouring; natural-orange-flavouring,Declared by class rather than by the individual substance.
+flavouring,class_title_allowed,179,428,607,7.81,29.5,nature-identical-flavouring; natural-flavouring; artificial-flavouring,"Flavourings are declared by their class - natural, nature-identical or artificial."
+acidity regulator,needs_name_or_ins_number,160,301,461,6.98,34.7,e330; e500; e551,A functional class must be declared together with the specific name or INS number.
+vegetable oil,specific_name_required,157,299,456,6.85,34.4,sunflower-oil; soya-oil; hydrogenated-vegetable-oil,"Give name of the specific edible oil such as mustard oil, groundnut oil, etc."
+emulsifier,needs_name_or_ins_number,142,249,391,6.2,36.3,e322; e471; e500,A functional class must be declared together with the specific name or INS number.
+spice,class_title_allowed,109,319,428,4.76,25.5,ginger; turmeric; cardamom,"Class title 'Spice and condiments, herbs or mixed spices/condiments' is permitted."
+artificial flavouring,class_title_allowed,97,4,101,4.23,96.0,natural-and-artificial-flavouring,Declared by class rather than by the individual substance.
+preservative,needs_name_or_ins_number,90,97,187,3.93,48.1,e330; e202; e211,A functional class must be declared together with the specific name or INS number.
+colour,needs_name_or_ins_number,81,140,221,3.54,36.7,e330; natural-colours; e150d,A functional class must be declared together with the specific name or INS number.
+stabiliser,needs_name_or_ins_number,77,164,241,3.36,32.0,e471; e412; e330,A functional class must be declared together with the specific name or INS number.
+raising agent,needs_name_or_ins_number,74,121,195,3.23,37.9,e500; e500ii; e503,A functional class must be declared together with the specific name or INS number.
+antioxidant,needs_name_or_ins_number,63,149,212,2.75,29.7,e330; e300; e319,A functional class must be declared together with the specific name or INS number.
+sweetener,needs_name_or_ins_number,24,59,83,1.05,28.9,e955; fructooligosaccharide; e415,A functional class must be declared together with the specific name or INS number.
+thickener,needs_name_or_ins_number,15,80,95,0.65,15.8,e330; e500; e412,A functional class must be declared together with the specific name or INS number.
+condiment,class_title_allowed,5,432,437,0.22,1.1,spice; ginger; turmeric,"Class title 'Spice and condiments, herbs or mixed spices/condiments' is permitted."

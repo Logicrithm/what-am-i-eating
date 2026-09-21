@@ -68,16 +68,20 @@ for t in top:
         "has_card": ins in have_cards,
     })
 
-# The words a label may use instead of naming the ingredient.
+# The general words, and what the rule actually asks for in each case.
 vague = {}
 vp = root / "data/india_vague_label_terms.csv"
 if vp.exists():
     for r in csv.DictReader(vp.open(encoding="utf-8")):
-        term = r["term"].replace("en:", "").replace("-", " ")
+        term = r["term"]
         vague[term] = {
             "term": term,
-            "pct_of_products": float(r["pct_of_products"]),
-            "product_count": int(r["product_count"]),
+            "rule": r["rule"],
+            "rule_says": r.get("rule_says", ""),
+            "pct_of_products": float(r["pct_of_products_left_generic"]),
+            "pct_of_mentions": float(r["pct_of_mentions_left_generic"]),
+            "left_generic": int(r["left_generic"]),
+            "named_specifically": int(r["named_specifically"]),
         }
 
 out = {

@@ -2977,74 +2977,148 @@
  ],
  "vague_terms": [
   {
-   "term": "flavouring",
-   "pct_of_products": 26.49,
-   "product_count": 607
-  },
-  {
-   "term": "acidity regulator",
-   "pct_of_products": 20.12,
-   "product_count": 461
-  },
-  {
-   "term": "vegetable oil",
-   "pct_of_products": 19.9,
-   "product_count": 456
-  },
-  {
-   "term": "condiment",
-   "pct_of_products": 19.07,
-   "product_count": 437
-  },
-  {
-   "term": "spice",
-   "pct_of_products": 18.68,
-   "product_count": 428
-  },
-  {
-   "term": "emulsifier",
-   "pct_of_products": 17.07,
-   "product_count": 391
-  },
-  {
-   "term": "stabiliser",
-   "pct_of_products": 10.52,
-   "product_count": 241
-  },
-  {
    "term": "nature identical flavouring",
+   "rule": "class_title_allowed",
+   "rule_says": "Declared by class rather than by the individual substance.",
    "pct_of_products": 9.95,
-   "product_count": 228
-  },
-  {
-   "term": "colour",
-   "pct_of_products": 9.65,
-   "product_count": 221
+   "pct_of_mentions": 100.0,
+   "left_generic": 228,
+   "named_specifically": 0
   },
   {
    "term": "natural flavouring",
-   "pct_of_products": 9.34,
-   "product_count": 214
+   "rule": "class_title_allowed",
+   "rule_says": "Declared by class rather than by the individual substance.",
+   "pct_of_products": 8.9,
+   "pct_of_mentions": 95.3,
+   "left_generic": 204,
+   "named_specifically": 10
   },
   {
-   "term": "antioxidant",
-   "pct_of_products": 9.25,
-   "product_count": 212
+   "term": "flavouring",
+   "rule": "class_title_allowed",
+   "rule_says": "Flavourings are declared by their class - natural, nature-identical or artificial.",
+   "pct_of_products": 7.81,
+   "pct_of_mentions": 29.5,
+   "left_generic": 179,
+   "named_specifically": 428
   },
   {
-   "term": "raising agent",
-   "pct_of_products": 8.51,
-   "product_count": 195
+   "term": "acidity regulator",
+   "rule": "needs_name_or_ins_number",
+   "rule_says": "A functional class must be declared together with the specific name or INS number.",
+   "pct_of_products": 6.98,
+   "pct_of_mentions": 34.7,
+   "left_generic": 160,
+   "named_specifically": 301
   },
   {
-   "term": "preservative",
-   "pct_of_products": 8.16,
-   "product_count": 187
+   "term": "vegetable oil",
+   "rule": "specific_name_required",
+   "rule_says": "Give name of the specific edible oil such as mustard oil, groundnut oil, etc.",
+   "pct_of_products": 6.85,
+   "pct_of_mentions": 34.4,
+   "left_generic": 157,
+   "named_specifically": 299
+  },
+  {
+   "term": "emulsifier",
+   "rule": "needs_name_or_ins_number",
+   "rule_says": "A functional class must be declared together with the specific name or INS number.",
+   "pct_of_products": 6.2,
+   "pct_of_mentions": 36.3,
+   "left_generic": 142,
+   "named_specifically": 249
+  },
+  {
+   "term": "spice",
+   "rule": "class_title_allowed",
+   "rule_says": "Class title 'Spice and condiments, herbs or mixed spices/condiments' is permitted.",
+   "pct_of_products": 4.76,
+   "pct_of_mentions": 25.5,
+   "left_generic": 109,
+   "named_specifically": 319
   },
   {
    "term": "artificial flavouring",
-   "pct_of_products": 4.41,
-   "product_count": 101
+   "rule": "class_title_allowed",
+   "rule_says": "Declared by class rather than by the individual substance.",
+   "pct_of_products": 4.23,
+   "pct_of_mentions": 96.0,
+   "left_generic": 97,
+   "named_specifically": 4
+  },
+  {
+   "term": "preservative",
+   "rule": "needs_name_or_ins_number",
+   "rule_says": "A functional class must be declared together with the specific name or INS number.",
+   "pct_of_products": 3.93,
+   "pct_of_mentions": 48.1,
+   "left_generic": 90,
+   "named_specifically": 97
+  },
+  {
+   "term": "colour",
+   "rule": "needs_name_or_ins_number",
+   "rule_says": "A functional class must be declared together with the specific name or INS number.",
+   "pct_of_products": 3.54,
+   "pct_of_mentions": 36.7,
+   "left_generic": 81,
+   "named_specifically": 140
+  },
+  {
+   "term": "stabiliser",
+   "rule": "needs_name_or_ins_number",
+   "rule_says": "A functional class must be declared together with the specific name or INS number.",
+   "pct_of_products": 3.36,
+   "pct_of_mentions": 32.0,
+   "left_generic": 77,
+   "named_specifically": 164
+  },
+  {
+   "term": "raising agent",
+   "rule": "needs_name_or_ins_number",
+   "rule_says": "A functional class must be declared together with the specific name or INS number.",
+   "pct_of_products": 3.23,
+   "pct_of_mentions": 37.9,
+   "left_generic": 74,
+   "named_specifically": 121
+  },
+  {
+   "term": "antioxidant",
+   "rule": "needs_name_or_ins_number",
+   "rule_says": "A functional class must be declared together with the specific name or INS number.",
+   "pct_of_products": 2.75,
+   "pct_of_mentions": 29.7,
+   "left_generic": 63,
+   "named_specifically": 149
+  },
+  {
+   "term": "sweetener",
+   "rule": "needs_name_or_ins_number",
+   "rule_says": "A functional class must be declared together with the specific name or INS number.",
+   "pct_of_products": 1.05,
+   "pct_of_mentions": 28.9,
+   "left_generic": 24,
+   "named_specifically": 59
+  },
+  {
+   "term": "thickener",
+   "rule": "needs_name_or_ins_number",
+   "rule_says": "A functional class must be declared together with the specific name or INS number.",
+   "pct_of_products": 0.65,
+   "pct_of_mentions": 15.8,
+   "left_generic": 15,
+   "named_specifically": 80
+  },
+  {
+   "term": "condiment",
+   "rule": "class_title_allowed",
+   "rule_says": "Class title 'Spice and condiments, herbs or mixed spices/condiments' is permitted.",
+   "pct_of_products": 0.22,
+   "pct_of_mentions": 1.1,
+   "left_generic": 5,
+   "named_specifically": 432
   }
  ],
  "note": "An additive listed here with has_card false was recognised from the Indian product data but has no written card yet."

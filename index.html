@@ -275,13 +275,28 @@ function readLabel(){
       `</p><p class="why">These look like additive codes but are not in our data.</p>`;
   }
 
-  if(vague.length){
-    h += `<h3>What this label does not have to tell you</h3>
-      <div class="note">Indian labelling rules let a packet use a general word instead of
-      naming the actual ingredient. This label uses ${vague.length} of them:
-      <ul>${vague.map(v => `<li><b>${esc(v.term)}</b> — appears on ${v.pct_of_products}%
-        of the Indian products we checked</li>`).join("")}</ul>
-      So for these, the honest answer is that the packet is not required to say.</div>`;
+  const shortOfRule = vague.filter(v => v.rule && v.rule !== "class_title_allowed");
+  const allowed = vague.filter(v => !v.rule || v.rule === "class_title_allowed");
+
+  if(shortOfRule.length){
+    h += `<h3>The rule asks for more than this label gave</h3>
+      <div class="note">India's Labelling and Display Regulations 2020 say a
+      <b>specific name shall be used</b> for ingredients. For these, a general word
+      on its own is not what the rule asks for:
+      <ul>${shortOfRule.map(v => `<li><b>${esc(v.term)}</b> — ${esc(v.rule_says||"")}
+        <br><span style="color:var(--muted)">${v.named_specifically} of the Indian products we
+        checked do name it; ${v.left_generic} leave it general like this one.</span></li>`).join("")}</ul>
+      <a href="https://fssai.gov.in/upload/uploadfiles/files/Comp_Labelling%20Display_Version%20VII_03042025.pdf"
+         target="_blank" rel="noopener">source: the regulation</a></div>`;
+  }
+
+  if(allowed.length){
+    h += `<h3>General words the rule does permit</h3>
+      <div class="old">A packet may use a class title instead of naming each ingredient
+      for these, so a general word here is not a lapse — it is simply as much as the
+      rule requires:
+      <ul>${allowed.map(v => `<li><b>${esc(v.term)}</b> — left general on
+        ${v.pct_of_products}% of the Indian products we checked</li>`).join("")}</ul></div>`;
   }
 
   $("result").innerHTML = h;
