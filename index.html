@@ -235,15 +235,22 @@ function readLabel(){
   const noCard = found.filter(f => !f.entry.has_card && !f.entry.unknown);
   const unknown = found.filter(f => f.entry.unknown);
 
-  let h = `<h3 class="first">What this label says</h3>`;
+  let h = "";
 
   if(!found.length && !vague.length){
-    h += `<p class="why">Nothing recognised. Additives are usually written as
-      <b>INS 211</b>, <b>E211</b> or a name like <b>sodium benzoate</b>.</p>`;
+    h += `<h3 class="first">Nothing recognised</h3>
+      <p class="why">No additives found in that text. On a packet they are usually written as
+      <b>INS 211</b>, <b>E211</b>, <b>(330)</b>, or by name like <b>sodium benzoate</b>.</p>`;
+  }else if(!found.length){
+    // only vague words - which is itself the answer worth giving
+    h += `<h3 class="first">No additives named here</h3>
+      <p class="why">That text does not name any additive. What it does contain is a
+      general word standing in place of an actual ingredient — see below.</p>`;
   }
 
   if(known.length){
-    h += `<p class="hint">${known.length} additive${known.length>1?"s":""} found with a card.
+    h += `<h3 class="first">What this label says</h3>
+      <p class="hint">${known.length} additive${known.length>1?"s":""} found.
       Tap any to see what each authority says.</p>`;
     h += known.map(f => {
       const idx = INDEX.find(i => i.ins === f.entry.ins) || {};
