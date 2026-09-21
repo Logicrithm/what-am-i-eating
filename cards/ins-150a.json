@@ -26,7 +26,21 @@
       "source": ""
     }
   },
+  "related_forms": [
+    {
+      "ins": "150D",
+      "name": "Sulphite ammonia caramel"
+    },
+    {
+      "ins": "150",
+      "name": "Caramel"
+    }
+  ],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india"
+  ],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -71,12 +85,12 @@
       "page": 69
     },
     {
-      "food_category": "(not captured - see page 75 of the PDF)",
+      "food_category": "Fermented milks (plain) heat treated after fermentation",
       "max_level": "150 mg/kg",
       "page": 75
     },
     {
-      "food_category": "(not captured - see page 289 of the PDF)",
+      "food_category": "Fruit nectar Fruit nectar",
       "max_level": "100 mg/kg",
       "page": 289
     },

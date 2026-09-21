@@ -75,6 +75,18 @@ def india_rows(ins, name):
     return [], "none"
 
 
+# INS numbers come in families: 500 is the sodium carbonates group, 500(i) is
+# sodium carbonate and 500(ii) is baking soda. Some of those are genuinely
+# different substances (150a and 150d are different caramels; 150d carries
+# sulphites), so merging them would lose real information. But showing them as
+# unrelated strangers is confusing too, especially where the group and its single
+# member read almost identically. So each card names its siblings.
+SELECTED = [t["ins"] for t in top[:50]]
+ins_family = collections.defaultdict(list)
+for t in top[:50]:
+    base = re.match(r"^(\d{3,4})", t["ins"]).group(1)
+    ins_family[base].append((t["ins"], t["name"]))
+
 cards = []
 index = []
 
@@ -178,7 +190,19 @@ for t in top[:50]:
                 "source": us_hit["source"] if us_hit else "",
             },
         },
+        "related_forms": [
+            {"ins": i, "name": n}
+            for i, n in ins_family[re.match(r"^(\d{3,4})", ins).group(1)] if i != ins
+        ],
         "regulators_disagree": disagree,
+        # Being honest about how much this was actually tested on. With only
+        # 14 of 50 cards carrying all three authorities, "nobody disagrees" is
+        # a much weaker statement than it sounds.
+        "disagreement_tested_on": sorted(
+            k for k in ("india", "eu", "usa")
+            if (india_status if k == "india" else eu_status if k == "eu"
+                else (us_hit["status"] if us_hit else "not_found")) != "not_found"
+        ),
         "permission_wording_differs": permission_differs,
         # In India this is not a side note. A green-dot "vegetarian" pack can
         # legally contain an additive whose source is animal - the label is not

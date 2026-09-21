@@ -14,11 +14,14 @@
     },
     "eu": {
       "value": "allowed_with_limits",
-      "note": "Re‐evaluation of locust bean gum -E 410- as a food additive",
-      "source": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4646",
-      "opinion_date": "2017-01",
-      "opinion_age_years": 9,
-      "replaced_an_older_opinion": null
+      "note": "Re‐evaluation of locust bean gum (E 410) as a food additive in foods for infants below 16 weeks of age and follow‐up of its re‐evaluation as a food additive for uses in foods for all population groups",
+      "source": "https://doi.org/10.2903/j.efsa.2023.7775",
+      "opinion_date": "2023-02",
+      "opinion_age_years": 3,
+      "replaced_an_older_opinion": {
+        "date": "2017-01",
+        "title": "Re‐evaluation of locust bean gum -E 410- as a food additive"
+      }
     },
     "usa": {
       "value": "allowed",
@@ -26,7 +29,13 @@
       "source": "https://www.ecfr.gov/current/title-21/section-184.1343"
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india",
+    "usa"
+  ],
   "permission_wording_differs": true,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -62,7 +71,7 @@
   },
   "india_limits": [
     {
-      "food_category": "(not captured - see page 74 of the PDF)",
+      "food_category": "Fermented milks (plain) heat treated after fermentation",
       "max_level": "GMP",
       "page": 74
     },
@@ -72,7 +81,7 @@
       "page": 76
     },
     {
-      "food_category": "(not captured - see page 83 of the PDF)",
+      "food_category": "Sterilized and UHT creams, whipping and whipped creams, and reduced fat creams (plain)",
       "max_level": "GMP",
       "page": 83
     },
@@ -82,22 +91,22 @@
       "page": 187
     },
     {
-      "food_category": "(not captured - see page 190 of the PDF)",
+      "food_category": "Dried pastas and noodles and like products",
       "max_level": "GMP",
       "page": 190
     },
     {
-      "food_category": "(not captured - see page 228 of the PDF)",
+      "food_category": "Citric acid",
       "max_level": "GMP",
       "page": 228
     },
     {
-      "food_category": "(not captured - see page 232 of the PDF)",
+      "food_category": "Frozen battered fish, fish fillets and fish products, including molluscs, crustaceans, and echinoderms Trisodium",
       "max_level": "GMP",
       "page": 232
     },
     {
-      "food_category": "(not captured - see page 236 of the PDF)",
+      "food_category": "Frozen minced and creamed fish products including molluscs, crustaceans, and echinoderms",
       "max_level": "GMP",
       "page": 236
     },

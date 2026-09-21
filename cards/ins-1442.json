@@ -13,11 +13,11 @@
       "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
     },
     "eu": {
-      "value": "not_found",
-      "note": "",
-      "source": "",
-      "opinion_date": "",
-      "opinion_age_years": null,
+      "value": "allowed_with_limits",
+      "note": "Re‐evaluation of oxidised starch (E 1404), monostarch phosphate (E 1410), distarch phosphate (E 1412), phosphated distarch phosphate (E 1413), acetylated distarch phosphate (E 1414), acetylated starch (E 1420), acetylated distarch adipate (E 1422), hydroxypropyl starch (E 1440), hydroxypropyl distarch phosphate (E 1442), starch sodium octenyl succinate (E 1450), acetylated oxidised starch (E 1451) and starch aluminium octenyl succinate (E 1452) as food additives",
+      "source": "https://doi.org/10.2903/j.efsa.2017.4911",
+      "opinion_date": "2017-10",
+      "opinion_age_years": 9,
       "replaced_an_older_opinion": null
     },
     "usa": {
@@ -26,7 +26,12 @@
       "source": ""
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india"
+  ],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -38,7 +43,7 @@
     "unit": "",
     "set_by": "",
     "source": "",
-    "no_number_means": ""
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
   },
   "acute_limit": {
     "value": null,
@@ -62,12 +67,12 @@
   },
   "india_limits": [
     {
-      "food_category": "(not captured - see page 78 of the PDF)",
+      "food_category": "Lecithins",
       "max_level": "GMP",
       "page": 78
     },
     {
-      "food_category": "(not captured - see page 84 of the PDF)",
+      "food_category": "Sterilized and UHT creams, whipping and whipped creams, and reduced fat creams (plain)",
       "max_level": "GMP",
       "page": 84
     },
@@ -77,17 +82,17 @@
       "page": 106
     },
     {
-      "food_category": "(not captured - see page 235 of the PDF)",
+      "food_category": "Frozen battered fish, fish fillets and fish products, including molluscs, crustaceans, and echinoderms Trisodium",
       "max_level": "GMP",
       "page": 235
     },
     {
-      "food_category": "(not captured - see page 261 of the PDF)",
+      "food_category": "Ponceau 4R",
       "max_level": "GMP",
       "page": 261
     },
     {
-      "food_category": "(not captured - see page 301 of the PDF)",
+      "food_category": "Coffee, coffee /coffee substitutes, tea, herbal infusions, and other hot cereal and grain beverages, excluding cocoa",
       "max_level": "GMP",
       "page": 301
     }

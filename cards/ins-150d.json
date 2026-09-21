@@ -26,7 +26,21 @@
       "source": ""
     }
   },
+  "related_forms": [
+    {
+      "ins": "150A",
+      "name": "Plain caramel"
+    },
+    {
+      "ins": "150",
+      "name": "Caramel"
+    }
+  ],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india"
+  ],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -96,7 +110,7 @@
       "page": 88
     },
     {
-      "food_category": "(not captured - see page 90 of the PDF)",
+      "food_category": "Unripened cheese",
       "max_level": "50,000 mg/kg",
       "page": 90
     },
@@ -111,7 +125,7 @@
       "page": 96
     },
     {
-      "food_category": "(not captured - see page 99 of the PDF)",
+      "food_category": "Flavoured processed cheese, including containing fruit, vegetables, meat etc.",
       "max_level": "50,000 mg/kg",
       "page": 99
     },
@@ -121,7 +135,7 @@
       "page": 100
     },
     {
-      "food_category": "(not captured - see page 103 of the PDF)",
+      "food_category": "Dairy based desserts",
       "max_level": "3,000 mg/kg",
       "page": 103
     }

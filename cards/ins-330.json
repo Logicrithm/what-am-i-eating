@@ -13,11 +13,11 @@
       "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
     },
     "eu": {
-      "value": "allowed_with_limits",
-      "note": "Scientific Opinion on the safety evaluation of the active substances citric acid -E330- and sodium hydrogen carbonate -E500ii-, used as carbon dioxide generators, together with liquid absorbers cellulose and polyacrylic acid sodium salt crosslinked, in active food contact materials.",
-      "source": "http://dx.doi.org/10.2903/j.efsa.2013.3152",
-      "opinion_date": "2013-04",
-      "opinion_age_years": 13,
+      "value": "not_found",
+      "note": "",
+      "source": "",
+      "opinion_date": "",
+      "opinion_age_years": null,
       "replaced_an_older_opinion": null
     },
     "usa": {
@@ -26,7 +26,12 @@
       "source": "https://www.ecfr.gov/current/title-21/section-184.1033"
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "india",
+    "usa"
+  ],
   "permission_wording_differs": true,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -38,7 +43,7 @@
     "unit": "",
     "set_by": "",
     "source": "",
-    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+    "no_number_means": ""
   },
   "acute_limit": {
     "value": null,
@@ -58,21 +63,21 @@
   "eu_exposure_finding": {
     "groups_over_limit_on_average": [],
     "groups_over_limit_high_consumers": [],
-    "source": "http://dx.doi.org/10.2903/j.efsa.2013.3152"
+    "source": ""
   },
   "india_limits": [
     {
-      "food_category": "(not captured - see page 74 of the PDF)",
+      "food_category": "Fermented milks (plain) heat treated after fermentation",
       "max_level": "GMP",
       "page": 74
     },
     {
-      "food_category": "(not captured - see page 83 of the PDF)",
+      "food_category": "Sterilized and UHT creams, whipping and whipped creams, and reduced fat creams (plain)",
       "max_level": "GMP",
       "page": 83
     },
     {
-      "food_category": "(not captured - see page 102 of the PDF)",
+      "food_category": "Whey protein cheese",
       "max_level": "GMP",
       "page": 102
     },
@@ -82,7 +87,7 @@
       "page": 108
     },
     {
-      "food_category": "(not captured - see page 111 of the PDF)",
+      "food_category": "Lard, tallow, fish oil, and other animal fats (edible fats)",
       "max_level": "GMP",
       "page": 111
     },
@@ -107,7 +112,7 @@
       "page": 150
     },
     {
-      "food_category": "(not captured - see page 159 of the PDF)",
+      "food_category": "categories",
       "max_level": "GMP",
       "page": 159
     },
@@ -117,7 +122,7 @@
       "page": 187
     },
     {
-      "food_category": "(not captured - see page 190 of the PDF)",
+      "food_category": "Dried pastas and noodles and like products",
       "max_level": "GMP",
       "page": 190
     }

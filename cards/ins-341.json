@@ -26,7 +26,12 @@
       "source": ""
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india"
+  ],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -71,12 +76,12 @@
   },
   "india_limits": [
     {
-      "food_category": "(not captured - see page 202 of the PDF)",
+      "food_category": "Bread and ordinary bakery wares and mixes",
       "max_level": "10,000 mg/kg",
       "page": 202
     },
     {
-      "food_category": "(not captured - see page 202 of the PDF)",
+      "food_category": "Bread and ordinary bakery wares and mixes",
       "max_level": "10,000 mg/kg",
       "page": 202
     }

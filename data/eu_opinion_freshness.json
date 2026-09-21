@@ -109,12 +109,17 @@
   {
     "ins": "1442",
     "name": "Hydroxypropyl distarch phosphate",
-    "verdict": "no_efsa_opinion_found",
+    "verdict": "found_opinion_we_did_not_have",
     "we_have": {
       "date": "",
       "title": ""
     },
-    "newest_found": null,
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2017.4911",
+      "title": "Re‐evaluation of oxidised starch (E 1404), monostarch phosphate (E 1410), distarch phosphate (E 1412), phosphated distarch phosphate (E 1413), acetylated distarch phosphate (E 1414), acetylated starch (E 1420), acetylated distarch adipate (E 1422), hydroxypropyl starch (E 1440), hydroxypropyl distarch phosphate (E 1442), starch sodium octenyl succinate (E 1450), acetylated oxidised starch (E 1451) and starch aluminium octenyl succinate (E 1452) as food additives",
+      "date": "2017-10",
+      "url": "https://doi.org/10.2903/j.efsa.2017.4911"
+    },
     "also_found": []
   },
   {
@@ -221,34 +226,48 @@
   {
     "ins": "170I",
     "name": "Calcium carbonate",
-    "verdict": "current",
+    "verdict": "superseded",
     "we_have": {
       "date": "2011-07",
       "title": "Scientific Opinion on re‐evaluation of calcium carbonate -E 170- as a food additive"
     },
     "newest_found": {
-      "doi": "10.2903/j.efsa.2011.2318",
-      "title": "Scientific Opinion on re‐evaluation of calcium carbonate (E 170) as a food additive",
-      "date": "2011-07",
-      "url": "https://doi.org/10.2903/j.efsa.2011.2318"
+      "doi": "10.2903/j.efsa.2023.8106",
+      "title": "Re‐evaluation of calcium carbonate (E 170) as a food additive in foods for infants below 16 weeks of age and follow‐up of its re‐evaluation as food additive for uses in foods for all population groups",
+      "date": "2023-07",
+      "url": "https://doi.org/10.2903/j.efsa.2023.8106"
     },
-    "also_found": []
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2011.2318",
+        "title": "Scientific Opinion on re‐evaluation of calcium carbonate (E 170) as a food additive",
+        "date": "2011-07",
+        "url": "https://doi.org/10.2903/j.efsa.2011.2318"
+      }
+    ]
   },
   {
     "ins": "202",
     "name": "Potassium sorbate",
-    "verdict": "current",
+    "verdict": "superseded",
     "we_have": {
       "date": "2015-06",
       "title": "Scientific Opinion on the re‐evaluation of sorbic acid -E 200-, potassium sorbate -E 202- and calcium sorbate -E 203- as"
     },
     "newest_found": {
-      "doi": "10.2903/j.efsa.2015.4144",
-      "title": "Scientific Opinion on the re‐evaluation of sorbic acid (E 200), potassium sorbate (E 202) and calcium sorbate (E 203) as food additives",
-      "date": "2015-06",
-      "url": "https://doi.org/10.2903/j.efsa.2015.4144"
+      "doi": "10.2903/j.efsa.2019.5625",
+      "title": "Opinion on the follow‐up of the re‐evaluation of sorbic acid (E200) and potassium sorbate (E202) as food additives",
+      "date": "2019-03",
+      "url": "https://doi.org/10.2903/j.efsa.2019.5625"
     },
-    "also_found": []
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2015.4144",
+        "title": "Scientific Opinion on the re‐evaluation of sorbic acid (E 200), potassium sorbate (E 202) and calcium sorbate (E 203) as food additives",
+        "date": "2015-06",
+        "url": "https://doi.org/10.2903/j.efsa.2015.4144"
+      }
+    ]
   },
   {
     "ins": "211",
@@ -269,18 +288,25 @@
   {
     "ins": "223",
     "name": "Sodium metabisulphite",
-    "verdict": "current",
+    "verdict": "superseded",
     "we_have": {
       "date": "2016-04",
       "title": "Scientific Opinion on the re-evaluation of sulfur dioxide -E 220-, sodium sulfite -E 221-, sodium bisulfite -E 222-, sod"
     },
     "newest_found": {
-      "doi": "10.2903/j.efsa.2016.4438",
-      "title": "Scientific Opinion on the re‐evaluation of sulfur dioxide (E 220), sodium sulfite (E 221), sodium bisulfite (E 222), sodium metabisulfite (E 223), potassium metabisulfite (E 224), calcium sulfite (E 226), calcium bisulfite (E 227) and potassium bisulfite (E 228) as food additives",
-      "date": "2016-04",
-      "url": "https://doi.org/10.2903/j.efsa.2016.4438"
+      "doi": "10.2903/j.efsa.2022.7594",
+      "title": "Follow‐up of the re‐evaluation of sulfur dioxide (E 220), sodium sulfite (E 221), sodium bisulfite (E 222), sodium metabisulfite (E 223), potassium metabisulfite (E 224), calcium sulfite (E 226), calcium bisulfite (E 227) and potassium bisulfite (E 228)",
+      "date": "2022-11",
+      "url": "https://doi.org/10.2903/j.efsa.2022.7594"
     },
-    "also_found": []
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2016.4438",
+        "title": "Scientific Opinion on the re‐evaluation of sulfur dioxide (E 220), sodium sulfite (E 221), sodium bisulfite (E 222), sodium metabisulfite (E 223), potassium metabisulfite (E 224), calcium sulfite (E 226), calcium bisulfite (E 227) and potassium bisulfite (E 228) as food additives",
+        "date": "2016-04",
+        "url": "https://doi.org/10.2903/j.efsa.2016.4438"
+      }
+    ]
   },
   {
     "ins": "260",
@@ -378,13 +404,25 @@
   {
     "ins": "322",
     "name": "Lecithins",
-    "verdict": "no_efsa_opinion_found",
+    "verdict": "found_opinion_we_did_not_have",
     "we_have": {
       "date": "",
       "title": ""
     },
-    "newest_found": null,
-    "also_found": []
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2020.6266",
+      "title": "Opinion on the re‐evaluation of lecithins (E 322) as a food additive in foods for infants below 16 weeks of age and follow‐up of its re‐evaluation as food additive for uses in foods for all population groups",
+      "date": "2020-11",
+      "url": "https://doi.org/10.2903/j.efsa.2020.6266"
+    },
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2017.4742",
+        "title": "Re‐evaluation of lecithins (E 322) as a food additive",
+        "date": "2017-04",
+        "url": "https://doi.org/10.2903/j.efsa.2017.4742"
+      }
+    ]
   },
   {
     "ins": "322I",
@@ -402,8 +440,8 @@
     "name": "Citric acid",
     "verdict": "no_efsa_opinion_found",
     "we_have": {
-      "date": "2013-04",
-      "title": "Scientific Opinion on the safety evaluation of the active substances citric acid -E330- and sodium hydrogen carbonate -E"
+      "date": "",
+      "title": ""
     },
     "newest_found": null,
     "also_found": []
@@ -444,57 +482,110 @@
   {
     "ins": "407",
     "name": "Carrageenan",
-    "verdict": "no_efsa_opinion_found",
+    "verdict": "current",
     "we_have": {
       "date": "2018-04",
       "title": "Re‐evaluation of carrageenan -E 407- and processed Eucheuma seaweed -E 407a- as food additives"
     },
-    "newest_found": null,
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2018.5238",
+      "title": "Re‐evaluation of carrageenan (E 407) and processed Eucheuma seaweed (E 407a) as food additives",
+      "date": "2018-04",
+      "url": "https://doi.org/10.2903/j.efsa.2018.5238"
+    },
     "also_found": []
   },
   {
     "ins": "410",
     "name": "Locust bean gum",
-    "verdict": "no_efsa_opinion_found",
+    "verdict": "superseded",
     "we_have": {
       "date": "2017-01",
       "title": "Re‐evaluation of locust bean gum -E 410- as a food additive"
     },
-    "newest_found": null,
-    "also_found": []
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2023.7775",
+      "title": "Re‐evaluation of locust bean gum (E 410) as a food additive in foods for infants below 16 weeks of age and follow‐up of its re‐evaluation as a food additive for uses in foods for all population groups",
+      "date": "2023-02",
+      "url": "https://doi.org/10.2903/j.efsa.2023.7775"
+    },
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2017.4646",
+        "title": "Re‐evaluation of locust bean gum (E 410) as a food additive",
+        "date": "2017-01",
+        "url": "https://doi.org/10.2903/j.efsa.2017.4646"
+      }
+    ]
   },
   {
     "ins": "412",
     "name": "Guar gum",
-    "verdict": "no_efsa_opinion_found",
+    "verdict": "found_opinion_we_did_not_have",
     "we_have": {
       "date": "",
       "title": ""
     },
-    "newest_found": null,
-    "also_found": []
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2024.8748",
+      "title": "Re‐evaluation of guar gum (E 412) as a food additive in foods for infants below 16 weeks of age and follow‐up of its re‐evaluation as food additive for uses in foods for all population groups",
+      "date": "2024-05",
+      "url": "https://doi.org/10.2903/j.efsa.2024.8748"
+    },
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2017.4669",
+        "title": "Re‐evaluation of guar gum (E 412) as a food additive",
+        "date": "2017-02",
+        "url": "https://doi.org/10.2903/j.efsa.2017.4669"
+      }
+    ]
   },
   {
     "ins": "414",
     "name": "Acacia gum",
-    "verdict": "no_efsa_opinion_found",
+    "verdict": "found_opinion_we_did_not_have",
     "we_have": {
       "date": "",
       "title": ""
     },
-    "newest_found": null,
-    "also_found": []
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2019.5922",
+      "title": "Opinion on the re‐evaluation of acacia gum (E 414) as a food additive in foods for infants below 16 weeks of age and the follow‐up of its re‐evaluation as a food additive for uses in foods for all population groups",
+      "date": "2019-12",
+      "url": "https://doi.org/10.2903/j.efsa.2019.5922"
+    },
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2017.4741",
+        "title": "Re‐evaluation of acacia gum (E 414) as a food additive",
+        "date": "2017-04",
+        "url": "https://doi.org/10.2903/j.efsa.2017.4741"
+      }
+    ]
   },
   {
     "ins": "415",
     "name": "Xanthan gum",
-    "verdict": "no_efsa_opinion_found",
+    "verdict": "superseded",
     "we_have": {
       "date": "2017-07",
       "title": "Re‐evaluation of xanthan gum -E 415- as a food additive"
     },
-    "newest_found": null,
-    "also_found": []
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2023.7951",
+      "title": "Re‐evaluation of xanthan gum (E 415) as a food additive in foods for infants below 16 weeks of age and follow‐up of its re‐evaluation as a food additive for uses in foods for all population groups",
+      "date": "2023-05",
+      "url": "https://doi.org/10.2903/j.efsa.2023.7951"
+    },
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2017.4909",
+        "title": "Re‐evaluation of xanthan gum (E 415) as a food additive",
+        "date": "2017-07",
+        "url": "https://doi.org/10.2903/j.efsa.2017.4909"
+      }
+    ]
   },
   {
     "ins": "420",
@@ -521,18 +612,43 @@
       "date": "2026-05",
       "url": "https://doi.org/10.2903/j.efsa.2026.10057"
     },
-    "also_found": []
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2022.7353",
+        "title": "Follow‐up of the re‐evaluation of glycerol (E 422) as a food additive",
+        "date": "2022-06",
+        "url": "https://doi.org/10.2903/j.efsa.2022.7353"
+      },
+      {
+        "doi": "10.2903/j.efsa.2017.4720",
+        "title": "Re‐evaluation of glycerol (E 422) as a food additive",
+        "date": "2017-03",
+        "url": "https://doi.org/10.2903/j.efsa.2017.4720"
+      }
+    ]
   },
   {
     "ins": "440A",
     "name": "Pectin",
-    "verdict": "no_efsa_opinion_found",
+    "verdict": "found_opinion_we_did_not_have",
     "we_have": {
       "date": "",
       "title": ""
     },
-    "newest_found": null,
-    "also_found": []
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2021.6387",
+      "title": "Opinion on the re‐evaluation of pectin (E 440i) and amidated pectin (E 440ii) as food additives in foods for infants below 16 weeks of age and follow‐up of their re‐evaluation as food additives for uses in foods for all population groups",
+      "date": "2021-01",
+      "url": "https://doi.org/10.2903/j.efsa.2021.6387"
+    },
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2017.4866",
+        "title": "Re‐evaluation of pectin (E 440i) and amidated pectin (E 440ii) as food additives",
+        "date": "2017-07",
+        "url": "https://doi.org/10.2903/j.efsa.2017.4866"
+      }
+    ]
   },
   {
     "ins": "450",
@@ -559,32 +675,49 @@
   {
     "ins": "466",
     "name": "Sodium carboxy methyl cellulose",
-    "verdict": "no_efsa_opinion_found",
+    "verdict": "found_opinion_we_did_not_have",
     "we_have": {
       "date": "",
       "title": ""
     },
-    "newest_found": null,
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2022.7665",
+      "title": "Opinion on the re‐evaluation of sodium carboxy methyl cellulose (E 466) as a food additive in foods for infants below 16 weeks of age and follow‐up of its re‐evaluation as food additive for uses in foods for all population groups",
+      "date": "2022-12",
+      "url": "https://doi.org/10.2903/j.efsa.2022.7665"
+    },
     "also_found": []
   },
   {
     "ins": "471",
     "name": "Mono- and diglycerides of fatty acids",
-    "verdict": "no_efsa_opinion_found",
+    "verdict": "found_opinion_we_did_not_have",
     "we_have": {
       "date": "",
       "title": ""
     },
-    "newest_found": null,
-    "also_found": []
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2021.6885",
+      "title": "Opinion on the re‐evaluation of mono‐ and diglycerides of fatty acids (E 471) as food additive in foods for infants below 16 weeks of age and follow‐up of their re‐evaluation as food additives for uses in foods for all population groups",
+      "date": "2021-11",
+      "url": "https://doi.org/10.2903/j.efsa.2021.6885"
+    },
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2017.5045",
+        "title": "Re‐evaluation of mono‐ and di‐glycerides of fatty acids (E 471) as food additives",
+        "date": "2017-11",
+        "url": "https://doi.org/10.2903/j.efsa.2017.5045"
+      }
+    ]
   },
   {
     "ins": "500",
     "name": "Sodium carbonates",
     "verdict": "no_efsa_opinion_found",
     "we_have": {
-      "date": "2013-04",
-      "title": "Scientific Opinion on the safety evaluation of the active substances citric acid -E330- and sodium hydrogen carbonate -E"
+      "date": "",
+      "title": ""
     },
     "newest_found": null,
     "also_found": []
@@ -594,8 +727,8 @@
     "name": "Sodium carbonate",
     "verdict": "no_efsa_opinion_found",
     "we_have": {
-      "date": "2013-04",
-      "title": "Scientific Opinion on the safety evaluation of the active substances citric acid -E330- and sodium hydrogen carbonate -E"
+      "date": "",
+      "title": ""
     },
     "newest_found": null,
     "also_found": []
@@ -605,8 +738,8 @@
     "name": "Sodium hydrogen carbonate",
     "verdict": "no_efsa_opinion_found",
     "we_have": {
-      "date": "2013-04",
-      "title": "Scientific Opinion on the safety evaluation of the active substances citric acid -E330- and sodium hydrogen carbonate -E"
+      "date": "",
+      "title": ""
     },
     "newest_found": null,
     "also_found": []
@@ -647,24 +780,41 @@
   {
     "ins": "508",
     "name": "Potassium chloride",
-    "verdict": "no_efsa_opinion_found",
+    "verdict": "current",
     "we_have": {
       "date": "2019-07",
       "title": "Re‐evaluation of hydrochloric acid -E 507-, potassium chloride -E 508-, calcium chloride -E 509- and magnesium chloride "
     },
-    "newest_found": null,
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2019.5751",
+      "title": "Re‐evaluation of hydrochloric acid (E 507), potassium chloride (E 508), calcium chloride (E 509) and magnesium chloride (E 511) as food additives",
+      "date": "2019-07",
+      "url": "https://doi.org/10.2903/j.efsa.2019.5751"
+    },
     "also_found": []
   },
   {
     "ins": "551",
     "name": "Silicon dioxide",
-    "verdict": "no_efsa_opinion_found",
+    "verdict": "found_opinion_we_did_not_have",
     "we_have": {
       "date": "",
       "title": ""
     },
-    "newest_found": null,
-    "also_found": []
+    "newest_found": {
+      "doi": "10.2903/j.efsa.2024.8880",
+      "title": "Re‐evaluation of silicon dioxide (E 551) as a food additive in foods for infants below 16 weeks of age and follow‐up of its re‐evaluation as a food additive for uses in foods for all population groups",
+      "date": "2024-10",
+      "url": "https://doi.org/10.2903/j.efsa.2024.8880"
+    },
+    "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2018.5088",
+        "title": "Re‐evaluation of silicon dioxide (E 551) as a food additive",
+        "date": "2018-01",
+        "url": "https://doi.org/10.2903/j.efsa.2018.5088"
+      }
+    ]
   },
   {
     "ins": "627",
@@ -697,12 +847,18 @@
       "title": "Safety of the proposed extension of use of sucralose -E 955- in foods for special medical purposes in young children"
     },
     "newest_found": {
-      "doi": "10.2903/j.efsa.2017.4784",
-      "title": "Statement on the validity of the conclusions of a mouse carcinogenicity study on sucralose (E 955) performed by the Ramazzini Institute",
-      "date": "2017-05",
-      "url": "https://doi.org/10.2903/j.efsa.2017.4784"
+      "doi": "10.2903/j.efsa.2026.9854",
+      "title": "Re‐evaluation of sucralose (E 955) as a food additive and evaluation of a new application on extension of use of sucralose (E 955) in fine bakery wares",
+      "date": "2026-02",
+      "url": "https://doi.org/10.2903/j.efsa.2026.9854"
     },
     "also_found": [
+      {
+        "doi": "10.2903/j.efsa.2017.4784",
+        "title": "Statement on the validity of the conclusions of a mouse carcinogenicity study on sucralose (E 955) performed by the Ramazzini Institute",
+        "date": "2017-05",
+        "url": "https://doi.org/10.2903/j.efsa.2017.4784"
+      },
       {
         "doi": "10.2903/j.efsa.2016.4361",
         "title": "Safety of the proposed extension of use of sucralose (E 955) in foods for special medical purposes in young children",

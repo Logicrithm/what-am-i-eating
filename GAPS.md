@@ -46,20 +46,35 @@ Some of these already require warnings on Indian labels. None of it is in our
 cards yet, and a card that ignores it is giving a healthy adult's answer to
 someone who is not a healthy adult.
 
-## 5. A quarter of Indian labels do not have to tell you
+## 5. Sometimes the label may stay general - and sometimes it should not have
 
 From our own count of real Indian products:
 
-| What the label says | Share of products |
+| What the label leaves general | Share of products |
 |---|---|
-| just "flavouring" | 26% |
-| just "acidity regulator" | 20% |
-| just "vegetable oil" | 20% |
-| just "spices" | 19% |
+| just "flavouring" (permitted) | 7.8% |
+| just "acidity regulator" (**rule asks for the name or INS number**) | 7.0% |
+| just "vegetable oil" (**rule asks for the specific oil**) | 6.8% |
+| just "emulsifier" (**rule asks for the name or INS number**) | 6.2% |
+| just "spices" (permitted) | 4.8% |
 
-For these, the honest answer is not an ingredient page. It is: **the label is not
-required to tell you, and here is the rule that allows that.** We have the
-numbers; we have not built the explanation.
+An earlier version of this file published these as 26%, 20%, 20% and 19%. Those
+numbers were wrong: Open Food Facts tags are hierarchical, so a product saying
+"palm oil" also carries the parent tag "vegetable oil", and counting the parent
+counted products that HAD named their oil. We were overstating how much labels
+hide. Corrected 2026-09-21.
+
+The bigger correction is what it means. This section used to say the label is not
+required to tell you. For some of these that is true - spices, condiments and
+flavourings may use a class title. For others it is the opposite: the Labelling
+and Display Regulations 2020 require a specific name, and the entry for edible
+vegetable oil reads "Give name of the specific edible oil such as mustard oil,
+groundnut oil, etc." Functional additive classes must carry the specific name or
+the INS number.
+
+So the useful thing to show is not one message but two: where a general word is
+all the rule requires, and where the rule asks for more than the label gave. The
+site now separates them.
 
 ## 6. The label also never tells you how much was actually used
 
@@ -98,14 +113,27 @@ What we can do instead of picking a side is make the provenance visible:
 - **when** they decided - and 15 of our 50 rest on EU opinions that are 12 or more
   years old. Citric acid, the single most common additive in Indian packaged food,
   was last reviewed in 2013.
-- **whether regulators disagree** - among the top 50, none of them currently do,
-  which is worth stating plainly rather than implying a conflict that is not there
+- **whether regulators disagree** - none of the top 50 currently do. But that is
+  a weaker statement than it sounds: only 14 of the 50 cards carry all three
+  authorities, so the comparison is genuinely tested on 14. On the rest we are
+  missing India, the EU or the US and simply do not know. Each card now says how
+  many of the three it was tested against.
 - **the full document**, linked, so nobody has to take our word for it
 
 Transparency about provenance is the honest response to distrust. Manufactured
 suspicion is not.
 
-## 10. Absence of evidence is not safety
+## 10. The same substance appears more than once
+
+INS numbers come in families. 500 is the sodium carbonates group, 500(i) is
+sodium carbonate, 500(ii) is baking soda. Our fifty cards therefore cover 42
+distinct substances, not 50, and a search can turn up what looks like two
+answers for one thing.
+
+Merging them would be wrong - 150(a) and 150(d) are different caramels, and only
+150(d) carries sulphites. So each card now names its siblings instead.
+
+## 11. Absence of evidence is not safety
 
 "No safety concern identified" usually means nobody found a problem in the studies
 that were done. Long-term, low-dose, lifelong, mixed-with-everything-else exposure

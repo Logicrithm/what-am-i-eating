@@ -26,7 +26,16 @@
       "source": ""
     }
   },
+  "related_forms": [
+    {
+      "ins": "450",
+      "name": "Diphosphates"
+    }
+  ],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "india"
+  ],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "not_known",
@@ -62,7 +71,7 @@
   },
   "india_limits": [
     {
-      "food_category": "(not captured - see page 202 of the PDF)",
+      "food_category": "Bread and ordinary bakery wares and mixes",
       "max_level": "5,000 mg/kg",
       "page": 202
     }

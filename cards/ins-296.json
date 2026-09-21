@@ -26,7 +26,12 @@
       "source": "https://www.ecfr.gov/current/title-21/section-184.1069"
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "india",
+    "usa"
+  ],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -62,17 +67,17 @@
   },
   "india_limits": [
     {
-      "food_category": "(not captured - see page 73 of the PDF)",
+      "food_category": "Fermented milks (plain) heat treated after fermentation",
       "max_level": "GMP",
       "page": 73
     },
     {
-      "food_category": "(not captured - see page 102 of the PDF)",
+      "food_category": "Whey protein cheese",
       "max_level": "GMP",
       "page": 102
     },
     {
-      "food_category": "(not captured - see page 150 of the PDF)",
+      "food_category": "Citric acid",
       "max_level": "GMP",
       "page": 150
     },
@@ -82,12 +87,12 @@
       "page": 150
     },
     {
-      "food_category": "(not captured - see page 160 of the PDF)",
+      "food_category": "categories",
       "max_level": "GMP",
       "page": 160
     },
     {
-      "food_category": "(not captured - see page 190 of the PDF)",
+      "food_category": "Dried pastas and noodles and like products",
       "max_level": "GMP",
       "page": 190
     },
@@ -97,12 +102,12 @@
       "page": 231
     },
     {
-      "food_category": "(not captured - see page 237 of the PDF)",
+      "food_category": "Cooked and/or fried fish and fish products, including molluscs, crustaceans, and echinoderms",
       "max_level": "GMP",
       "page": 237
     },
     {
-      "food_category": "(not captured - see page 242 of the PDF)",
+      "food_category": "Smoked, dried, fermented, and/or salted fish and fish products, including molluscs, crustaceans, and echinoderms (Dried shark fins, Salted fish/ dried salted fish)",
       "max_level": "GMP",
       "page": 242
     },

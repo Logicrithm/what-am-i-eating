@@ -26,7 +26,13 @@
       "source": "https://www.ecfr.gov/current/title-21/section-182.3013"
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india",
+    "usa"
+  ],
   "permission_wording_differs": true,
   "vegetarian_status": {
     "vegetarian": "yes",

@@ -14,10 +14,10 @@
     },
     "eu": {
       "value": "allowed_with_limits",
-      "note": "Statement on the validity of the conclusions of a mouse carcinogenicity study on sucralose (E 955) performed by the Ramazzini Institute",
-      "source": "https://doi.org/10.2903/j.efsa.2017.4784",
-      "opinion_date": "2017-05",
-      "opinion_age_years": 9,
+      "note": "Re‐evaluation of sucralose (E 955) as a food additive and evaluation of a new application on extension of use of sucralose (E 955) in fine bakery wares",
+      "source": "https://doi.org/10.2903/j.efsa.2026.9854",
+      "opinion_date": "2026-02",
+      "opinion_age_years": 0,
       "replaced_an_older_opinion": {
         "date": "2016-01",
         "title": "Safety of the proposed extension of use of sucralose -E 955- in foods for special medical purposes in young children"
@@ -29,7 +29,13 @@
       "source": "https://www.ecfr.gov/current/title-21/section-172.831"
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india",
+    "usa"
+  ],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -65,27 +71,27 @@
   },
   "india_limits": [
     {
-      "food_category": "(not captured - see page 70 of the PDF)",
+      "food_category": "Dairy-based drinks - flavoured milk and/or fermented",
       "max_level": "300 mg/kg",
       "page": 70
     },
     {
-      "food_category": "(not captured - see page 82 of the PDF)",
+      "food_category": "Non dairy based beverage whitener",
       "max_level": "580 mg/kg",
       "page": 82
     },
     {
-      "food_category": "(not captured - see page 87 of the PDF)",
+      "food_category": "Cream analogues",
       "max_level": "580 mg/kg",
       "page": 87
     },
     {
-      "food_category": "PHOSPHATES",
+      "food_category": "Lauric arginate",
       "max_level": "500 mg/kg",
       "page": 101
     },
     {
-      "food_category": "(not captured - see page 104 of the PDF)",
+      "food_category": "Lauric arginate",
       "max_level": "400 mg/kg",
       "page": 104
     },
@@ -95,7 +101,7 @@
       "page": 118
     },
     {
-      "food_category": "(not captured - see page 122 of the PDF)",
+      "food_category": "Cocoa based spreads including fillings",
       "max_level": "400 mg/kg",
       "page": 122
     },
@@ -105,22 +111,22 @@
       "page": 124
     },
     {
-      "food_category": "(not captured - see page 130 of the PDF)",
+      "food_category": "brine brine",
       "max_level": "180 mg/kg",
       "page": 130
     },
     {
-      "food_category": "(not captured - see page 132 of the PDF)",
+      "food_category": "Canned or bottled (pasteurized) fruit",
       "max_level": "400 mg/kg",
       "page": 132
     },
     {
-      "food_category": "(not captured - see page 134 of the PDF)",
+      "food_category": "Jams, jellies, marmalades Jams, jellies,",
       "max_level": "400 mg/kg",
       "page": 134
     },
     {
-      "food_category": "(not captured - see page 136 of the PDF)",
+      "food_category": "Fruit-based spreads (e.g. chutney) excluding products of food category 4.1.2.5",
       "max_level": "400 mg/kg",
       "page": 136
     }

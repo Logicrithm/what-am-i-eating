@@ -13,11 +13,11 @@
       "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
     },
     "eu": {
-      "value": "not_found",
-      "note": "",
-      "source": "",
-      "opinion_date": "",
-      "opinion_age_years": null,
+      "value": "allowed_with_limits",
+      "note": "Opinion on the re‐evaluation of mono‐ and diglycerides of fatty acids (E 471) as food additive in foods for infants below 16 weeks of age and follow‐up of their re‐evaluation as food additives for uses in foods for all population groups",
+      "source": "https://doi.org/10.2903/j.efsa.2021.6885",
+      "opinion_date": "2021-11",
+      "opinion_age_years": 5,
       "replaced_an_older_opinion": null
     },
     "usa": {
@@ -26,7 +26,12 @@
       "source": ""
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india"
+  ],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "maybe",
@@ -38,7 +43,7 @@
     "unit": "",
     "set_by": "",
     "source": "",
-    "no_number_means": ""
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
   },
   "acute_limit": {
     "value": null,
@@ -62,7 +67,7 @@
   },
   "india_limits": [
     {
-      "food_category": "(not captured - see page 73 of the PDF)",
+      "food_category": "Fermented milks (plain) heat treated after fermentation",
       "max_level": "GMP",
       "page": 73
     },
@@ -72,12 +77,12 @@
       "page": 84
     },
     {
-      "food_category": "(not captured - see page 110 of the PDF)",
+      "food_category": "Vegetable oils, fats and bakery shortenings",
       "max_level": "GMP",
       "page": 110
     },
     {
-      "food_category": "(not captured - see page 165 of the PDF)",
+      "food_category": "Cocoa and chocolate products",
       "max_level": "GMP",
       "page": 165
     },
@@ -87,12 +92,12 @@
       "page": 173
     },
     {
-      "food_category": "(not captured - see page 188 of the PDF)",
+      "food_category": "and like",
       "max_level": "GMP",
       "page": 188
     },
     {
-      "food_category": "(not captured - see page 191 of the PDF)",
+      "food_category": "Dried pastas and noodles and like products",
       "max_level": "GMP",
       "page": 191
     },
@@ -107,7 +112,7 @@
       "page": 262
     },
     {
-      "food_category": "TARTRATES",
+      "food_category": "Concentrates of fruitjuices (concentrated fruit juices for industrial use)",
       "max_level": "10 mg/kg",
       "page": 287
     },
@@ -117,7 +122,7 @@
       "page": 287
     },
     {
-      "food_category": "(not captured - see page 302 of the PDF)",
+      "food_category": "Lecithins",
       "max_level": "GMP",
       "page": 302
     }

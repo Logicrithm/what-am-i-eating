@@ -26,7 +26,13 @@
       "source": "https://www.ecfr.gov/current/title-21/section-184.1221"
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india",
+    "usa"
+  ],
   "permission_wording_differs": true,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -62,7 +68,7 @@
   },
   "india_limits": [
     {
-      "food_category": "(not captured - see page 102 of the PDF)",
+      "food_category": "Whey protein cheese",
       "max_level": "3,000 mg/kg",
       "page": 102
     }

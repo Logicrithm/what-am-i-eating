@@ -11,6 +11,16 @@ root = pathlib.Path(__file__).resolve().parent.parent
 tax = json.loads((root / "sources/raw/off_additives.json").read_text(encoding="utf-8"))
 
 
+# Not every EFSA paper about a substance is a FOOD ADDITIVE safety opinion.
+# The taxonomy pointed citric acid and the sodium carbonates at an opinion about
+# carbon dioxide generators in food PACKAGING. Citing that as the safety review
+# for the most common additive in Indian food was plainly wrong.
+WRONG_KIND = re.compile(
+    r"food contact|active substance|carbon dioxide generator|packaging|"
+    r"feed additive|novel food|health claim|nutrient source|for cats|for dogs|"
+    r"technological additive|silage|maximum residue level", re.I)
+
+
 def en(entry, field):
     v = entry.get(field)
     if isinstance(v, dict):
@@ -27,6 +37,11 @@ for tag, e in tax.items():
     name = en(e, "name") or ""
     name = re.sub(r"^E\d+[a-z]*\s*-\s*", "", name)
 
+    title = en(e, "efsa_evaluation") or ""
+    url = en(e, "efsa_evaluation_url") or ""
+    if title and WRONG_KIND.search(title):
+        title, url = "", ""          # leave it blank rather than cite the wrong paper
+
     adi = en(e, "efsa_evaluation_adi")
     over = (en(e, "efsa_evaluation_overexposure_risk") or "").replace("en:", "")
     mean_over = (en(e, "efsa_evaluation_exposure_mean_greater_than_adi") or "").replace("en:", "")
@@ -41,9 +56,9 @@ for tag, e in tax.items():
         "vegetarian": en(e, "vegetarian") or "",
         "efsa_adi_mg_per_kg_bw_per_day": adi,
         "efsa_adi_established": en(e, "efsa_evaluation_adi_established"),
-        "efsa_opinion_title": en(e, "efsa_evaluation") or "",
-        "efsa_opinion_url": en(e, "efsa_evaluation_url") or "",
-        "efsa_opinion_date": en(e, "efsa_evaluation_date") or "",
+        "efsa_opinion_title": title,
+        "efsa_opinion_url": url,
+        "efsa_opinion_date": (en(e, "efsa_evaluation_date") or "") if url else "",
         "efsa_overexposure_risk": over,
         "groups_over_adi_on_average": [g.strip() for g in mean_over.split(",") if g.strip()],
         "groups_over_adi_high_consumers": [g.strip() for g in p95_over.split(",") if g.strip()],

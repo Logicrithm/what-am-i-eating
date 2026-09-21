@@ -26,7 +26,12 @@
       "source": ""
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india"
+  ],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -62,17 +67,17 @@
   },
   "india_limits": [
     {
-      "food_category": "(not captured - see page 70 of the PDF)",
+      "food_category": "Dairy-based drinks - flavoured milk and/or fermented",
       "max_level": "100 mg/kg",
       "page": 70
     },
     {
-      "food_category": "(not captured - see page 76 of the PDF)",
+      "food_category": "Annatto",
       "max_level": "100 mg/kg",
       "page": 76
     },
     {
-      "food_category": "(not captured - see page 92 of the PDF)",
+      "food_category": "Ponceau 4R",
       "max_level": "100 mg/kg",
       "page": 92
     },
@@ -82,32 +87,32 @@
       "page": 96
     },
     {
-      "food_category": "PHOSPHATES",
+      "food_category": "Plain processed cheese/ processed cheese, processed cheese spreads",
       "max_level": "100 mg/kg",
       "page": 98
     },
     {
-      "food_category": "(not captured - see page 99 of the PDF)",
+      "food_category": "Flavoured processed cheese, including containing fruit, vegetables, meat etc.",
       "max_level": "100 mg/kg",
       "page": 99
     },
     {
-      "food_category": "PHOSPHATES",
+      "food_category": "Lauric arginate",
       "max_level": "100 mg/kg",
       "page": 101
     },
     {
-      "food_category": "(not captured - see page 104 of the PDF)",
+      "food_category": "Lauric arginate",
       "max_level": "100 mg/kg",
       "page": 104
     },
     {
-      "food_category": "(not captured - see page 112 of the PDF)",
+      "food_category": "Lard, tallow, fish oil, and other animal fats (edible fats)",
       "max_level": "100 mg/kg",
       "page": 112
     },
     {
-      "food_category": "(not captured - see page 121 of the PDF)",
+      "food_category": "Fat-based desserts excluding dairy-based dessert products of food category 1.7 (frozen desserts/froze n confections)",
       "max_level": "50 mg/kg",
       "page": 121
     },
@@ -117,7 +122,7 @@
       "page": 124
     },
     {
-      "food_category": "(not captured - see page 132 of the PDF)",
+      "food_category": "Canned or bottled (pasteurized) fruit",
       "max_level": "200 mg/kg",
       "page": 132
     }

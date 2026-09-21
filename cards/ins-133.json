@@ -26,7 +26,12 @@
       "source": ""
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india"
+  ],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -72,7 +77,7 @@
       "page": 69
     },
     {
-      "food_category": "(not captured - see page 76 of the PDF)",
+      "food_category": "Annatto",
       "max_level": "100 mg/kg",
       "page": 76
     },
@@ -87,7 +92,7 @@
       "page": 100
     },
     {
-      "food_category": "(not captured - see page 103 of the PDF)",
+      "food_category": "Dairy based desserts",
       "max_level": "100 mg/kg",
       "page": 103
     },
@@ -97,7 +102,7 @@
       "page": 116
     },
     {
-      "food_category": "(not captured - see page 119 of the PDF)",
+      "food_category": "Fat-based desserts excluding dairy-based dessert products of food category 1.7 (frozen desserts/froze n confections)",
       "max_level": "100 mg/kg",
       "page": 119
     },

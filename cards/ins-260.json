@@ -26,7 +26,12 @@
       "source": "https://www.ecfr.gov/current/title-21/section-184.1005"
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "india",
+    "usa"
+  ],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -87,7 +92,7 @@
       "page": 285
     },
     {
-      "food_category": "(not captured - see page 286 of the PDF)",
+      "food_category": "Vegetable juices(vegetable juices for industrial use, thermally processed vegetable juices, thermally processed tomato juice)",
       "max_level": "GMP",
       "page": 286
     },
@@ -97,12 +102,12 @@
       "page": 286
     },
     {
-      "food_category": "TARTRATES",
+      "food_category": "Concentrates of fruitjuices (concentrated fruit juices for industrial use)",
       "max_level": "GMP",
       "page": 287
     },
     {
-      "food_category": "(not captured - see page 288 of the PDF)",
+      "food_category": "Nitrogen",
       "max_level": "GMP",
       "page": 288
     },

@@ -159,13 +159,15 @@ function findAdditives(text){
   const numbers = new Set();
 
   // 1. numbers written as INS 211 / E211 / E 211
-  const re1 = /\b(?:ins|e)[\s.\-]?(\d{3,4}\s*(?:\([ivx]+\))?[a-z]?)/gi;
+  // the letter suffix must be attached to the digits. Allowing a space let
+  // "INS-211 and E 202" capture the "a" of "and" and invent an additive "211A".
+  const re1 = /\b(?:ins|e)[\s.\-]?(\d{3,4}[a-z]?(?:\s*\([ivx]+\))?)/gi;
   let m;
   while((m = re1.exec(text)) !== null) numbers.add(normIns(m[1]));
 
   // 2. bare numbers, but only inside brackets - "(330)" is an additive,
   //    "500 g" and "100% juice" are not.
-  const re2 = /\((\s*\d{3,4}\s*(?:\([ivx]+\))?[a-z]?\s*(?:,\s*\d{3,4}\s*(?:\([ivx]+\))?[a-z]?\s*)*)\)/gi;
+  const re2 = /\((\s*\d{3,4}[a-z]?\s*(?:\([ivx]+\))?\s*(?:,\s*\d{3,4}[a-z]?\s*(?:\([ivx]+\))?\s*)*)\)/gi;
   while((m = re2.exec(text)) !== null){
     m[1].split(",").forEach(p => { if(/\d/.test(p)) numbers.add(normIns(p)); });
   }
@@ -361,11 +363,26 @@ async function open_card(ins){
       ${esc(v.means)}</div>`;
   }
 
+  if((c.related_forms||[]).length){
+    html += `<div class="old"><b>Part of the INS ${esc(c.ins.match(/^\d+/)[0])} family.</b>
+      These are close relatives, and some are genuinely different substances:
+      ${c.related_forms.map(r =>
+        `<button class="back" style="margin:0 0 0 6px" onclick="open_card('${esc(r.ins)}')">
+         ${esc(r.name)} (${esc(r.ins)})</button>`).join(" · ")}</div>`;
+  }
+
   html += `<h3>What each authority says</h3><table>
     ${statusRow("India (FSSAI)", st.india)}
     ${statusRow("EU (EFSA)", st.eu)}
     ${statusRow("USA (FDA)", st.usa)}
   </table>`;
+
+  const tested = c.disagreement_tested_on || [];
+  if(tested.length < 3){
+    html += `<div class="old">Only ${tested.length} of the three authorities above
+      could be found for this one. Where it says "no record found", that means we
+      could not locate it — not that the substance is unlisted there.</div>`;
+  }
 
   if(eu.opinion_age_years >= 10){
     html += `<div class="old">The European review this rests on is

@@ -13,11 +13,11 @@
       "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
     },
     "eu": {
-      "value": "not_found",
-      "note": "",
-      "source": "",
-      "opinion_date": "",
-      "opinion_age_years": null,
+      "value": "allowed_with_limits",
+      "note": "Opinion on the re‐evaluation of sodium carboxy methyl cellulose (E 466) as a food additive in foods for infants below 16 weeks of age and follow‐up of its re‐evaluation as food additive for uses in foods for all population groups",
+      "source": "https://doi.org/10.2903/j.efsa.2022.7665",
+      "opinion_date": "2022-12",
+      "opinion_age_years": 4,
       "replaced_an_older_opinion": null
     },
     "usa": {
@@ -26,7 +26,13 @@
       "source": "https://www.ecfr.gov/current/title-21/section-182.1745"
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india",
+    "usa"
+  ],
   "permission_wording_differs": true,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -38,7 +44,7 @@
     "unit": "",
     "set_by": "",
     "source": "",
-    "no_number_means": ""
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
   },
   "acute_limit": {
     "value": null,
@@ -62,42 +68,42 @@
   },
   "india_limits": [
     {
-      "food_category": "(not captured - see page 75 of the PDF)",
+      "food_category": "Fermented milks (plain) heat treated after fermentation",
       "max_level": "GMP",
       "page": 75
     },
     {
-      "food_category": "(not captured - see page 79 of the PDF)",
+      "food_category": "Lecithins",
       "max_level": "GMP",
       "page": 79
     },
     {
-      "food_category": "(not captured - see page 85 of the PDF)",
+      "food_category": "Lecithins",
       "max_level": "GMP",
       "page": 85
     },
     {
-      "food_category": "(not captured - see page 188 of the PDF)",
+      "food_category": "and like",
       "max_level": "GMP",
       "page": 188
     },
     {
-      "food_category": "(not captured - see page 192 of the PDF)",
+      "food_category": "Dried pastas and noodles and like products",
       "max_level": "GMP",
       "page": 192
     },
     {
-      "food_category": "(not captured - see page 230 of the PDF)",
+      "food_category": "Lecithins",
       "max_level": "GMP",
       "page": 230
     },
     {
-      "food_category": "(not captured - see page 234 of the PDF)",
+      "food_category": "Frozen battered fish, fish fillets and fish products, including molluscs, crustaceans, and echinoderms Trisodium",
       "max_level": "GMP",
       "page": 234
     },
     {
-      "food_category": "(not captured - see page 244 of the PDF)",
+      "food_category": "Smoked, dried, fermented, and/or salted fish and fish products, including molluscs, crustaceans, and echinoderms (Dried shark fins, Salted fish/ dried salted fish)",
       "max_level": "GMP",
       "page": 244
     },
@@ -117,7 +123,7 @@
       "page": 254
     },
     {
-      "food_category": "(not captured - see page 264 of the PDF)",
+      "food_category": "Ponceau 4R",
       "max_level": "GMP",
       "page": 264
     }

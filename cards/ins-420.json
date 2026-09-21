@@ -26,7 +26,12 @@
       "source": "https://www.ecfr.gov/current/title-21/section-184.1835"
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "india",
+    "usa"
+  ],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "yes",

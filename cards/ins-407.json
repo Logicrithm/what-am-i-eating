@@ -26,7 +26,13 @@
       "source": "https://www.ecfr.gov/current/title-21/section-172.620"
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india",
+    "usa"
+  ],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -74,17 +80,17 @@
   },
   "india_limits": [
     {
-      "food_category": "SORBATES",
+      "food_category": "Lecithins",
       "max_level": "150 mg/kg",
       "page": 80
     },
     {
-      "food_category": "(not captured - see page 83 of the PDF)",
+      "food_category": "Sterilized and UHT creams, whipping and whipped creams, and reduced fat creams (plain)",
       "max_level": "GMP",
       "page": 83
     },
     {
-      "food_category": "(not captured - see page 93 of the PDF)",
+      "food_category": "Calcium chloride",
       "max_level": "5,000 mg/kg",
       "page": 93
     },
@@ -94,27 +100,27 @@
       "page": 187
     },
     {
-      "food_category": "(not captured - see page 190 of the PDF)",
+      "food_category": "Dried pastas and noodles and like products",
       "max_level": "GMP",
       "page": 190
     },
     {
-      "food_category": "(not captured - see page 228 of the PDF)",
+      "food_category": "Citric acid",
       "max_level": "GMP",
       "page": 228
     },
     {
-      "food_category": "(not captured - see page 232 of the PDF)",
+      "food_category": "Frozen battered fish, fish fillets and fish products, including molluscs, crustaceans, and echinoderms Trisodium",
       "max_level": "GMP",
       "page": 232
     },
     {
-      "food_category": "(not captured - see page 236 of the PDF)",
+      "food_category": "Frozen minced and creamed fish products including molluscs, crustaceans, and echinoderms",
       "max_level": "GMP",
       "page": 236
     },
     {
-      "food_category": "(not captured - see page 243 of the PDF)",
+      "food_category": "Smoked, dried, fermented, and/or salted fish and fish products, including molluscs, crustaceans, and echinoderms (Dried shark fins, Salted fish/ dried salted fish)",
       "max_level": "GMP",
       "page": 243
     },
@@ -129,7 +135,7 @@
       "page": 253
     },
     {
-      "food_category": "(not captured - see page 261 of the PDF)",
+      "food_category": "Ponceau 4R",
       "max_level": "GMP",
       "page": 261
     }

@@ -26,7 +26,12 @@
       "source": ""
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india"
+  ],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -77,12 +82,12 @@
       "page": 108
     },
     {
-      "food_category": "(not captured - see page 109 of the PDF)",
+      "food_category": "Vegetable oils, fats and bakery shortenings",
       "max_level": "200 mg/kg",
       "page": 109
     },
     {
-      "food_category": "(not captured - see page 111 of the PDF)",
+      "food_category": "Lard, tallow, fish oil, and other animal fats (edible fats)",
       "max_level": "200 mg/kg",
       "page": 111
     },
@@ -97,7 +102,7 @@
       "page": 116
     },
     {
-      "food_category": "(not captured - see page 119 of the PDF)",
+      "food_category": "Fat-based desserts excluding dairy-based dessert products of food category 1.7 (frozen desserts/froze n confections)",
       "max_level": "200 mg/kg",
       "page": 119
     },
@@ -107,7 +112,7 @@
       "page": 122
     },
     {
-      "food_category": "Dried vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera) sea weeds, nuts and seeds ASCORBYL ESTERS",
+      "food_category": "Dried vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera) sea weeds, nuts and seeds",
       "max_level": "200 mg/kg",
       "page": 151
     },

@@ -13,11 +13,11 @@
       "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
     },
     "eu": {
-      "value": "not_found",
-      "note": "",
-      "source": "",
-      "opinion_date": "",
-      "opinion_age_years": null,
+      "value": "allowed_with_limits",
+      "note": "Opinion on the re‐evaluation of acacia gum (E 414) as a food additive in foods for infants below 16 weeks of age and the follow‐up of its re‐evaluation as a food additive for uses in foods for all population groups",
+      "source": "https://doi.org/10.2903/j.efsa.2019.5922",
+      "opinion_date": "2019-12",
+      "opinion_age_years": 7,
       "replaced_an_older_opinion": null
     },
     "usa": {
@@ -26,7 +26,12 @@
       "source": ""
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india"
+  ],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -38,7 +43,7 @@
     "unit": "",
     "set_by": "",
     "source": "",
-    "no_number_means": ""
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
   },
   "acute_limit": {
     "value": null,
@@ -72,7 +77,7 @@
       "page": 76
     },
     {
-      "food_category": "(not captured - see page 83 of the PDF)",
+      "food_category": "Sterilized and UHT creams, whipping and whipped creams, and reduced fat creams (plain)",
       "max_level": "GMP",
       "page": 83
     },
@@ -82,27 +87,27 @@
       "page": 187
     },
     {
-      "food_category": "(not captured - see page 190 of the PDF)",
+      "food_category": "Dried pastas and noodles and like products",
       "max_level": "GMP",
       "page": 190
     },
     {
-      "food_category": "(not captured - see page 228 of the PDF)",
+      "food_category": "Citric acid",
       "max_level": "GMP",
       "page": 228
     },
     {
-      "food_category": "(not captured - see page 233 of the PDF)",
+      "food_category": "Frozen battered fish, fish fillets and fish products, including molluscs, crustaceans, and echinoderms Trisodium",
       "max_level": "GMP",
       "page": 233
     },
     {
-      "food_category": "(not captured - see page 243 of the PDF)",
+      "food_category": "Smoked, dried, fermented, and/or salted fish and fish products, including molluscs, crustaceans, and echinoderms (Dried shark fins, Salted fish/ dried salted fish)",
       "max_level": "GMP",
       "page": 243
     },
     {
-      "food_category": "Gum",
+      "food_category": "Trisodium citrate",
       "max_level": "GMP",
       "page": 251
     },
@@ -112,12 +117,12 @@
       "page": 253
     },
     {
-      "food_category": "(not captured - see page 261 of the PDF)",
+      "food_category": "Ponceau 4R",
       "max_level": "GMP",
       "page": 261
     },
     {
-      "food_category": "(not captured - see page 285 of the PDF)",
+      "food_category": "juices)",
       "max_level": "GMP",
       "page": 285
     }

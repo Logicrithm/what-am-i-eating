@@ -14,11 +14,14 @@
     },
     "eu": {
       "value": "allowed_with_limits",
-      "note": "Scientific Opinion on re‐evaluation of calcium carbonate -E 170- as a food additive",
-      "source": "http://www.efsa.europa.eu/fr/efsajournal/doc/2318.pdf",
-      "opinion_date": "2011-07",
-      "opinion_age_years": 15,
-      "replaced_an_older_opinion": null
+      "note": "Re‐evaluation of calcium carbonate (E 170) as a food additive in foods for infants below 16 weeks of age and follow‐up of its re‐evaluation as food additive for uses in foods for all population groups",
+      "source": "https://doi.org/10.2903/j.efsa.2023.8106",
+      "opinion_date": "2023-07",
+      "opinion_age_years": 3,
+      "replaced_an_older_opinion": {
+        "date": "2011-07",
+        "title": "Scientific Opinion on re‐evaluation of calcium carbonate -E 170- as a food additive"
+      }
     },
     "usa": {
       "value": "allowed",
@@ -26,7 +29,18 @@
       "source": "https://www.ecfr.gov/current/title-21/section-184.1191"
     }
   },
+  "related_forms": [
+    {
+      "ins": "170",
+      "name": "Calcium carbonates"
+    }
+  ],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india",
+    "usa"
+  ],
   "permission_wording_differs": true,
   "vegetarian_status": {
     "vegetarian": "maybe",
@@ -62,17 +76,17 @@
   },
   "india_limits": [
     {
-      "food_category": "(not captured - see page 74 of the PDF)",
+      "food_category": "Fermented milks (plain) heat treated after fermentation",
       "max_level": "GMP",
       "page": 74
     },
     {
-      "food_category": "SORBATES",
+      "food_category": "Renneted milk (plain)",
       "max_level": "GMP",
       "page": 76
     },
     {
-      "food_category": "(not captured - see page 83 of the PDF)",
+      "food_category": "Sterilized and UHT creams, whipping and whipped creams, and reduced fat creams (plain)",
       "max_level": "GMP",
       "page": 83
     },
@@ -107,7 +121,7 @@
       "page": 236
     },
     {
-      "food_category": "(not captured - see page 238 of the PDF)",
+      "food_category": "Cooked fish and fish products",
       "max_level": "GMP",
       "page": 238
     },

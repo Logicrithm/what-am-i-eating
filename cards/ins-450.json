@@ -26,7 +26,17 @@
       "source": ""
     }
   },
+  "related_forms": [
+    {
+      "ins": "450I",
+      "name": "Disodium diphosphate"
+    }
+  ],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india"
+  ],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -81,7 +91,7 @@
       "page": 69
     },
     {
-      "food_category": "(not captured - see page 70 of the PDF)",
+      "food_category": "Dairy-based drinks - flavoured milk and/or fermented",
       "max_level": "1,320 mg/kg",
       "page": 70
     },
@@ -101,32 +111,32 @@
       "page": 86
     },
     {
-      "food_category": "(not captured - see page 87 of the PDF)",
+      "food_category": "Cream analogues",
       "max_level": "2,200 mg/kg",
       "page": 87
     },
     {
-      "food_category": "(not captured - see page 88 of the PDF)",
+      "food_category": "Milk powder and cream powder (plain)",
       "max_level": "3,000 mg/kg",
       "page": 88
     },
     {
-      "food_category": "PHOSPHATES",
+      "food_category": "Grape skin extract",
       "max_level": "4,400 mg/kg",
       "page": 89
     },
     {
-      "food_category": "(not captured - see page 90 of the PDF)",
+      "food_category": "Unripened cheese",
       "max_level": "4,400 mg/kg",
       "page": 90
     },
     {
-      "food_category": "PHOSPHATES",
+      "food_category": "Plain processed cheese/ processed cheese, processed cheese spreads",
       "max_level": "9,000 mg/kg",
       "page": 98
     },
     {
-      "food_category": "(not captured - see page 99 of the PDF)",
+      "food_category": "Flavoured processed cheese, including containing fruit, vegetables, meat etc.",
       "max_level": "9,000 mg/kg",
       "page": 99
     }

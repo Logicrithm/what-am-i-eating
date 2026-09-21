@@ -26,7 +26,12 @@
       "source": ""
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india"
+  ],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -62,17 +67,17 @@
   },
   "india_limits": [
     {
-      "food_category": "(not captured - see page 82 of the PDF)",
+      "food_category": "Non dairy based beverage whitener",
       "max_level": "100 mg/kg",
       "page": 82
     },
     {
-      "food_category": "(not captured - see page 109 of the PDF)",
+      "food_category": "Vegetable oils, fats and bakery shortenings",
       "max_level": "200 mg/kg",
       "page": 109
     },
     {
-      "food_category": "(not captured - see page 111 of the PDF)",
+      "food_category": "Lard, tallow, fish oil, and other animal fats (edible fats)",
       "max_level": "200 mg/kg",
       "page": 111
     },
@@ -82,12 +87,12 @@
       "page": 113
     },
     {
-      "food_category": "(not captured - see page 118 of the PDF)",
+      "food_category": "Fat emulsions mainly of type oil-in- water, including mixed and/or flavoured products based on fat emulsions",
       "max_level": "200 mg/kg",
       "page": 118
     },
     {
-      "food_category": "(not captured - see page 121 of the PDF)",
+      "food_category": "Fat-based desserts excluding dairy-based dessert products of food category 1.7 (frozen desserts/froze n confections)",
       "max_level": "200 mg/kg",
       "page": 121
     },
@@ -97,7 +102,7 @@
       "page": 124
     },
     {
-      "food_category": "(not captured - see page 136 of the PDF)",
+      "food_category": "Fruit-based spreads (e.g. chutney) excluding products of food category 4.1.2.5",
       "max_level": "200 mg/kg",
       "page": 136
     },
@@ -107,17 +112,17 @@
       "page": 164
     },
     {
-      "food_category": "(not captured - see page 172 of the PDF)",
+      "food_category": "Neotame",
       "max_level": "200 mg/kg",
       "page": 172
     },
     {
-      "food_category": "(not captured - see page 178 of the PDF)",
+      "food_category": "Chewing gum",
       "max_level": "400 mg/kg",
       "page": 178
     },
     {
-      "food_category": "(not captured - see page 180 of the PDF)",
+      "food_category": "sweet sauces",
       "max_level": "200 mg/kg",
       "page": 180
     }

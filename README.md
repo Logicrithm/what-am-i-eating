@@ -8,12 +8,6 @@ food.
 Every line in this dataset links to the official document it came from. If a fact
 cannot be linked, it is left blank. Nothing here is generated or guessed.
 
-## GitHub Pages deployment
-
-This repository deploys with the workflow at
-`.github/workflows/pages.yml`. In **Settings → Pages**, set **Source** to
-**GitHub Actions** (not branch/root deployment).
-
 ---
 
 ## Why this exists
@@ -48,8 +42,8 @@ This project does that first, and explains them second.
 - `data/fssai_appendix_a_limits.csv` — India's permitted levels, by food category
 - `data/eu_efsa_facts.json` — EU safety reviews and acceptable daily intakes
 - `data/us_cfr_facts.json` — US status with 21 CFR citations
-- `data/india_vague_label_terms.csv` — how often Indian labels are allowed to stay
-  non-specific
+- `data/india_vague_label_terms.csv` — how often a label stays general, split by
+  whether the rule permits that or asks for more
 
 ---
 
@@ -78,7 +72,12 @@ This project does that first, and explains them second.
   are clean, but the page number is kept on every row so any value can be verified
   against the original.
 - Acceptable daily intakes are mostly EFSA's. Where India or JECFA set a different
-  figure, that is not yet captured.
+  figure, that is not yet captured. Only 6 of the 50 have a numeric daily limit at
+  all; for the rest EFSA set none, which the card explains rather than hides.
+- The fifty cards cover 42 distinct substances. INS families such as 500, 500(i)
+  and 500(ii) appear separately because they are not the same chemical.
+- Only 14 of the 50 carry all three authorities, so any statement about regulators
+  agreeing is tested on 14, not 50. Each card records which it was tested against.
 
 ---
 

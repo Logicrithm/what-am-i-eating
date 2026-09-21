@@ -26,7 +26,13 @@
       "source": "https://www.ecfr.gov/current/title-21/section-184.1622"
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india",
+    "usa"
+  ],
   "permission_wording_differs": true,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -68,7 +74,7 @@
   },
   "india_limits": [
     {
-      "food_category": "(not captured - see page 85 of the PDF)",
+      "food_category": "Lecithins",
       "max_level": "GMP",
       "page": 85
     },
@@ -78,7 +84,7 @@
       "page": 106
     },
     {
-      "food_category": "(not captured - see page 191 of the PDF)",
+      "food_category": "Dried pastas and noodles and like products",
       "max_level": "GMP",
       "page": 191
     },
@@ -88,7 +94,7 @@
       "page": 229
     },
     {
-      "food_category": "(not captured - see page 302 of the PDF)",
+      "food_category": "Lecithins",
       "max_level": "GMP",
       "page": 302
     }

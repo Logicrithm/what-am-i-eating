@@ -26,7 +26,14 @@
       "source": ""
     }
   },
+  "related_forms": [
+    {
+      "ins": "503",
+      "name": "Ammonium carbonates"
+    }
+  ],
   "regulators_disagree": false,
+  "disagreement_tested_on": [],
   "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "not_known",

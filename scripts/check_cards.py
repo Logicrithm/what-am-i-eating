@@ -16,7 +16,7 @@ SKIP_NET = "--no-network" in sys.argv
 STATUS = {"allowed", "allowed_with_limits", "not_authorised", "under_review", "not_found"}
 REQUIRED = {"ins", "e_number", "name", "also_called", "class", "what_it_is",
             "why_its_added", "status", "safe_daily_limit", "eu_exposure_finding",
-            "india_limits", "found_in_india_products", "pct_of_india_products", "india_match", "regulators_disagree", "permission_wording_differs", "vegetarian_status", "acute_limit", "people_reports",
+            "india_limits", "found_in_india_products", "pct_of_india_products", "india_match", "related_forms", "disagreement_tested_on", "regulators_disagree", "permission_wording_differs", "vegetarian_status", "acute_limit", "people_reports",
             "last_checked"}
 # words that turn a fact into a feeling - banned by the project's own rules
 BANNED = re.compile(r"\b(danger\w*|harmful|toxic|poison\w*|carcinogen\w*|cancer|"

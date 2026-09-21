@@ -28,6 +28,16 @@ RELEVANT = re.compile(
     r"exposure assessment|statement|safety of", re.I)
 
 
+# EFSA titles use typographic dashes - "Re‐evaluation" carries U+2010, not an
+# ASCII hyphen. Matching only the ASCII form silently threw away real opinions,
+# including the re-evaluations of silicon dioxide and xanthan gum.
+DASHES = dict.fromkeys(map(ord, "‐‑‒–—−"), "-")
+
+
+def norm(t):
+    return (t or "").translate(DASHES).replace(" ", " ")
+
+
 def pub_date(item):
     for k in ("published", "published-print", "published-online", "issued", "created"):
         parts = (item.get(k) or {}).get("date-parts") or []
@@ -55,9 +65,10 @@ def search(name, ins):
     hits = []
     for it in items:
         title = (it.get("title") or [""])[0]
-        if not title or EXCLUDE.search(title) or not RELEVANT.search(title):
+        tnorm = norm(title)
+        if not title or EXCLUDE.search(tnorm) or not RELEVANT.search(tnorm):
             continue
-        if not enum.search(title):
+        if not enum.search(tnorm):
             continue
         d = pub_date(it)
         if not d:

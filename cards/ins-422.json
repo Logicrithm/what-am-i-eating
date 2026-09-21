@@ -26,7 +26,12 @@
       "source": ""
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india"
+  ],
   "permission_wording_differs": true,
   "vegetarian_status": {
     "vegetarian": "maybe",
@@ -69,7 +74,7 @@
   },
   "india_limits": [
     {
-      "food_category": "(not captured - see page 77 of the PDF)",
+      "food_category": "Lecithins",
       "max_level": "GMP",
       "page": 77
     },
@@ -79,7 +84,7 @@
       "page": 187
     },
     {
-      "food_category": "(not captured - see page 300 of the PDF)",
+      "food_category": "Coffee, coffee /coffee substitutes, tea, herbal infusions, and other hot cereal and grain beverages, excluding cocoa",
       "max_level": "GMP",
       "page": 300
     }

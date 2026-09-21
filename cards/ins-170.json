@@ -26,7 +26,17 @@
       "source": ""
     }
   },
+  "related_forms": [
+    {
+      "ins": "170I",
+      "name": "Calcium carbonate"
+    }
+  ],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india"
+  ],
   "permission_wording_differs": true,
   "vegetarian_status": {
     "vegetarian": "yes",

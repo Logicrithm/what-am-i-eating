@@ -26,7 +26,13 @@
       "source": "https://www.ecfr.gov/current/title-21/section-184.1733"
     }
   },
+  "related_forms": [],
   "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "eu",
+    "india",
+    "usa"
+  ],
   "permission_wording_differs": true,
   "vegetarian_status": {
     "vegetarian": "yes",
@@ -79,7 +85,7 @@
       "page": 102
     },
     {
-      "food_category": "(not captured - see page 114 of the PDF)",
+      "food_category": "Fat spreads, dairy fat spreads and blended spreads (margarine and fat spreads)",
       "max_level": "1,000 mg/kg",
       "page": 114
     },
@@ -89,7 +95,7 @@
       "page": 116
     },
     {
-      "food_category": "(not captured - see page 119 of the PDF)",
+      "food_category": "Fat-based desserts excluding dairy-based dessert products of food category 1.7 (frozen desserts/froze n confections)",
       "max_level": "1,000 mg/kg",
       "page": 119
     },
@@ -99,7 +105,7 @@
       "page": 121
     },
     {
-      "food_category": "(not captured - see page 128 of the PDF)",
+      "food_category": "Dried fruits,",
       "max_level": "800 mg/kg",
       "page": 128
     },
