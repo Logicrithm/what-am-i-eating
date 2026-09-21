@@ -8,6 +8,12 @@ food.
 Every line in this dataset links to the official document it came from. If a fact
 cannot be linked, it is left blank. Nothing here is generated or guessed.
 
+## GitHub Pages deployment
+
+This repository deploys with the workflow at
+`.github/workflows/pages.yml`. In **Settings → Pages**, set **Source** to
+**GitHub Actions** (not branch/root deployment).
+
 ---
 
 ## Why this exists
