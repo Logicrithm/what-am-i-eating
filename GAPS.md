@@ -110,12 +110,12 @@ project will not claim otherwise without evidence.
 What we can do instead of picking a side is make the provenance visible:
 
 - **who** decided, and under which law
-- **when** they decided - and 15 of our 50 rest on EU opinions that are 12 or more
-  years old. Citric acid, the single most common additive in Indian packaged food,
-  was last reviewed in 2013.
+- **when** they decided - 10 of our 50 rest on EU opinions 12 or more years old.
+  Tartrazine's is from 2010. And citric acid, the single most common additive in
+  Indian packaged food, has no EU food-additive opinion we could find at all.
 - **whether regulators disagree** - none of the top 50 currently do. But that is
-  a weaker statement than it sounds: only 14 of the 50 cards carry all three
-  authorities, so the comparison is genuinely tested on 14. On the rest we are
+  a weaker statement than it sounds: only 15 of the 50 cards carry all three
+  authorities, so the comparison is genuinely tested on 15. On the rest we are
   missing India, the EU or the US and simply do not know. Each card now says how
   many of the three it was tested against.
 - **the full document**, linked, so nobody has to take our word for it
