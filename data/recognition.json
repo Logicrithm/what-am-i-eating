@@ -1,0 +1,3051 @@
+{
+ "additives": [
+  {
+   "ins": "330",
+   "base": "330",
+   "names": [
+    "Citric acid"
+   ],
+   "class": "antioxidant, sequestrant",
+   "products": 247,
+   "has_card": true
+  },
+  {
+   "ins": "322",
+   "base": "322",
+   "names": [
+    "Lecithins"
+   ],
+   "class": "antioxidant, emulsifier",
+   "products": 156,
+   "has_card": true
+  },
+  {
+   "ins": "500",
+   "base": "500",
+   "names": [
+    "Sodium Carbonates",
+    "Sodium carbonates"
+   ],
+   "class": "stabiliser, thickener",
+   "products": 147,
+   "has_card": true
+  },
+  {
+   "ins": "471",
+   "base": "471",
+   "names": [
+    "Mono- and diglycerides of fatty acids"
+   ],
+   "class": "emulsifier, stabiliser",
+   "products": 109,
+   "has_card": true
+  },
+  {
+   "ins": "500II",
+   "base": "500",
+   "names": [
+    "Sodium hydrogen carbonate"
+   ],
+   "class": "stabiliser, thickener",
+   "products": 99,
+   "has_card": true
+  },
+  {
+   "ins": "322I",
+   "base": "322",
+   "names": [
+    "Lecithin"
+   ],
+   "class": "antioxidant, emulsifier",
+   "products": 85,
+   "has_card": true
+  },
+  {
+   "ins": "412",
+   "base": "412",
+   "names": [
+    "Guar gum"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 81,
+   "has_card": true
+  },
+  {
+   "ins": "415",
+   "base": "415",
+   "names": [
+    "Xanthan Gum",
+    "Xanthan gum"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 80,
+   "has_card": true
+  },
+  {
+   "ins": "551",
+   "base": "551",
+   "names": [
+    "Silicon dioxide"
+   ],
+   "class": "carrier",
+   "products": 77,
+   "has_card": true
+  },
+  {
+   "ins": "627",
+   "base": "627",
+   "names": [
+    "Disodium guanylate"
+   ],
+   "class": "",
+   "products": 64,
+   "has_card": true
+  },
+  {
+   "ins": "503",
+   "base": "503",
+   "names": [
+    "Ammonium carbonates"
+   ],
+   "class": "",
+   "products": 64,
+   "has_card": true
+  },
+  {
+   "ins": "211",
+   "base": "211",
+   "names": [
+    "Sodium Benzoate",
+    "Sodium benzoate"
+   ],
+   "class": "preservative",
+   "products": 63,
+   "has_card": true
+  },
+  {
+   "ins": "631",
+   "base": "631",
+   "names": [
+    "Disodium inosinate"
+   ],
+   "class": "",
+   "products": 62,
+   "has_card": true
+  },
+  {
+   "ins": "300",
+   "base": "300",
+   "names": [
+    "Ascorbic acid"
+   ],
+   "class": "antioxidant, sequestrant",
+   "products": 59,
+   "has_card": true
+  },
+  {
+   "ins": "260",
+   "base": "260",
+   "names": [
+    "Acetic acid"
+   ],
+   "class": "preservative",
+   "products": 56,
+   "has_card": true
+  },
+  {
+   "ins": "319",
+   "base": "319",
+   "names": [
+    "Tertiary-butylhydroquinone (tbhq)"
+   ],
+   "class": "antioxidant",
+   "products": 56,
+   "has_card": true
+  },
+  {
+   "ins": "202",
+   "base": "202",
+   "names": [
+    "Potassium Sorbate",
+    "Potassium sorbate"
+   ],
+   "class": "preservative",
+   "products": 49,
+   "has_card": true
+  },
+  {
+   "ins": "296",
+   "base": "296",
+   "names": [
+    "Malic Acid",
+    "Malic acid"
+   ],
+   "class": "",
+   "products": 49,
+   "has_card": true
+  },
+  {
+   "ins": "503II",
+   "base": "503",
+   "names": [
+    "Ammonium Bicarbonate",
+    "Ammonium hydrogen carbonate"
+   ],
+   "class": "",
+   "products": 49,
+   "has_card": true
+  },
+  {
+   "ins": "150D",
+   "base": "150",
+   "names": [
+    "Sulphite ammonia caramel"
+   ],
+   "class": "colour",
+   "products": 47,
+   "has_card": true
+  },
+  {
+   "ins": "102",
+   "base": "102",
+   "names": [
+    "Tartrazine"
+   ],
+   "class": "colour",
+   "products": 47,
+   "has_card": true
+  },
+  {
+   "ins": "407",
+   "base": "407",
+   "names": [
+    "Carrageenan"
+   ],
+   "class": "carrier, emulsifier, humectant, stabiliser, thickener",
+   "products": 46,
+   "has_card": true
+  },
+  {
+   "ins": "170",
+   "base": "170",
+   "names": [
+    "Calcium carbonates"
+   ],
+   "class": "",
+   "products": 45,
+   "has_card": true
+  },
+  {
+   "ins": "422",
+   "base": "422",
+   "names": [
+    "Glycerol"
+   ],
+   "class": "humectant, thickener",
+   "products": 45,
+   "has_card": true
+  },
+  {
+   "ins": "450",
+   "base": "450",
+   "names": [
+    "Diphosphates"
+   ],
+   "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+   "products": 39,
+   "has_card": true
+  },
+  {
+   "ins": "440A",
+   "base": "440",
+   "names": [
+    "Pectin"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 38,
+   "has_card": true
+  },
+  {
+   "ins": "508",
+   "base": "508",
+   "names": [
+    "Potassium chloride"
+   ],
+   "class": "stabiliser, thickener, preservative",
+   "products": 35,
+   "has_card": true
+  },
+  {
+   "ins": "110",
+   "base": "110",
+   "names": [
+    "Sunset yellow FCF"
+   ],
+   "class": "colour",
+   "products": 34,
+   "has_card": true
+  },
+  {
+   "ins": "160C",
+   "base": "160",
+   "names": [
+    "Paprika extract"
+   ],
+   "class": "colour",
+   "products": 34,
+   "has_card": true
+  },
+  {
+   "ins": "170I",
+   "base": "170",
+   "names": [
+    "Calcium Carbonate",
+    "Calcium carbonate"
+   ],
+   "class": "colour, stabiliser",
+   "products": 33,
+   "has_card": true
+  },
+  {
+   "ins": "414",
+   "base": "414",
+   "names": [
+    "Acacia gum"
+   ],
+   "class": "carrier, emulsifier, stabiliser, thickener",
+   "products": 31,
+   "has_card": true
+  },
+  {
+   "ins": "501",
+   "base": "501",
+   "names": [
+    "Potassium carbonates"
+   ],
+   "class": "stabiliser",
+   "products": 30,
+   "has_card": true
+  },
+  {
+   "ins": "466",
+   "base": "466",
+   "names": [
+    "Sodium carboxy methyl cellulose"
+   ],
+   "class": "emulsifier, humectant, stabiliser, thickener",
+   "products": 30,
+   "has_card": true
+  },
+  {
+   "ins": "282",
+   "base": "282",
+   "names": [
+    "calcium propionate"
+   ],
+   "class": "preservative",
+   "products": 30,
+   "has_card": true
+  },
+  {
+   "ins": "150A",
+   "base": "150",
+   "names": [
+    "Plain caramel"
+   ],
+   "class": "colour",
+   "products": 29,
+   "has_card": true
+  },
+  {
+   "ins": "101",
+   "base": "101",
+   "names": [
+    "Riboflavin"
+   ],
+   "class": "colour",
+   "products": 29,
+   "has_card": true
+  },
+  {
+   "ins": "150",
+   "base": "150",
+   "names": [
+    "Caramel"
+   ],
+   "class": "",
+   "products": 28,
+   "has_card": true
+  },
+  {
+   "ins": "500I",
+   "base": "500",
+   "names": [
+    "Sodium carbonate"
+   ],
+   "class": "stabiliser, thickener",
+   "products": 28,
+   "has_card": true
+  },
+  {
+   "ins": "955",
+   "base": "955",
+   "names": [
+    "Sucralose"
+   ],
+   "class": "sweetener",
+   "products": 28,
+   "has_card": true
+  },
+  {
+   "ins": "341",
+   "base": "341",
+   "names": [
+    "Calcium phosphates"
+   ],
+   "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+   "products": 27,
+   "has_card": true
+  },
+  {
+   "ins": "320",
+   "base": "320",
+   "names": [
+    "Butylated hydroxyanisole (bha)"
+   ],
+   "class": "antioxidant",
+   "products": 27,
+   "has_card": true
+  },
+  {
+   "ins": "375",
+   "base": "375",
+   "names": [
+    "Nicotinic acid"
+   ],
+   "class": "",
+   "products": 25,
+   "has_card": true
+  },
+  {
+   "ins": "450I",
+   "base": "450",
+   "names": [
+    "Disodium diphosphate",
+    "Sodium Acid Pyrophosphate"
+   ],
+   "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+   "products": 24,
+   "has_card": true
+  },
+  {
+   "ins": "223",
+   "base": "223",
+   "names": [
+    "Sodium metabisulphite"
+   ],
+   "class": "antioxidant, preservative",
+   "products": 23,
+   "has_card": true
+  },
+  {
+   "ins": "420",
+   "base": "420",
+   "names": [
+    "Sorbitol"
+   ],
+   "class": "humectant, sequestrant, stabiliser, sweetener, thickener",
+   "products": 23,
+   "has_card": true
+  },
+  {
+   "ins": "1442",
+   "base": "1442",
+   "names": [
+    "Hydroxypropyl distarch phosphate"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 21,
+   "has_card": true
+  },
+  {
+   "ins": "410",
+   "base": "410",
+   "names": [
+    "Locust bean gum"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 21,
+   "has_card": true
+  },
+  {
+   "ins": "331",
+   "base": "331",
+   "names": [
+    "Sodium citrates"
+   ],
+   "class": "emulsifier, sequestrant, stabiliser",
+   "products": 20,
+   "has_card": true
+  },
+  {
+   "ins": "133",
+   "base": "133",
+   "names": [
+    "Brilliant blue FCF"
+   ],
+   "class": "colour",
+   "products": 19,
+   "has_card": true
+  },
+  {
+   "ins": "122",
+   "base": "122",
+   "names": [
+    "Azorubine"
+   ],
+   "class": "colour",
+   "products": 19,
+   "has_card": true
+  },
+  {
+   "ins": "200",
+   "base": "200",
+   "names": [
+    "Sorbic acid"
+   ],
+   "class": "preservative",
+   "products": 19,
+   "has_card": false
+  },
+  {
+   "ins": "476",
+   "base": "476",
+   "names": [
+    "Polyglycerol polyricinoleate"
+   ],
+   "class": "emulsifier",
+   "products": 19,
+   "has_card": false
+  },
+  {
+   "ins": "635",
+   "base": "635",
+   "names": [
+    "Disodium 5'-ribonucleotide"
+   ],
+   "class": "",
+   "products": 18,
+   "has_card": false
+  },
+  {
+   "ins": "451",
+   "base": "451",
+   "names": [
+    "Triphosphates"
+   ],
+   "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+   "products": 18,
+   "has_card": false
+  },
+  {
+   "ins": "392",
+   "base": "392",
+   "names": [
+    "Extracts of rosemary"
+   ],
+   "class": "",
+   "products": 17,
+   "has_card": false
+  },
+  {
+   "ins": "452",
+   "base": "452",
+   "names": [
+    "Polyphosphates"
+   ],
+   "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+   "products": 16,
+   "has_card": false
+  },
+  {
+   "ins": "340",
+   "base": "340",
+   "names": [
+    "Potassium phosphates"
+   ],
+   "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+   "products": 16,
+   "has_card": false
+  },
+  {
+   "ins": "965",
+   "base": "965",
+   "names": [
+    "Maltitol",
+    "maltitol"
+   ],
+   "class": "emulsifier, humectant, stabiliser, sweetener, thickener",
+   "products": 16,
+   "has_card": false
+  },
+  {
+   "ins": "1100",
+   "base": "1100",
+   "names": [
+    "Alpha-Amylase"
+   ],
+   "class": "",
+   "products": 15,
+   "has_card": false
+  },
+  {
+   "ins": "472",
+   "base": "472",
+   "names": [
+    "Mono- and diacetyltartaric acid esters of mono- and diglycerides of fatty acids",
+    "acid esters of mono- and diglycerides of fatty acids"
+   ],
+   "class": "emulsifier, sequestrant, stabiliser",
+   "products": 14,
+   "has_card": false
+  },
+  {
+   "ins": "950",
+   "base": "950",
+   "names": [
+    "Acesulfame k"
+   ],
+   "class": "sweetener",
+   "products": 14,
+   "has_card": false
+  },
+  {
+   "ins": "307B",
+   "base": "307",
+   "names": [
+    "concentrated tocopherol"
+   ],
+   "class": "antioxidant",
+   "products": 14,
+   "has_card": false
+  },
+  {
+   "ins": "100",
+   "base": "100",
+   "names": [
+    "Curcumin"
+   ],
+   "class": "colour",
+   "products": 13,
+   "has_card": false
+  },
+  {
+   "ins": "334",
+   "base": "334",
+   "names": [
+    "L(+)-tartaric acid",
+    "Tartaric Acid"
+   ],
+   "class": "antioxidant, sequestrant",
+   "products": 13,
+   "has_card": false
+  },
+  {
+   "ins": "501I",
+   "base": "501",
+   "names": [
+    "Potassium carbonate"
+   ],
+   "class": "stabiliser",
+   "products": 13,
+   "has_card": false
+  },
+  {
+   "ins": "224",
+   "base": "224",
+   "names": [
+    "Potassium metabisulphite"
+   ],
+   "class": "antioxidant, preservative",
+   "products": 13,
+   "has_card": false
+  },
+  {
+   "ins": "160A",
+   "base": "160",
+   "names": [
+    "carotene"
+   ],
+   "class": "colour",
+   "products": 13,
+   "has_card": false
+  },
+  {
+   "ins": "1422",
+   "base": "1422",
+   "names": [
+    "Acetylated distarch adipate"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 13,
+   "has_card": false
+  },
+  {
+   "ins": "339II",
+   "base": "339",
+   "names": [
+    "Disodium phosphate"
+   ],
+   "class": "emulsifier, humectant, preservative, sequestrant, stabiliser, thickener",
+   "products": 12,
+   "has_card": false
+  },
+  {
+   "ins": "477",
+   "base": "477",
+   "names": [
+    "Propane-1‚2-diol esters of fatty acids"
+   ],
+   "class": "emulsifier",
+   "products": 12,
+   "has_card": false
+  },
+  {
+   "ins": "490",
+   "base": "490",
+   "names": [
+    "Propylene glycol"
+   ],
+   "class": "",
+   "products": 12,
+   "has_card": false
+  },
+  {
+   "ins": "451I",
+   "base": "451",
+   "names": [
+    "Pentasodium triphosphate"
+   ],
+   "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+   "products": 11,
+   "has_card": false
+  },
+  {
+   "ins": "164",
+   "base": "164",
+   "names": [
+    "saffron"
+   ],
+   "class": "",
+   "products": 11,
+   "has_card": false
+  },
+  {
+   "ins": "900",
+   "base": "900",
+   "names": [
+    "Dimethylpolysiloxane and Methylphenylpolysiloxane"
+   ],
+   "class": "",
+   "products": 11,
+   "has_card": false
+  },
+  {
+   "ins": "339",
+   "base": "339",
+   "names": [
+    "Sodium Phosphates",
+    "Sodium phosphates"
+   ],
+   "class": "emulsifier, humectant, preservative, sequestrant, stabiliser, thickener",
+   "products": 11,
+   "has_card": false
+  },
+  {
+   "ins": "120",
+   "base": "120",
+   "names": [
+    "Cochineal"
+   ],
+   "class": "colour",
+   "products": 10,
+   "has_card": false
+  },
+  {
+   "ins": "960",
+   "base": "960",
+   "names": [
+    "Steviol glycosides"
+   ],
+   "class": "sweetener",
+   "products": 10,
+   "has_card": false
+  },
+  {
+   "ins": "331III",
+   "base": "331",
+   "names": [
+    "Trisodium citrate"
+   ],
+   "class": "",
+   "products": 10,
+   "has_card": false
+  },
+  {
+   "ins": "621",
+   "base": "621",
+   "names": [
+    "Monosodium glutamate"
+   ],
+   "class": "flavour-enhancer",
+   "products": 9,
+   "has_card": false
+  },
+  {
+   "ins": "900A",
+   "base": "900",
+   "names": [
+    "Dimethyl polysiloxane"
+   ],
+   "class": "emulsifier",
+   "products": 9,
+   "has_card": false
+  },
+  {
+   "ins": "160AI",
+   "base": "160",
+   "names": [
+    "Beta-carotene"
+   ],
+   "class": "colour",
+   "products": 9,
+   "has_card": false
+  },
+  {
+   "ins": "1450",
+   "base": "1450",
+   "names": [
+    "Starch sodium octenyl succinate"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 9,
+   "has_card": false
+  },
+  {
+   "ins": "290",
+   "base": "290",
+   "names": [
+    "Carbon dioxide"
+   ],
+   "class": "preservative, propellent-gas",
+   "products": 9,
+   "has_card": false
+  },
+  {
+   "ins": "341III",
+   "base": "341",
+   "names": [
+    "Tricalcium phosphate"
+   ],
+   "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+   "products": 9,
+   "has_card": false
+  },
+  {
+   "ins": "270",
+   "base": "270",
+   "names": [
+    "Lactic Acid",
+    "Lactic acid"
+   ],
+   "class": "",
+   "products": 9,
+   "has_card": false
+  },
+  {
+   "ins": "501II",
+   "base": "501",
+   "names": [
+    "Potassium hydrogen carbonate"
+   ],
+   "class": "stabiliser",
+   "products": 8,
+   "has_card": false
+  },
+  {
+   "ins": "460",
+   "base": "460",
+   "names": [
+    "Cellulose"
+   ],
+   "class": "carrier, emulsifier, humectant, stabiliser, thickener",
+   "products": 8,
+   "has_card": false
+  },
+  {
+   "ins": "322-FROM-SOY",
+   "base": "322",
+   "names": [],
+   "class": "",
+   "products": 8,
+   "has_card": false
+  },
+  {
+   "ins": "141",
+   "base": "141",
+   "names": [
+    "Copper complexes of chlorophylls and chlorophyllins"
+   ],
+   "class": "colour",
+   "products": 7,
+   "has_card": false
+  },
+  {
+   "ins": "171",
+   "base": "171",
+   "names": [
+    "Titanium dioxide"
+   ],
+   "class": "colour",
+   "products": 7,
+   "has_card": false
+  },
+  {
+   "ins": "162",
+   "base": "162",
+   "names": [
+    "Beetroot red"
+   ],
+   "class": "colour",
+   "products": 7,
+   "has_card": false
+  },
+  {
+   "ins": "160CI",
+   "base": "160",
+   "names": [],
+   "class": "",
+   "products": 7,
+   "has_card": false
+  },
+  {
+   "ins": "1400",
+   "base": "1400",
+   "names": [
+    "Dextrin"
+   ],
+   "class": "carrier, emulsifier, stabiliser, thickener",
+   "products": 7,
+   "has_card": false
+  },
+  {
+   "ins": "306",
+   "base": "306",
+   "names": [
+    "Tocopherol-rich extract"
+   ],
+   "class": "",
+   "products": 7,
+   "has_card": false
+  },
+  {
+   "ins": "1101",
+   "base": "1101",
+   "names": [
+    "Protease"
+   ],
+   "class": "stabiliser",
+   "products": 7,
+   "has_card": false
+  },
+  {
+   "ins": "951",
+   "base": "951",
+   "names": [
+    "Aspartame"
+   ],
+   "class": "sweetener",
+   "products": 7,
+   "has_card": false
+  },
+  {
+   "ins": "341II",
+   "base": "341",
+   "names": [
+    "Dicalcium phosphate"
+   ],
+   "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+   "products": 7,
+   "has_card": false
+  },
+  {
+   "ins": "385",
+   "base": "385",
+   "names": [
+    "Calcium disodium ethylenediaminetetraacetate"
+   ],
+   "class": "antioxidant, preservative, sequestrant",
+   "products": 7,
+   "has_card": false
+  },
+  {
+   "ins": "452I",
+   "base": "452",
+   "names": [
+    "Sodium polyphosphate"
+   ],
+   "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+   "products": 7,
+   "has_card": false
+  },
+  {
+   "ins": "160B",
+   "base": "160",
+   "names": [
+    "Annatto"
+   ],
+   "class": "colour",
+   "products": 7,
+   "has_card": false
+  },
+  {
+   "ins": "129",
+   "base": "129",
+   "names": [
+    "Allura red"
+   ],
+   "class": "colour",
+   "products": 7,
+   "has_card": false
+  },
+  {
+   "ins": "418",
+   "base": "418",
+   "names": [
+    "Gellan Gum",
+    "Gellan gum"
+   ],
+   "class": "stabiliser, thickener",
+   "products": 7,
+   "has_card": false
+  },
+  {
+   "ins": "903",
+   "base": "903",
+   "names": [
+    "Carnauba wax"
+   ],
+   "class": "carrier",
+   "products": 6,
+   "has_card": false
+  },
+  {
+   "ins": "954",
+   "base": "954",
+   "names": [
+    "saccharin and its salts"
+   ],
+   "class": "sweetener",
+   "products": 6,
+   "has_card": false
+  },
+  {
+   "ins": "450III",
+   "base": "450",
+   "names": [
+    "Tetrasodium diphosphate"
+   ],
+   "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+   "products": 6,
+   "has_card": false
+  },
+  {
+   "ins": "262",
+   "base": "262",
+   "names": [
+    "Sodium acetates"
+   ],
+   "class": "preservative, sequestrant",
+   "products": 6,
+   "has_card": false
+  },
+  {
+   "ins": "518",
+   "base": "518",
+   "names": [
+    "Magnesium sulphate"
+   ],
+   "class": "",
+   "products": 6,
+   "has_card": false
+  },
+  {
+   "ins": "509",
+   "base": "509",
+   "names": [
+    "Calcium chloride"
+   ],
+   "class": "stabiliser, thickener, coagulant",
+   "products": 6,
+   "has_card": false
+  },
+  {
+   "ins": "127",
+   "base": "127",
+   "names": [
+    "Erythrosine",
+    "Erythrosine,"
+   ],
+   "class": "colour",
+   "products": 6,
+   "has_card": false
+  },
+  {
+   "ins": "304",
+   "base": "304",
+   "names": [
+    "Fatty acid esters of ascorbic acid"
+   ],
+   "class": "antioxidant",
+   "products": 6,
+   "has_card": false
+  },
+  {
+   "ins": "234",
+   "base": "234",
+   "names": [
+    "Nisin"
+   ],
+   "class": "preservative",
+   "products": 5,
+   "has_card": false
+  },
+  {
+   "ins": "917",
+   "base": "917",
+   "names": [
+    "potassium iodate"
+   ],
+   "class": "",
+   "products": 5,
+   "has_card": false
+  },
+  {
+   "ins": "525",
+   "base": "525",
+   "names": [
+    "Potassium hydroxide"
+   ],
+   "class": "",
+   "products": 5,
+   "has_card": false
+  },
+  {
+   "ins": "481",
+   "base": "481",
+   "names": [
+    "Sodium stearoyl-2-lactylate"
+   ],
+   "class": "emulsifier, stabiliser",
+   "products": 5,
+   "has_card": false
+  },
+  {
+   "ins": "435",
+   "base": "435",
+   "names": [
+    "Polyoxyethylene sorbitan monostearate"
+   ],
+   "class": "emulsifier, stabiliser",
+   "products": 5,
+   "has_card": false
+  },
+  {
+   "ins": "339III",
+   "base": "339",
+   "names": [
+    "Trisodium Phosphate",
+    "Trisodium phosphate"
+   ],
+   "class": "emulsifier, humectant, preservative, sequestrant, stabiliser, thickener",
+   "products": 5,
+   "has_card": false
+  },
+  {
+   "ins": "250",
+   "base": "250",
+   "names": [
+    "Sodium Nitrite",
+    "Sodium nitrite"
+   ],
+   "class": "preservative",
+   "products": 5,
+   "has_card": false
+  },
+  {
+   "ins": "460I",
+   "base": "460",
+   "names": [
+    "Microcrystalline cellulose"
+   ],
+   "class": "carrier, emulsifier, humectant, stabiliser, thickener",
+   "products": 5,
+   "has_card": false
+  },
+  {
+   "ins": "428",
+   "base": "428",
+   "names": [
+    "Gelatine"
+   ],
+   "class": "",
+   "products": 4,
+   "has_card": false
+  },
+  {
+   "ins": "464",
+   "base": "464",
+   "names": [
+    "Hydroxypropyl methyl cellulose"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 4,
+   "has_card": false
+  },
+  {
+   "ins": "530",
+   "base": "530",
+   "names": [
+    "Magnesium oxide"
+   ],
+   "class": "",
+   "products": 4,
+   "has_card": false
+  },
+  {
+   "ins": "570",
+   "base": "570",
+   "names": [
+    "Fatty acids"
+   ],
+   "class": "",
+   "products": 4,
+   "has_card": false
+  },
+  {
+   "ins": "510",
+   "base": "510",
+   "names": [
+    "Ammonium Chloride",
+    "ammonium chloride"
+   ],
+   "class": "",
+   "products": 4,
+   "has_card": false
+  },
+  {
+   "ins": "301",
+   "base": "301",
+   "names": [
+    "Sodium Ascorbate",
+    "Sodium ascorbate"
+   ],
+   "class": "antioxidant",
+   "products": 4,
+   "has_card": false
+  },
+  {
+   "ins": "321",
+   "base": "321",
+   "names": [
+    "Butylated hydroxytoluene"
+   ],
+   "class": "antioxidant",
+   "products": 4,
+   "has_card": false
+  },
+  {
+   "ins": "3220",
+   "base": "3220",
+   "names": [],
+   "class": "",
+   "products": 4,
+   "has_card": false
+  },
+  {
+   "ins": "3221",
+   "base": "3221",
+   "names": [],
+   "class": "",
+   "products": 4,
+   "has_card": false
+  },
+  {
+   "ins": "327",
+   "base": "327",
+   "names": [
+    "calcium lactate"
+   ],
+   "class": "thickener",
+   "products": 4,
+   "has_card": false
+  },
+  {
+   "ins": "442",
+   "base": "442",
+   "names": [
+    "Ammonium phosphatides"
+   ],
+   "class": "emulsifier",
+   "products": 4,
+   "has_card": false
+  },
+  {
+   "ins": "931",
+   "base": "931",
+   "names": [
+    "Nitrogen"
+   ],
+   "class": "",
+   "products": 4,
+   "has_card": false
+  },
+  {
+   "ins": "553B",
+   "base": "553",
+   "names": [
+    "Talc"
+   ],
+   "class": "thickener",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "553",
+   "base": "553",
+   "names": [
+    "Magnesium silicates"
+   ],
+   "class": "thickener",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "343II",
+   "base": "343",
+   "names": [
+    "Dimagnesium phosphate"
+   ],
+   "class": "stabiliser, thickener",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "343",
+   "base": "343",
+   "names": [
+    "Magnesium phosphates"
+   ],
+   "class": "stabiliser, thickener",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "161B",
+   "base": "161",
+   "names": [
+    "Lutein"
+   ],
+   "class": "colour",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "262I",
+   "base": "262",
+   "names": [
+    "Sodium acetate"
+   ],
+   "class": "preservative, sequestrant",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "417",
+   "base": "417",
+   "names": [
+    "Tara gum"
+   ],
+   "class": "stabiliser, thickener",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "386",
+   "base": "386",
+   "names": [],
+   "class": "",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "143",
+   "base": "143",
+   "names": [
+    "Fast Green FCF"
+   ],
+   "class": "colour",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "307A",
+   "base": "307",
+   "names": [
+    "D-Alpha-tocopherol"
+   ],
+   "class": "antioxidant",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "1104",
+   "base": "1104",
+   "names": [
+    "A Lipase",
+    "lipase"
+   ],
+   "class": "",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "1519",
+   "base": "1519",
+   "names": [
+    "Benzyl alcohol"
+   ],
+   "class": "",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "519",
+   "base": "519",
+   "names": [
+    "Copper sulphate"
+   ],
+   "class": "",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "281",
+   "base": "281",
+   "names": [
+    "Sodium propionate"
+   ],
+   "class": "preservative",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "210",
+   "base": "210",
+   "names": [
+    "Benzoic acid"
+   ],
+   "class": "preservative",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "1420",
+   "base": "1420",
+   "names": [
+    "Acetylated starch"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "572",
+   "base": "572",
+   "names": [
+    "Magnesium stearate"
+   ],
+   "class": "",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "316",
+   "base": "316",
+   "names": [
+    "Sodium Erythorbate",
+    "sodium erythorbate"
+   ],
+   "class": "antioxidant",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "967",
+   "base": "967",
+   "names": [
+    "Xylitol"
+   ],
+   "class": "emulsifier, humectant, stabiliser, sweetener, thickener",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "420I",
+   "base": "420",
+   "names": [
+    "D-sorbitol"
+   ],
+   "class": "humectant, sequestrant, stabiliser, sweetener, thickener",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "620",
+   "base": "620",
+   "names": [
+    "Glutamic acid"
+   ],
+   "class": "",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "436",
+   "base": "436",
+   "names": [
+    "Polyoxyethylene sorbitan tristearate"
+   ],
+   "class": "emulsifier, stabiliser",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "304II",
+   "base": "304",
+   "names": [
+    "Ascorbyl stearate"
+   ],
+   "class": "antioxidant",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "470I",
+   "base": "470",
+   "names": [],
+   "class": "",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "340II",
+   "base": "340",
+   "names": [
+    "Dipotassium phosphate"
+   ],
+   "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "433",
+   "base": "433",
+   "names": [
+    "Polyoxyethylene sorbitan monooleate"
+   ],
+   "class": "emulsifier, stabiliser",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "140",
+   "base": "140",
+   "names": [
+    "Chlorophylls and Chlorophyllins"
+   ],
+   "class": "colour",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "536",
+   "base": "536",
+   "names": [
+    "Potassium ferrocyanide"
+   ],
+   "class": "",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "163",
+   "base": "163",
+   "names": [
+    "Anthocyanins"
+   ],
+   "class": "colour",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "338",
+   "base": "338",
+   "names": [
+    "Phosphoric acid"
+   ],
+   "class": "antioxidant, sequestrant",
+   "products": 3,
+   "has_card": false
+  },
+  {
+   "ins": "901",
+   "base": "901",
+   "names": [
+    "white and yellow beeswax"
+   ],
+   "class": "carrier, emulsifier, stabiliser, thickener",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "405",
+   "base": "405",
+   "names": [
+    "Propane-1‚2-diol alginate"
+   ],
+   "class": "carrier, emulsifier, stabiliser, thickener",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "219",
+   "base": "219",
+   "names": [
+    "Sodium methyl p-hydroxybenzoate"
+   ],
+   "class": "",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "461",
+   "base": "461",
+   "names": [
+    "Methyl Cellulose",
+    "methyl cellulose"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "1503",
+   "base": "1503",
+   "names": [
+    "Castor oil"
+   ],
+   "class": "carrier, emulsifier",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "161H",
+   "base": "161",
+   "names": [
+    "Zeaxanthin"
+   ],
+   "class": "colour",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "550",
+   "base": "550",
+   "names": [
+    "Sodium silicate"
+   ],
+   "class": "",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "521",
+   "base": "521",
+   "names": [
+    "Aluminium sodium sulphate"
+   ],
+   "class": "",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "1101II",
+   "base": "1101",
+   "names": [],
+   "class": "",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "575",
+   "base": "575",
+   "names": [
+    "Glucono-delta-lactone"
+   ],
+   "class": "sequestrant",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "341I",
+   "base": "341",
+   "names": [
+    "Monocalcium phosphate"
+   ],
+   "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "503I",
+   "base": "503",
+   "names": [
+    "Ammonium Carbonate",
+    "Ammonium carbonate"
+   ],
+   "class": "",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "401",
+   "base": "401",
+   "names": [
+    "sodium alginate"
+   ],
+   "class": "carrier, emulsifier, humectant, sequestrant, stabiliser, thickener",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "471-481",
+   "base": "471",
+   "names": [],
+   "class": "",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "1200",
+   "base": "1200",
+   "names": [
+    "Polydextrose"
+   ],
+   "class": "humectant, stabiliser, thickener",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "1101III",
+   "base": "1101",
+   "names": [],
+   "class": "",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "142",
+   "base": "142",
+   "names": [
+    "Green S",
+    "Green s"
+   ],
+   "class": "",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "124",
+   "base": "124",
+   "names": [
+    "Ponceau 4r"
+   ],
+   "class": "colour",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "475",
+   "base": "475",
+   "names": [
+    "Polyglycerol esters of fatty acids"
+   ],
+   "class": "emulsifier, stabiliser",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "100I",
+   "base": "100",
+   "names": [],
+   "class": "",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "553III",
+   "base": "553",
+   "names": [],
+   "class": "",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "1100I",
+   "base": "1100",
+   "names": [],
+   "class": "",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "160AIII",
+   "base": "160",
+   "names": [
+    "Beta-carotene from blakeslea trispora"
+   ],
+   "class": "colour",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "968",
+   "base": "968",
+   "names": [
+    "Erythritol"
+   ],
+   "class": "humectant, sweetener",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "541",
+   "base": "541",
+   "names": [
+    "Sodium aluminium phosphate"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "123",
+   "base": "123",
+   "names": [
+    "Amaranth"
+   ],
+   "class": "colour",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "310",
+   "base": "310",
+   "names": [
+    "Propyl gallate"
+   ],
+   "class": "antioxidant",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "579",
+   "base": "579",
+   "names": [
+    "iron gluconate"
+   ],
+   "class": "",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "132",
+   "base": "132",
+   "names": [
+    "Indigotine"
+   ],
+   "class": "colour",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "472",
+   "base": "472",
+   "names": [
+    "acid esters of mono- and diglycerides of fatty acids"
+   ],
+   "class": "",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "904",
+   "base": "904",
+   "names": [
+    "Shellac"
+   ],
+   "class": "",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "322-307B",
+   "base": "322",
+   "names": [],
+   "class": "",
+   "products": 2,
+   "has_card": false
+  },
+  {
+   "ins": "160",
+   "base": "160",
+   "names": [
+    "Beta-apo-8′-carotenal (c30)",
+    "Carotenoids"
+   ],
+   "class": "colour",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "440-415",
+   "base": "440",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "172",
+   "base": "172",
+   "names": [
+    "Iron oxides and iron hydroxides"
+   ],
+   "class": "colour",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "172II",
+   "base": "172",
+   "names": [
+    "Red iron oxide"
+   ],
+   "class": "colour",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "141II",
+   "base": "141",
+   "names": [
+    "Copper complexes of chlorophyllins"
+   ],
+   "class": "colour",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "471-VGTABL-SOURC",
+   "base": "471",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "471",
+   "base": "471",
+   "names": [
+    "Mono- and diglycerides of fatty acids"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": true
+  },
+  {
+   "ins": "552",
+   "base": "552",
+   "names": [
+    "Calcium silicate"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "217",
+   "base": "217",
+   "names": [
+    "Sodium propyl para-hydroxybenzoate"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "1204",
+   "base": "1204",
+   "names": [
+    "Pullulan"
+   ],
+   "class": "thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "958",
+   "base": "958",
+   "names": [
+    "Glycyrrhizin"
+   ],
+   "class": "sweetener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "415-NATUR-IDNTICAL-AND-NATURAL-FLAVOUR",
+   "base": "415",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "458",
+   "base": "458",
+   "names": [
+    "Gamma-Cyclodextrine"
+   ],
+   "class": "stabiliser, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "330-NATUR-IDNTICAL-FLAVOURING-SUBSTANCS",
+   "base": "330",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "487",
+   "base": "487",
+   "names": [
+    "sodium dodecyl sulfate"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "559",
+   "base": "559",
+   "names": [
+    "Aluminium silicate"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "280",
+   "base": "280",
+   "names": [
+    "Propionic acid"
+   ],
+   "class": "preservative",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "923",
+   "base": "923",
+   "names": [
+    "ammonium persulfate"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "630",
+   "base": "630",
+   "names": [
+    "Inosinic acid"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "629",
+   "base": "629",
+   "names": [
+    "Calcium guanylate"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "440-ACID",
+   "base": "440",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "316-4-DXTROS",
+   "base": "316",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "122-NUMBR-OF-SRVS-PR-PACK",
+   "base": "122",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "221",
+   "base": "221",
+   "names": [
+    "Sodium Sulfite",
+    "Sodium sulphite"
+   ],
+   "class": "antioxidant, preservative",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "118",
+   "base": "118",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "223-T-AMYLAS",
+   "base": "223",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "5000",
+   "base": "5000",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "470III",
+   "base": "470",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "905B",
+   "base": "905",
+   "names": [
+    "petroleum jelly"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "905",
+   "base": "905",
+   "names": [
+    "Synthetic wax"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "641",
+   "base": "641",
+   "names": [
+    "Leucine"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "337",
+   "base": "337",
+   "names": [
+    "Potassium sodium tartrate"
+   ],
+   "class": "sequestrant, stabiliser",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "3307",
+   "base": "3307",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "511",
+   "base": "511",
+   "names": [
+    "Magnesium chloride"
+   ],
+   "class": "stabiliser, coagulant",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "160D",
+   "base": "160",
+   "names": [
+    "Lycopene"
+   ],
+   "class": "colour",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "162II",
+   "base": "162",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "640",
+   "base": "640",
+   "names": [
+    "Glycine and its sodium salt"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "1440",
+   "base": "1440",
+   "names": [
+    "Hydroxypropyl starch"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "470A",
+   "base": "470",
+   "names": [
+    "Sodium/potassium and calcium salts of fatty acids"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "450VII",
+   "base": "450",
+   "names": [
+    "Calcium dihydrogen diphosphate"
+   ],
+   "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "516",
+   "base": "516",
+   "names": [
+    "Calcium sulphate"
+   ],
+   "class": "sequestrant, stabiliser",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "1202",
+   "base": "1202",
+   "names": [
+    "Polyvinylpolypyrrolidone"
+   ],
+   "class": "stabiliser",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "1521",
+   "base": "1521",
+   "names": [
+    "Polyethylene glycol"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "262II",
+   "base": "262",
+   "names": [
+    "Sodium diacetate"
+   ],
+   "class": "preservative, sequestrant",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "1701",
+   "base": "1701",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "421",
+   "base": "421",
+   "names": [
+    "Mannitol"
+   ],
+   "class": "humectant, stabiliser, sweetener, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "1401",
+   "base": "1401",
+   "names": [
+    "Acid-treated modified starch"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "220",
+   "base": "220",
+   "names": [
+    "Sulphur Dioxide",
+    "Sulphur dioxide"
+   ],
+   "class": "antioxidant, preservative",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "222",
+   "base": "222",
+   "names": [
+    "Sodium Bisulfite",
+    "Sodium bisulphite"
+   ],
+   "class": "antioxidant, preservative",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "322-SOYA",
+   "base": "322",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "381",
+   "base": "381",
+   "names": [
+    "ferric ammonium citrate"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "150-ACIDITY-RGULATORS",
+   "base": "150",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "303II",
+   "base": "303",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "261-DIBL-284",
+   "base": "261",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "142-DXTROS",
+   "base": "142",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "250-RA-AGNT-500II",
+   "base": "250",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "452I-DIBL-COMMON-SALT",
+   "base": "452",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "150C-INS",
+   "base": "150",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "4806",
+   "base": "4806",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "965I",
+   "base": "965",
+   "names": [
+    "D-Maltitol"
+   ],
+   "class": "emulsifier, humectant, stabiliser, sweetener, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "965II",
+   "base": "965",
+   "names": [
+    "Maltitol syrup"
+   ],
+   "class": "emulsifier, humectant, stabiliser, sweetener, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "491",
+   "base": "491",
+   "names": [
+    "Sorbitan monostearate"
+   ],
+   "class": "emulsifier",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "465",
+   "base": "465",
+   "names": [
+    "Ethyl methyl cellulose"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "2021",
+   "base": "2021",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "103",
+   "base": "103",
+   "names": [
+    "Alkannin"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "472-ND-FLOUR-TRATMNT-AGNTS",
+   "base": "472",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "415-440",
+   "base": "415",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "472C",
+   "base": "472",
+   "names": [
+    "Citric acid esters of mono- and diglycerides of fatty acids"
+   ],
+   "class": "antioxidant, emulsifier, sequestrant, stabiliser",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "504I",
+   "base": "504",
+   "names": [
+    "Magnesium carbonate"
+   ],
+   "class": "carrier",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "504",
+   "base": "504",
+   "names": [
+    "Magnesium carbonates"
+   ],
+   "class": "carrier",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "420II",
+   "base": "420",
+   "names": [
+    "Sorbitol syrup"
+   ],
+   "class": "humectant, sequestrant, stabiliser, sweetener, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "492",
+   "base": "492",
+   "names": [
+    "Sorbitan tristearate"
+   ],
+   "class": "emulsifier, stabiliser",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "329",
+   "base": "329",
+   "names": [
+    "Magnesium lactate"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "331-PRSRVATIV",
+   "base": "331",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "300-ULSIFIRS",
+   "base": "300",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "102-S-133",
+   "base": "102",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "406",
+   "base": "406",
+   "names": [
+    "Agar"
+   ],
+   "class": "carrier, emulsifier, humectant, stabiliser, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "1700",
+   "base": "1700",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "450II",
+   "base": "450",
+   "names": [
+    "Trisodium diphosphate"
+   ],
+   "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "319-CONTAINS-PRMITTD-CLASS-II-PRSRVATIV",
+   "base": "319",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "541I",
+   "base": "541",
+   "names": [
+    "Acid sodium aluminium phosphate"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "150C-ACIDITY-RGULATORS",
+   "base": "150",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "174",
+   "base": "174",
+   "names": [
+    "Silver"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "1103",
+   "base": "1103",
+   "names": [
+    "Invertase"
+   ],
+   "class": "stabiliser",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "232",
+   "base": "232",
+   "names": [
+    "Sodium orthophenyl phenol"
+   ],
+   "class": "preservative",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "45100",
+   "base": "4510",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "626",
+   "base": "626",
+   "names": [
+    "Guanylic acid"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "211-NUTRITIONAL-INO-SRVING-SRV",
+   "base": "211",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "524",
+   "base": "524",
+   "names": [
+    "Sodium hydroxide"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "481I",
+   "base": "481",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "500II-WHAT-GLUTN",
+   "base": "500",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "1510",
+   "base": "1510",
+   "names": [
+    "Ethanol"
+   ],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "252",
+   "base": "252",
+   "names": [
+    "Potassium Nitrate",
+    "Potassium nitrate"
+   ],
+   "class": "preservative",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "322-VANILLIN",
+   "base": "322",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "201",
+   "base": "201",
+   "names": [
+    "Sodium sorbate"
+   ],
+   "class": "preservative",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "100II",
+   "base": "100",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "330-STABILIZRS",
+   "base": "330",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "953",
+   "base": "953",
+   "names": [
+    "Isomalt",
+    "isomalt"
+   ],
+   "class": "stabiliser, sweetener, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "200A",
+   "base": "200",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "5011",
+   "base": "5011",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "304I",
+   "base": "304",
+   "names": [
+    "Ascorbyl Palmitate",
+    "Ascorbyl palmitate"
+   ],
+   "class": "antioxidant",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "561",
+   "base": "561",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "500-IL",
+   "base": "500",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "45200",
+   "base": "4520",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "140I",
+   "base": "140",
+   "names": [
+    "Chlorophyll",
+    "Chlorophylls"
+   ],
+   "class": "colour",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "212",
+   "base": "212",
+   "names": [
+    "Potassium benzoate"
+   ],
+   "class": "preservative",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "331I",
+   "base": "331",
+   "names": [
+    "Monosodium citrate"
+   ],
+   "class": "emulsifier, sequestrant, stabiliser",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "163C",
+   "base": "163",
+   "names": [
+    "Malvidin"
+   ],
+   "class": "colour",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "300-CONTAINS-NATURALLY-OCCURING-SUGARS",
+   "base": "300",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "627-631",
+   "base": "627",
+   "names": [],
+   "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "407A",
+   "base": "407",
+   "names": [
+    "Processed eucheuma seaweed"
+   ],
+   "class": "carrier, emulsifier, humectant, stabiliser, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "473",
+   "base": "473",
+   "names": [
+    "Sucrose esters of fatty acids"
+   ],
+   "class": "emulsifier, stabiliser",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "1412",
+   "base": "1412",
+   "names": [
+    "Distarch phosphate"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "1405",
+   "base": "1405",
+   "names": [
+    "Enzyme treated starch"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 1,
+   "has_card": false
+  }
+ ],
+ "vague_terms": [
+  {
+   "term": "flavouring",
+   "pct_of_products": 26.49,
+   "product_count": 607
+  },
+  {
+   "term": "acidity regulator",
+   "pct_of_products": 20.12,
+   "product_count": 461
+  },
+  {
+   "term": "vegetable oil",
+   "pct_of_products": 19.9,
+   "product_count": 456
+  },
+  {
+   "term": "condiment",
+   "pct_of_products": 19.07,
+   "product_count": 437
+  },
+  {
+   "term": "spice",
+   "pct_of_products": 18.68,
+   "product_count": 428
+  },
+  {
+   "term": "emulsifier",
+   "pct_of_products": 17.07,
+   "product_count": 391
+  },
+  {
+   "term": "stabiliser",
+   "pct_of_products": 10.52,
+   "product_count": 241
+  },
+  {
+   "term": "nature identical flavouring",
+   "pct_of_products": 9.95,
+   "product_count": 228
+  },
+  {
+   "term": "colour",
+   "pct_of_products": 9.65,
+   "product_count": 221
+  },
+  {
+   "term": "natural flavouring",
+   "pct_of_products": 9.34,
+   "product_count": 214
+  },
+  {
+   "term": "antioxidant",
+   "pct_of_products": 9.25,
+   "product_count": 212
+  },
+  {
+   "term": "raising agent",
+   "pct_of_products": 8.51,
+   "product_count": 195
+  },
+  {
+   "term": "preservative",
+   "pct_of_products": 8.16,
+   "product_count": 187
+  },
+  {
+   "term": "artificial flavouring",
+   "pct_of_products": 4.41,
+   "product_count": 101
+  }
+ ],
+ "note": "An additive listed here with has_card false was recognised from the Indian product data but has no written card yet."
+}

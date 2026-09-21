@@ -22,13 +22,21 @@
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--ink);
        font:16px/1.55 ui-sans-serif,system-ui,"Segoe UI",Roboto,sans-serif;}
-  .wrap{max-width:780px;margin:0 auto;padding:28px 16px 80px}
+  .wrap{max-width:780px;margin:0 auto;padding:26px 16px 80px}
   h1{font-size:1.5rem;margin:0 0 4px}
-  .sub{color:var(--muted);margin:0 0 22px;font-size:.94rem}
-  input[type=search]{width:100%;padding:13px 15px;font-size:1.05rem;color:var(--ink);
-    background:var(--panel);border:1px solid var(--line);border-radius:10px}
-  input:focus{outline:2px solid var(--accent);outline-offset:1px}
-  .hint{color:var(--muted);font-size:.85rem;margin:8px 2px 18px}
+  .sub{color:var(--muted);margin:0 0 20px;font-size:.94rem}
+  .tabs{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap}
+  .tab{background:var(--panel);border:1px solid var(--line);border-radius:99px;
+       padding:7px 15px;cursor:pointer;color:var(--muted);font:inherit;font-size:.92rem}
+  .tab[aria-selected="true"]{border-color:var(--accent);color:var(--ink);font-weight:600}
+  input[type=search],textarea{width:100%;padding:13px 15px;font-size:1.02rem;color:var(--ink);
+    background:var(--panel);border:1px solid var(--line);border-radius:10px;font-family:inherit}
+  textarea{min-height:132px;resize:vertical;line-height:1.5}
+  input:focus,textarea:focus{outline:2px solid var(--accent);outline-offset:1px}
+  .hint{color:var(--muted);font-size:.85rem;margin:8px 2px 16px}
+  .btn{background:var(--accent);color:var(--bg);border:0;border-radius:9px;
+       padding:11px 20px;font:inherit;font-weight:600;cursor:pointer;margin-top:10px}
+  .btn.ghost{background:none;color:var(--accent);border:1px solid var(--line);font-weight:400}
   .row{display:block;width:100%;text-align:left;background:var(--panel);cursor:pointer;
     border:1px solid var(--line);border-radius:10px;padding:11px 14px;margin-bottom:8px;
     color:inherit;font:inherit}
@@ -42,6 +50,7 @@
   .why{color:var(--muted);margin:0 0 18px}
   h3{font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);
      margin:22px 0 8px;border-top:1px solid var(--line);padding-top:14px}
+  h3.first{border-top:0;padding-top:0;margin-top:26px}
   table{width:100%;border-collapse:collapse;font-size:.93rem}
   td{padding:7px 4px;vertical-align:top;border-bottom:1px solid var(--line)}
   td:first-child{width:118px;color:var(--muted)}
@@ -55,6 +64,9 @@
   .back{background:none;border:0;color:var(--accent);cursor:pointer;font:inherit;padding:0;margin-bottom:16px}
   footer{color:var(--muted);font-size:.83rem;margin-top:34px;border-top:1px solid var(--line);padding-top:16px}
   ul{margin:6px 0 0;padding-left:20px}
+  .ex{color:var(--muted);font-size:.85rem;margin-top:10px}
+  .ex button{background:none;border:0;color:var(--accent);cursor:pointer;font:inherit;
+             text-decoration:underline;padding:0}
 </style>
 </head>
 <body>
@@ -62,7 +74,23 @@
   <h1>India Additive Atlas</h1>
   <p class="sub">What is actually in Indian packaged food — with a source for every line.</p>
 
-  <div id="home">
+  <div class="tabs" role="tablist">
+    <button class="tab" id="tab-paste"  role="tab" aria-selected="true"  onclick="mode('paste')">Read a label</button>
+    <button class="tab" id="tab-search" role="tab" aria-selected="false" onclick="mode('search')">Look one up</button>
+  </div>
+
+  <div id="pane-paste">
+    <textarea id="paste" placeholder="Type or paste the ingredients exactly as the packet writes them.
+
+For example:
+Refined Wheat Flour, Sugar, Edible Vegetable Oil, Raising Agents (INS 503(ii), INS 500(ii)), Emulsifier (INS 322), Salt, Acidity Regulator (INS 330), Artificial Flavouring Substances"></textarea>
+    <button class="btn" onclick="readLabel()">Read this label</button>
+    <button class="btn ghost" onclick="clearLabel()">Clear</button>
+    <p class="ex">No packet handy? <button onclick="demo()">Try an example</button></p>
+    <div id="result"></div>
+  </div>
+
+  <div id="pane-search" hidden>
     <input type="search" id="q" placeholder="Type an additive, e.g. 211, benzoate, colour" autocomplete="off">
     <p class="hint" id="hint">Loading…</p>
     <div id="list"></div>
@@ -72,13 +100,13 @@
 
   <footer>
     Every figure here comes from a public document, linked on the card.
-    Nothing is a health rating. Where nobody has published an answer, this says so.
+    Nothing here is a health rating. Where nobody has published an answer, this says so.
   </footer>
 </div>
 
 <script>
 const $ = id => document.getElementById(id);
-let INDEX = [];
+let INDEX = [], REC = null;
 
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c =>
   ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -91,15 +119,180 @@ const WORDS = {
   not_found: "No record found"
 };
 
+const ROMAN = {i:"I", ii:"II", iii:"III", iv:"IV", v:"V", vi:"VI", vii:"VII"};
+
 async function boot(){
   try{
-    INDEX = await (await fetch("cards/index.json")).json();
+    [INDEX, REC] = await Promise.all([
+      fetch("cards/index.json").then(r=>r.json()),
+      fetch("data/recognition.json").then(r=>r.json())
+    ]);
     $("hint").textContent = INDEX.length + " additives, ranked by how often they appear in Indian products.";
     render("");
   }catch(e){
     $("hint").textContent = "Could not load the data files.";
   }
 }
+
+function mode(m){
+  const paste = m === "paste";
+  $("pane-paste").hidden = !paste;
+  $("pane-search").hidden = paste;
+  $("detail").hidden = true;
+  $("tab-paste").setAttribute("aria-selected", paste);
+  $("tab-search").setAttribute("aria-selected", !paste);
+}
+
+/* ---------- reading a real label ---------- */
+
+function normIns(raw){
+  // "322(i)" -> "322I"   "503 (ii)" -> "503II"   "160a" -> "160A"
+  let s = String(raw).toUpperCase().replace(/\s+/g, "");
+  s = s.replace(/\(([IVX]+)\)/g, (_, r) => r);
+  return s;
+}
+
+function findAdditives(text){
+  if(!REC) return {found:[], unknownNums:[]};
+  const hay = " " + text.toLowerCase().replace(/\s+/g," ") + " ";
+  const seen = new Map();
+  const numbers = new Set();
+
+  // 1. numbers written as INS 211 / E211 / E 211
+  const re1 = /\b(?:ins|e)[\s.\-]?(\d{3,4}\s*(?:\([ivx]+\))?[a-z]?)/gi;
+  let m;
+  while((m = re1.exec(text)) !== null) numbers.add(normIns(m[1]));
+
+  // 2. bare numbers, but only inside brackets - "(330)" is an additive,
+  //    "500 g" and "100% juice" are not.
+  const re2 = /\((\s*\d{3,4}\s*(?:\([ivx]+\))?[a-z]?\s*(?:,\s*\d{3,4}\s*(?:\([ivx]+\))?[a-z]?\s*)*)\)/gi;
+  while((m = re2.exec(text)) !== null){
+    m[1].split(",").forEach(p => { if(/\d/.test(p)) numbers.add(normIns(p)); });
+  }
+
+  const byIns = new Map(REC.additives.map(a => [a.ins, a]));
+  const byBase = new Map();
+  REC.additives.forEach(a => { if(!byBase.has(a.base)) byBase.set(a.base, a); });
+
+  numbers.forEach(n => {
+    let hit = byIns.get(n);
+    if(!hit){
+      const base = (n.match(/^\d{3,4}/) || [])[0];
+      hit = base ? (byIns.get(base) || byBase.get(base)) : null;
+    }
+    if(hit) seen.set(hit.ins, {entry:hit, how:"number"});
+    else seen.set("?" + n, {entry:{ins:n, names:[], has_card:false, unknown:true}, how:"number"});
+  });
+
+  // 3. spelled-out names, longest first so "sodium benzoate" wins over "benzoate"
+  const named = [];
+  REC.additives.forEach(a => a.names.forEach(n => {
+    if(n && n.length >= 5) named.push([n.toLowerCase(), a]);
+  }));
+  named.sort((x,y) => y[0].length - x[0].length);
+  for(const [n, a] of named){
+    if(seen.has(a.ins)) continue;
+    if(hay.includes(" " + n + " ") || hay.includes(" " + n + ",") ||
+       hay.includes("(" + n + ")") || hay.includes(" " + n + ")")){
+      seen.set(a.ins, {entry:a, how:"name"});
+    }
+  }
+
+  const found = [...seen.values()];
+  found.sort((a,b) => (b.entry.products||0) - (a.entry.products||0));
+  return {found};
+}
+
+function findVague(text){
+  if(!REC) return [];
+  const hay = text.toLowerCase();
+  // A class word is only vague when the label does NOT go on to name the thing.
+  // "Emulsifier (INS 322)" tells you exactly what it is - calling that vague
+  // would be manufacturing alarm. "Emulsifier" on its own does not.
+  // allow the plural ("Raising Agents (INS 503)"), and count any bracket that
+  // actually says something - "(Palm)" names the oil just as "(INS 322)" names
+  // the emulsifier.
+  const namesIt = /^(s|es)?[\s:,\-]*\([^)]/i;
+  return REC.vague_terms.filter(v => {
+    const t = v.term.toLowerCase();
+    let i = hay.indexOf(t), anyBare = false;
+    while(i !== -1){
+      const after = hay.slice(i + t.length, i + t.length + 14);
+      if(!namesIt.test(after)) anyBare = true;
+      i = hay.indexOf(t, i + 1);
+    }
+    return anyBare;
+  });
+}
+
+function readLabel(){
+  const text = $("paste").value.trim();
+  if(!text){ $("result").innerHTML = ""; return; }
+
+  const {found} = findAdditives(text);
+  const vague = findVague(text);
+  const known = found.filter(f => f.entry.has_card);
+  const noCard = found.filter(f => !f.entry.has_card && !f.entry.unknown);
+  const unknown = found.filter(f => f.entry.unknown);
+
+  let h = `<h3 class="first">What this label says</h3>`;
+
+  if(!found.length && !vague.length){
+    h += `<p class="why">Nothing recognised. Additives are usually written as
+      <b>INS 211</b>, <b>E211</b> or a name like <b>sodium benzoate</b>.</p>`;
+  }
+
+  if(known.length){
+    h += `<p class="hint">${known.length} additive${known.length>1?"s":""} found with a card.
+      Tap any to see what each authority says.</p>`;
+    h += known.map(f => {
+      const idx = INDEX.find(i => i.ins === f.entry.ins) || {};
+      return `<button class="row" onclick="open_card('${esc(f.entry.ins)}')">
+        <b>${esc(idx.name || f.entry.names[0] || ("INS " + f.entry.ins))}</b>
+        &nbsp;<span>INS ${esc(f.entry.ins)} · ${esc(f.entry.class || idx.class || "—")}</span>
+      </button>`;
+    }).join("");
+  }
+
+  if(noCard.length){
+    h += `<h3>Recognised, but no card written yet</h3>
+      <p class="why">We know these appear in Indian food, but nobody has written them up here yet.
+      Rather than guess, this says so.</p><p>` +
+      noCard.map(f => `<span class="tag">INS ${esc(f.entry.ins)}${
+        f.entry.names[0] ? " · " + esc(f.entry.names[0]) : ""}</span>`).join(" ") + `</p>`;
+  }
+
+  if(unknown.length){
+    h += `<h3>Numbers we could not place</h3><p>` +
+      unknown.map(f => `<span class="tag">${esc(f.entry.ins)}</span>`).join(" ") +
+      `</p><p class="why">These look like additive codes but are not in our data.</p>`;
+  }
+
+  if(vague.length){
+    h += `<h3>What this label does not have to tell you</h3>
+      <div class="note">Indian labelling rules let a packet use a general word instead of
+      naming the actual ingredient. This label uses ${vague.length} of them:
+      <ul>${vague.map(v => `<li><b>${esc(v.term)}</b> — appears on ${v.pct_of_products}%
+        of the Indian products we checked</li>`).join("")}</ul>
+      So for these, the honest answer is that the packet is not required to say.</div>`;
+  }
+
+  $("result").innerHTML = h;
+  $("result").scrollIntoView({behavior:"smooth", block:"nearest"});
+}
+
+function clearLabel(){ $("paste").value = ""; $("result").innerHTML = ""; }
+
+function demo(){
+  $("paste").value =
+    "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm), Invert Syrup, " +
+    "Raising Agents (INS 503(ii), INS 500(ii)), Emulsifier (INS 322), Salt, " +
+    "Acidity Regulator (INS 330), Preservative (INS 211), Antioxidant (INS 319), " +
+    "Humectant (INS 422), Colour (INS 102), Artificial Flavouring Substances, Spices and Condiments";
+  readLabel();
+}
+
+/* ---------- the existing search and card view ---------- */
 
 function render(term){
   const t = term.trim().toLowerCase();
@@ -124,7 +317,7 @@ async function open_card(ins){
   const c = await (await fetch("cards/ins-" + ins.toLowerCase() + ".json")).json();
   const st = c.status || {};
   const eu = st.eu || {};
-  let html = `<button class="back" onclick="go_home()">&larr; back</button>
+  let html = `<button class="back" onclick="go_back()">&larr; back</button>
   <div class="card">
     <h2>${esc(c.name)}</h2>
     <div class="ins">INS ${esc(c.ins)} · ${esc(c.e_number)} · ${esc(c.class||"—")} ·
@@ -185,11 +378,15 @@ async function open_card(ins){
 
   html += `<h3>Checked</h3><p class="why">${esc(c.last_checked)}</p></div>`;
   $("detail").innerHTML = html;
-  $("home").hidden = true; $("detail").hidden = false;
+  $("pane-paste").hidden = true; $("pane-search").hidden = true;
+  $("detail").hidden = false;
   window.scrollTo(0,0);
 }
 
-function go_home(){ $("detail").hidden = true; $("home").hidden = false; }
+function go_back(){
+  $("detail").hidden = true;
+  mode($("tab-paste").getAttribute("aria-selected") === "true" ? "paste" : "search");
+}
 
 $("q").addEventListener("input", e => render(e.target.value));
 boot();
