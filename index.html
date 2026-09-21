@@ -93,7 +93,7 @@ const WORDS = {
 
 async function boot(){
   try{
-    INDEX = await (await fetch("cards/_index.json")).json();
+    INDEX = await (await fetch("cards/index.json")).json();
     $("hint").textContent = INDEX.length + " additives, ranked by how often they appear in Indian products.";
     render("");
   }catch(e){

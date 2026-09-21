@@ -10,7 +10,7 @@ Three things this does that matter for trust:
     at a substance for fifteen years
   * flags where regulators DISAGREE, instead of quietly picking one to believe
 
-Output: cards/ins-<n>.json + cards/_index.json
+Output: cards/ins-<n>.json + cards/index.json
 """
 import json, csv, re, pathlib, collections, datetime
 
@@ -253,7 +253,7 @@ for t in top[:50]:
         "india": india_status, "disagree": disagree, "products": t["india_products"],
     })
 
-(root / "cards/_index.json").write_text(
+(root / "cards/index.json").write_text(
     json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
 
 n = len(cards)

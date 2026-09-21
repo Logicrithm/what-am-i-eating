@@ -1,8 +1,0 @@
-Consider using the pymupdf_layout package for a greatly improved page layout analysis.
-tables with own header : 98
-continuation tables    : 0
-limit rows             : 485
-  numeric              : 439
-  GMP (no numeric cap) : 46
-  with an INS no       : 309
-wrote C:\Users\KIIT\OneDrive\Desktop\.claude\worktrees\chatgpt-idea-discussion-024b49\data\fssai_appendix_a_limits.csv

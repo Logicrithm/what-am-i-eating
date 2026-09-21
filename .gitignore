@@ -4,3 +4,5 @@ sources/raw/
 __pycache__/
 *.pyc
 .DS_Store
+scripts/_parse.log
+*.log
