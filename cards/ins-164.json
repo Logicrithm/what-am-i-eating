@@ -3,6 +3,8 @@
   "e_number": "E164",
   "name": "saffron",
   "also_called": [],
+  "name_per_fssai": "",
+  "name_warning": null,
   "class": "",
   "what_it_is": "Colour taken from the saffron flower.",
   "why_its_added": "Colours food yellow.",

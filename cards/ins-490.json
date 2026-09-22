@@ -3,9 +3,16 @@
   "e_number": "E490",
   "name": "Propylene glycol",
   "also_called": [],
+  "name_per_fssai": "",
+  "name_warning": {
+    "value": "unconfirmed",
+    "note": "The upstream taxonomy calls E490 propylene glycol. FSSAI's own compendium states that propylene glycol is INS 1520, and does not list 490. Until that is resolved, nothing is claimed about what this number denotes.",
+    "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Compendium_Food_Additives_Regulations_20_12_2022.pdf",
+    "checked": "2026-09-22"
+  },
   "class": "",
-  "what_it_is": "A clear, slightly sweet liquid made from petroleum or plant sources.",
-  "why_its_added": "Carries flavours and colours evenly through a food and holds moisture.",
+  "what_it_is": "Open Food Facts lists this number as propylene glycol, but FSSAI assigns propylene glycol to INS 1520. We could not confirm what INS 490 means in Indian rules.",
+  "why_its_added": "Not stated here, because the substance behind this number is not confirmed.",
   "status": {
     "india": {
       "value": "allowed_with_limits",

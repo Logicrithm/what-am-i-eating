@@ -3,6 +3,8 @@
   "e_number": "E320",
   "name": "Butylated hydroxyanisole (bha)",
   "also_called": [],
+  "name_per_fssai": "BHA",
+  "name_warning": null,
   "class": "antioxidant",
   "what_it_is": "A man-made antioxidant used in fats and oils.",
   "why_its_added": "Keeps fats, oils and fried snacks from going rancid.",

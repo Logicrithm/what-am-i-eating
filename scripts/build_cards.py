@@ -32,6 +32,10 @@ sent_path = root / "data/plain_sentences.json"
 sentences = json.loads(sent_path.read_text(encoding="utf-8")) if sent_path.exists() else {}
 sentences = {k: v for k, v in sentences.items() if not k.startswith("_")}
 
+fssai_names_path = root / "data/fssai_ins_names.json"
+fssai_names = (json.loads(fssai_names_path.read_text(encoding="utf-8"))
+               if fssai_names_path.exists() else {})
+
 FSSAI_SRC = "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
 TODAY = datetime.date.today()
 HOW_MANY = 100
@@ -180,6 +184,11 @@ for t in top[:HOW_MANY]:
         "e_number": "E" + ins,
         "name": t["name"] or e.get("name", ""),
         "also_called": [x for x in [e.get("name")] if x and x != t["name"]],
+        # India's own name for this number, where the compendium states one.
+        # Worth carrying: it is the answer that matters inside an Indian dataset.
+        "name_per_fssai": fssai_names.get(ins.upper()) or fssai_names.get(
+            re.match(r"^\d+", ins).group(0), ""),
+        "name_warning": (manual.get(ins) or {}).get("name_warning"),
         "class": t["classes"] or e.get("classes", ""),
         "what_it_is": (sentences.get(ins) or {}).get("what_it_is", ""),
         "why_its_added": (sentences.get(ins) or {}).get("why_its_added", ""),
@@ -300,7 +309,17 @@ for t in top[:HOW_MANY]:
     index.append({
         "ins": ins, "name": card["name"], "class": card["class"],
         "india": india_status, "disagree": disagree, "products": t["india_products"],
+        "unconfirmed": bool((manual.get(ins) or {}).get("name_warning")),
     })
+
+# Remove cards left from a previous run whose additive is no longer selected.
+# A stale ins-472.json survived after a numbering fix moved that slot to 472e,
+# leaving 101 files behind a 100-card index.
+keep = {"ins-" + c["ins"].lower() + ".json" for c in cards}
+for f in root.glob("cards/ins-*.json"):
+    if f.name not in keep:
+        f.unlink()
+        print("removed stale card: " + f.name)
 
 (root / "cards/index.json").write_text(
     json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")

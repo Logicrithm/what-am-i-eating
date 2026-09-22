@@ -14,7 +14,7 @@ root = pathlib.Path(__file__).resolve().parent.parent
 SKIP_NET = "--no-network" in sys.argv
 
 STATUS = {"allowed", "allowed_with_limits", "not_authorised", "under_review", "not_found"}
-REQUIRED = {"ins", "e_number", "name", "also_called", "class", "what_it_is",
+REQUIRED = {"ins", "e_number", "name", "also_called", "name_per_fssai", "name_warning", "class", "what_it_is",
             "why_its_added", "status", "safe_daily_limit", "eu_exposure_finding",
             "india_limits", "found_in_india_products", "pct_of_india_products", "india_match", "eu_safety_opinion", "related_forms", "disagreement_tested_on", "regulators_disagree", "permission_wording_differs", "vegetarian_status", "acute_limit", "people_reports",
             "last_checked"}

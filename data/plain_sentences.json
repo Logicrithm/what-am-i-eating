@@ -242,8 +242,8 @@
     "why_its_added": "Helps dough rise and keeps bread soft for longer. It is used up during baking."
   },
   "472": {
-    "what_it_is": "Fats that have been combined with tartaric and acetic acids.",
-    "why_its_added": "Strengthens bread dough so loaves rise higher and keep their shape."
+    "what_it_is": "A family of emulsifiers made by joining fats to a food acid such as acetic, lactic, citric or tartaric acid.",
+    "why_its_added": "Strengthens dough so bread rises higher, and keeps fat and water mixed in cakes and creams."
   },
   "950": {
     "what_it_is": "A man-made sweetener, roughly 200 times sweeter than sugar. The body does not absorb it.",
@@ -286,8 +286,8 @@
     "why_its_added": "Keeps oil and water mixed, mainly in cake mixes and whipped toppings."
   },
   "490": {
-    "what_it_is": "A clear, slightly sweet liquid made from petroleum or plant sources.",
-    "why_its_added": "Carries flavours and colours evenly through a food and holds moisture."
+    "what_it_is": "Open Food Facts lists this number as propylene glycol, but FSSAI assigns propylene glycol to INS 1520. We could not confirm what INS 490 means in Indian rules.",
+    "why_its_added": "Not stated here, because the substance behind this number is not confirmed."
   },
   "451I": {
     "what_it_is": "A sodium and phosphorus salt.",
@@ -404,5 +404,9 @@
   "418": {
     "what_it_is": "A thickener made by fermenting sugar with a bacterium.",
     "why_its_added": "Sets and thickens drinks and jellies, and stops solid bits settling."
+  },
+  "472E": {
+    "what_it_is": "An emulsifier made by joining fats to tartaric and acetic acids. Bakers call it DATEM.",
+    "why_its_added": "Strengthens bread dough so loaves rise higher and hold their shape."
   }
 }

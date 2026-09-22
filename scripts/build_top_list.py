@@ -36,7 +36,9 @@ for tag, n in counts.items():
     nm, cls, adi = name_en(tag)
     if not nm:
         continue
-    ins = tag.split(":")[-1].upper().replace("E", "")
+    # strip ONLY the leading E. replace("E","") stripped every one, so the tag
+    # en:e472e collapsed to "472" and quietly merged a sub-form into its parent.
+    ins = re.sub(r"^E", "", tag.split(":")[-1].upper())
     rows.append({
         "ins": ins,
         "tag": tag,

@@ -600,11 +600,10 @@
    "has_card": true
   },
   {
-   "ins": "472",
+   "ins": "472E",
    "base": "472",
    "names": [
-    "Mono- and diacetyltartaric acid esters of mono- and diglycerides of fatty acids",
-    "acid esters of mono- and diglycerides of fatty acids"
+    "Mono- and diacetyltartaric acid esters of mono- and diglycerides of fatty acids"
    ],
    "class": "emulsifier, sequestrant, stabiliser",
    "products": 14,
@@ -1229,21 +1228,21 @@
    "has_card": false
   },
   {
-   "ins": "321",
-   "base": "321",
+   "ins": "301",
+   "base": "301",
    "names": [
-    "Butylated hydroxytoluene"
+    "Sodium Ascorbate",
+    "Sodium ascorbate"
    ],
    "class": "antioxidant",
    "products": 4,
    "has_card": false
   },
   {
-   "ins": "301",
-   "base": "301",
+   "ins": "321",
+   "base": "321",
    "names": [
-    "Sodium Ascorbate",
-    "Sodium ascorbate"
+    "Butylated hydroxytoluene"
    ],
    "class": "antioxidant",
    "products": 4,
@@ -1802,7 +1801,7 @@
    ],
    "class": "",
    "products": 2,
-   "has_card": true
+   "has_card": false
   },
   {
    "ins": "904",
@@ -1815,11 +1814,10 @@
    "has_card": false
   },
   {
-   "ins": "160",
+   "ins": "160E",
    "base": "160",
    "names": [
-    "Beta-apo-8′-carotenal (c30)",
-    "Carotenoids"
+    "Beta-apo-8′-carotenal (c30)"
    ],
    "class": "colour",
    "products": 1,
@@ -1926,22 +1924,22 @@
    "has_card": false
   },
   {
-   "ins": "923",
-   "base": "923",
-   "names": [
-    "ammonium persulfate"
-   ],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "280",
    "base": "280",
    "names": [
     "Propionic acid"
    ],
    "class": "preservative",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "923",
+   "base": "923",
+   "names": [
+    "ammonium persulfate"
+   ],
+   "class": "",
    "products": 1,
    "has_card": false
   },
@@ -1977,20 +1975,20 @@
    "has_card": false
   },
   {
-   "ins": "905",
+   "ins": "905B",
    "base": "905",
    "names": [
-    "Synthetic wax"
+    "petroleum jelly"
    ],
    "class": "",
    "products": 1,
    "has_card": false
   },
   {
-   "ins": "905B",
+   "ins": "905",
    "base": "905",
    "names": [
-    "petroleum jelly"
+    "Synthetic wax"
    ],
    "class": "",
    "products": 1,
@@ -2057,22 +2055,22 @@
    "has_card": false
   },
   {
-   "ins": "470A",
-   "base": "470",
-   "names": [
-    "Sodium/potassium and calcium salts of fatty acids"
-   ],
-   "class": "emulsifier, stabiliser, thickener",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "450VII",
    "base": "450",
    "names": [
     "Calcium dihydrogen diphosphate"
    ],
    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "470A",
+   "base": "470",
+   "names": [
+    "Sodium/potassium and calcium salts of fatty acids"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
    "products": 1,
    "has_card": false
   },
@@ -2087,22 +2085,22 @@
    "has_card": false
   },
   {
-   "ins": "1521",
-   "base": "1521",
-   "names": [
-    "Polyethylene glycol"
-   ],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "1202",
    "base": "1202",
    "names": [
     "Polyvinylpolypyrrolidone"
    ],
    "class": "stabiliser",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "1521",
+   "base": "1521",
+   "names": [
+    "Polyethylene glycol"
+   ],
+   "class": "",
    "products": 1,
    "has_card": false
   },
@@ -2117,22 +2115,22 @@
    "has_card": false
   },
   {
-   "ins": "421",
-   "base": "421",
-   "names": [
-    "Mannitol"
-   ],
-   "class": "humectant, stabiliser, sweetener, thickener",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "1401",
    "base": "1401",
    "names": [
     "Acid-treated modified starch"
    ],
    "class": "emulsifier, stabiliser, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "421",
+   "base": "421",
+   "names": [
+    "Mannitol"
+   ],
+   "class": "humectant, stabiliser, sweetener, thickener",
    "products": 1,
    "has_card": false
   },
@@ -2229,16 +2227,6 @@
    "has_card": false
   },
   {
-   "ins": "504I",
-   "base": "504",
-   "names": [
-    "Magnesium carbonate"
-   ],
-   "class": "carrier",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "504",
    "base": "504",
    "names": [
@@ -2249,12 +2237,12 @@
    "has_card": false
   },
   {
-   "ins": "420II",
-   "base": "420",
+   "ins": "504I",
+   "base": "504",
    "names": [
-    "Sorbitol syrup"
+    "Magnesium carbonate"
    ],
-   "class": "humectant, sequestrant, stabiliser, sweetener, thickener",
+   "class": "carrier",
    "products": 1,
    "has_card": false
   },
@@ -2265,6 +2253,16 @@
     "Sorbitan tristearate"
    ],
    "class": "emulsifier, stabiliser",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "420II",
+   "base": "420",
+   "names": [
+    "Sorbitol syrup"
+   ],
+   "class": "humectant, sequestrant, stabiliser, sweetener, thickener",
    "products": 1,
    "has_card": false
   },
@@ -2463,6 +2461,16 @@
    "has_card": false
   },
   {
+   "ins": "1405",
+   "base": "1405",
+   "names": [
+    "Enzyme treated starch"
+   ],
+   "class": "emulsifier, stabiliser, thickener",
+   "products": 1,
+   "has_card": false
+  },
+  {
    "ins": "473",
    "base": "473",
    "names": [
@@ -2477,16 +2485,6 @@
    "base": "1412",
    "names": [
     "Distarch phosphate"
-   ],
-   "class": "emulsifier, stabiliser, thickener",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "1405",
-   "base": "1405",
-   "names": [
-    "Enzyme treated starch"
    ],
    "class": "emulsifier, stabiliser, thickener",
    "products": 1,

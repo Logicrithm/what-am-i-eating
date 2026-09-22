@@ -331,8 +331,9 @@ function render(term){
        || (r.class||"").toLowerCase().includes(t));
   $("list").innerHTML = hits.slice(0, 60).map(r => `
     <button class="row" onclick="open_card('${esc(r.ins)}')">
-      <b>${esc(r.name)}</b> &nbsp;<span>INS ${esc(r.ins)} · ${esc(r.class||"—")} ·
-      in ${r.products} products</span>
+      <b>${r.unconfirmed ? "INS " + esc(r.ins) : esc(r.name)}</b>
+      &nbsp;<span>INS ${esc(r.ins)} · ${esc(r.class||"—")} ·
+      in ${r.products} products${r.unconfirmed ? " · name unconfirmed" : ""}</span>
     </button>`).join("") || `<p class="hint">Nothing matches that.</p>`;
 }
 
@@ -350,11 +351,21 @@ async function open_card(ins){
   const eu = st.eu || {};
   let html = `<button class="back" onclick="go_back()">&larr; back</button>
   <div class="card">
-    <h2>${esc(c.name)}</h2>
+    <h2>${c.name_warning ? "INS " + esc(c.ins) : esc(c.name)}</h2>
     <div class="ins">INS ${esc(c.ins)} · ${esc(c.e_number)} · ${esc(c.class||"—")} ·
       found in ${c.found_in_india_products} of the Indian products checked</div>
     <p class="lead">${esc(c.what_it_is)}</p>
     <p class="why">${esc(c.why_its_added)}</p>`;
+
+  if(c.name_warning){
+    html += `<div class="note"><b>We cannot confirm what this number means.</b><br>
+      ${esc(c.name_warning.note)}
+      <a href="${esc(c.name_warning.source)}" target="_blank" rel="noopener">source</a></div>`;
+  }
+  if(c.name_per_fssai && c.name_per_fssai.toLowerCase() !== (c.name||"").toLowerCase()){
+    html += `<p class="why" style="margin-top:-8px">FSSAI's own compendium calls this
+      <b>${esc(c.name_per_fssai)}</b>.</p>`;
+  }
 
   const a = c.acute_limit || {};
   if(a.value){

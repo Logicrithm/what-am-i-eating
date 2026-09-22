@@ -32,5 +32,13 @@
       "checked": "2026-09-22"
     },
     "why_this_matters_here": "India and the United States still permit titanium dioxide. This is the clearest case in the dataset of regulators reaching different conclusions, and the reason is on the record rather than left to guesswork."
+  },
+  "490": {
+    "name_warning": {
+      "value": "unconfirmed",
+      "note": "The upstream taxonomy calls E490 propylene glycol. FSSAI's own compendium states that propylene glycol is INS 1520, and does not list 490. Until that is resolved, nothing is claimed about what this number denotes.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Compendium_Food_Additives_Regulations_20_12_2022.pdf",
+      "checked": "2026-09-22"
+    }
   }
 }

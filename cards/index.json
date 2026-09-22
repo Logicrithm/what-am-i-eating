@@ -5,7 +5,8 @@
     "class": "antioxidant, sequestrant",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 247
+    "products": 247,
+    "unconfirmed": false
   },
   {
     "ins": "322",
@@ -13,7 +14,8 @@
     "class": "antioxidant, emulsifier",
     "india": "allowed",
     "disagree": false,
-    "products": 156
+    "products": 156,
+    "unconfirmed": false
   },
   {
     "ins": "500",
@@ -21,7 +23,8 @@
     "class": "stabiliser, thickener",
     "india": "not_found",
     "disagree": false,
-    "products": 147
+    "products": 147,
+    "unconfirmed": false
   },
   {
     "ins": "471",
@@ -29,7 +32,8 @@
     "class": "emulsifier, stabiliser",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 109
+    "products": 109,
+    "unconfirmed": false
   },
   {
     "ins": "500II",
@@ -37,7 +41,8 @@
     "class": "stabiliser, thickener",
     "india": "allowed",
     "disagree": false,
-    "products": 99
+    "products": 99,
+    "unconfirmed": false
   },
   {
     "ins": "322I",
@@ -45,7 +50,8 @@
     "class": "antioxidant, emulsifier",
     "india": "allowed",
     "disagree": false,
-    "products": 85
+    "products": 85,
+    "unconfirmed": false
   },
   {
     "ins": "412",
@@ -53,7 +59,8 @@
     "class": "emulsifier, stabiliser, thickener",
     "india": "allowed",
     "disagree": false,
-    "products": 81
+    "products": 81,
+    "unconfirmed": false
   },
   {
     "ins": "415",
@@ -61,7 +68,8 @@
     "class": "emulsifier, stabiliser, thickener",
     "india": "allowed",
     "disagree": false,
-    "products": 80
+    "products": 80,
+    "unconfirmed": false
   },
   {
     "ins": "551",
@@ -69,7 +77,8 @@
     "class": "carrier",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 77
+    "products": 77,
+    "unconfirmed": false
   },
   {
     "ins": "627",
@@ -77,7 +86,8 @@
     "class": "",
     "india": "allowed",
     "disagree": false,
-    "products": 64
+    "products": 64,
+    "unconfirmed": false
   },
   {
     "ins": "503",
@@ -85,7 +95,8 @@
     "class": "",
     "india": "not_found",
     "disagree": false,
-    "products": 64
+    "products": 64,
+    "unconfirmed": false
   },
   {
     "ins": "211",
@@ -93,7 +104,8 @@
     "class": "preservative",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 63
+    "products": 63,
+    "unconfirmed": false
   },
   {
     "ins": "631",
@@ -101,7 +113,8 @@
     "class": "",
     "india": "allowed",
     "disagree": false,
-    "products": 62
+    "products": 62,
+    "unconfirmed": false
   },
   {
     "ins": "300",
@@ -109,7 +122,8 @@
     "class": "antioxidant, sequestrant",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 59
+    "products": 59,
+    "unconfirmed": false
   },
   {
     "ins": "260",
@@ -117,7 +131,8 @@
     "class": "preservative",
     "india": "allowed",
     "disagree": false,
-    "products": 56
+    "products": 56,
+    "unconfirmed": false
   },
   {
     "ins": "319",
@@ -125,7 +140,8 @@
     "class": "antioxidant",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 56
+    "products": 56,
+    "unconfirmed": false
   },
   {
     "ins": "202",
@@ -133,7 +149,8 @@
     "class": "preservative",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 49
+    "products": 49,
+    "unconfirmed": false
   },
   {
     "ins": "296",
@@ -141,7 +158,8 @@
     "class": "",
     "india": "allowed",
     "disagree": false,
-    "products": 49
+    "products": 49,
+    "unconfirmed": false
   },
   {
     "ins": "503II",
@@ -149,7 +167,8 @@
     "class": "",
     "india": "not_found",
     "disagree": false,
-    "products": 49
+    "products": 49,
+    "unconfirmed": false
   },
   {
     "ins": "150D",
@@ -157,7 +176,8 @@
     "class": "colour",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 47
+    "products": 47,
+    "unconfirmed": false
   },
   {
     "ins": "102",
@@ -165,7 +185,8 @@
     "class": "colour",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 47
+    "products": 47,
+    "unconfirmed": false
   },
   {
     "ins": "407",
@@ -173,7 +194,8 @@
     "class": "carrier, emulsifier, humectant, stabiliser, thickener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 46
+    "products": 46,
+    "unconfirmed": false
   },
   {
     "ins": "170",
@@ -181,7 +203,8 @@
     "class": "",
     "india": "allowed",
     "disagree": false,
-    "products": 45
+    "products": 45,
+    "unconfirmed": false
   },
   {
     "ins": "422",
@@ -189,7 +212,8 @@
     "class": "humectant, thickener",
     "india": "allowed",
     "disagree": false,
-    "products": 45
+    "products": 45,
+    "unconfirmed": false
   },
   {
     "ins": "450",
@@ -197,7 +221,8 @@
     "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 39
+    "products": 39,
+    "unconfirmed": false
   },
   {
     "ins": "440A",
@@ -205,7 +230,8 @@
     "class": "emulsifier, stabiliser, thickener",
     "india": "allowed",
     "disagree": false,
-    "products": 38
+    "products": 38,
+    "unconfirmed": false
   },
   {
     "ins": "508",
@@ -213,7 +239,8 @@
     "class": "stabiliser, thickener, preservative",
     "india": "allowed",
     "disagree": false,
-    "products": 35
+    "products": 35,
+    "unconfirmed": false
   },
   {
     "ins": "110",
@@ -221,7 +248,8 @@
     "class": "colour",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 34
+    "products": 34,
+    "unconfirmed": false
   },
   {
     "ins": "160C",
@@ -229,7 +257,8 @@
     "class": "colour",
     "india": "allowed",
     "disagree": false,
-    "products": 34
+    "products": 34,
+    "unconfirmed": false
   },
   {
     "ins": "170I",
@@ -237,7 +266,8 @@
     "class": "colour, stabiliser",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 33
+    "products": 33,
+    "unconfirmed": false
   },
   {
     "ins": "414",
@@ -245,7 +275,8 @@
     "class": "carrier, emulsifier, stabiliser, thickener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 31
+    "products": 31,
+    "unconfirmed": false
   },
   {
     "ins": "501",
@@ -253,7 +284,8 @@
     "class": "stabiliser",
     "india": "allowed",
     "disagree": false,
-    "products": 30
+    "products": 30,
+    "unconfirmed": false
   },
   {
     "ins": "466",
@@ -261,7 +293,8 @@
     "class": "emulsifier, humectant, stabiliser, thickener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 30
+    "products": 30,
+    "unconfirmed": false
   },
   {
     "ins": "282",
@@ -269,7 +302,8 @@
     "class": "preservative",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 30
+    "products": 30,
+    "unconfirmed": false
   },
   {
     "ins": "150A",
@@ -277,7 +311,8 @@
     "class": "colour",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 29
+    "products": 29,
+    "unconfirmed": false
   },
   {
     "ins": "101",
@@ -285,7 +320,8 @@
     "class": "colour",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 29
+    "products": 29,
+    "unconfirmed": false
   },
   {
     "ins": "150",
@@ -293,7 +329,8 @@
     "class": "",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 28
+    "products": 28,
+    "unconfirmed": false
   },
   {
     "ins": "500I",
@@ -301,7 +338,8 @@
     "class": "stabiliser, thickener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 28
+    "products": 28,
+    "unconfirmed": false
   },
   {
     "ins": "955",
@@ -309,7 +347,8 @@
     "class": "sweetener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 28
+    "products": 28,
+    "unconfirmed": false
   },
   {
     "ins": "341",
@@ -317,7 +356,8 @@
     "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 27
+    "products": 27,
+    "unconfirmed": false
   },
   {
     "ins": "320",
@@ -325,7 +365,8 @@
     "class": "antioxidant",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 27
+    "products": 27,
+    "unconfirmed": false
   },
   {
     "ins": "375",
@@ -333,7 +374,8 @@
     "class": "",
     "india": "not_found",
     "disagree": false,
-    "products": 25
+    "products": 25,
+    "unconfirmed": false
   },
   {
     "ins": "450I",
@@ -341,7 +383,8 @@
     "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 24
+    "products": 24,
+    "unconfirmed": false
   },
   {
     "ins": "223",
@@ -349,7 +392,8 @@
     "class": "antioxidant, preservative",
     "india": "allowed",
     "disagree": false,
-    "products": 23
+    "products": 23,
+    "unconfirmed": false
   },
   {
     "ins": "420",
@@ -357,7 +401,8 @@
     "class": "humectant, sequestrant, stabiliser, sweetener, thickener",
     "india": "allowed",
     "disagree": false,
-    "products": 23
+    "products": 23,
+    "unconfirmed": false
   },
   {
     "ins": "1442",
@@ -365,7 +410,8 @@
     "class": "emulsifier, stabiliser, thickener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 21
+    "products": 21,
+    "unconfirmed": false
   },
   {
     "ins": "410",
@@ -373,7 +419,8 @@
     "class": "emulsifier, stabiliser, thickener",
     "india": "allowed",
     "disagree": false,
-    "products": 21
+    "products": 21,
+    "unconfirmed": false
   },
   {
     "ins": "331",
@@ -381,7 +428,8 @@
     "class": "emulsifier, sequestrant, stabiliser",
     "india": "not_found",
     "disagree": false,
-    "products": 20
+    "products": 20,
+    "unconfirmed": false
   },
   {
     "ins": "133",
@@ -389,7 +437,8 @@
     "class": "colour",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 19
+    "products": 19,
+    "unconfirmed": false
   },
   {
     "ins": "122",
@@ -397,7 +446,8 @@
     "class": "colour",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 19
+    "products": 19,
+    "unconfirmed": false
   },
   {
     "ins": "200",
@@ -405,7 +455,8 @@
     "class": "preservative",
     "india": "not_found",
     "disagree": false,
-    "products": 19
+    "products": 19,
+    "unconfirmed": false
   },
   {
     "ins": "476",
@@ -413,7 +464,8 @@
     "class": "emulsifier",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 19
+    "products": 19,
+    "unconfirmed": false
   },
   {
     "ins": "635",
@@ -421,7 +473,8 @@
     "class": "",
     "india": "allowed",
     "disagree": false,
-    "products": 18
+    "products": 18,
+    "unconfirmed": false
   },
   {
     "ins": "451",
@@ -429,7 +482,8 @@
     "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 18
+    "products": 18,
+    "unconfirmed": false
   },
   {
     "ins": "392",
@@ -437,7 +491,8 @@
     "class": "",
     "india": "not_found",
     "disagree": false,
-    "products": 17
+    "products": 17,
+    "unconfirmed": false
   },
   {
     "ins": "452",
@@ -445,7 +500,8 @@
     "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 16
+    "products": 16,
+    "unconfirmed": false
   },
   {
     "ins": "340",
@@ -453,7 +509,8 @@
     "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 16
+    "products": 16,
+    "unconfirmed": false
   },
   {
     "ins": "965",
@@ -461,7 +518,8 @@
     "class": "emulsifier, humectant, stabiliser, sweetener, thickener",
     "india": "allowed",
     "disagree": false,
-    "products": 16
+    "products": 16,
+    "unconfirmed": false
   },
   {
     "ins": "1100",
@@ -469,15 +527,17 @@
     "class": "",
     "india": "allowed",
     "disagree": false,
-    "products": 15
+    "products": 15,
+    "unconfirmed": false
   },
   {
-    "ins": "472",
+    "ins": "472E",
     "name": "Mono- and diacetyltartaric acid esters of mono- and diglycerides of fatty acids",
     "class": "emulsifier, sequestrant, stabiliser",
-    "india": "not_found",
+    "india": "allowed_with_limits",
     "disagree": false,
-    "products": 14
+    "products": 14,
+    "unconfirmed": false
   },
   {
     "ins": "950",
@@ -485,7 +545,8 @@
     "class": "sweetener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 14
+    "products": 14,
+    "unconfirmed": false
   },
   {
     "ins": "307B",
@@ -493,7 +554,8 @@
     "class": "antioxidant",
     "india": "allowed",
     "disagree": false,
-    "products": 14
+    "products": 14,
+    "unconfirmed": false
   },
   {
     "ins": "100",
@@ -501,7 +563,8 @@
     "class": "colour",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 13
+    "products": 13,
+    "unconfirmed": false
   },
   {
     "ins": "334",
@@ -509,7 +572,8 @@
     "class": "antioxidant, sequestrant",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 13
+    "products": 13,
+    "unconfirmed": false
   },
   {
     "ins": "501I",
@@ -517,7 +581,8 @@
     "class": "stabiliser",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 13
+    "products": 13,
+    "unconfirmed": false
   },
   {
     "ins": "224",
@@ -525,7 +590,8 @@
     "class": "antioxidant, preservative",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 13
+    "products": 13,
+    "unconfirmed": false
   },
   {
     "ins": "160A",
@@ -533,7 +599,8 @@
     "class": "colour",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 13
+    "products": 13,
+    "unconfirmed": false
   },
   {
     "ins": "1422",
@@ -541,7 +608,8 @@
     "class": "emulsifier, stabiliser, thickener",
     "india": "allowed",
     "disagree": false,
-    "products": 13
+    "products": 13,
+    "unconfirmed": false
   },
   {
     "ins": "339II",
@@ -549,7 +617,8 @@
     "class": "emulsifier, humectant, preservative, sequestrant, stabiliser, thickener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 12
+    "products": 12,
+    "unconfirmed": false
   },
   {
     "ins": "477",
@@ -557,7 +626,8 @@
     "class": "emulsifier",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 12
+    "products": 12,
+    "unconfirmed": false
   },
   {
     "ins": "490",
@@ -565,7 +635,8 @@
     "class": "",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 12
+    "products": 12,
+    "unconfirmed": true
   },
   {
     "ins": "451I",
@@ -573,7 +644,8 @@
     "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 11
+    "products": 11,
+    "unconfirmed": false
   },
   {
     "ins": "164",
@@ -581,7 +653,8 @@
     "class": "",
     "india": "allowed",
     "disagree": false,
-    "products": 11
+    "products": 11,
+    "unconfirmed": false
   },
   {
     "ins": "900",
@@ -589,7 +662,8 @@
     "class": "",
     "india": "not_found",
     "disagree": false,
-    "products": 11
+    "products": 11,
+    "unconfirmed": false
   },
   {
     "ins": "339",
@@ -597,7 +671,8 @@
     "class": "emulsifier, humectant, preservative, sequestrant, stabiliser, thickener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 11
+    "products": 11,
+    "unconfirmed": false
   },
   {
     "ins": "120",
@@ -605,7 +680,8 @@
     "class": "colour",
     "india": "not_found",
     "disagree": false,
-    "products": 10
+    "products": 10,
+    "unconfirmed": false
   },
   {
     "ins": "960",
@@ -613,7 +689,8 @@
     "class": "sweetener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 10
+    "products": 10,
+    "unconfirmed": false
   },
   {
     "ins": "331III",
@@ -621,7 +698,8 @@
     "class": "",
     "india": "allowed",
     "disagree": false,
-    "products": 10
+    "products": 10,
+    "unconfirmed": false
   },
   {
     "ins": "621",
@@ -629,7 +707,8 @@
     "class": "flavour-enhancer",
     "india": "allowed",
     "disagree": false,
-    "products": 9
+    "products": 9,
+    "unconfirmed": false
   },
   {
     "ins": "900A",
@@ -637,7 +716,8 @@
     "class": "emulsifier",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 9
+    "products": 9,
+    "unconfirmed": false
   },
   {
     "ins": "160AI",
@@ -645,7 +725,8 @@
     "class": "colour",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 9
+    "products": 9,
+    "unconfirmed": false
   },
   {
     "ins": "1450",
@@ -653,7 +734,8 @@
     "class": "emulsifier, stabiliser, thickener",
     "india": "allowed",
     "disagree": false,
-    "products": 9
+    "products": 9,
+    "unconfirmed": false
   },
   {
     "ins": "290",
@@ -661,7 +743,8 @@
     "class": "preservative, propellent-gas",
     "india": "allowed",
     "disagree": false,
-    "products": 9
+    "products": 9,
+    "unconfirmed": false
   },
   {
     "ins": "341III",
@@ -669,7 +752,8 @@
     "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 9
+    "products": 9,
+    "unconfirmed": false
   },
   {
     "ins": "270",
@@ -677,7 +761,8 @@
     "class": "",
     "india": "allowed",
     "disagree": false,
-    "products": 9
+    "products": 9,
+    "unconfirmed": false
   },
   {
     "ins": "501II",
@@ -685,7 +770,8 @@
     "class": "stabiliser",
     "india": "allowed",
     "disagree": false,
-    "products": 8
+    "products": 8,
+    "unconfirmed": false
   },
   {
     "ins": "460",
@@ -693,7 +779,8 @@
     "class": "carrier, emulsifier, humectant, stabiliser, thickener",
     "india": "not_found",
     "disagree": false,
-    "products": 8
+    "products": 8,
+    "unconfirmed": false
   },
   {
     "ins": "141",
@@ -701,7 +788,8 @@
     "class": "colour",
     "india": "not_found",
     "disagree": false,
-    "products": 7
+    "products": 7,
+    "unconfirmed": false
   },
   {
     "ins": "171",
@@ -709,7 +797,8 @@
     "class": "colour",
     "india": "allowed",
     "disagree": true,
-    "products": 7
+    "products": 7,
+    "unconfirmed": false
   },
   {
     "ins": "162",
@@ -717,7 +806,8 @@
     "class": "colour",
     "india": "not_found",
     "disagree": false,
-    "products": 7
+    "products": 7,
+    "unconfirmed": false
   },
   {
     "ins": "1400",
@@ -725,7 +815,8 @@
     "class": "carrier, emulsifier, stabiliser, thickener",
     "india": "allowed",
     "disagree": false,
-    "products": 7
+    "products": 7,
+    "unconfirmed": false
   },
   {
     "ins": "306",
@@ -733,7 +824,8 @@
     "class": "",
     "india": "not_found",
     "disagree": false,
-    "products": 7
+    "products": 7,
+    "unconfirmed": false
   },
   {
     "ins": "1101",
@@ -741,7 +833,8 @@
     "class": "stabiliser",
     "india": "allowed",
     "disagree": false,
-    "products": 7
+    "products": 7,
+    "unconfirmed": false
   },
   {
     "ins": "951",
@@ -749,7 +842,8 @@
     "class": "sweetener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 7
+    "products": 7,
+    "unconfirmed": false
   },
   {
     "ins": "341II",
@@ -757,7 +851,8 @@
     "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 7
+    "products": 7,
+    "unconfirmed": false
   },
   {
     "ins": "385",
@@ -765,7 +860,8 @@
     "class": "antioxidant, preservative, sequestrant",
     "india": "not_found",
     "disagree": false,
-    "products": 7
+    "products": 7,
+    "unconfirmed": false
   },
   {
     "ins": "452I",
@@ -773,7 +869,8 @@
     "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 7
+    "products": 7,
+    "unconfirmed": false
   },
   {
     "ins": "160B",
@@ -781,7 +878,8 @@
     "class": "colour",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 7
+    "products": 7,
+    "unconfirmed": false
   },
   {
     "ins": "129",
@@ -789,7 +887,8 @@
     "class": "colour",
     "india": "allowed_with_limits",
     "disagree": false,
-    "products": 7
+    "products": 7,
+    "unconfirmed": false
   },
   {
     "ins": "418",
@@ -797,6 +896,7 @@
     "class": "stabiliser, thickener",
     "india": "allowed",
     "disagree": false,
-    "products": 7
+    "products": 7,
+    "unconfirmed": false
   }
 ]
