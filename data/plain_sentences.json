@@ -5,7 +5,6 @@
     "safety is what the sourced regulator fields on each card are for.",
     "Max 200 characters each. check_cards.py rejects fear words here."
   ],
-
   "330": {
     "what_it_is": "A sour-tasting acid found naturally in lemons and limes. The kind used in food is made industrially by fermenting sugar with a mould.",
     "why_its_added": "Gives a sour taste, keeps colour from fading, and makes it harder for microbes to grow."
@@ -205,5 +204,205 @@
   "420": {
     "what_it_is": "A sweet substance found naturally in apples, pears and berries; made industrially from glucose.",
     "why_its_added": "Sweetens food and holds moisture so it does not dry out."
+  },
+  "200": {
+    "what_it_is": "A preservative first found in the berries of the rowan tree; the kind used in food is made industrially.",
+    "why_its_added": "Stops mould and yeast growing in cheese, baked goods, dried fruit and drinks."
+  },
+  "476": {
+    "what_it_is": "An emulsifier made from castor oil and glycerol.",
+    "why_its_added": "Keeps chocolate flowing smoothly while it is being moulded, so less cocoa butter is needed."
+  },
+  "635": {
+    "what_it_is": "A taste booster that is a mix of two others, disodium guanylate and disodium inosinate.",
+    "why_its_added": "Makes savoury food taste stronger. It is used alongside MSG, not instead of it."
+  },
+  "451": {
+    "what_it_is": "A family of phosphorus salts.",
+    "why_its_added": "Holds water in meat and fish, helps baked goods rise, and stops discolouring."
+  },
+  "392": {
+    "what_it_is": "An extract of rosemary leaves.",
+    "why_its_added": "Slows fats going rancid, doing the same job as a man-made antioxidant."
+  },
+  "452": {
+    "what_it_is": "A family of long-chain phosphorus salts.",
+    "why_its_added": "Holds water in processed meat and cheese and keeps texture even."
+  },
+  "340": {
+    "what_it_is": "Potassium and phosphorus salts.",
+    "why_its_added": "Controls acidity, keeps powders loose and helps mixtures stay blended."
+  },
+  "965": {
+    "what_it_is": "A sweet substance made from starch. The body absorbs only part of it.",
+    "why_its_added": "Sweetens sugar-free sweets and chocolate and keeps them from drying out."
+  },
+  "1100": {
+    "what_it_is": "An enzyme that breaks starch down into smaller sugars.",
+    "why_its_added": "Helps dough rise and keeps bread soft for longer. It is used up during baking."
+  },
+  "472": {
+    "what_it_is": "Fats that have been combined with tartaric and acetic acids.",
+    "why_its_added": "Strengthens bread dough so loaves rise higher and keep their shape."
+  },
+  "950": {
+    "what_it_is": "A man-made sweetener, roughly 200 times sweeter than sugar. The body does not absorb it.",
+    "why_its_added": "Sweetens drinks and sugar-free foods without calories. Often mixed with other sweeteners."
+  },
+  "307B": {
+    "what_it_is": "A concentrated form of vitamin E.",
+    "why_its_added": "Stops oils and fats going rancid by reacting with oxygen first."
+  },
+  "100": {
+    "what_it_is": "The yellow colour of turmeric, extracted from the root.",
+    "why_its_added": "Colours food yellow or orange."
+  },
+  "334": {
+    "what_it_is": "The acid that makes grapes and tamarind taste sharp.",
+    "why_its_added": "Adds a sour taste and helps other ingredients work in baking."
+  },
+  "501I": {
+    "what_it_is": "Potassium carbonate, a salt of carbonic acid.",
+    "why_its_added": "Reduces acidity. It is what makes cocoa powder darker and less bitter."
+  },
+  "224": {
+    "what_it_is": "A sulphite salt.",
+    "why_its_added": "Stops browning and slows microbes in dried fruit, juices and some drinks."
+  },
+  "160A": {
+    "what_it_is": "The orange colour found in carrots and other plants.",
+    "why_its_added": "Colours food yellow to orange, and the body can turn some of it into vitamin A."
+  },
+  "1422": {
+    "what_it_is": "Ordinary starch, treated so it holds up to heat, acid and freezing.",
+    "why_its_added": "Thickens sauces and fillings and keeps them smooth after cooking or chilling."
+  },
+  "339II": {
+    "what_it_is": "A sodium and phosphorus salt.",
+    "why_its_added": "Controls acidity and keeps processed cheese and milk drinks smooth."
+  },
+  "477": {
+    "what_it_is": "Fats joined to propylene glycol.",
+    "why_its_added": "Keeps oil and water mixed, mainly in cake mixes and whipped toppings."
+  },
+  "490": {
+    "what_it_is": "A clear, slightly sweet liquid made from petroleum or plant sources.",
+    "why_its_added": "Carries flavours and colours evenly through a food and holds moisture."
+  },
+  "451I": {
+    "what_it_is": "A sodium and phosphorus salt.",
+    "why_its_added": "Holds water in meat, fish and processed cheese."
+  },
+  "164": {
+    "what_it_is": "Colour taken from the saffron flower.",
+    "why_its_added": "Colours food yellow."
+  },
+  "900": {
+    "what_it_is": "A silicone oil.",
+    "why_its_added": "Stops cooking oil foaming over during deep frying."
+  },
+  "339": {
+    "what_it_is": "Sodium and phosphorus salts.",
+    "why_its_added": "Controls acidity and keeps processed cheese and milk drinks from separating."
+  },
+  "120": {
+    "what_it_is": "A red colour made from the dried bodies of cochineal insects. It is also called carmine.",
+    "why_its_added": "Colours food and drinks red or pink."
+  },
+  "960": {
+    "what_it_is": "A sweetener taken from the leaves of the stevia plant; around 300 times sweeter than sugar.",
+    "why_its_added": "Sweetens drinks and foods without calories."
+  },
+  "331III": {
+    "what_it_is": "A sodium salt of citric acid, the acid in lemons.",
+    "why_its_added": "Controls acidity and keeps processed cheese smooth rather than oily."
+  },
+  "621": {
+    "what_it_is": "The sodium salt of glutamic acid, an amino acid found naturally in tomatoes, cheese and seaweed.",
+    "why_its_added": "Gives the savoury taste called umami, so food tastes fuller and more meaty."
+  },
+  "900A": {
+    "what_it_is": "A silicone oil.",
+    "why_its_added": "Stops frying oil foaming and stops liquids frothing during filling."
+  },
+  "160AI": {
+    "what_it_is": "The orange colour found in carrots, made in a factory or taken from plants.",
+    "why_its_added": "Colours food yellow to orange."
+  },
+  "1450": {
+    "what_it_is": "Starch treated so that it mixes into water and oil together.",
+    "why_its_added": "Keeps drink powders and flavour oils evenly mixed instead of separating."
+  },
+  "290": {
+    "what_it_is": "Carbon dioxide gas.",
+    "why_its_added": "Makes drinks fizzy, and replaces air in packets so food stays fresh longer."
+  },
+  "341III": {
+    "what_it_is": "A calcium and phosphorus salt.",
+    "why_its_added": "Stops powders clumping, helps baking powder work, and adds calcium."
+  },
+  "270": {
+    "what_it_is": "The acid that makes curd and yoghurt taste sour. It forms naturally when milk ferments.",
+    "why_its_added": "Adds a sour taste and makes conditions harder for bacteria."
+  },
+  "501II": {
+    "what_it_is": "Potassium bicarbonate, close cousin of baking soda.",
+    "why_its_added": "Helps baked goods rise and reduces acidity."
+  },
+  "460": {
+    "what_it_is": "Plant fibre, the material that makes up the walls of plant cells.",
+    "why_its_added": "Adds bulk and fibre, stops powders caking and thickens food."
+  },
+  "141": {
+    "what_it_is": "A green colour made by putting copper into chlorophyll, the green of leaves.",
+    "why_its_added": "Colours food green, and holds that colour better than plain chlorophyll."
+  },
+  "171": {
+    "what_it_is": "A bright white powder, the same pigment used in paint and sunscreen.",
+    "why_its_added": "Makes food and coatings look opaque white, mostly in sweets and icings."
+  },
+  "162": {
+    "what_it_is": "The red colour of beetroot.",
+    "why_its_added": "Colours food pink or red."
+  },
+  "1400": {
+    "what_it_is": "Starch broken into shorter pieces by heating.",
+    "why_its_added": "Thickens food, carries flavours, and adds body to soups and sauces."
+  },
+  "306": {
+    "what_it_is": "A natural form of vitamin E taken from vegetable oils.",
+    "why_its_added": "Stops fats and oils going rancid."
+  },
+  "1101": {
+    "what_it_is": "An enzyme that breaks proteins into smaller pieces.",
+    "why_its_added": "Softens dough and tenderises meat. It is used up during processing."
+  },
+  "951": {
+    "what_it_is": "A man-made sweetener about 200 times sweeter than sugar, built from two amino acids.",
+    "why_its_added": "Sweetens drinks and sugar-free foods without calories."
+  },
+  "341II": {
+    "what_it_is": "A calcium and phosphorus salt.",
+    "why_its_added": "Helps baking powder work, stops caking, and adds calcium."
+  },
+  "385": {
+    "what_it_is": "A salt that grips onto stray metal traces in food.",
+    "why_its_added": "Stops food discolouring or tasting metallic by locking away traces of metal."
+  },
+  "452I": {
+    "what_it_is": "A long-chain sodium and phosphorus salt.",
+    "why_its_added": "Holds water in processed meat and keeps texture even."
+  },
+  "160B": {
+    "what_it_is": "An orange colour from the seeds of the achiote tree.",
+    "why_its_added": "Colours food yellow to orange, often in cheese, butter and snacks."
+  },
+  "129": {
+    "what_it_is": "A red dye made in a factory.",
+    "why_its_added": "Colours food and drinks red."
+  },
+  "418": {
+    "what_it_is": "A thickener made by fermenting sugar with a bacterium.",
+    "why_its_added": "Sets and thickens drinks and jellies, and stops solid bits settling."
   }
 }

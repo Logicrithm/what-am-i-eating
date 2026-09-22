@@ -13,12 +13,9 @@
       "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
     },
     "eu": {
-      "value": "allowed_with_limits",
-      "note": "Scientific Opinion on the re-evaluation of benzoic acid -E 210-, sodium benzoate -E 211-, potassium benzoate -E 212- and calcium benzoate -E 213- as food additives",
-      "source": "http://dx.doi.org/10.2903/j.efsa.2016.4433",
-      "opinion_date": "2016-03",
-      "opinion_age_years": 10,
-      "replaced_an_older_opinion": null
+      "value": "not_found",
+      "note": "EFSA has assessed the safety of this additive, but we have no public record of its current authorisation in the EU.",
+      "source": ""
     },
     "usa": {
       "value": "allowed",
@@ -27,9 +24,15 @@
     }
   },
   "related_forms": [],
+  "eu_safety_opinion": {
+    "title": "Scientific Opinion on the re-evaluation of benzoic acid -E 210-, sodium benzoate -E 211-, potassium benzoate -E 212- and calcium benzoate -E 213- as food additives",
+    "source": "http://dx.doi.org/10.2903/j.efsa.2016.4433",
+    "date": "2016-03",
+    "age_years": 10,
+    "replaced_an_older_opinion": null
+  },
   "regulators_disagree": false,
   "disagreement_tested_on": [
-    "eu",
     "india",
     "usa"
   ],

@@ -516,7 +516,7 @@
    ],
    "class": "preservative",
    "products": 19,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "476",
@@ -526,7 +526,7 @@
    ],
    "class": "emulsifier",
    "products": 19,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "635",
@@ -536,7 +536,7 @@
    ],
    "class": "",
    "products": 18,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "451",
@@ -546,7 +546,7 @@
    ],
    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
    "products": 18,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "392",
@@ -556,7 +556,7 @@
    ],
    "class": "",
    "products": 17,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "452",
@@ -566,7 +566,7 @@
    ],
    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
    "products": 16,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "340",
@@ -576,7 +576,7 @@
    ],
    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
    "products": 16,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "965",
@@ -587,7 +587,7 @@
    ],
    "class": "emulsifier, humectant, stabiliser, sweetener, thickener",
    "products": 16,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "1100",
@@ -597,7 +597,7 @@
    ],
    "class": "",
    "products": 15,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "472",
@@ -608,7 +608,7 @@
    ],
    "class": "emulsifier, sequestrant, stabiliser",
    "products": 14,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "950",
@@ -618,7 +618,7 @@
    ],
    "class": "sweetener",
    "products": 14,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "307B",
@@ -628,7 +628,7 @@
    ],
    "class": "antioxidant",
    "products": 14,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "100",
@@ -638,7 +638,7 @@
    ],
    "class": "colour",
    "products": 13,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "334",
@@ -649,7 +649,7 @@
    ],
    "class": "antioxidant, sequestrant",
    "products": 13,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "501I",
@@ -659,7 +659,7 @@
    ],
    "class": "stabiliser",
    "products": 13,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "224",
@@ -669,7 +669,7 @@
    ],
    "class": "antioxidant, preservative",
    "products": 13,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "160A",
@@ -679,7 +679,7 @@
    ],
    "class": "colour",
    "products": 13,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "1422",
@@ -689,7 +689,7 @@
    ],
    "class": "emulsifier, stabiliser, thickener",
    "products": 13,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "339II",
@@ -699,7 +699,7 @@
    ],
    "class": "emulsifier, humectant, preservative, sequestrant, stabiliser, thickener",
    "products": 12,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "477",
@@ -709,7 +709,7 @@
    ],
    "class": "emulsifier",
    "products": 12,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "490",
@@ -719,7 +719,7 @@
    ],
    "class": "",
    "products": 12,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "451I",
@@ -729,7 +729,7 @@
    ],
    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
    "products": 11,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "164",
@@ -739,7 +739,7 @@
    ],
    "class": "",
    "products": 11,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "900",
@@ -749,7 +749,7 @@
    ],
    "class": "",
    "products": 11,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "339",
@@ -760,7 +760,7 @@
    ],
    "class": "emulsifier, humectant, preservative, sequestrant, stabiliser, thickener",
    "products": 11,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "120",
@@ -770,7 +770,7 @@
    ],
    "class": "colour",
    "products": 10,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "960",
@@ -780,7 +780,7 @@
    ],
    "class": "sweetener",
    "products": 10,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "331III",
@@ -790,7 +790,7 @@
    ],
    "class": "",
    "products": 10,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "621",
@@ -800,7 +800,7 @@
    ],
    "class": "flavour-enhancer",
    "products": 9,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "900A",
@@ -810,7 +810,7 @@
    ],
    "class": "emulsifier",
    "products": 9,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "160AI",
@@ -820,7 +820,7 @@
    ],
    "class": "colour",
    "products": 9,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "1450",
@@ -830,7 +830,7 @@
    ],
    "class": "emulsifier, stabiliser, thickener",
    "products": 9,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "290",
@@ -840,7 +840,7 @@
    ],
    "class": "preservative, propellent-gas",
    "products": 9,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "341III",
@@ -850,7 +850,7 @@
    ],
    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
    "products": 9,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "270",
@@ -861,7 +861,7 @@
    ],
    "class": "",
    "products": 9,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "501II",
@@ -871,7 +871,7 @@
    ],
    "class": "stabiliser",
    "products": 8,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "460",
@@ -881,15 +881,7 @@
    ],
    "class": "carrier, emulsifier, humectant, stabiliser, thickener",
    "products": 8,
-   "has_card": false
-  },
-  {
-   "ins": "322-FROM-SOY",
-   "base": "322",
-   "names": [],
-   "class": "",
-   "products": 8,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "141",
@@ -899,7 +891,7 @@
    ],
    "class": "colour",
    "products": 7,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "171",
@@ -909,7 +901,7 @@
    ],
    "class": "colour",
    "products": 7,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "162",
@@ -919,15 +911,7 @@
    ],
    "class": "colour",
    "products": 7,
-   "has_card": false
-  },
-  {
-   "ins": "160CI",
-   "base": "160",
-   "names": [],
-   "class": "",
-   "products": 7,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "1400",
@@ -937,7 +921,7 @@
    ],
    "class": "carrier, emulsifier, stabiliser, thickener",
    "products": 7,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "306",
@@ -947,7 +931,7 @@
    ],
    "class": "",
    "products": 7,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "1101",
@@ -957,7 +941,7 @@
    ],
    "class": "stabiliser",
    "products": 7,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "951",
@@ -967,7 +951,7 @@
    ],
    "class": "sweetener",
    "products": 7,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "341II",
@@ -977,7 +961,7 @@
    ],
    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
    "products": 7,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "385",
@@ -987,7 +971,7 @@
    ],
    "class": "antioxidant, preservative, sequestrant",
    "products": 7,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "452I",
@@ -997,7 +981,7 @@
    ],
    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
    "products": 7,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "160B",
@@ -1007,7 +991,7 @@
    ],
    "class": "colour",
    "products": 7,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "129",
@@ -1017,7 +1001,7 @@
    ],
    "class": "colour",
    "products": 7,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "418",
@@ -1028,7 +1012,7 @@
    ],
    "class": "stabiliser, thickener",
    "products": 7,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "903",
@@ -1071,22 +1055,22 @@
    "has_card": false
   },
   {
-   "ins": "518",
-   "base": "518",
-   "names": [
-    "Magnesium sulphate"
-   ],
-   "class": "",
-   "products": 6,
-   "has_card": false
-  },
-  {
    "ins": "509",
    "base": "509",
    "names": [
     "Calcium chloride"
    ],
    "class": "stabiliser, thickener, coagulant",
+   "products": 6,
+   "has_card": false
+  },
+  {
+   "ins": "518",
+   "base": "518",
+   "names": [
+    "Magnesium sulphate"
+   ],
+   "class": "",
    "products": 6,
    "has_card": false
   },
@@ -1245,17 +1229,6 @@
    "has_card": false
   },
   {
-   "ins": "301",
-   "base": "301",
-   "names": [
-    "Sodium Ascorbate",
-    "Sodium ascorbate"
-   ],
-   "class": "antioxidant",
-   "products": 4,
-   "has_card": false
-  },
-  {
    "ins": "321",
    "base": "321",
    "names": [
@@ -1266,18 +1239,13 @@
    "has_card": false
   },
   {
-   "ins": "3220",
-   "base": "3220",
-   "names": [],
-   "class": "",
-   "products": 4,
-   "has_card": false
-  },
-  {
-   "ins": "3221",
-   "base": "3221",
-   "names": [],
-   "class": "",
+   "ins": "301",
+   "base": "301",
+   "names": [
+    "Sodium Ascorbate",
+    "Sodium ascorbate"
+   ],
+   "class": "antioxidant",
    "products": 4,
    "has_card": false
   },
@@ -1312,20 +1280,20 @@
    "has_card": false
   },
   {
-   "ins": "553B",
+   "ins": "553",
    "base": "553",
    "names": [
-    "Talc"
+    "Magnesium silicates"
    ],
    "class": "thickener",
    "products": 3,
    "has_card": false
   },
   {
-   "ins": "553",
+   "ins": "553B",
    "base": "553",
    "names": [
-    "Magnesium silicates"
+    "Talc"
    ],
    "class": "thickener",
    "products": 3,
@@ -1378,14 +1346,6 @@
     "Tara gum"
    ],
    "class": "stabiliser, thickener",
-   "products": 3,
-   "has_card": false
-  },
-  {
-   "ins": "386",
-   "base": "386",
-   "names": [],
-   "class": "",
    "products": 3,
    "has_card": false
   },
@@ -1542,14 +1502,6 @@
    "has_card": false
   },
   {
-   "ins": "470I",
-   "base": "470",
-   "names": [],
-   "class": "",
-   "products": 3,
-   "has_card": false
-  },
-  {
    "ins": "340II",
    "base": "340",
    "names": [
@@ -1691,14 +1643,6 @@
    "has_card": false
   },
   {
-   "ins": "1101II",
-   "base": "1101",
-   "names": [],
-   "class": "",
-   "products": 2,
-   "has_card": false
-  },
-  {
    "ins": "575",
    "base": "575",
    "names": [
@@ -1740,28 +1684,12 @@
    "has_card": false
   },
   {
-   "ins": "471-481",
-   "base": "471",
-   "names": [],
-   "class": "",
-   "products": 2,
-   "has_card": false
-  },
-  {
    "ins": "1200",
    "base": "1200",
    "names": [
     "Polydextrose"
    ],
    "class": "humectant, stabiliser, thickener",
-   "products": 2,
-   "has_card": false
-  },
-  {
-   "ins": "1101III",
-   "base": "1101",
-   "names": [],
-   "class": "",
    "products": 2,
    "has_card": false
   },
@@ -1793,30 +1721,6 @@
     "Polyglycerol esters of fatty acids"
    ],
    "class": "emulsifier, stabiliser",
-   "products": 2,
-   "has_card": false
-  },
-  {
-   "ins": "100I",
-   "base": "100",
-   "names": [],
-   "class": "",
-   "products": 2,
-   "has_card": false
-  },
-  {
-   "ins": "553III",
-   "base": "553",
-   "names": [],
-   "class": "",
-   "products": 2,
-   "has_card": false
-  },
-  {
-   "ins": "1100I",
-   "base": "1100",
-   "names": [],
-   "class": "",
    "products": 2,
    "has_card": false
   },
@@ -1898,7 +1802,7 @@
    ],
    "class": "",
    "products": 2,
-   "has_card": false
+   "has_card": true
   },
   {
    "ins": "904",
@@ -1911,14 +1815,6 @@
    "has_card": false
   },
   {
-   "ins": "322-307B",
-   "base": "322",
-   "names": [],
-   "class": "",
-   "products": 2,
-   "has_card": false
-  },
-  {
    "ins": "160",
    "base": "160",
    "names": [
@@ -1926,14 +1822,6 @@
     "Carotenoids"
    ],
    "class": "colour",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "440-415",
-   "base": "440",
-   "names": [],
-   "class": "",
    "products": 1,
    "has_card": false
   },
@@ -1966,24 +1854,6 @@
    "class": "colour",
    "products": 1,
    "has_card": false
-  },
-  {
-   "ins": "471-VGTABL-SOURC",
-   "base": "471",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "471",
-   "base": "471",
-   "names": [
-    "Mono- and diglycerides of fatty acids"
-   ],
-   "class": "",
-   "products": 1,
-   "has_card": true
   },
   {
    "ins": "552",
@@ -2026,28 +1896,12 @@
    "has_card": false
   },
   {
-   "ins": "415-NATUR-IDNTICAL-AND-NATURAL-FLAVOUR",
-   "base": "415",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "458",
    "base": "458",
    "names": [
     "Gamma-Cyclodextrine"
    ],
    "class": "stabiliser, thickener",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "330-NATUR-IDNTICAL-FLAVOURING-SUBSTANCS",
-   "base": "330",
-   "names": [],
-   "class": "",
    "products": 1,
    "has_card": false
   },
@@ -2072,22 +1926,22 @@
    "has_card": false
   },
   {
-   "ins": "280",
-   "base": "280",
-   "names": [
-    "Propionic acid"
-   ],
-   "class": "preservative",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "923",
    "base": "923",
    "names": [
     "ammonium persulfate"
    ],
    "class": "",
+   "products": 1,
+   "has_card": false
+  },
+  {
+   "ins": "280",
+   "base": "280",
+   "names": [
+    "Propionic acid"
+   ],
+   "class": "preservative",
    "products": 1,
    "has_card": false
   },
@@ -2112,30 +1966,6 @@
    "has_card": false
   },
   {
-   "ins": "440-ACID",
-   "base": "440",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "316-4-DXTROS",
-   "base": "316",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "122-NUMBR-OF-SRVS-PR-PACK",
-   "base": "122",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "221",
    "base": "221",
    "names": [
@@ -2147,33 +1977,11 @@
    "has_card": false
   },
   {
-   "ins": "118",
-   "base": "118",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "223-T-AMYLAS",
-   "base": "223",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "5000",
-   "base": "5000",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "470III",
-   "base": "470",
-   "names": [],
+   "ins": "905",
+   "base": "905",
+   "names": [
+    "Synthetic wax"
+   ],
    "class": "",
    "products": 1,
    "has_card": false
@@ -2183,16 +1991,6 @@
    "base": "905",
    "names": [
     "petroleum jelly"
-   ],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "905",
-   "base": "905",
-   "names": [
-    "Synthetic wax"
    ],
    "class": "",
    "products": 1,
@@ -2219,14 +2017,6 @@
    "has_card": false
   },
   {
-   "ins": "3307",
-   "base": "3307",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "511",
    "base": "511",
    "names": [
@@ -2243,14 +2033,6 @@
     "Lycopene"
    ],
    "class": "colour",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "162II",
-   "base": "162",
-   "names": [],
-   "class": "",
    "products": 1,
    "has_card": false
   },
@@ -2305,16 +2087,6 @@
    "has_card": false
   },
   {
-   "ins": "1202",
-   "base": "1202",
-   "names": [
-    "Polyvinylpolypyrrolidone"
-   ],
-   "class": "stabiliser",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "1521",
    "base": "1521",
    "names": [
@@ -2325,20 +2097,22 @@
    "has_card": false
   },
   {
+   "ins": "1202",
+   "base": "1202",
+   "names": [
+    "Polyvinylpolypyrrolidone"
+   ],
+   "class": "stabiliser",
+   "products": 1,
+   "has_card": false
+  },
+  {
    "ins": "262II",
    "base": "262",
    "names": [
     "Sodium diacetate"
    ],
    "class": "preservative, sequestrant",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "1701",
-   "base": "1701",
-   "names": [],
-   "class": "",
    "products": 1,
    "has_card": false
   },
@@ -2385,14 +2159,6 @@
    "has_card": false
   },
   {
-   "ins": "322-SOYA",
-   "base": "322",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "381",
    "base": "381",
    "names": [
@@ -2403,66 +2169,12 @@
    "has_card": false
   },
   {
-   "ins": "150-ACIDITY-RGULATORS",
-   "base": "150",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "303II",
-   "base": "303",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "261-DIBL-284",
-   "base": "261",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "142-DXTROS",
-   "base": "142",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "250-RA-AGNT-500II",
-   "base": "250",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "452I-DIBL-COMMON-SALT",
-   "base": "452",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "150C-INS",
-   "base": "150",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "4806",
-   "base": "4806",
-   "names": [],
-   "class": "",
+   "ins": "965II",
+   "base": "965",
+   "names": [
+    "Maltitol syrup"
+   ],
+   "class": "emulsifier, humectant, stabiliser, sweetener, thickener",
    "products": 1,
    "has_card": false
   },
@@ -2471,16 +2183,6 @@
    "base": "965",
    "names": [
     "D-Maltitol"
-   ],
-   "class": "emulsifier, humectant, stabiliser, sweetener, thickener",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "965II",
-   "base": "965",
-   "names": [
-    "Maltitol syrup"
    ],
    "class": "emulsifier, humectant, stabiliser, sweetener, thickener",
    "products": 1,
@@ -2507,35 +2209,11 @@
    "has_card": false
   },
   {
-   "ins": "2021",
-   "base": "2021",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "103",
    "base": "103",
    "names": [
     "Alkannin"
    ],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "472-ND-FLOUR-TRATMNT-AGNTS",
-   "base": "472",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "415-440",
-   "base": "415",
-   "names": [],
    "class": "",
    "products": 1,
    "has_card": false
@@ -2601,44 +2279,12 @@
    "has_card": false
   },
   {
-   "ins": "331-PRSRVATIV",
-   "base": "331",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "300-ULSIFIRS",
-   "base": "300",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "102-S-133",
-   "base": "102",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "406",
    "base": "406",
    "names": [
     "Agar"
    ],
    "class": "carrier, emulsifier, humectant, stabiliser, thickener",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "1700",
-   "base": "1700",
-   "names": [],
-   "class": "",
    "products": 1,
    "has_card": false
   },
@@ -2653,28 +2299,12 @@
    "has_card": false
   },
   {
-   "ins": "319-CONTAINS-PRMITTD-CLASS-II-PRSRVATIV",
-   "base": "319",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "541I",
    "base": "541",
    "names": [
     "Acid sodium aluminium phosphate"
    ],
    "class": "emulsifier, stabiliser, thickener",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "150C-ACIDITY-RGULATORS",
-   "base": "150",
-   "names": [],
-   "class": "",
    "products": 1,
    "has_card": false
   },
@@ -2709,14 +2339,6 @@
    "has_card": false
   },
   {
-   "ins": "45100",
-   "base": "4510",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "626",
    "base": "626",
    "names": [
@@ -2727,35 +2349,11 @@
    "has_card": false
   },
   {
-   "ins": "211-NUTRITIONAL-INO-SRVING-SRV",
-   "base": "211",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "524",
    "base": "524",
    "names": [
     "Sodium hydroxide"
    ],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "481I",
-   "base": "481",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "500II-WHAT-GLUTN",
-   "base": "500",
-   "names": [],
    "class": "",
    "products": 1,
    "has_card": false
@@ -2782,36 +2380,12 @@
    "has_card": false
   },
   {
-   "ins": "322-VANILLIN",
-   "base": "322",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "201",
    "base": "201",
    "names": [
     "Sodium sorbate"
    ],
    "class": "preservative",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "100II",
-   "base": "100",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "330-STABILIZRS",
-   "base": "330",
-   "names": [],
-   "class": "",
    "products": 1,
    "has_card": false
   },
@@ -2827,22 +2401,6 @@
    "has_card": false
   },
   {
-   "ins": "200A",
-   "base": "200",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "5011",
-   "base": "5011",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
    "ins": "304I",
    "base": "304",
    "names": [
@@ -2850,30 +2408,6 @@
     "Ascorbyl palmitate"
    ],
    "class": "antioxidant",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "561",
-   "base": "561",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "500-IL",
-   "base": "500",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "45200",
-   "base": "4520",
-   "names": [],
-   "class": "",
    "products": 1,
    "has_card": false
   },
@@ -2915,22 +2449,6 @@
     "Malvidin"
    ],
    "class": "colour",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "300-CONTAINS-NATURALLY-OCCURING-SUGARS",
-   "base": "300",
-   "names": [],
-   "class": "",
-   "products": 1,
-   "has_card": false
-  },
-  {
-   "ins": "627-631",
-   "base": "627",
-   "names": [],
-   "class": "",
    "products": 1,
    "has_card": false
   },

@@ -13,12 +13,9 @@
       "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
     },
     "eu": {
-      "value": "allowed_with_limits",
-      "note": "Opinion on the re‐evaluation of lecithins (E 322) as a food additive in foods for infants below 16 weeks of age and follow‐up of its re‐evaluation as food additive for uses in foods for all population groups",
-      "source": "https://doi.org/10.2903/j.efsa.2020.6266",
-      "opinion_date": "2020-11",
-      "opinion_age_years": 6,
-      "replaced_an_older_opinion": null
+      "value": "not_found",
+      "note": "EFSA has assessed the safety of this additive, but we have no public record of its current authorisation in the EU.",
+      "source": ""
     },
     "usa": {
       "value": "not_found",
@@ -32,12 +29,18 @@
       "name": "Lecithin"
     }
   ],
+  "eu_safety_opinion": {
+    "title": "Opinion on the re‐evaluation of lecithins (E 322) as a food additive in foods for infants below 16 weeks of age and follow‐up of its re‐evaluation as food additive for uses in foods for all population groups",
+    "source": "https://doi.org/10.2903/j.efsa.2020.6266",
+    "date": "2020-11",
+    "age_years": 6,
+    "replaced_an_older_opinion": null
+  },
   "regulators_disagree": false,
   "disagreement_tested_on": [
-    "eu",
     "india"
   ],
-  "permission_wording_differs": true,
+  "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "maybe",
     "vegan": "maybe",

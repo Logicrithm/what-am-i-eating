@@ -1,0 +1,143 @@
+{
+  "ins": "339II",
+  "e_number": "E339II",
+  "name": "Disodium phosphate",
+  "also_called": [],
+  "class": "emulsifier, humectant, preservative, sequestrant, stabiliser, thickener",
+  "what_it_is": "A sodium and phosphorus salt.",
+  "why_its_added": "Controls acidity and keeps processed cheese and milk drinks smooth.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "FSSAI sets these limits for the PHOSPHATES family as a whole, not for this one substance. Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    },
+    "usa": {
+      "value": "allowed",
+      "note": "Generally Recognised As Safe (GRAS) (21 CFR 182.6290)",
+      "source": "https://www.ecfr.gov/current/title-21/section-182.6290"
+    }
+  },
+  "related_forms": [
+    {
+      "ins": "339",
+      "name": "Sodium phosphates"
+    }
+  ],
+  "eu_safety_opinion": {
+    "title": "",
+    "source": "",
+    "date": "",
+    "age_years": null,
+    "replaced_an_older_opinion": null
+  },
+  "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "india",
+    "usa"
+  ],
+  "permission_wording_differs": true,
+  "vegetarian_status": {
+    "vegetarian": "not_known",
+    "vegan": "not_known",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [
+    {
+      "food_category": "Milk (plain)",
+      "max_level": "1,500 mg/kg",
+      "page": 69
+    },
+    {
+      "food_category": "Buttermilk (plain)",
+      "max_level": "1,500 mg/kg",
+      "page": 69
+    },
+    {
+      "food_category": "Dairy-based drinks - flavoured milk and/or fermented",
+      "max_level": "1,320 mg/kg",
+      "page": 70
+    },
+    {
+      "food_category": "Fermented and renneted milk products (plain), excluding food category 01.1.2 (dairy- based drinks), fermented milk products,yog hurt, flavoured yoghurt, dahi, flavoured dahi,mishti dahi",
+      "max_level": "1,000 mg/kg",
+      "page": 71
+    },
+    {
+      "food_category": "Sterilized and UHT creams, whipping and whipped creams, and reduced fat creams (plain)",
+      "max_level": "2,200 mg/kg",
+      "page": 82
+    },
+    {
+      "food_category": "Clotted cream (plain)",
+      "max_level": "2,200 mg/kg",
+      "page": 86
+    },
+    {
+      "food_category": "Cream analogues",
+      "max_level": "2,200 mg/kg",
+      "page": 87
+    },
+    {
+      "food_category": "Milk powder and cream powder (plain)",
+      "max_level": "3,000 mg/kg",
+      "page": 88
+    },
+    {
+      "food_category": "Unripened cheese",
+      "max_level": "4,400 mg/kg",
+      "page": 90
+    },
+    {
+      "food_category": "Plain processed cheese/ processed cheese, processed cheese spreads",
+      "max_level": "9,000 mg/kg",
+      "page": 98
+    },
+    {
+      "food_category": "Flavoured processed cheese, including containing fruit, vegetables, meat etc.",
+      "max_level": "9,000 mg/kg",
+      "page": 99
+    },
+    {
+      "food_category": "Liquid whey and whey products excluding whey cheeses",
+      "max_level": "880 mg/kg",
+      "page": 105
+    }
+  ],
+  "found_in_india_products": 12,
+  "pct_of_india_products": 0.52,
+  "india_match": "group:PHOSPHATES",
+  "last_checked": "2026-09-22"
+}

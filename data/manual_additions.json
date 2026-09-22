@@ -5,7 +5,6 @@
     "This file is the only place a human may add a fact by hand. Nothing here may be an opinion.",
     "Keyed by INS number."
   ],
-
   "422": {
     "acute_limit": {
       "value": 125,
@@ -24,5 +23,14 @@
       ]
     },
     "why_this_matters_here": "Glycerol appears in 45 of the Indian products in this dataset, and slush ice drinks are widely sold to children in India."
+  },
+  "171": {
+    "eu_authorisation": {
+      "value": "not_authorised",
+      "note": "Banned in food in the EU since 2022. EFSA concluded in May 2021 that titanium dioxide can no longer be considered safe as a food additive, because a concern over genotoxicity could not be ruled out and no acceptable daily intake could be set.",
+      "source": "https://www.efsa.europa.eu/en/news/titanium-dioxide-e171-no-longer-considered-safe-when-used-food-additive",
+      "checked": "2026-09-22"
+    },
+    "why_this_matters_here": "India and the United States still permit titanium dioxide. This is the clearest case in the dataset of regulators reaching different conclusions, and the reason is on the record rather than left to guesswork."
   }
 }

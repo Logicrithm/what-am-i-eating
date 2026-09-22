@@ -1,0 +1,144 @@
+{
+  "ins": "960",
+  "e_number": "E960",
+  "name": "Steviol glycosides",
+  "also_called": [],
+  "class": "sweetener",
+  "what_it_is": "A sweetener taken from the leaves of the stevia plant; around 300 times sweeter than sugar.",
+  "why_its_added": "Sweetens drinks and foods without calories.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "EFSA has assessed the safety of this additive, but we have no public record of its current authorisation in the EU.",
+      "source": ""
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "related_forms": [],
+  "eu_safety_opinion": {
+    "title": "Scientific opinion on the extension of the authorisation of use of the food additive steviol glycosides (E 960a–d) and the modification of the acceptable daily intake (ADI) for steviol",
+    "source": "https://doi.org/10.2903/j.efsa.2024.9045",
+    "date": "2024-11",
+    "age_years": 2,
+    "replaced_an_older_opinion": {
+      "date": "2015-06",
+      "title": "Scientific opinion on the safety of the extension of use of steviol glycosides -E 960- as a food additive"
+    }
+  },
+  "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "india"
+  ],
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": 4.0,
+    "unit": "mg per kg of body weight per day",
+    "set_by": "EFSA (European Food Safety Authority)",
+    "source": "https://doi.org/10.2903/j.efsa.2024.9045",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [
+      "no-group"
+    ],
+    "groups_over_limit_high_consumers": [
+      "toddlers"
+    ],
+    "source": "http://dx.doi.org/10.2903/j.efsa.2015.4146"
+  },
+  "india_limits": [
+    {
+      "food_category": "Dairy-based drinks - flavoured milk and/or fermented",
+      "max_level": "200 mg/kg",
+      "page": 70
+    },
+    {
+      "food_category": "Canned or bottled (pasteurized) fruit",
+      "max_level": "100 mg/kg",
+      "page": 132
+    },
+    {
+      "food_category": "Jams, jellies, marmalades Jams, jellies,",
+      "max_level": "360 mg/kg",
+      "page": 134
+    },
+    {
+      "food_category": "Fruit-based spreads (e.g. chutney) excluding products of food category 4.1.2.5",
+      "max_level": "330 mg/kg",
+      "page": 136
+    },
+    {
+      "food_category": "including fruit pulp, purees, fruit toppings and coconut milk including fruit",
+      "max_level": "330 mg/kg",
+      "page": 140
+    },
+    {
+      "food_category": "Fruit-based desserts including fruit- flavoured water-based desserts",
+      "max_level": "350 mg/kg",
+      "page": 143
+    },
+    {
+      "food_category": "Fermented fruit products",
+      "max_level": "115 mg/kg",
+      "page": 145
+    },
+    {
+      "food_category": "Fruit fillings for pastries",
+      "max_level": "330 mg/kg",
+      "page": 147
+    },
+    {
+      "food_category": "aloe vera) sea",
+      "max_level": "70 mg/kg",
+      "page": 154
+    },
+    {
+      "food_category": "Vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera) sea weeds, nuts and seeds- pulps and preparations (e.g vegetable desserts and sauces, candied vegetables) other than food category 4.2.2.5",
+      "max_level": "165 mg/kg",
+      "page": 158
+    },
+    {
+      "food_category": "categories",
+      "max_level": "200 mg/kg",
+      "page": 160
+    },
+    {
+      "food_category": "and legumes,",
+      "max_level": "40 mg/kg",
+      "page": 161
+    }
+  ],
+  "found_in_india_products": 10,
+  "pct_of_india_products": 0.44,
+  "india_match": "exact",
+  "last_checked": "2026-09-22"
+}

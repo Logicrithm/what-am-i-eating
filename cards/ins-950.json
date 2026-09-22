@@ -1,0 +1,140 @@
+{
+  "ins": "950",
+  "e_number": "E950",
+  "name": "Acesulfame k",
+  "also_called": [],
+  "class": "sweetener",
+  "what_it_is": "A man-made sweetener, roughly 200 times sweeter than sugar. The body does not absorb it.",
+  "why_its_added": "Sweetens drinks and sugar-free foods without calories. Often mixed with other sweeteners.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "EFSA has assessed the safety of this additive, but we have no public record of its current authorisation in the EU.",
+      "source": ""
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "related_forms": [],
+  "eu_safety_opinion": {
+    "title": "Re‐evaluation of acesulfame K (E 950) as food additive",
+    "source": "https://doi.org/10.2903/j.efsa.2025.9317",
+    "date": "2025-04",
+    "age_years": 1,
+    "replaced_an_older_opinion": {
+      "date": "2016-04",
+      "title": "Safety of the proposed extension of use of acesulfame K -E 950- in foods for special medical purposes in young children"
+    }
+  },
+  "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "india"
+  ],
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": "http://dx.doi.org/10.2903/j.efsa.2016.4437"
+  },
+  "india_limits": [
+    {
+      "food_category": "Dairy-based drinks - flavoured milk and/or fermented",
+      "max_level": "350 mg/kg",
+      "page": 69
+    },
+    {
+      "food_category": "Non dairy based beverage whitener",
+      "max_level": "2,000 mg/kg",
+      "page": 81
+    },
+    {
+      "food_category": "Cream analogues",
+      "max_level": "1,000 mg/kg",
+      "page": 86
+    },
+    {
+      "food_category": "Powder analogues",
+      "max_level": "1,000 mg/kg",
+      "page": 88
+    },
+    {
+      "food_category": "Cheese analogues",
+      "max_level": "350 mg/kg",
+      "page": 100
+    },
+    {
+      "food_category": "Dairy based desserts",
+      "max_level": "350 mg/kg",
+      "page": 102
+    },
+    {
+      "food_category": "Fat emulsions mainly of type oil-in- water, including mixed and/or flavoured products based on fat emulsions",
+      "max_level": "1,000 mg/kg",
+      "page": 116
+    },
+    {
+      "food_category": "Fat-based desserts excluding dairy-based dessert products of food category 1.7 (frozen desserts/froze n confections)",
+      "max_level": "350 mg/kg",
+      "page": 119
+    },
+    {
+      "food_category": "Cocoa based spreads including fillings",
+      "max_level": "1,000 mg/kg",
+      "page": 121
+    },
+    {
+      "food_category": "Edible ices, including sorbet (ice candy) Edible ices, including sorbet (ice candy)",
+      "max_level": "800 mg/kg",
+      "page": 122
+    },
+    {
+      "food_category": "Fruit in",
+      "max_level": "200 mg/kg",
+      "page": 128
+    },
+    {
+      "food_category": "Canned or bottled (pasteurized) fruit",
+      "max_level": "350 mg/kg",
+      "page": 130
+    }
+  ],
+  "found_in_india_products": 14,
+  "pct_of_india_products": 0.61,
+  "india_match": "exact",
+  "last_checked": "2026-09-22"
+}

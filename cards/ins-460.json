@@ -1,0 +1,74 @@
+{
+  "ins": "460",
+  "e_number": "E460",
+  "name": "Cellulose",
+  "also_called": [],
+  "class": "carrier, emulsifier, humectant, stabiliser, thickener",
+  "what_it_is": "Plant fibre, the material that makes up the walls of plant cells.",
+  "why_its_added": "Adds bulk and fibre, stops powders caking and thickens food.",
+  "status": {
+    "india": {
+      "value": "not_found",
+      "note": "Not located in Appendix A yet - needs a human check.",
+      "source": ""
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "EFSA has assessed the safety of this additive, but we have no public record of its current authorisation in the EU.",
+      "source": ""
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "related_forms": [],
+  "eu_safety_opinion": {
+    "title": "Safety of the proposed amendment of the specifications for microcrystalline cellulose (E 460(i)) as a food additive",
+    "source": "https://doi.org/10.2903/j.efsa.2017.4699",
+    "date": "2017-02",
+    "age_years": 9,
+    "replaced_an_older_opinion": null
+  },
+  "regulators_disagree": false,
+  "disagreement_tested_on": [],
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [],
+  "found_in_india_products": 8,
+  "pct_of_india_products": 0.35,
+  "india_match": "none",
+  "last_checked": "2026-09-22"
+}

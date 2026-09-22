@@ -34,6 +34,7 @@ sentences = {k: v for k, v in sentences.items() if not k.startswith("_")}
 
 FSSAI_SRC = "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
 TODAY = datetime.date.today()
+HOW_MANY = 100
 STATUS = {"allowed", "allowed_with_limits", "not_authorised", "under_review", "not_found"}
 
 
@@ -87,16 +88,16 @@ def india_rows(ins, name):
 # sulphites), so merging them would lose real information. But showing them as
 # unrelated strangers is confusing too, especially where the group and its single
 # member read almost identically. So each card names its siblings.
-SELECTED = [t["ins"] for t in top[:50]]
+SELECTED = [t["ins"] for t in top[:HOW_MANY]]
 ins_family = collections.defaultdict(list)
-for t in top[:50]:
+for t in top[:HOW_MANY]:
     base = re.match(r"^(\d{3,4})", t["ins"]).group(1)
     ins_family[base].append((t["ins"], t["name"]))
 
 cards = []
 index = []
 
-for t in top[:50]:
+for t in top[:HOW_MANY]:
     ins = t["ins"]
     e = eu.get(ins.upper(), {})
     rows, match_kind = india_rows(ins, t["name"])
@@ -133,7 +134,13 @@ for t in top[:50]:
         eu_src = e.get("efsa_opinion_url", "")
         eu_date = (e.get("efsa_opinion_date") or "").replace("/", "-")[:7]
 
-    eu_status = "allowed_with_limits" if eu_src else "not_found"
+    # EFSA assesses; the European Commission authorises. They are not the same
+    # thing, and we have no public source for the authorisation list. Treating
+    # "an opinion exists" as "the EU allows it" would have labelled titanium
+    # dioxide as allowed - the EU banned it in food in 2022. So the permission
+    # verdict is only claimed where a checked source says so.
+    eu_auth = (manual.get(ins) or {}).get("eu_authorisation")
+    eu_status = eu_auth["value"] if eu_auth else "not_found"
 
     opinion_age = None
     if eu_date:
@@ -184,11 +191,11 @@ for t in top[:50]:
             },
             "eu": {
                 "value": eu_status,
-                "note": eu_title,
-                "source": eu_src,
-                "opinion_date": eu_date,
-                "opinion_age_years": opinion_age,
-                "replaced_an_older_opinion": superseded,
+                "note": (eu_auth["note"] if eu_auth else
+                         ("EFSA has assessed the safety of this additive, but we have no "
+                          "public record of its current authorisation in the EU."
+                          if eu_src else "")),
+                "source": eu_auth["source"] if eu_auth else "",
             },
             "usa": {
                 "value": us_hit["status"] if us_hit else "not_found",
@@ -200,6 +207,14 @@ for t in top[:50]:
             {"ins": i, "name": n}
             for i, n in ins_family[re.match(r"^(\d{3,4})", ins).group(1)] if i != ins
         ],
+        # What EFSA's scientists concluded, kept separate from what the EU permits.
+        "eu_safety_opinion": {
+            "title": eu_title,
+            "source": eu_src,
+            "date": eu_date,
+            "age_years": opinion_age,
+            "replaced_an_older_opinion": superseded,
+        },
         "regulators_disagree": disagree,
         # Being honest about how much this was actually tested on. With only
         # 14 of 50 cards carrying all three authorities, "nobody disagrees" is
@@ -299,11 +314,12 @@ def count(pred):
 
 print("cards written             : " + str(n))
 print("  India status found      : %d/%d" % (count(lambda c: c["status"]["india"]["value"] != "not_found"), n))
-print("  EU opinion found        : %d/%d" % (count(lambda c: c["status"]["eu"]["source"]), n))
+print("  EFSA opinion found      : %d/%d" % (count(lambda c: c["eu_safety_opinion"]["source"]), n))
+print("  EU permission known     : %d/%d" % (count(lambda c: c["status"]["eu"]["value"] != "not_found"), n))
 print("  US status found         : %d/%d" % (count(lambda c: c["status"]["usa"]["value"] != "not_found"), n))
 print("  safe daily limit        : %d/%d" % (count(lambda c: c["safe_daily_limit"]["value"]), n))
 print("  REGULATORS DISAGREE     : %d/%d" % (count(lambda c: c["regulators_disagree"]), n))
-print("  EU opinion was updated  : %d/%d" % (count(lambda c: c["status"]["eu"]["replaced_an_older_opinion"]), n))
+print("  EFSA opinion updated    : %d/%d" % (count(lambda c: c["eu_safety_opinion"]["replaced_an_older_opinion"]), n))
 
-old = [c for c in cards if (c["status"]["eu"]["opinion_age_years"] or 0) >= 12]
-print("  EU opinion 12+ yrs old  : " + str(len(old)) + "  -> " + ", ".join(c["ins"] for c in old))
+old = [c for c in cards if (c["eu_safety_opinion"]["age_years"] or 0) >= 12]
+print("  EFSA opinion 12+ yrs    : " + str(len(old)))

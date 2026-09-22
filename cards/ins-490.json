@@ -1,0 +1,123 @@
+{
+  "ins": "490",
+  "e_number": "E490",
+  "name": "Propylene glycol",
+  "also_called": [],
+  "class": "",
+  "what_it_is": "A clear, slightly sweet liquid made from petroleum or plant sources.",
+  "why_its_added": "Carries flavours and colours evenly through a food and holds moisture.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    },
+    "usa": {
+      "value": "allowed",
+      "note": "Generally Recognised As Safe (GRAS) for direct addition to food (21 CFR 184.1666)",
+      "source": "https://www.ecfr.gov/current/title-21/section-184.1666"
+    }
+  },
+  "related_forms": [],
+  "eu_safety_opinion": {
+    "title": "",
+    "source": "",
+    "date": "",
+    "age_years": null,
+    "replaced_an_older_opinion": null
+  },
+  "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "india",
+    "usa"
+  ],
+  "permission_wording_differs": true,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [
+    {
+      "food_category": "Dairy-based drinks - flavoured milk and/or fermented",
+      "max_level": "5,000 mg/kg",
+      "page": 70
+    },
+    {
+      "food_category": "Non dairy based beverage whitener",
+      "max_level": "1,000 mg/kg",
+      "page": 81
+    },
+    {
+      "food_category": "Cream analogues",
+      "max_level": "5,000 mg/kg",
+      "page": 87
+    },
+    {
+      "food_category": "Fine bakery wares (sweet, salty, savoury) and mixes",
+      "max_level": "1,500 mg/kg",
+      "page": 209
+    },
+    {
+      "food_category": "custard",
+      "max_level": "40,000 mg/kg",
+      "page": 255
+    },
+    {
+      "food_category": "juices)",
+      "max_level": "GMP",
+      "page": 285
+    },
+    {
+      "food_category": "Fruit nectar Fruit nectar",
+      "max_level": "GMP",
+      "page": 289
+    },
+    {
+      "food_category": "Concentrates of",
+      "max_level": "GMP",
+      "page": 291
+    },
+    {
+      "food_category": "Glycerol ester of wood rosin Glycerol ester of 445(iii )",
+      "max_level": "500 mg/kg",
+      "page": 294
+    }
+  ],
+  "found_in_india_products": 12,
+  "pct_of_india_products": 0.52,
+  "india_match": "exact",
+  "last_checked": "2026-09-22"
+}

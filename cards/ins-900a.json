@@ -1,0 +1,142 @@
+{
+  "ins": "900A",
+  "e_number": "E900A",
+  "name": "Dimethyl polysiloxane",
+  "also_called": [],
+  "class": "emulsifier",
+  "what_it_is": "A silicone oil.",
+  "why_its_added": "Stops frying oil foaming and stops liquids frothing during filling.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "EFSA has assessed the safety of this additive, but we have no public record of its current authorisation in the EU.",
+      "source": ""
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "related_forms": [
+    {
+      "ins": "900",
+      "name": "Dimethylpolysiloxane and Methylphenylpolysiloxane"
+    }
+  ],
+  "eu_safety_opinion": {
+    "title": "Re‐evaluation of dimethyl polysiloxane (E 900) as a food additive",
+    "source": "https://doi.org/10.2903/j.efsa.2020.6107",
+    "date": "2020-05",
+    "age_years": 6,
+    "replaced_an_older_opinion": null
+  },
+  "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "india"
+  ],
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [
+    {
+      "food_category": "Milk powder and cream powder (plain)",
+      "max_level": "10 mg/kg",
+      "page": 88
+    },
+    {
+      "food_category": "Vegetable oils, fats and bakery shortenings",
+      "max_level": "10 mg/kg",
+      "page": 109
+    },
+    {
+      "food_category": "Lard, tallow, fish oil, and other animal fats (edible fats)",
+      "max_level": "10 mg/kg",
+      "page": 111
+    },
+    {
+      "food_category": "Fat spreads, dairy fat spreads and blended spreads (margarine and fat spreads)",
+      "max_level": "10 mg/kg",
+      "page": 115
+    },
+    {
+      "food_category": "brine brine",
+      "max_level": "10 mg/kg",
+      "page": 130
+    },
+    {
+      "food_category": "Canned or bottled (pasteurized) fruit",
+      "max_level": "10 mg/kg",
+      "page": 131
+    },
+    {
+      "food_category": "Jams, jellies, marmalades Jams, jellies,",
+      "max_level": "30 mg/kg",
+      "page": 133
+    },
+    {
+      "food_category": "Fruit-based spreads (e.g. chutney) excluding products of food category 4.1.2.5",
+      "max_level": "10 mg/kg",
+      "page": 136
+    },
+    {
+      "food_category": "Fruit-based desserts including fruit- flavoured water-based desserts",
+      "max_level": "110 mg/kg",
+      "page": 142
+    },
+    {
+      "food_category": "Fermented fruit products",
+      "max_level": "10 mg/kg",
+      "page": 144
+    },
+    {
+      "food_category": "Vegetables (including mushrooms Allura red AC",
+      "max_level": "10 mg/kg",
+      "page": 153
+    },
+    {
+      "food_category": "aloe vera) sea",
+      "max_level": "10 mg/kg",
+      "page": 154
+    }
+  ],
+  "found_in_india_products": 9,
+  "pct_of_india_products": 0.39,
+  "india_match": "exact",
+  "last_checked": "2026-09-22"
+}

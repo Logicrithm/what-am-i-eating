@@ -1,0 +1,138 @@
+{
+  "ins": "290",
+  "e_number": "E290",
+  "name": "Carbon dioxide",
+  "also_called": [],
+  "class": "preservative, propellent-gas",
+  "what_it_is": "Carbon dioxide gas.",
+  "why_its_added": "Makes drinks fizzy, and replaces air in packets so food stays fresh longer.",
+  "status": {
+    "india": {
+      "value": "allowed",
+      "note": "Permitted at GMP level - used as needed, no fixed numeric cap in the categories found.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    },
+    "usa": {
+      "value": "allowed",
+      "note": "Generally Recognised As Safe (GRAS) for direct addition to food (21 CFR 184.1240)",
+      "source": "https://www.ecfr.gov/current/title-21/section-184.1240"
+    }
+  },
+  "related_forms": [],
+  "eu_safety_opinion": {
+    "title": "",
+    "source": "",
+    "date": "",
+    "age_years": null,
+    "replaced_an_older_opinion": null
+  },
+  "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "india",
+    "usa"
+  ],
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [
+    {
+      "food_category": "Fermented milks (plain) heat treated after fermentation",
+      "max_level": "GMP",
+      "page": 74
+    },
+    {
+      "food_category": "Renneted milk (plain)",
+      "max_level": "GMP",
+      "page": 76
+    },
+    {
+      "food_category": "Sterilized and UHT creams, whipping and whipped creams, and reduced fat creams (plain)",
+      "max_level": "GMP",
+      "page": 83
+    },
+    {
+      "food_category": "Peeled or cut minimally processed fruits",
+      "max_level": "GMP",
+      "page": 127
+    },
+    {
+      "food_category": "and like",
+      "max_level": "GMP",
+      "page": 187
+    },
+    {
+      "food_category": "processed fruits",
+      "max_level": "GMP",
+      "page": 284
+    },
+    {
+      "food_category": "Vegetable juices(vegetable juices for industrial use, thermally processed vegetable juices, thermally processed tomato juice)",
+      "max_level": "GMP",
+      "page": 285
+    },
+    {
+      "food_category": "Concentrates of fruitjuices (concentrated fruit juices for industrial use)",
+      "max_level": "GMP",
+      "page": 286
+    },
+    {
+      "food_category": "Fruit nectar Fruit nectar",
+      "max_level": "GMP",
+      "page": 289
+    },
+    {
+      "food_category": "Concentrates of",
+      "max_level": "GMP",
+      "page": 291
+    },
+    {
+      "food_category": "Coffee, coffee /coffee substitutes, tea, herbal infusions, and other hot cereal and grain beverages, excluding cocoa",
+      "max_level": "GMP",
+      "page": 300
+    },
+    {
+      "food_category": "Grape wines",
+      "max_level": "GMP",
+      "page": 305
+    }
+  ],
+  "found_in_india_products": 9,
+  "pct_of_india_products": 0.39,
+  "india_match": "exact",
+  "last_checked": "2026-09-22"
+}

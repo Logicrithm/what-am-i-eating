@@ -378,11 +378,28 @@ async function open_card(ins){
          ${esc(r.name)} (${esc(r.ins)})</button>`).join(" · ")}</div>`;
   }
 
-  html += `<h3>What each authority says</h3><table>
+  html += `<h3>Is it permitted?</h3><table>
     ${statusRow("India (FSSAI)", st.india)}
-    ${statusRow("EU (EFSA)", st.eu)}
+    ${statusRow("EU", st.eu)}
     ${statusRow("USA (FDA)", st.usa)}
   </table>`;
+
+  if(c.regulators_disagree){
+    html += `<div class="note"><b>These authorities have reached different conclusions.</b><br>
+      That is worth knowing, and worth reading the reasons for rather than assuming
+      one of them is simply right. Both are linked above.</div>`;
+  }
+
+  // EFSA assesses safety; the European Commission decides authorisation. Showing
+  // the opinion as if it were a permission verdict would have called titanium
+  // dioxide "allowed" while the EU has banned it.
+  const op = c.eu_safety_opinion || {};
+  if(op.source){
+    html += `<h3>What EFSA's scientists concluded</h3>
+      <p>${esc(op.title)}<br>
+      <a href="${esc(op.source)}" target="_blank" rel="noopener">read the opinion</a>
+      <span style="color:var(--muted)"> — published ${esc(op.date||"")}</span></p>`;
+  }
 
   const tested = c.disagreement_tested_on || [];
   if(tested.length < 3){
@@ -391,21 +408,20 @@ async function open_card(ins){
       could not locate it — not that the substance is unlisted there.</div>`;
   }
 
-  if(eu.opinion_age_years >= 10){
-    html += `<div class="old">The European review this rests on is
-      <b>${eu.opinion_age_years} years old</b> (${esc(eu.opinion_date)}).
+  if(op.age_years >= 10){
+    html += `<div class="old">That assessment is <b>${op.age_years} years old</b>.
       Nobody has published a newer one that we could find.</div>`;
   }
-  if(eu.replaced_an_older_opinion){
-    html += `<div class="old">This replaced an earlier opinion from
-      ${esc(eu.replaced_an_older_opinion.date)}.</div>`;
+  if(op.replaced_an_older_opinion){
+    html += `<div class="old">It replaced an earlier opinion from
+      ${esc(op.replaced_an_older_opinion.date)}.</div>`;
   }
 
   const d = c.safe_daily_limit || {};
   html += `<h3>Safe daily limit</h3>`;
   html += d.value
     ? `<p>${esc(d.value)} ${esc(d.unit)}, set by ${esc(d.set_by)}.
-       <a href="${esc(d.source)}" target="_blank" rel="noopener">source</a></p>`
+       <a href="${esc(d.source||op.source)}" target="_blank" rel="noopener">source</a></p>`
     : `<p class="why">${esc(d.no_number_means || "No published figure found.")}</p>`;
 
   const x = c.eu_exposure_finding || {};

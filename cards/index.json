@@ -398,5 +398,405 @@
     "india": "allowed_with_limits",
     "disagree": false,
     "products": 19
+  },
+  {
+    "ins": "200",
+    "name": "Sorbic acid",
+    "class": "preservative",
+    "india": "not_found",
+    "disagree": false,
+    "products": 19
+  },
+  {
+    "ins": "476",
+    "name": "Polyglycerol polyricinoleate",
+    "class": "emulsifier",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 19
+  },
+  {
+    "ins": "635",
+    "name": "Disodium 5'-ribonucleotide",
+    "class": "",
+    "india": "allowed",
+    "disagree": false,
+    "products": 18
+  },
+  {
+    "ins": "451",
+    "name": "Triphosphates",
+    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 18
+  },
+  {
+    "ins": "392",
+    "name": "Extracts of rosemary",
+    "class": "",
+    "india": "not_found",
+    "disagree": false,
+    "products": 17
+  },
+  {
+    "ins": "452",
+    "name": "Polyphosphates",
+    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 16
+  },
+  {
+    "ins": "340",
+    "name": "Potassium phosphates",
+    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 16
+  },
+  {
+    "ins": "965",
+    "name": "maltitol",
+    "class": "emulsifier, humectant, stabiliser, sweetener, thickener",
+    "india": "allowed",
+    "disagree": false,
+    "products": 16
+  },
+  {
+    "ins": "1100",
+    "name": "Alpha-Amylase",
+    "class": "",
+    "india": "allowed",
+    "disagree": false,
+    "products": 15
+  },
+  {
+    "ins": "472",
+    "name": "Mono- and diacetyltartaric acid esters of mono- and diglycerides of fatty acids",
+    "class": "emulsifier, sequestrant, stabiliser",
+    "india": "not_found",
+    "disagree": false,
+    "products": 14
+  },
+  {
+    "ins": "950",
+    "name": "Acesulfame k",
+    "class": "sweetener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 14
+  },
+  {
+    "ins": "307B",
+    "name": "concentrated tocopherol",
+    "class": "antioxidant",
+    "india": "allowed",
+    "disagree": false,
+    "products": 14
+  },
+  {
+    "ins": "100",
+    "name": "Curcumin",
+    "class": "colour",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 13
+  },
+  {
+    "ins": "334",
+    "name": "L(+)-tartaric acid",
+    "class": "antioxidant, sequestrant",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 13
+  },
+  {
+    "ins": "501I",
+    "name": "Potassium carbonate",
+    "class": "stabiliser",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 13
+  },
+  {
+    "ins": "224",
+    "name": "Potassium metabisulphite",
+    "class": "antioxidant, preservative",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 13
+  },
+  {
+    "ins": "160A",
+    "name": "carotene",
+    "class": "colour",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 13
+  },
+  {
+    "ins": "1422",
+    "name": "Acetylated distarch adipate",
+    "class": "emulsifier, stabiliser, thickener",
+    "india": "allowed",
+    "disagree": false,
+    "products": 13
+  },
+  {
+    "ins": "339II",
+    "name": "Disodium phosphate",
+    "class": "emulsifier, humectant, preservative, sequestrant, stabiliser, thickener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 12
+  },
+  {
+    "ins": "477",
+    "name": "Propane-1‚2-diol esters of fatty acids",
+    "class": "emulsifier",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 12
+  },
+  {
+    "ins": "490",
+    "name": "Propylene glycol",
+    "class": "",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 12
+  },
+  {
+    "ins": "451I",
+    "name": "Pentasodium triphosphate",
+    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 11
+  },
+  {
+    "ins": "164",
+    "name": "saffron",
+    "class": "",
+    "india": "allowed",
+    "disagree": false,
+    "products": 11
+  },
+  {
+    "ins": "900",
+    "name": "Dimethylpolysiloxane and Methylphenylpolysiloxane",
+    "class": "",
+    "india": "not_found",
+    "disagree": false,
+    "products": 11
+  },
+  {
+    "ins": "339",
+    "name": "Sodium phosphates",
+    "class": "emulsifier, humectant, preservative, sequestrant, stabiliser, thickener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 11
+  },
+  {
+    "ins": "120",
+    "name": "Cochineal",
+    "class": "colour",
+    "india": "not_found",
+    "disagree": false,
+    "products": 10
+  },
+  {
+    "ins": "960",
+    "name": "Steviol glycosides",
+    "class": "sweetener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 10
+  },
+  {
+    "ins": "331III",
+    "name": "Trisodium citrate",
+    "class": "",
+    "india": "allowed",
+    "disagree": false,
+    "products": 10
+  },
+  {
+    "ins": "621",
+    "name": "Monosodium glutamate",
+    "class": "flavour-enhancer",
+    "india": "allowed",
+    "disagree": false,
+    "products": 9
+  },
+  {
+    "ins": "900A",
+    "name": "Dimethyl polysiloxane",
+    "class": "emulsifier",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 9
+  },
+  {
+    "ins": "160AI",
+    "name": "Beta-carotene",
+    "class": "colour",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 9
+  },
+  {
+    "ins": "1450",
+    "name": "Starch sodium octenyl succinate",
+    "class": "emulsifier, stabiliser, thickener",
+    "india": "allowed",
+    "disagree": false,
+    "products": 9
+  },
+  {
+    "ins": "290",
+    "name": "Carbon dioxide",
+    "class": "preservative, propellent-gas",
+    "india": "allowed",
+    "disagree": false,
+    "products": 9
+  },
+  {
+    "ins": "341III",
+    "name": "Tricalcium phosphate",
+    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 9
+  },
+  {
+    "ins": "270",
+    "name": "Lactic acid",
+    "class": "",
+    "india": "allowed",
+    "disagree": false,
+    "products": 9
+  },
+  {
+    "ins": "501II",
+    "name": "Potassium hydrogen carbonate",
+    "class": "stabiliser",
+    "india": "allowed",
+    "disagree": false,
+    "products": 8
+  },
+  {
+    "ins": "460",
+    "name": "Cellulose",
+    "class": "carrier, emulsifier, humectant, stabiliser, thickener",
+    "india": "not_found",
+    "disagree": false,
+    "products": 8
+  },
+  {
+    "ins": "141",
+    "name": "Copper complexes of chlorophylls and chlorophyllins",
+    "class": "colour",
+    "india": "not_found",
+    "disagree": false,
+    "products": 7
+  },
+  {
+    "ins": "171",
+    "name": "Titanium dioxide",
+    "class": "colour",
+    "india": "allowed",
+    "disagree": true,
+    "products": 7
+  },
+  {
+    "ins": "162",
+    "name": "Beetroot red",
+    "class": "colour",
+    "india": "not_found",
+    "disagree": false,
+    "products": 7
+  },
+  {
+    "ins": "1400",
+    "name": "Dextrin",
+    "class": "carrier, emulsifier, stabiliser, thickener",
+    "india": "allowed",
+    "disagree": false,
+    "products": 7
+  },
+  {
+    "ins": "306",
+    "name": "Tocopherol-rich extract",
+    "class": "",
+    "india": "not_found",
+    "disagree": false,
+    "products": 7
+  },
+  {
+    "ins": "1101",
+    "name": "Protease",
+    "class": "stabiliser",
+    "india": "allowed",
+    "disagree": false,
+    "products": 7
+  },
+  {
+    "ins": "951",
+    "name": "Aspartame",
+    "class": "sweetener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 7
+  },
+  {
+    "ins": "341II",
+    "name": "Dicalcium phosphate",
+    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 7
+  },
+  {
+    "ins": "385",
+    "name": "Calcium disodium ethylenediaminetetraacetate",
+    "class": "antioxidant, preservative, sequestrant",
+    "india": "not_found",
+    "disagree": false,
+    "products": 7
+  },
+  {
+    "ins": "452I",
+    "name": "Sodium polyphosphate",
+    "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 7
+  },
+  {
+    "ins": "160B",
+    "name": "Annatto",
+    "class": "colour",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 7
+  },
+  {
+    "ins": "129",
+    "name": "Allura red",
+    "class": "colour",
+    "india": "allowed_with_limits",
+    "disagree": false,
+    "products": 7
+  },
+  {
+    "ins": "418",
+    "name": "Gellan gum",
+    "class": "stabiliser, thickener",
+    "india": "allowed",
+    "disagree": false,
+    "products": 7
   }
 ]

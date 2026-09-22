@@ -1,0 +1,107 @@
+{
+  "ins": "476",
+  "e_number": "E476",
+  "name": "Polyglycerol polyricinoleate",
+  "also_called": [],
+  "class": "emulsifier",
+  "what_it_is": "An emulsifier made from castor oil and glycerol.",
+  "why_its_added": "Keeps chocolate flowing smoothly while it is being moulded, so less cocoa butter is needed.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "EFSA has assessed the safety of this additive, but we have no public record of its current authorisation in the EU.",
+      "source": ""
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "related_forms": [],
+  "eu_safety_opinion": {
+    "title": "Follow‐up of the re‐evaluation of polyglycerol polyricinoleate (E 476) as a food additive",
+    "source": "https://doi.org/10.2903/j.efsa.2022.7294",
+    "date": "2022-05",
+    "age_years": 4,
+    "replaced_an_older_opinion": null
+  },
+  "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "india"
+  ],
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [
+    {
+      "food_category": "Cocoa mixes (powders) and cocoa mass/cake",
+      "max_level": "5,000 mg/kg",
+      "page": 163
+    },
+    {
+      "food_category": "Cocoa and chocolate products",
+      "max_level": "5,000 mg/kg",
+      "page": 167
+    },
+    {
+      "food_category": "Hard candy",
+      "max_level": "3,000 mg/kg",
+      "page": 173
+    },
+    {
+      "food_category": "Chewing gum",
+      "max_level": "GMP",
+      "page": 176
+    },
+    {
+      "food_category": "sweet sauces",
+      "max_level": "5,000 mg/kg",
+      "page": 181
+    },
+    {
+      "food_category": "Bread and ordinary bakery wares and mixes",
+      "max_level": "2,000 mg/kg",
+      "page": 202
+    }
+  ],
+  "found_in_india_products": 19,
+  "pct_of_india_products": 0.83,
+  "india_match": "exact",
+  "last_checked": "2026-09-22"
+}

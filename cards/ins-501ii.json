@@ -1,0 +1,96 @@
+{
+  "ins": "501II",
+  "e_number": "E501II",
+  "name": "Potassium hydrogen carbonate",
+  "also_called": [],
+  "class": "stabiliser",
+  "what_it_is": "Potassium bicarbonate, close cousin of baking soda.",
+  "why_its_added": "Helps baked goods rise and reduces acidity.",
+  "status": {
+    "india": {
+      "value": "allowed",
+      "note": "Permitted at GMP level - used as needed, no fixed numeric cap in the categories found.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "related_forms": [
+    {
+      "ins": "501",
+      "name": "Potassium carbonates"
+    },
+    {
+      "ins": "501I",
+      "name": "Potassium carbonate"
+    }
+  ],
+  "eu_safety_opinion": {
+    "title": "",
+    "source": "",
+    "date": "",
+    "age_years": null,
+    "replaced_an_older_opinion": null
+  },
+  "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "india"
+  ],
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "not_known",
+    "vegan": "not_known",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [
+    {
+      "food_category": "Dried whey and whey products, excluding whey cheeses",
+      "max_level": "GMP",
+      "page": 106
+    },
+    {
+      "food_category": "Frozen battered fish, fish fillets and fish products, including molluscs, crustaceans, and echinoderms Trisodium",
+      "max_level": "GMP",
+      "page": 232
+    }
+  ],
+  "found_in_india_products": 8,
+  "pct_of_india_products": 0.35,
+  "india_match": "exact",
+  "last_checked": "2026-09-22"
+}

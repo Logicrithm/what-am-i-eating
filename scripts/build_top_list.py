@@ -28,7 +28,14 @@ rows = []
 for tag, n in counts.items():
     if not re.match(r"^en:e\d{3}", tag):
         continue
+    # "en:e322-from-soy" is a sourcing note, not a separate additive. A few
+    # sub-form tags also carry no usable name. Neither belongs in a ranked list
+    # of substances - they were appearing as entries called "?".
+    if re.search(r"-from-|-de-|_", tag):
+        continue
     nm, cls, adi = name_en(tag)
+    if not nm:
+        continue
     ins = tag.split(":")[-1].upper().replace("E", "")
     rows.append({
         "ins": ins,
@@ -54,19 +61,10 @@ with out_csv.open("w", encoding="utf-8", newline="") as f:
 (root / "data/india_top_additives.json").write_text(
     json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
 
-# vague-label evidence: ingredients the label is allowed to keep non-specific
-vague = ["en:flavouring", "en:nature-identical-flavouring", "en:natural-flavouring",
-         "en:artificial-flavouring", "en:spice", "en:condiment", "en:colour",
-         "en:vegetable-oil", "en:edible-vegetable-oil", "en:emulsifier",
-         "en:stabiliser", "en:acidity-regulator", "en:anticaking-agent",
-         "en:raising-agent", "en:preservative", "en:antioxidant"]
-vlines = [(t, counts.get(t, 0), round(100.0 * counts.get(t, 0) / len(with_ing), 2))
-          for t in vague if counts.get(t)]
-vlines.sort(key=lambda x: -x[1])
-with (root / "data/india_vague_label_terms.csv").open("w", encoding="utf-8", newline="") as f:
-    f.write("term,product_count,pct_of_products\n")
-    for t, n, p in vlines:
-        f.write(f"{t},{n},{p}\n")
+# The vague-label table used to be written here too, from a naive count.
+# It now belongs to build_vague_terms.py, which knows what the labelling
+# rule actually asks for. Two scripts writing one file meant the good
+# version kept being overwritten by the bad one.
 
 print(f"products analysed        : {len(with_ing)}")
 print(f"distinct E-coded additives: {len(rows)}")

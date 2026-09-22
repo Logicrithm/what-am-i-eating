@@ -1,0 +1,140 @@
+{
+  "ins": "100",
+  "e_number": "E100",
+  "name": "Curcumin",
+  "also_called": [],
+  "class": "colour",
+  "what_it_is": "The yellow colour of turmeric, extracted from the root.",
+  "why_its_added": "Colours food yellow or orange.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "EFSA has assessed the safety of this additive, but we have no public record of its current authorisation in the EU.",
+      "source": ""
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "related_forms": [],
+  "eu_safety_opinion": {
+    "title": "Refined exposure assessment for curcumin (E 100)",
+    "source": "https://doi.org/10.2903/j.efsa.2014.3876",
+    "date": "2014-10",
+    "age_years": 12,
+    "replaced_an_older_opinion": {
+      "date": "2010-09",
+      "title": "Scientific Opinion on the re-evaluation of curcumin -E 100- as a food additive"
+    }
+  },
+  "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "india"
+  ],
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": "http://dx.doi.org/10.2903/j.efsa.2010.1679"
+  },
+  "india_limits": [
+    {
+      "food_category": "Dairy-based drinks - flavoured milk and/or fermented",
+      "max_level": "100 mg/kg",
+      "page": 69
+    },
+    {
+      "food_category": "Fermented milks (plain) heat treated after fermentation",
+      "max_level": "100 mg/kg",
+      "page": 75
+    },
+    {
+      "food_category": "Ripened cheese, (Cheddar,Da nbo,Edam,Go uda,Havarti, Tilisiter,Cam embert, Brie,St Paulin, Samsoe,Emm entaler, Provolone,ext",
+      "max_level": "100 mg/kg",
+      "page": 94
+    },
+    {
+      "food_category": "Plain processed cheese/ processed cheese, processed cheese spreads",
+      "max_level": "100 mg/kg",
+      "page": 98
+    },
+    {
+      "food_category": "Butter (Butter and Milk Fat)",
+      "max_level": "100 mg/kg",
+      "page": 112
+    },
+    {
+      "food_category": "Fat spreads, dairy fat spreads and blended spreads (margarine and fat spreads)",
+      "max_level": "5 mg/kg",
+      "page": 114
+    },
+    {
+      "food_category": "Fat-based desserts excluding dairy-based dessert products of food category 1.7 (frozen desserts/froze n confections)",
+      "max_level": "100 mg/kg",
+      "page": 118
+    },
+    {
+      "food_category": "Canned or bottled (pasteurized) fruit",
+      "max_level": "200 mg/kg",
+      "page": 131
+    },
+    {
+      "food_category": "Jams, jellies, marmalades Jams, jellies,",
+      "max_level": "GMP",
+      "page": 133
+    },
+    {
+      "food_category": "Fruit-based spreads (e.g. chutney) excluding products of food category 4.1.2.5",
+      "max_level": "GMP",
+      "page": 135
+    },
+    {
+      "food_category": "murrabba*",
+      "max_level": "200 mg/kg",
+      "page": 137
+    },
+    {
+      "food_category": "including fruit pulp, purees, fruit toppings and coconut milk including fruit",
+      "max_level": "GMP",
+      "page": 139
+    }
+  ],
+  "found_in_india_products": 13,
+  "pct_of_india_products": 0.57,
+  "india_match": "exact",
+  "last_checked": "2026-09-22"
+}

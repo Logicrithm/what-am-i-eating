@@ -1,0 +1,112 @@
+{
+  "ins": "501I",
+  "e_number": "E501I",
+  "name": "Potassium carbonate",
+  "also_called": [],
+  "class": "stabiliser",
+  "what_it_is": "Potassium carbonate, a salt of carbonic acid.",
+  "why_its_added": "Reduces acidity. It is what makes cocoa powder darker and less bitter.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    },
+    "usa": {
+      "value": "allowed",
+      "note": "Generally Recognised As Safe (GRAS) for direct addition to food (21 CFR 184.1619)",
+      "source": "https://www.ecfr.gov/current/title-21/section-184.1619"
+    }
+  },
+  "related_forms": [
+    {
+      "ins": "501",
+      "name": "Potassium carbonates"
+    },
+    {
+      "ins": "501II",
+      "name": "Potassium hydrogen carbonate"
+    }
+  ],
+  "eu_safety_opinion": {
+    "title": "",
+    "source": "",
+    "date": "",
+    "age_years": null,
+    "replaced_an_older_opinion": null
+  },
+  "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "india",
+    "usa"
+  ],
+  "permission_wording_differs": true,
+  "vegetarian_status": {
+    "vegetarian": "not_known",
+    "vegan": "not_known",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [
+    {
+      "food_category": "Fermented milks (plain) heat treated after fermentation",
+      "max_level": "GMP",
+      "page": 74
+    },
+    {
+      "food_category": "Dried whey and whey products, excluding whey cheeses",
+      "max_level": "GMP",
+      "page": 106
+    },
+    {
+      "food_category": "and like",
+      "max_level": "11,000 mg/kg",
+      "page": 188
+    },
+    {
+      "food_category": "Dried pastas and noodles and like products",
+      "max_level": "GMP",
+      "page": 191
+    },
+    {
+      "food_category": "Frozen battered fish, fish fillets and fish products, including molluscs, crustaceans, and echinoderms Trisodium",
+      "max_level": "GMP",
+      "page": 231
+    }
+  ],
+  "found_in_india_products": 13,
+  "pct_of_india_products": 0.57,
+  "india_match": "exact",
+  "last_checked": "2026-09-22"
+}

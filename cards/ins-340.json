@@ -1,0 +1,146 @@
+{
+  "ins": "340",
+  "e_number": "E340",
+  "name": "Potassium phosphates",
+  "also_called": [],
+  "class": "emulsifier, humectant, sequestrant, stabiliser, thickener",
+  "what_it_is": "Potassium and phosphorus salts.",
+  "why_its_added": "Controls acidity, keeps powders loose and helps mixtures stay blended.",
+  "status": {
+    "india": {
+      "value": "allowed_with_limits",
+      "note": "FSSAI sets these limits for the PHOSPHATES family as a whole, not for this one substance. Maximum level depends on the food. Examples below.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "EFSA has assessed the safety of this additive, but we have no public record of its current authorisation in the EU.",
+      "source": ""
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "related_forms": [],
+  "eu_safety_opinion": {
+    "title": "Re‐evaluation of phosphoric acid–phosphates – di‐, tri‐ and polyphosphates -E 338–341, E 343, E 450–452- as food additives and the safety of proposed extension of use",
+    "source": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674",
+    "date": "2019-06",
+    "age_years": 7,
+    "replaced_an_older_opinion": null
+  },
+  "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "india"
+  ],
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [
+      "children",
+      "toddlers",
+      "infants"
+    ],
+    "groups_over_limit_high_consumers": [
+      "adolescents",
+      "children",
+      "toddlers",
+      "infants"
+    ],
+    "source": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674"
+  },
+  "india_limits": [
+    {
+      "food_category": "Milk (plain)",
+      "max_level": "1,500 mg/kg",
+      "page": 69
+    },
+    {
+      "food_category": "Buttermilk (plain)",
+      "max_level": "1,500 mg/kg",
+      "page": 69
+    },
+    {
+      "food_category": "Dairy-based drinks - flavoured milk and/or fermented",
+      "max_level": "1,320 mg/kg",
+      "page": 70
+    },
+    {
+      "food_category": "Fermented and renneted milk products (plain), excluding food category 01.1.2 (dairy- based drinks), fermented milk products,yog hurt, flavoured yoghurt, dahi, flavoured dahi,mishti dahi",
+      "max_level": "1,000 mg/kg",
+      "page": 71
+    },
+    {
+      "food_category": "Sterilized and UHT creams, whipping and whipped creams, and reduced fat creams (plain)",
+      "max_level": "2,200 mg/kg",
+      "page": 82
+    },
+    {
+      "food_category": "Clotted cream (plain)",
+      "max_level": "2,200 mg/kg",
+      "page": 86
+    },
+    {
+      "food_category": "Cream analogues",
+      "max_level": "2,200 mg/kg",
+      "page": 87
+    },
+    {
+      "food_category": "Milk powder and cream powder (plain)",
+      "max_level": "3,000 mg/kg",
+      "page": 88
+    },
+    {
+      "food_category": "Unripened cheese",
+      "max_level": "4,400 mg/kg",
+      "page": 90
+    },
+    {
+      "food_category": "Plain processed cheese/ processed cheese, processed cheese spreads",
+      "max_level": "9,000 mg/kg",
+      "page": 98
+    },
+    {
+      "food_category": "Flavoured processed cheese, including containing fruit, vegetables, meat etc.",
+      "max_level": "9,000 mg/kg",
+      "page": 99
+    },
+    {
+      "food_category": "Liquid whey and whey products excluding whey cheeses",
+      "max_level": "880 mg/kg",
+      "page": 105
+    }
+  ],
+  "found_in_india_products": 16,
+  "pct_of_india_products": 0.7,
+  "india_match": "group:PHOSPHATES",
+  "last_checked": "2026-09-22"
+}

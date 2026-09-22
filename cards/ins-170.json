@@ -13,12 +13,9 @@
       "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
     },
     "eu": {
-      "value": "allowed_with_limits",
-      "note": "Scientific Opinion on re‐evaluation of calcium carbonate (E 170) as a food additive",
-      "source": "https://doi.org/10.2903/j.efsa.2011.2318",
-      "opinion_date": "2011-07",
-      "opinion_age_years": 15,
-      "replaced_an_older_opinion": null
+      "value": "not_found",
+      "note": "EFSA has assessed the safety of this additive, but we have no public record of its current authorisation in the EU.",
+      "source": ""
     },
     "usa": {
       "value": "not_found",
@@ -32,12 +29,18 @@
       "name": "Calcium carbonate"
     }
   ],
+  "eu_safety_opinion": {
+    "title": "Scientific Opinion on re‐evaluation of calcium carbonate (E 170) as a food additive",
+    "source": "https://doi.org/10.2903/j.efsa.2011.2318",
+    "date": "2011-07",
+    "age_years": 15,
+    "replaced_an_older_opinion": null
+  },
   "regulators_disagree": false,
   "disagreement_tested_on": [
-    "eu",
     "india"
   ],
-  "permission_wording_differs": true,
+  "permission_wording_differs": false,
   "vegetarian_status": {
     "vegetarian": "yes",
     "vegan": "yes",

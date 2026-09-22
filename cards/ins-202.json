@@ -13,15 +13,9 @@
       "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
     },
     "eu": {
-      "value": "allowed_with_limits",
-      "note": "Opinion on the follow‐up of the re‐evaluation of sorbic acid (E200) and potassium sorbate (E202) as food additives",
-      "source": "https://doi.org/10.2903/j.efsa.2019.5625",
-      "opinion_date": "2019-03",
-      "opinion_age_years": 7,
-      "replaced_an_older_opinion": {
-        "date": "2015-06",
-        "title": "Scientific Opinion on the re‐evaluation of sorbic acid -E 200-, potassium sorbate -E 202- and calcium sorbate -E 203- as"
-      }
+      "value": "not_found",
+      "note": "EFSA has assessed the safety of this additive, but we have no public record of its current authorisation in the EU.",
+      "source": ""
     },
     "usa": {
       "value": "allowed",
@@ -30,9 +24,18 @@
     }
   },
   "related_forms": [],
+  "eu_safety_opinion": {
+    "title": "Opinion on the follow‐up of the re‐evaluation of sorbic acid (E200) and potassium sorbate (E202) as food additives",
+    "source": "https://doi.org/10.2903/j.efsa.2019.5625",
+    "date": "2019-03",
+    "age_years": 7,
+    "replaced_an_older_opinion": {
+      "date": "2015-06",
+      "title": "Scientific Opinion on the re‐evaluation of sorbic acid -E 200-, potassium sorbate -E 202- and calcium sorbate -E 203- as"
+    }
+  },
   "regulators_disagree": false,
   "disagreement_tested_on": [
-    "eu",
     "india",
     "usa"
   ],

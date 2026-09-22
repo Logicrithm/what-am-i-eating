@@ -1,0 +1,77 @@
+{
+  "ins": "392",
+  "e_number": "E392",
+  "name": "Extracts of rosemary",
+  "also_called": [],
+  "class": "",
+  "what_it_is": "An extract of rosemary leaves.",
+  "why_its_added": "Slows fats going rancid, doing the same job as a man-made antioxidant.",
+  "status": {
+    "india": {
+      "value": "not_found",
+      "note": "Not located in Appendix A yet - needs a human check.",
+      "source": ""
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "EFSA has assessed the safety of this additive, but we have no public record of its current authorisation in the EU.",
+      "source": ""
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "related_forms": [],
+  "eu_safety_opinion": {
+    "title": "Refined exposure assessment of extracts of rosemary (E 392) from its use as food additive",
+    "source": "https://doi.org/10.2903/j.efsa.2018.5373",
+    "date": "2018-08",
+    "age_years": 8,
+    "replaced_an_older_opinion": {
+      "date": "2015-05",
+      "title": "Extension of use of extracts of rosemary -E 392- in fat-based spreads"
+    }
+  },
+  "regulators_disagree": false,
+  "disagreement_tested_on": [],
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": "http://dx.doi.org/10.2903/j.efsa.2015.4090"
+  },
+  "india_limits": [],
+  "found_in_india_products": 17,
+  "pct_of_india_products": 0.74,
+  "india_match": "none",
+  "last_checked": "2026-09-22"
+}

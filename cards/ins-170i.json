@@ -13,15 +13,9 @@
       "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
     },
     "eu": {
-      "value": "allowed_with_limits",
-      "note": "Re‐evaluation of calcium carbonate (E 170) as a food additive in foods for infants below 16 weeks of age and follow‐up of its re‐evaluation as food additive for uses in foods for all population groups",
-      "source": "https://doi.org/10.2903/j.efsa.2023.8106",
-      "opinion_date": "2023-07",
-      "opinion_age_years": 3,
-      "replaced_an_older_opinion": {
-        "date": "2011-07",
-        "title": "Scientific Opinion on re‐evaluation of calcium carbonate -E 170- as a food additive"
-      }
+      "value": "not_found",
+      "note": "EFSA has assessed the safety of this additive, but we have no public record of its current authorisation in the EU.",
+      "source": ""
     },
     "usa": {
       "value": "allowed",
@@ -35,9 +29,18 @@
       "name": "Calcium carbonates"
     }
   ],
+  "eu_safety_opinion": {
+    "title": "Re‐evaluation of calcium carbonate (E 170) as a food additive in foods for infants below 16 weeks of age and follow‐up of its re‐evaluation as food additive for uses in foods for all population groups",
+    "source": "https://doi.org/10.2903/j.efsa.2023.8106",
+    "date": "2023-07",
+    "age_years": 3,
+    "replaced_an_older_opinion": {
+      "date": "2011-07",
+      "title": "Scientific Opinion on re‐evaluation of calcium carbonate -E 170- as a food additive"
+    }
+  },
   "regulators_disagree": false,
   "disagreement_tested_on": [
-    "eu",
     "india",
     "usa"
   ],

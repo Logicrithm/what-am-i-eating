@@ -13,12 +13,9 @@
       "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
     },
     "eu": {
-      "value": "allowed_with_limits",
-      "note": "Scientific Opinion on the re-evaluation of propionic acid -E 280-, sodium propionate -E 281-, calcium propionate -E 282- and potassium propionate -E 283- as food additives",
-      "source": "http://dx.doi.org/10.2903/j.efsa.2014.3779",
-      "opinion_date": "2014-07",
-      "opinion_age_years": 12,
-      "replaced_an_older_opinion": null
+      "value": "not_found",
+      "note": "EFSA has assessed the safety of this additive, but we have no public record of its current authorisation in the EU.",
+      "source": ""
     },
     "usa": {
       "value": "allowed",
@@ -27,9 +24,15 @@
     }
   },
   "related_forms": [],
+  "eu_safety_opinion": {
+    "title": "Scientific Opinion on the re-evaluation of propionic acid -E 280-, sodium propionate -E 281-, calcium propionate -E 282- and potassium propionate -E 283- as food additives",
+    "source": "http://dx.doi.org/10.2903/j.efsa.2014.3779",
+    "date": "2014-07",
+    "age_years": 12,
+    "replaced_an_older_opinion": null
+  },
   "regulators_disagree": false,
   "disagreement_tested_on": [
-    "eu",
     "india",
     "usa"
   ],

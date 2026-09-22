@@ -1,0 +1,128 @@
+{
+  "ins": "270",
+  "e_number": "E270",
+  "name": "Lactic acid",
+  "also_called": [],
+  "class": "",
+  "what_it_is": "The acid that makes curd and yoghurt taste sour. It forms naturally when milk ferments.",
+  "why_its_added": "Adds a sour taste and makes conditions harder for bacteria.",
+  "status": {
+    "india": {
+      "value": "allowed",
+      "note": "Permitted at GMP level - used as needed, no fixed numeric cap in the categories found.",
+      "source": "https://www.fssai.gov.in/upload/uploadfiles/files/Appendix%20A.pdf"
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    },
+    "usa": {
+      "value": "allowed",
+      "note": "Generally Recognised As Safe (GRAS) for direct addition to food (21 CFR 184.1061)",
+      "source": "https://www.ecfr.gov/current/title-21/section-184.1061"
+    }
+  },
+  "related_forms": [],
+  "eu_safety_opinion": {
+    "title": "",
+    "source": "",
+    "date": "",
+    "age_years": null,
+    "replaced_an_older_opinion": null
+  },
+  "regulators_disagree": false,
+  "disagreement_tested_on": [
+    "india",
+    "usa"
+  ],
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "yes",
+    "vegan": "yes",
+    "means": ""
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": ""
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [
+    {
+      "food_category": "Sterilized and UHT creams, whipping and whipped creams, and reduced fat creams (plain)",
+      "max_level": "GMP",
+      "page": 84
+    },
+    {
+      "food_category": "Whey protein cheese",
+      "max_level": "GMP",
+      "page": 102
+    },
+    {
+      "food_category": "and like",
+      "max_level": "GMP",
+      "page": 187
+    },
+    {
+      "food_category": "Dried pastas and noodles and like products",
+      "max_level": "GMP",
+      "page": 190
+    },
+    {
+      "food_category": "Frozen egg products",
+      "max_level": "GMP",
+      "page": 253
+    },
+    {
+      "food_category": "Salt substitutes",
+      "max_level": "GMP",
+      "page": 267
+    },
+    {
+      "food_category": "Vegetable juices(vegetable juices for industrial use, thermally processed vegetable juices, thermally processed tomato juice)",
+      "max_level": "GMP",
+      "page": 286
+    },
+    {
+      "food_category": "Concentrates of fruitjuices (concentrated fruit juices for industrial use)",
+      "max_level": "GMP",
+      "page": 286
+    },
+    {
+      "food_category": "Concentrates of vegetable juices (concentrated vegetable Juices for industrial use)",
+      "max_level": "GMP",
+      "page": 287
+    },
+    {
+      "food_category": "Grape wines",
+      "max_level": "GMP",
+      "page": 306
+    }
+  ],
+  "found_in_india_products": 9,
+  "pct_of_india_products": 0.39,
+  "india_match": "exact",
+  "last_checked": "2026-09-22"
+}

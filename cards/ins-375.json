@@ -15,10 +15,7 @@
     "eu": {
       "value": "not_found",
       "note": "",
-      "source": "",
-      "opinion_date": "",
-      "opinion_age_years": null,
-      "replaced_an_older_opinion": null
+      "source": ""
     },
     "usa": {
       "value": "not_found",
@@ -27,6 +24,13 @@
     }
   },
   "related_forms": [],
+  "eu_safety_opinion": {
+    "title": "",
+    "source": "",
+    "date": "",
+    "age_years": null,
+    "replaced_an_older_opinion": null
+  },
   "regulators_disagree": false,
   "disagreement_tested_on": [],
   "permission_wording_differs": false,

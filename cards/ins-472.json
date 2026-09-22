@@ -1,0 +1,76 @@
+{
+  "ins": "472",
+  "e_number": "E472",
+  "name": "Mono- and diacetyltartaric acid esters of mono- and diglycerides of fatty acids",
+  "also_called": [
+    "acid esters of mono- and diglycerides of fatty acids"
+  ],
+  "class": "emulsifier, sequestrant, stabiliser",
+  "what_it_is": "Fats that have been combined with tartaric and acetic acids.",
+  "why_its_added": "Strengthens bread dough so loaves rise higher and keep their shape.",
+  "status": {
+    "india": {
+      "value": "not_found",
+      "note": "Not located in Appendix A yet - needs a human check.",
+      "source": ""
+    },
+    "eu": {
+      "value": "not_found",
+      "note": "EFSA has assessed the safety of this additive, but we have no public record of its current authorisation in the EU.",
+      "source": ""
+    },
+    "usa": {
+      "value": "not_found",
+      "note": "",
+      "source": ""
+    }
+  },
+  "related_forms": [],
+  "eu_safety_opinion": {
+    "title": "Re‐evaluation of citric acid esters of mono‐ and diglycerides of fatty acids (E 472c) as a food additive in foods for infants below 16 weeks of age and follow‐up of its re‐evaluation",
+    "source": "https://doi.org/10.2903/j.efsa.2025.9202",
+    "date": "2025-01",
+    "age_years": 1,
+    "replaced_an_older_opinion": null
+  },
+  "regulators_disagree": false,
+  "disagreement_tested_on": [],
+  "permission_wording_differs": false,
+  "vegetarian_status": {
+    "vegetarian": "maybe",
+    "vegan": "maybe",
+    "means": "Can be made from either plant or animal sources. The label is not required to say which one was used."
+  },
+  "safe_daily_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "no_number_means": "EFSA has not set a number for this one. That can mean it is considered safe enough not to need a limit, or that the evidence was not sufficient to set one. The opinion itself says which."
+  },
+  "acute_limit": {
+    "value": null,
+    "unit": "",
+    "set_by": "",
+    "source": "",
+    "means": [
+      "No single-serving limit has been found for this substance. That is not the same as there being no risk from one large serving - it means nobody has published a number."
+    ]
+  },
+  "people_reports": {
+    "count": 0,
+    "reports": [],
+    "status": "not open yet",
+    "rule": "Reports are shown as reports. We count them. We never turn them into a health claim, and we never let them change the sourced facts above."
+  },
+  "eu_exposure_finding": {
+    "groups_over_limit_on_average": [],
+    "groups_over_limit_high_consumers": [],
+    "source": ""
+  },
+  "india_limits": [],
+  "found_in_india_products": 14,
+  "pct_of_india_products": 0.61,
+  "india_match": "none",
+  "last_checked": "2026-09-22"
+}
