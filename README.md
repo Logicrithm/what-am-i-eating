@@ -34,6 +34,7 @@ This project does that first, and explains them second.
 | `sources/` | The official documents themselves, as downloaded |
 | `scripts/` | Everything that built the above, re-runnable |
 | `TEMPLATE.md` | The locked card format and the rules |
+| `index.html` | The site: read a label, look one up, or track a day |
 
 ### Key data files
 
@@ -46,6 +47,17 @@ This project does that first, and explains them second.
   whether the rule permits that or asks for more
 
 ---
+
+## What the site does
+
+- **Read a label** - paste the ingredients off a packet and it finds every additive
+  it recognises, and separates the general words the rule permits from the ones
+  where the rule asks for more than the label gave
+- **Look one up** - search by number, name or type
+- **My day** - keep the labels you have read and see what repeats, because a daily
+  limit covers a whole day rather than one packet. Kept in your browser only.
+- On any card, work out what one packet could hold at the legal maximum, and what
+  share of a daily limit that would be for a given body weight
 
 ## The rules this project holds itself to
 

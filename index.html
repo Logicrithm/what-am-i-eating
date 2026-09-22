@@ -83,6 +83,7 @@
   <div class="tabs" role="tablist">
     <button class="tab" id="tab-paste"  role="tab" aria-selected="true"  onclick="mode('paste')">Read a label</button>
     <button class="tab" id="tab-search" role="tab" aria-selected="false" onclick="mode('search')">Look one up</button>
+    <button class="tab" id="tab-day"    role="tab" aria-selected="false" onclick="mode('day')">My day <span id="daycount"></span></button>
   </div>
 
   <div id="pane-paste">
@@ -102,6 +103,14 @@ Refined Wheat Flour, Sugar, Edible Vegetable Oil, Raising Agents (INS 503(ii), I
     <div id="list"></div>
   </div>
 
+  <div id="pane-day" hidden>
+    <p class="hint">A daily limit applies to everything you eat in a day, not to one packet.
+      This keeps a list of the labels you have read, so you can see what keeps turning up.</p>
+    <div id="dayout"></div>
+    <p class="ex">This list is kept in this browser only. It is never sent anywhere, and
+      clearing your browser data removes it. <button onclick="clearDay()">Clear the list</button></p>
+  </div>
+
   <div id="detail" hidden></div>
 
   <footer>
@@ -112,7 +121,7 @@ Refined Wheat Flour, Sugar, Edible Vegetable Oil, Raising Agents (INS 503(ii), I
 
 <script>
 const $ = id => document.getElementById(id);
-let INDEX = [], REC = null;
+let INDEX = [], REC = null, LAST_FOUND = [];
 
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c =>
   ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -141,12 +150,12 @@ async function boot(){
 }
 
 function mode(m){
-  const paste = m === "paste";
-  $("pane-paste").hidden = !paste;
-  $("pane-search").hidden = paste;
+  ["paste","search","day"].forEach(k => {
+    $("pane-" + k).hidden = (k !== m);
+    $("tab-" + k).setAttribute("aria-selected", k === m);
+  });
   $("detail").hidden = true;
-  $("tab-paste").setAttribute("aria-selected", paste);
-  $("tab-search").setAttribute("aria-selected", !paste);
+  if(m === "day") renderDay();
 }
 
 /* ---------- reading a real label ---------- */
@@ -238,6 +247,7 @@ function readLabel(){
   if(!text){ $("result").innerHTML = ""; return; }
 
   const {found} = findAdditives(text);
+  LAST_FOUND = found;
   const vague = findVague(text);
   const known = found.filter(f => f.entry.has_card);
   const noCard = found.filter(f => !f.entry.has_card && !f.entry.unknown);
@@ -305,6 +315,16 @@ function readLabel(){
       rule requires:
       <ul>${allowed.map(v => `<li><b>${esc(v.term)}</b> — left general on
         ${v.pct_of_products}% of the Indian products we checked</li>`).join("")}</ul></div>`;
+  }
+
+  if(known.length){
+    h += `<h3>Keep track across the day</h3>
+      <div class="calc">
+        <label>What was this? <input type="text" id="itemname" placeholder="e.g. biscuits"
+          style="width:190px"></label>
+        <button class="btn" onclick="addToDay()">Add to my day</button>
+      </div>
+      <p class="ex" id="addedmsg"></p>`;
   }
 
   $("result").innerHTML = h;
@@ -479,6 +499,104 @@ async function open_card(ins){
   window.scrollTo(0,0);
 }
 
+
+/* ---------- what keeps turning up across a day ---------- */
+/* Stored in this browser only. Nothing is sent anywhere - the whole point of
+   this list is that it is nobody's business but the reader's. */
+
+const DAY_KEY = "atlas_day_v1";
+
+function loadDay(){
+  try{ return JSON.parse(localStorage.getItem(DAY_KEY) || "[]"); }
+  catch(e){ return []; }        // private window, blocked storage, corrupt value
+}
+function saveDay(items){
+  try{ localStorage.setItem(DAY_KEY, JSON.stringify(items)); }
+  catch(e){ /* storage unavailable - the page still works, it just forgets */ }
+  updateDayCount();
+}
+function updateDayCount(){
+  const n = loadDay().length;
+  $("daycount").textContent = n ? "(" + n + ")" : "";
+}
+
+function addToDay(){
+  const label = ($("itemname").value || "").trim() || "Unnamed item";
+  const found = LAST_FOUND.filter(f => f.entry.has_card)
+                          .map(f => ({ins: f.entry.ins, name: f.entry.names[0] || f.entry.ins}));
+  if(!found.length) return;
+  const items = loadDay();
+  items.push({label, when: Date.now(), additives: found});
+  saveDay(items);
+  $("addedmsg").textContent = "Added. " + items.length + " item" + (items.length>1?"s":"") + " in your list.";
+  $("itemname").value = "";
+}
+
+function clearDay(){ saveDay([]); renderDay(); }
+
+function removeItem(i){
+  const items = loadDay(); items.splice(i,1); saveDay(items); renderDay();
+}
+
+async function renderDay(){
+  const items = loadDay();
+  if(!items.length){
+    $("dayout").innerHTML = `<p class="why">Nothing here yet. Read a label, then add it to
+      this list. Once two or three items are in, what repeats becomes visible.</p>`;
+    return;
+  }
+
+  const count = new Map();
+  items.forEach(it => it.additives.forEach(a => {
+    const e = count.get(a.ins) || {ins:a.ins, name:a.name, items:[]};
+    e.items.push(it.label);
+    count.set(a.ins, e);
+  }));
+  const repeated = [...count.values()].filter(e => e.items.length > 1)
+                      .sort((a,b) => b.items.length - a.items.length);
+
+  let h = `<h3 class="first">What you have listed</h3><table>` +
+    items.map((it,i) => `<tr><td>${esc(it.label)}</td>
+      <td>${it.additives.length} additive${it.additives.length!==1?"s":""}
+      <button class="back" style="margin:0 0 0 8px" onclick="removeItem(${i})">remove</button></td></tr>`).join("") +
+    `</table>`;
+
+  if(!repeated.length){
+    h += `<h3>Nothing repeats yet</h3><p class="why">No additive appears in more than one
+      of these. Add a few more and that may change - or it may not.</p>`;
+  }else{
+    h += `<h3>Turning up more than once</h3>
+      <p class="hint">This is the thing one packet cannot show you.</p><table>` +
+      repeated.map(e => `<tr><td><b>${e.items.length}×</b></td>
+        <td><button class="back" style="margin:0" onclick="open_card('${esc(e.ins)}')">${esc(e.name)}</button>
+        <span style="color:var(--muted)"> — in ${esc(e.items.join(", "))}</span></td></tr>`).join("") +
+      `</table>`;
+
+    // Only the ones with a published daily limit can be spoken about as a day's total.
+    const withLimit = [];
+    for(const e of repeated){
+      try{
+        const c = await (await fetch("cards/ins-" + e.ins.toLowerCase() + ".json")).json();
+        if(c.safe_daily_limit && c.safe_daily_limit.value)
+          withLimit.push({...e, adi: c.safe_daily_limit.value, unit: c.safe_daily_limit.unit});
+      }catch(err){}
+    }
+    if(withLimit.length){
+      h += `<div class="note"><b>For these, a day's total is the thing that counts.</b><br>
+        The safe limit below is per day, across everything eaten - not per packet. Eating
+        the same additive in several items means they add towards the same allowance.
+        <ul>${withLimit.map(e => `<li><b>${esc(e.name)}</b> — ${e.adi} ${esc(e.unit)},
+          and it is in ${e.items.length} of your items</li>`).join("")}</ul>
+        How close that gets depends on how much of each you ate, which no label tells you.
+        Open a card to work out one packet at the legal maximum.</div>`;
+    }else{
+      h += `<div class="old">None of the repeating ones has a published daily limit, so
+        there is no total to measure them against. Only 10 of our 100 additives have one.</div>`;
+    }
+  }
+  $("dayout").innerHTML = h;
+}
+
 /* ---------- turning a limit into one packet ---------- */
 
 // "1,000 mg/kg" -> 1000 ; "10 g/kg" -> 10000 ; "GMP" -> null
@@ -558,6 +676,7 @@ function go_back(){
 
 $("q").addEventListener("input", e => render(e.target.value));
 boot();
+updateDayCount();
 </script>
 </body>
 </html>

@@ -27,11 +27,21 @@ calcium phosphates - all of which are common in Indian packaged food.
 We do not yet ask for body weight or portion size, so we cannot say this to the
 person it most concerns.
 
-## 3. One packet is not the question
+## 3. One packet is not the question - partly answered now
 
 The real exposure comes from biscuits plus noodles plus sauce plus a soft drink,
-all carrying the same additive on the same day. We have the product data to show
-which additives travel together, and we do not use it yet.
+all carrying the same additive on the same day.
+
+"My day" now holds the labels a reader has looked at and shows what repeats
+across them, because a daily limit applies to everything eaten in a day rather
+than to one packet. The list lives in that browser only and is never sent
+anywhere.
+
+What it still cannot do is add the amounts up. That would need the portion eaten
+of each item, and the label never states how much additive was actually used - so
+any total would be a guess dressed as arithmetic. It names the repetition and
+stops there. Only 10 of our 100 additives even have a published daily limit to
+measure a total against.
 
 ## 4. Some people need a different answer from everyone else
 
